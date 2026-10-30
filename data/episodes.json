@@ -1,0 +1,1762 @@
+[
+  {
+    "prod": "101",
+    "season": 1,
+    "title": "Encounter at Farpoint",
+    "prod_label": "101 + 102",
+    "airdate": "28 Sept, 1987",
+    "url": "http://www.chakoteya.net/NextGen/101.htm",
+    "stardate": "41153.7",
+    "lines": 1231
+  },
+  {
+    "prod": "103",
+    "season": 1,
+    "title": "The Naked Now",
+    "prod_label": "103",
+    "airdate": "5 Oct, 1987",
+    "url": "http://www.chakoteya.net/NextGen/103.htm",
+    "stardate": "41209.2",
+    "lines": 682
+  },
+  {
+    "prod": "104",
+    "season": 1,
+    "title": "Code of Honour",
+    "prod_label": "104",
+    "airdate": "12 Oct, 1987",
+    "url": "http://www.chakoteya.net/NextGen/104.htm",
+    "stardate": "41235.25",
+    "lines": 641
+  },
+  {
+    "prod": "107",
+    "season": 1,
+    "title": "The Last Outpost",
+    "prod_label": "107",
+    "airdate": "19 Oct, 1987",
+    "url": "http://www.chakoteya.net/NextGen/107.htm",
+    "stardate": "41386.4",
+    "lines": 681
+  },
+  {
+    "prod": "106",
+    "season": 1,
+    "title": "Where No One Has Gone Before",
+    "prod_label": "106",
+    "airdate": "26 Oct 1987",
+    "url": "http://www.chakoteya.net/NextGen/106.htm",
+    "stardate": "41263.1",
+    "lines": 668
+  },
+  {
+    "prod": "108",
+    "season": 1,
+    "title": "Lonely Among Us",
+    "prod_label": "108",
+    "airdate": "2 Nov, 1987",
+    "url": "http://www.chakoteya.net/NextGen/108.htm",
+    "stardate": "41249.3",
+    "lines": 657
+  },
+  {
+    "prod": "109",
+    "season": 1,
+    "title": "Justice",
+    "prod_label": "109",
+    "airdate": "9 Nov, 1987",
+    "url": "http://www.chakoteya.net/NextGen/109.htm",
+    "stardate": "41255.6",
+    "lines": 650
+  },
+  {
+    "prod": "110",
+    "season": 1,
+    "title": "The Battle",
+    "prod_label": "110",
+    "airdate": "16 Nov, 1987",
+    "url": "http://www.chakoteya.net/NextGen/110.htm",
+    "stardate": "41723.9",
+    "lines": 692
+  },
+  {
+    "prod": "111",
+    "season": 1,
+    "title": "Hide & Q",
+    "prod_label": "111",
+    "airdate": "23 Nov, 1987",
+    "url": "http://www.chakoteya.net/NextGen/111.htm",
+    "stardate": "41590.5",
+    "lines": 560
+  },
+  {
+    "prod": "105",
+    "season": 1,
+    "title": "Haven",
+    "prod_label": "105",
+    "airdate": "30 Nov, 1987",
+    "url": "http://www.chakoteya.net/NextGen/105.htm",
+    "stardate": "41294.5",
+    "lines": 609
+  },
+  {
+    "prod": "113",
+    "season": 1,
+    "title": "The Big Goodbye",
+    "prod_label": "113",
+    "airdate": "11 Jan, 1988",
+    "url": "http://www.chakoteya.net/NextGen/113.htm",
+    "stardate": "41997.7",
+    "lines": 649
+  },
+  {
+    "prod": "114",
+    "season": 1,
+    "title": "Datalore",
+    "prod_label": "114",
+    "airdate": "18 Jan, 1988",
+    "url": "http://www.chakoteya.net/NextGen/114.htm",
+    "stardate": "41242.4",
+    "lines": 607
+  },
+  {
+    "prod": "115",
+    "season": 1,
+    "title": "Angel One",
+    "prod_label": "115",
+    "airdate": "25 Jan, 1988",
+    "url": "http://www.chakoteya.net/NextGen/115.htm",
+    "stardate": "41636.9",
+    "lines": 714
+  },
+  {
+    "prod": "116",
+    "season": 1,
+    "title": "11001001",
+    "prod_label": "116",
+    "airdate": "1 Feb, 1988",
+    "url": "http://www.chakoteya.net/NextGen/116.htm",
+    "stardate": "41365.9",
+    "lines": 749
+  },
+  {
+    "prod": "112",
+    "season": 1,
+    "title": "Too Short A Season",
+    "prod_label": "112",
+    "airdate": "8 Feb, 1988",
+    "url": "http://www.chakoteya.net/NextGen/112.htm",
+    "stardate": "41309.5",
+    "lines": 651
+  },
+  {
+    "prod": "118",
+    "season": 1,
+    "title": "When The Bough Breaks",
+    "prod_label": "118",
+    "airdate": "15 Feb, 1988",
+    "url": "http://www.chakoteya.net/NextGen/118.htm",
+    "stardate": "41509.1",
+    "lines": 737
+  },
+  {
+    "prod": "117",
+    "season": 1,
+    "title": "Home Soil",
+    "prod_label": "117",
+    "airdate": "22 Feb, 1988",
+    "url": "http://www.chakoteya.net/NextGen/117.htm",
+    "stardate": "41463.9",
+    "lines": 748
+  },
+  {
+    "prod": "119",
+    "season": 1,
+    "title": "Coming of Age",
+    "prod_label": "119",
+    "airdate": "14 Mar, 1988",
+    "url": "http://www.chakoteya.net/NextGen/119.htm",
+    "stardate": "41461.2",
+    "lines": 683
+  },
+  {
+    "prod": "120",
+    "season": 1,
+    "title": "Heart Of Glory",
+    "prod_label": "120",
+    "airdate": "21 Mar, 1988",
+    "url": "http://www.chakoteya.net/NextGen/120.htm",
+    "stardate": "41503.7",
+    "lines": 667
+  },
+  {
+    "prod": "121",
+    "season": 1,
+    "title": "The Arsenal Of Freedom",
+    "prod_label": "121",
+    "airdate": "11 Apr, 1988",
+    "url": "http://www.chakoteya.net/NextGen/121.htm",
+    "stardate": "41798.2",
+    "lines": 747
+  },
+  {
+    "prod": "123",
+    "season": 1,
+    "title": "Symbiosis",
+    "prod_label": "123",
+    "airdate": "18 Apr, 1988",
+    "url": "http://www.chakoteya.net/NextGen/123.htm",
+    "stardate": "Unknown",
+    "lines": 757
+  },
+  {
+    "prod": "122",
+    "season": 1,
+    "title": "Skin Of Evil",
+    "prod_label": "122",
+    "airdate": "25 Apr, 1988",
+    "url": "http://www.chakoteya.net/NextGen/122.htm",
+    "stardate": "41601.3",
+    "lines": 659
+  },
+  {
+    "prod": "124",
+    "season": 1,
+    "title": "We'll Always Have Paris",
+    "prod_label": "124",
+    "airdate": "2 May, 1988",
+    "url": "http://www.chakoteya.net/NextGen/124.htm",
+    "stardate": "41697.9",
+    "lines": 681
+  },
+  {
+    "prod": "125",
+    "season": 1,
+    "title": "Conspiracy",
+    "prod_label": "125",
+    "airdate": "9 May, 1988",
+    "url": "http://www.chakoteya.net/NextGen/125.htm",
+    "stardate": "41775.5",
+    "lines": 636
+  },
+  {
+    "prod": "126",
+    "season": 1,
+    "title": "The Neutral Zone",
+    "prod_label": "126",
+    "airdate": "16 May, 1988",
+    "url": "http://www.chakoteya.net/NextGen/126.htm",
+    "stardate": "41986.0",
+    "lines": 713
+  },
+  {
+    "prod": "127",
+    "season": 2,
+    "title": "The Child",
+    "prod_label": "127",
+    "airdate": "21 Nov, 1988",
+    "url": "http://www.chakoteya.net/NextGen/127.htm",
+    "stardate": "42073.1",
+    "lines": 674
+  },
+  {
+    "prod": "128",
+    "season": 2,
+    "title": "Where Silence Has Lease",
+    "prod_label": "128",
+    "airdate": "28 Nov, 1988",
+    "url": "http://www.chakoteya.net/NextGen/128.htm",
+    "stardate": "42193.6",
+    "lines": 622
+  },
+  {
+    "prod": "129",
+    "season": 2,
+    "title": "Elementary, Dear Data",
+    "prod_label": "129",
+    "airdate": "5 Dec, 1988",
+    "url": "http://www.chakoteya.net/NextGen/129.htm",
+    "stardate": "42486.3",
+    "lines": 695
+  },
+  {
+    "prod": "130",
+    "season": 2,
+    "title": "The Outrageous Okona",
+    "prod_label": "130",
+    "airdate": "12 Dec, 1988",
+    "url": "http://www.chakoteya.net/NextGen/130.htm",
+    "stardate": "42502.7",
+    "lines": 691
+  },
+  {
+    "prod": "132",
+    "season": 2,
+    "title": "Loud as a Whisper",
+    "prod_label": "132",
+    "airdate": "9 Jan, 1989",
+    "url": "http://www.chakoteya.net/NextGen/132.htm",
+    "stardate": "42477.2",
+    "lines": 600
+  },
+  {
+    "prod": "131",
+    "season": 2,
+    "title": "The Schizoid Man",
+    "prod_label": "131",
+    "airdate": "23 Jan, 1989",
+    "url": "http://www.chakoteya.net/NextGen/131.htm",
+    "stardate": "42437.5",
+    "lines": 628
+  },
+  {
+    "prod": "133",
+    "season": 2,
+    "title": "Unnatural Selection",
+    "prod_label": "133",
+    "airdate": "30 Jan, 1989",
+    "url": "http://www.chakoteya.net/NextGen/133.htm",
+    "stardate": "42494.8",
+    "lines": 692
+  },
+  {
+    "prod": "134",
+    "season": 2,
+    "title": "A Matter of Honour",
+    "prod_label": "134",
+    "airdate": "6 Feb, 1989",
+    "url": "http://www.chakoteya.net/NextGen/134.htm",
+    "stardate": "42506.5",
+    "lines": 669
+  },
+  {
+    "prod": "135",
+    "season": 2,
+    "title": "The Measure of a Man",
+    "prod_label": "135",
+    "airdate": "13 Feb. 1989",
+    "url": "http://www.chakoteya.net/NextGen/135.htm",
+    "stardate": "42523.7",
+    "lines": 631
+  },
+  {
+    "prod": "136",
+    "season": 2,
+    "title": "The Dauphin",
+    "prod_label": "136",
+    "airdate": "20 Feb, 1989",
+    "url": "http://www.chakoteya.net/NextGen/136.htm",
+    "stardate": "42568.8",
+    "lines": 693
+  },
+  {
+    "prod": "137",
+    "season": 2,
+    "title": "Contagion",
+    "prod_label": "137",
+    "airdate": "20 Mar, 1989",
+    "url": "http://www.chakoteya.net/NextGen/137.htm",
+    "stardate": "42609.1",
+    "lines": 763
+  },
+  {
+    "prod": "138",
+    "season": 2,
+    "title": "The Royale",
+    "prod_label": "138",
+    "airdate": "27 Mar, 1989",
+    "url": "http://www.chakoteya.net/NextGen/138.htm",
+    "stardate": "42626.4",
+    "lines": 753
+  },
+  {
+    "prod": "139",
+    "season": 2,
+    "title": "Time Squared",
+    "prod_label": "139",
+    "airdate": "3 Apr, 1989",
+    "url": "http://www.chakoteya.net/NextGen/139.htm",
+    "stardate": "42679.2",
+    "lines": 616
+  },
+  {
+    "prod": "140",
+    "season": 2,
+    "title": "The Icarus Factor",
+    "prod_label": "140",
+    "airdate": "24 Apr, 1989",
+    "url": "http://www.chakoteya.net/NextGen/140.htm",
+    "stardate": "42686.4",
+    "lines": 658
+  },
+  {
+    "prod": "141",
+    "season": 2,
+    "title": "Pen Pals",
+    "prod_label": "141",
+    "airdate": "1 May, 1989",
+    "url": "http://www.chakoteya.net/NextGen/141.htm",
+    "stardate": "42695.3",
+    "lines": 652
+  },
+  {
+    "prod": "142",
+    "season": 2,
+    "title": "Q Who?",
+    "prod_label": "142",
+    "airdate": "8 May, 1989",
+    "url": "http://www.chakoteya.net/NextGen/142.htm",
+    "stardate": "42761.3",
+    "lines": 668
+  },
+  {
+    "prod": "143",
+    "season": 2,
+    "title": "Samaritan Snare",
+    "prod_label": "143",
+    "airdate": "15 May, 1989",
+    "url": "http://www.chakoteya.net/NextGen/143.htm",
+    "stardate": "42779.1",
+    "lines": 769
+  },
+  {
+    "prod": "144",
+    "season": 2,
+    "title": "Up The Long Ladder",
+    "prod_label": "144",
+    "airdate": "22 May, 1989",
+    "url": "http://www.chakoteya.net/NextGen/144.htm",
+    "stardate": "42823.2",
+    "lines": 654
+  },
+  {
+    "prod": "145",
+    "season": 2,
+    "title": "Manhunt",
+    "prod_label": "145",
+    "airdate": "19 Jun, 1989",
+    "url": "http://www.chakoteya.net/NextGen/145.htm",
+    "stardate": "42859.2",
+    "lines": 664
+  },
+  {
+    "prod": "146",
+    "season": 2,
+    "title": "The Emissary",
+    "prod_label": "146",
+    "airdate": "29 Jun, 1989",
+    "url": "http://www.chakoteya.net/NextGen/146.htm",
+    "stardate": "42901.3",
+    "lines": 592
+  },
+  {
+    "prod": "147",
+    "season": 2,
+    "title": "Peak Performance",
+    "prod_label": "147",
+    "airdate": "10 Jul, 1989",
+    "url": "http://www.chakoteya.net/NextGen/147.htm",
+    "stardate": "42923.4",
+    "lines": 898
+  },
+  {
+    "prod": "148",
+    "season": 2,
+    "title": "Shades Of Gray",
+    "prod_label": "148",
+    "airdate": "17 Jul, 1989",
+    "url": "http://www.chakoteya.net/NextGen/148.htm",
+    "stardate": "42976.1",
+    "lines": 653
+  },
+  {
+    "prod": "150",
+    "season": 3,
+    "title": "Evolution",
+    "prod_label": "150",
+    "airdate": "25 Sep, 1989",
+    "url": "http://www.chakoteya.net/NextGen/150.htm",
+    "stardate": "43125.8",
+    "lines": 621
+  },
+  {
+    "prod": "149",
+    "season": 3,
+    "title": "The Ensigns of Command",
+    "prod_label": "149",
+    "airdate": "2 Oct, 1989",
+    "url": "http://www.chakoteya.net/NextGen/149.htm",
+    "stardate": "43133.3",
+    "lines": 673
+  },
+  {
+    "prod": "151",
+    "season": 3,
+    "title": "The Survivors",
+    "prod_label": "151",
+    "airdate": "9 Oct, 1989",
+    "url": "http://www.chakoteya.net/NextGen/151.htm",
+    "stardate": "43152.4",
+    "lines": 670
+  },
+  {
+    "prod": "152",
+    "season": 3,
+    "title": "Who Watches The Watchers",
+    "prod_label": "152",
+    "airdate": "16 Oct, 1989",
+    "url": "http://www.chakoteya.net/NextGen/152.htm",
+    "stardate": "43173.5",
+    "lines": 598
+  },
+  {
+    "prod": "153",
+    "season": 3,
+    "title": "The Bonding",
+    "prod_label": "153",
+    "airdate": "23 Oct, 1989",
+    "url": "http://www.chakoteya.net/NextGen/153.htm",
+    "stardate": "43198.7",
+    "lines": 596
+  },
+  {
+    "prod": "154",
+    "season": 3,
+    "title": "Booby Trap",
+    "prod_label": "154",
+    "airdate": "30 Oct, 1989",
+    "url": "http://www.chakoteya.net/NextGen/154.htm",
+    "stardate": "43205.6",
+    "lines": 693
+  },
+  {
+    "prod": "155",
+    "season": 3,
+    "title": "The Enemy",
+    "prod_label": "155",
+    "airdate": "6 Nov, 1989",
+    "url": "http://www.chakoteya.net/NextGen/155.htm",
+    "stardate": "43349.2",
+    "lines": 580
+  },
+  {
+    "prod": "156",
+    "season": 3,
+    "title": "The Price",
+    "prod_label": "156",
+    "airdate": "13 Nov, 1989",
+    "url": "http://www.chakoteya.net/NextGen/156.htm",
+    "stardate": "43385.6",
+    "lines": 692
+  },
+  {
+    "prod": "157",
+    "season": 3,
+    "title": "The Vengeance Factor",
+    "prod_label": "157",
+    "airdate": "20 Nov, 1989",
+    "url": "http://www.chakoteya.net/NextGen/157.htm",
+    "stardate": "43421.9",
+    "lines": 586
+  },
+  {
+    "prod": "158",
+    "season": 3,
+    "title": "The Defector",
+    "prod_label": "158",
+    "airdate": "1 Jan, 1990",
+    "url": "http://www.chakoteya.net/NextGen/158.htm",
+    "stardate": "43462.5",
+    "lines": 652
+  },
+  {
+    "prod": "159",
+    "season": 3,
+    "title": "The Hunted",
+    "prod_label": "159",
+    "airdate": "8 Jan, 1990",
+    "url": "http://www.chakoteya.net/NextGen/159.htm",
+    "stardate": "43489.2",
+    "lines": 713
+  },
+  {
+    "prod": "160",
+    "season": 3,
+    "title": "The High Ground",
+    "prod_label": "160",
+    "airdate": "29 Jan, 1990",
+    "url": "http://www.chakoteya.net/NextGen/160.htm",
+    "stardate": "43510.7",
+    "lines": 685
+  },
+  {
+    "prod": "161",
+    "season": 3,
+    "title": "D\u00e9j\u00e0 Q",
+    "prod_label": "161",
+    "airdate": "5 Feb, 1990",
+    "url": "http://www.chakoteya.net/NextGen/161.htm",
+    "stardate": "43539.1",
+    "lines": 811
+  },
+  {
+    "prod": "162",
+    "season": 3,
+    "title": "A Matter Of Perspective",
+    "prod_label": "162",
+    "airdate": "12 Feb, 1990",
+    "url": "http://www.chakoteya.net/NextGen/162.htm",
+    "stardate": "43610.4",
+    "lines": 733
+  },
+  {
+    "prod": "163",
+    "season": 3,
+    "title": "Yesterday's Enterprise",
+    "prod_label": "163",
+    "airdate": "19 Feb, 1990",
+    "url": "http://www.chakoteya.net/NextGen/163.htm",
+    "stardate": "43625.2",
+    "lines": 685
+  },
+  {
+    "prod": "164",
+    "season": 3,
+    "title": "The Offspring",
+    "prod_label": "164",
+    "airdate": "12 Mar, 1990",
+    "url": "http://www.chakoteya.net/NextGen/164.htm",
+    "stardate": "43657.0",
+    "lines": 623
+  },
+  {
+    "prod": "165",
+    "season": 3,
+    "title": "Sins Of The Father",
+    "prod_label": "165",
+    "airdate": "19 Mar, 1990",
+    "url": "http://www.chakoteya.net/NextGen/165.htm",
+    "stardate": "43685.2",
+    "lines": 569
+  },
+  {
+    "prod": "166",
+    "season": 3,
+    "title": "Allegiance",
+    "prod_label": "166",
+    "airdate": "26 Mar, 1990",
+    "url": "http://www.chakoteya.net/NextGen/166.htm",
+    "stardate": "43714.1",
+    "lines": 626
+  },
+  {
+    "prod": "167",
+    "season": 3,
+    "title": "Captain's Holiday",
+    "prod_label": "167",
+    "airdate": "2 Apr, 1990",
+    "url": "http://www.chakoteya.net/NextGen/167.htm",
+    "stardate": "43745.2",
+    "lines": 621
+  },
+  {
+    "prod": "168",
+    "season": 3,
+    "title": "Tin Man",
+    "prod_label": "168",
+    "airdate": "23 Apr, 1990",
+    "url": "http://www.chakoteya.net/NextGen/168.htm",
+    "stardate": "43779.3",
+    "lines": 649
+  },
+  {
+    "prod": "169",
+    "season": 3,
+    "title": "Hollow Pursuits",
+    "prod_label": "169",
+    "airdate": "30 Apr, 1990",
+    "url": "http://www.chakoteya.net/NextGen/169.htm",
+    "stardate": "43807.4",
+    "lines": 719
+  },
+  {
+    "prod": "170",
+    "season": 3,
+    "title": "The Most Toys",
+    "prod_label": "170",
+    "airdate": "7 May, 1990",
+    "url": "http://www.chakoteya.net/NextGen/170.htm",
+    "stardate": "43872.2",
+    "lines": 619
+  },
+  {
+    "prod": "171",
+    "season": 3,
+    "title": "Sarek",
+    "prod_label": "171",
+    "airdate": "14 May, 1990",
+    "url": "http://www.chakoteya.net/NextGen/171.htm",
+    "stardate": "43917.4",
+    "lines": 644
+  },
+  {
+    "prod": "172",
+    "season": 3,
+    "title": "M\u00e9nage \u00e0 Troi",
+    "prod_label": "172",
+    "airdate": "28 May, 1990",
+    "url": "http://www.chakoteya.net/NextGen/172.htm",
+    "stardate": "43930.7",
+    "lines": 678
+  },
+  {
+    "prod": "173",
+    "season": 3,
+    "title": "Transfigurations",
+    "prod_label": "173",
+    "airdate": "4 Jun, 1990",
+    "url": "http://www.chakoteya.net/NextGen/173.htm",
+    "stardate": "43957.2",
+    "lines": 621
+  },
+  {
+    "prod": "174",
+    "season": 3,
+    "title": "Best Of Both Worlds, part 1",
+    "prod_label": "174",
+    "airdate": "18 Jun, 1990",
+    "url": "http://www.chakoteya.net/NextGen/174.htm",
+    "stardate": "43989.1",
+    "lines": 711
+  },
+  {
+    "prod": "175",
+    "season": 4,
+    "title": "Best of Both Worlds, part 2",
+    "prod_label": "175",
+    "airdate": "24 Sept, 1990",
+    "url": "http://www.chakoteya.net/NextGen/175.htm",
+    "stardate": "44001.4",
+    "lines": 704
+  },
+  {
+    "prod": "178",
+    "season": 4,
+    "title": "Family",
+    "prod_label": "178",
+    "airdate": "1 Oct, 1990",
+    "url": "http://www.chakoteya.net/NextGen/178.htm",
+    "stardate": "44012.3",
+    "lines": 625
+  },
+  {
+    "prod": "177",
+    "season": 4,
+    "title": "Brothers",
+    "prod_label": "177",
+    "airdate": "8 Oct, 1990",
+    "url": "http://www.chakoteya.net/NextGen/177.htm",
+    "stardate": "44085.7",
+    "lines": 687
+  },
+  {
+    "prod": "176",
+    "season": 4,
+    "title": "Suddenly Human",
+    "prod_label": "176",
+    "airdate": "15 Oct, 1990",
+    "url": "http://www.chakoteya.net/NextGen/176.htm",
+    "stardate": "44143.7",
+    "lines": 619
+  },
+  {
+    "prod": "179",
+    "season": 4,
+    "title": "Remember Me",
+    "prod_label": "179",
+    "airdate": "22 Oct, 1990",
+    "url": "http://www.chakoteya.net/NextGen/179.htm",
+    "stardate": "44161.2",
+    "lines": 667
+  },
+  {
+    "prod": "180",
+    "season": 4,
+    "title": "Legacy",
+    "prod_label": "180",
+    "airdate": "29 Oct, 1990",
+    "url": "http://www.chakoteya.net/NextGen/180.htm",
+    "stardate": "44215.2",
+    "lines": 707
+  },
+  {
+    "prod": "181",
+    "season": 4,
+    "title": "Reunion",
+    "prod_label": "181",
+    "airdate": "5 Nov, 1990",
+    "url": "http://www.chakoteya.net/NextGen/181.htm",
+    "stardate": "44246.3",
+    "lines": 594
+  },
+  {
+    "prod": "182",
+    "season": 4,
+    "title": "Future Imperfect",
+    "prod_label": "182",
+    "airdate": "12 Nov, 1990",
+    "url": "http://www.chakoteya.net/NextGen/182.htm",
+    "stardate": "44286.5",
+    "lines": 691
+  },
+  {
+    "prod": "183",
+    "season": 4,
+    "title": "Final Mission",
+    "prod_label": "183",
+    "airdate": "19 Nov, 1990",
+    "url": "http://www.chakoteya.net/NextGen/183.htm",
+    "stardate": "44307.3",
+    "lines": 572
+  },
+  {
+    "prod": "184",
+    "season": 4,
+    "title": "The Loss",
+    "prod_label": "184",
+    "airdate": "31 Dec, 1990",
+    "url": "http://www.chakoteya.net/NextGen/184.htm",
+    "stardate": "44356.9",
+    "lines": 682
+  },
+  {
+    "prod": "185",
+    "season": 4,
+    "title": "Data's Day",
+    "prod_label": "185",
+    "airdate": "7 Jan, 1991",
+    "url": "http://www.chakoteya.net/NextGen/185.htm",
+    "stardate": "44390.1",
+    "lines": 693
+  },
+  {
+    "prod": "186",
+    "season": 4,
+    "title": "The Wounded",
+    "prod_label": "186",
+    "airdate": "28 Jan, 1991",
+    "url": "http://www.chakoteya.net/NextGen/186.htm",
+    "stardate": "44429.6",
+    "lines": 651
+  },
+  {
+    "prod": "187",
+    "season": 4,
+    "title": "Devil's Due",
+    "prod_label": "187",
+    "airdate": "4 Feb, 1991",
+    "url": "http://www.chakoteya.net/NextGen/187.htm",
+    "stardate": "44474.5",
+    "lines": 717
+  },
+  {
+    "prod": "188",
+    "season": 4,
+    "title": "Clues",
+    "prod_label": "188",
+    "airdate": "11 Feb, 1991",
+    "url": "http://www.chakoteya.net/NextGen/188.htm",
+    "stardate": "44502.7",
+    "lines": 762
+  },
+  {
+    "prod": "189",
+    "season": 4,
+    "title": "First Contact",
+    "prod_label": "189",
+    "airdate": "18 Feb, 1991",
+    "url": "http://www.chakoteya.net/NextGen/189.htm",
+    "stardate": "Unknown",
+    "lines": 628
+  },
+  {
+    "prod": "190",
+    "season": 4,
+    "title": "Galaxy's Child",
+    "prod_label": "190",
+    "airdate": "11 Mar, 1991",
+    "url": "http://www.chakoteya.net/NextGen/190.htm",
+    "stardate": "44614.6",
+    "lines": 710
+  },
+  {
+    "prod": "191",
+    "season": 4,
+    "title": "Night Terrors",
+    "prod_label": "191",
+    "airdate": "18 Mar, 1991",
+    "url": "http://www.chakoteya.net/NextGen/191.htm",
+    "stardate": "44631.2",
+    "lines": 584
+  },
+  {
+    "prod": "192",
+    "season": 4,
+    "title": "Identity Crisis",
+    "prod_label": "192",
+    "airdate": "25 Mar, 1991",
+    "url": "http://www.chakoteya.net/NextGen/192.htm",
+    "stardate": "44664.5",
+    "lines": 588
+  },
+  {
+    "prod": "193",
+    "season": 4,
+    "title": "The Nth Degree",
+    "prod_label": "193",
+    "airdate": "1 Apr, 1991",
+    "url": "http://www.chakoteya.net/NextGen/193.htm",
+    "stardate": "44704.2",
+    "lines": 705
+  },
+  {
+    "prod": "194",
+    "season": 4,
+    "title": "Qpid",
+    "prod_label": "194",
+    "airdate": "22 Apr, 1991",
+    "url": "http://www.chakoteya.net/NextGen/194.htm",
+    "stardate": "44741.9",
+    "lines": 665
+  },
+  {
+    "prod": "195",
+    "season": 4,
+    "title": "The Drumhead",
+    "prod_label": "195",
+    "airdate": "29 Apr, 1991",
+    "url": "http://www.chakoteya.net/NextGen/195.htm",
+    "stardate": "44769.2",
+    "lines": 660
+  },
+  {
+    "prod": "196",
+    "season": 4,
+    "title": "Half a Life",
+    "prod_label": "196",
+    "airdate": "6 May, 1991",
+    "url": "http://www.chakoteya.net/NextGen/196.htm",
+    "stardate": "44805.3",
+    "lines": 632
+  },
+  {
+    "prod": "197",
+    "season": 4,
+    "title": "The Host",
+    "prod_label": "197",
+    "airdate": "13 May, 1991",
+    "url": "http://www.chakoteya.net/NextGen/197.htm",
+    "stardate": "44821.3",
+    "lines": 636
+  },
+  {
+    "prod": "198",
+    "season": 4,
+    "title": "The Mind's Eye",
+    "prod_label": "198",
+    "airdate": "27 May, 1991",
+    "url": "http://www.chakoteya.net/NextGen/198.htm",
+    "stardate": "44885.5",
+    "lines": 726
+  },
+  {
+    "prod": "199",
+    "season": 4,
+    "title": "In Theory",
+    "prod_label": "199",
+    "airdate": "3 Jun, 1991",
+    "url": "http://www.chakoteya.net/NextGen/199.htm",
+    "stardate": "44932.3",
+    "lines": 687
+  },
+  {
+    "prod": "200",
+    "season": 4,
+    "title": "Redemption",
+    "prod_label": "200",
+    "airdate": "17 Jun, 1991",
+    "url": "http://www.chakoteya.net/NextGen/200.htm",
+    "stardate": "44995.3",
+    "lines": 550
+  },
+  {
+    "prod": "201",
+    "season": 5,
+    "title": "Redemption part 2",
+    "prod_label": "201",
+    "airdate": "23 Sept, 1991",
+    "url": "http://www.chakoteya.net/NextGen/201.htm",
+    "stardate": "45020.4",
+    "lines": 637
+  },
+  {
+    "prod": "202",
+    "season": 5,
+    "title": "Darmok",
+    "prod_label": "202",
+    "airdate": "30 Sep, 1991",
+    "url": "http://www.chakoteya.net/NextGen/202.htm",
+    "stardate": "45047.2",
+    "lines": 586
+  },
+  {
+    "prod": "203",
+    "season": 5,
+    "title": "Ensign Ro",
+    "prod_label": "203",
+    "airdate": "7 Oct, 1991",
+    "url": "http://www.chakoteya.net/NextGen/203.htm",
+    "stardate": "45076.3",
+    "lines": 716
+  },
+  {
+    "prod": "204",
+    "season": 5,
+    "title": "Silicon Avatar",
+    "prod_label": "204",
+    "airdate": "14 Oct, 1991",
+    "url": "http://www.chakoteya.net/NextGen/204.htm",
+    "stardate": "45122.3",
+    "lines": 632
+  },
+  {
+    "prod": "205",
+    "season": 5,
+    "title": "Disaster",
+    "prod_label": "205",
+    "airdate": "21 Oct, 1991",
+    "url": "http://www.chakoteya.net/NextGen/205.htm",
+    "stardate": "45156.1",
+    "lines": 630
+  },
+  {
+    "prod": "206",
+    "season": 5,
+    "title": "The Game",
+    "prod_label": "206",
+    "airdate": "28 Oct, 1991",
+    "url": "http://www.chakoteya.net/NextGen/206.htm",
+    "stardate": "45208.2",
+    "lines": 683
+  },
+  {
+    "prod": "208",
+    "season": 5,
+    "title": "Unification, part 1",
+    "prod_label": "208",
+    "airdate": "4 Nov, 1991",
+    "url": "http://www.chakoteya.net/NextGen/208.htm",
+    "stardate": "45236.4",
+    "lines": 664
+  },
+  {
+    "prod": "207",
+    "season": 5,
+    "title": "Unification, part 2",
+    "prod_label": "207",
+    "airdate": "11 Nov, 1991",
+    "url": "http://www.chakoteya.net/NextGen/207.htm",
+    "stardate": "45245.8",
+    "lines": 709
+  },
+  {
+    "prod": "209",
+    "season": 5,
+    "title": "A Matter Of Time",
+    "prod_label": "209",
+    "airdate": "18 Nov, 1991",
+    "url": "http://www.chakoteya.net/NextGen/209.htm",
+    "stardate": "45349.1",
+    "lines": 768
+  },
+  {
+    "prod": "210",
+    "season": 5,
+    "title": "New Ground",
+    "prod_label": "210",
+    "airdate": "6 Jan, 1992",
+    "url": "http://www.chakoteya.net/NextGen/210.htm",
+    "stardate": "45376.3",
+    "lines": 652
+  },
+  {
+    "prod": "211",
+    "season": 5,
+    "title": "Hero Worship",
+    "prod_label": "211",
+    "airdate": "27 Jan, 1992",
+    "url": "http://www.chakoteya.net/NextGen/211.htm",
+    "stardate": "45397.3",
+    "lines": 662
+  },
+  {
+    "prod": "212",
+    "season": 5,
+    "title": "Violations",
+    "prod_label": "212",
+    "airdate": "3 Feb, 1992",
+    "url": "http://www.chakoteya.net/NextGen/212.htm",
+    "stardate": "45429.3",
+    "lines": 670
+  },
+  {
+    "prod": "213",
+    "season": 5,
+    "title": "The Masterpiece Society",
+    "prod_label": "213",
+    "airdate": "10 Feb, 1992",
+    "url": "http://www.chakoteya.net/NextGen/213.htm",
+    "stardate": "45470.1",
+    "lines": 719
+  },
+  {
+    "prod": "214",
+    "season": 5,
+    "title": "Conundrum",
+    "prod_label": "214",
+    "airdate": "17 Feb, 1992",
+    "url": "http://www.chakoteya.net/NextGen/214.htm",
+    "stardate": "45494.2",
+    "lines": 718
+  },
+  {
+    "prod": "215",
+    "season": 5,
+    "title": "Power Play",
+    "prod_label": "215",
+    "airdate": "24 Feb, 1992",
+    "url": "http://www.chakoteya.net/NextGen/215.htm",
+    "stardate": "45571.2",
+    "lines": 819
+  },
+  {
+    "prod": "216",
+    "season": 5,
+    "title": "Ethics",
+    "prod_label": "216",
+    "airdate": "2 Mar, 1992",
+    "url": "http://www.chakoteya.net/NextGen/216.htm",
+    "stardate": "45587.3",
+    "lines": 598
+  },
+  {
+    "prod": "217",
+    "season": 5,
+    "title": "The Outcast",
+    "prod_label": "217",
+    "airdate": "16 Mar, 1992",
+    "url": "http://www.chakoteya.net/NextGen/217.htm",
+    "stardate": "45614.6",
+    "lines": 642
+  },
+  {
+    "prod": "218",
+    "season": 5,
+    "title": "Cause and Effect",
+    "prod_label": "218",
+    "airdate": "23 Mar, 1992",
+    "url": "http://www.chakoteya.net/NextGen/218.htm",
+    "stardate": "45652.1",
+    "lines": 716
+  },
+  {
+    "prod": "219",
+    "season": 5,
+    "title": "The First Duty",
+    "prod_label": "219",
+    "airdate": "30 Mar, 1992",
+    "url": "http://www.chakoteya.net/NextGen/219.htm",
+    "stardate": "45703.9",
+    "lines": 598
+  },
+  {
+    "prod": "220",
+    "season": 5,
+    "title": "Cost of Living",
+    "prod_label": "220",
+    "airdate": "20 Apr, 1992",
+    "url": "http://www.chakoteya.net/NextGen/220.htm",
+    "stardate": "45733.6",
+    "lines": 693
+  },
+  {
+    "prod": "221",
+    "season": 5,
+    "title": "The Perfect Mate",
+    "prod_label": "221",
+    "airdate": "27 Apr, 1992",
+    "url": "http://www.chakoteya.net/NextGen/221.htm",
+    "stardate": "45761.3",
+    "lines": 662
+  },
+  {
+    "prod": "222",
+    "season": 5,
+    "title": "Imaginary Friend",
+    "prod_label": "222",
+    "airdate": "4 May, 1992",
+    "url": "http://www.chakoteya.net/NextGen/222.htm",
+    "stardate": "45832.1",
+    "lines": 736
+  },
+  {
+    "prod": "223",
+    "season": 5,
+    "title": "I, Borg",
+    "prod_label": "223",
+    "airdate": "11 May, 1992",
+    "url": "http://www.chakoteya.net/NextGen/223.htm",
+    "stardate": "45854.2",
+    "lines": 641
+  },
+  {
+    "prod": "224",
+    "season": 5,
+    "title": "The Next Phase",
+    "prod_label": "224",
+    "airdate": "18 May, 1992",
+    "url": "http://www.chakoteya.net/NextGen/224.htm",
+    "stardate": "45092.4",
+    "lines": 686
+  },
+  {
+    "prod": "225",
+    "season": 5,
+    "title": "The Inner Light",
+    "prod_label": "225",
+    "airdate": "1 Jun, 1992",
+    "url": "http://www.chakoteya.net/NextGen/225.htm",
+    "stardate": "45944.1",
+    "lines": 542
+  },
+  {
+    "prod": "226",
+    "season": 5,
+    "title": "Time's Arrow, part 1",
+    "prod_label": "226",
+    "airdate": "15 Jun, 1992",
+    "url": "http://www.chakoteya.net/NextGen/226.htm",
+    "stardate": "45959.1",
+    "lines": 725
+  },
+  {
+    "prod": "227",
+    "season": 6,
+    "title": "Time's Arrow, part 2",
+    "prod_label": "227",
+    "airdate": "21 Sept, 1992",
+    "url": "http://www.chakoteya.net/NextGen/227.htm",
+    "stardate": "46001.3",
+    "lines": 667
+  },
+  {
+    "prod": "228",
+    "season": 6,
+    "title": "Realm of Fear",
+    "prod_label": "228",
+    "airdate": "28 Sep, 1992",
+    "url": "http://www.chakoteya.net/NextGen/228.htm",
+    "stardate": "46041.1",
+    "lines": 612
+  },
+  {
+    "prod": "229",
+    "season": 6,
+    "title": "Man of the People",
+    "prod_label": "229",
+    "airdate": "5 Oct, 1992",
+    "url": "http://www.chakoteya.net/NextGen/229.htm",
+    "stardate": "46071.6",
+    "lines": 672
+  },
+  {
+    "prod": "230",
+    "season": 6,
+    "title": "Relics",
+    "prod_label": "230",
+    "airdate": "12 Oct, 1992",
+    "url": "http://www.chakoteya.net/NextGen/230.htm",
+    "stardate": "46125.3",
+    "lines": 692
+  },
+  {
+    "prod": "231",
+    "season": 6,
+    "title": "Schisms",
+    "prod_label": "231",
+    "airdate": "19 Oct, 1982",
+    "url": "http://www.chakoteya.net/NextGen/231.htm",
+    "stardate": "46154.2",
+    "lines": 661
+  },
+  {
+    "prod": "232",
+    "season": 6,
+    "title": "True Q",
+    "prod_label": "232",
+    "airdate": "26 Oct, 1992",
+    "url": "http://www.chakoteya.net/NextGen/232.htm",
+    "stardate": "46192.3",
+    "lines": 711
+  },
+  {
+    "prod": "233",
+    "season": 6,
+    "title": "Rascals",
+    "prod_label": "233",
+    "airdate": "2 Nov, 1992",
+    "url": "http://www.chakoteya.net/NextGen/233.htm",
+    "stardate": "46235.7",
+    "lines": 670
+  },
+  {
+    "prod": "234",
+    "season": 6,
+    "title": "A Fistful of Datas",
+    "prod_label": "234",
+    "airdate": "9 Nov, 1992",
+    "url": "http://www.chakoteya.net/NextGen/234.htm",
+    "stardate": "46271.5",
+    "lines": 535
+  },
+  {
+    "prod": "235",
+    "season": 6,
+    "title": "The Quality of Life",
+    "prod_label": "235",
+    "airdate": "16 Nov, 1992",
+    "url": "http://www.chakoteya.net/NextGen/235.htm",
+    "stardate": "46307.2",
+    "lines": 807
+  },
+  {
+    "prod": "236",
+    "season": 6,
+    "title": "Chain of Command, part 1",
+    "prod_label": "236",
+    "airdate": "14 Dec, 1992",
+    "url": "http://www.chakoteya.net/NextGen/236.htm",
+    "stardate": "46357.4",
+    "lines": 619
+  },
+  {
+    "prod": "237",
+    "season": 6,
+    "title": "Chain of Command, part 2",
+    "prod_label": "237",
+    "airdate": "14 Dec, 1992",
+    "url": "http://www.chakoteya.net/NextGen/237.htm",
+    "stardate": "46360.8",
+    "lines": 583
+  },
+  {
+    "prod": "238",
+    "season": 6,
+    "title": "Ship in a Bottle",
+    "prod_label": "238",
+    "airdate": "25 Jan, 1993",
+    "url": "http://www.chakoteya.net/NextGen/238.htm",
+    "stardate": "46424.1",
+    "lines": 758
+  },
+  {
+    "prod": "239",
+    "season": 6,
+    "title": "Aquiel",
+    "prod_label": "239",
+    "airdate": "1 Feb, 1993",
+    "url": "http://www.chakoteya.net/NextGen/239.htm",
+    "stardate": "46461.3",
+    "lines": 630
+  },
+  {
+    "prod": "240",
+    "season": 6,
+    "title": "Face of the Enemy",
+    "prod_label": "240",
+    "airdate": "8 Feb, 1993",
+    "url": "http://www.chakoteya.net/NextGen/240.htm",
+    "stardate": "46519.1",
+    "lines": 682
+  },
+  {
+    "prod": "241",
+    "season": 6,
+    "title": "Tapestry",
+    "prod_label": "241",
+    "airdate": "15 Feb, 1993",
+    "url": "http://www.chakoteya.net/NextGen/241.htm",
+    "stardate": "Unknown",
+    "lines": 564
+  },
+  {
+    "prod": "242",
+    "season": 6,
+    "title": "Birthright, part 1",
+    "prod_label": "242",
+    "airdate": "22 Feb, 1993",
+    "url": "http://www.chakoteya.net/NextGen/242.htm",
+    "stardate": "46678.4",
+    "lines": 498
+  },
+  {
+    "prod": "243",
+    "season": 6,
+    "title": "Birthright, part 2",
+    "prod_label": "243",
+    "airdate": "1 Mar, 1993",
+    "url": "http://www.chakoteya.net/NextGen/243.htm",
+    "stardate": "46579.2",
+    "lines": 465
+  },
+  {
+    "prod": "244",
+    "season": 6,
+    "title": "Starship Mine",
+    "prod_label": "244",
+    "airdate": "29 Mar, 1993",
+    "url": "http://www.chakoteya.net/NextGen/244.htm",
+    "stardate": "46682.4",
+    "lines": 669
+  },
+  {
+    "prod": "245",
+    "season": 6,
+    "title": "Lessons",
+    "prod_label": "245",
+    "airdate": "3 Apr, 1993",
+    "url": "http://www.chakoteya.net/NextGen/245.htm",
+    "stardate": "46693.1",
+    "lines": 593
+  },
+  {
+    "prod": "246",
+    "season": 6,
+    "title": "The Chase",
+    "prod_label": "246",
+    "airdate": "26 Apr, 1993",
+    "url": "http://www.chakoteya.net/NextGen/246.htm",
+    "stardate": "46731.5",
+    "lines": 711
+  },
+  {
+    "prod": "247",
+    "season": 6,
+    "title": "Frame of Mind",
+    "prod_label": "247",
+    "airdate": "3 May, 1993",
+    "url": "http://www.chakoteya.net/NextGen/247.htm",
+    "stardate": "46778.1",
+    "lines": 643
+  },
+  {
+    "prod": "248",
+    "season": 6,
+    "title": "Suspicions",
+    "prod_label": "248",
+    "airdate": "10 May, 1993",
+    "url": "http://www.chakoteya.net/NextGen/248.htm",
+    "stardate": "46830.1",
+    "lines": 702
+  },
+  {
+    "prod": "249",
+    "season": 6,
+    "title": "Rightful Heir",
+    "prod_label": "249",
+    "airdate": "17 May, 1993",
+    "url": "http://www.chakoteya.net/NextGen/249.htm",
+    "stardate": "46852.2",
+    "lines": 524
+  },
+  {
+    "prod": "250",
+    "season": 6,
+    "title": "Second Chances",
+    "prod_label": "250",
+    "airdate": "24 May, 1993",
+    "url": "http://www.chakoteya.net/NextGen/250.htm",
+    "stardate": "46915.2",
+    "lines": 601
+  },
+  {
+    "prod": "251",
+    "season": 6,
+    "title": "Timescape",
+    "prod_label": "251",
+    "airdate": "14 Jun, 1993",
+    "url": "http://www.chakoteya.net/NextGen/251.htm",
+    "stardate": "46944.2",
+    "lines": 708
+  },
+  {
+    "prod": "252",
+    "season": 6,
+    "title": "Descent, part 1",
+    "prod_label": "252",
+    "airdate": "21 Jun, 1993",
+    "url": "http://www.chakoteya.net/NextGen/252.htm",
+    "stardate": "46982.1",
+    "lines": 659
+  },
+  {
+    "prod": "253",
+    "season": 7,
+    "title": "Descent, part 2",
+    "prod_label": "253",
+    "airdate": "20 Sep, 1993",
+    "url": "http://www.chakoteya.net/NextGen/253.htm",
+    "stardate": "47025.4",
+    "lines": 717
+  },
+  {
+    "prod": "254",
+    "season": 7,
+    "title": "Liaisons",
+    "prod_label": "254",
+    "airdate": "27 Sep, 1993",
+    "url": "http://www.chakoteya.net/NextGen/254.htm",
+    "stardate": "Unknown",
+    "lines": 535
+  },
+  {
+    "prod": "255",
+    "season": 7,
+    "title": "Interface",
+    "prod_label": "255",
+    "airdate": "4 Oct, 1993",
+    "url": "http://www.chakoteya.net/NextGen/255.htm",
+    "stardate": "47215.5",
+    "lines": 765
+  },
+  {
+    "prod": "256",
+    "season": 7,
+    "title": "Gambit, part 1",
+    "prod_label": "256",
+    "airdate": "11 Oct, 1993",
+    "url": "http://www.chakoteya.net/NextGen/256.htm",
+    "stardate": "47135.2",
+    "lines": 679
+  },
+  {
+    "prod": "257",
+    "season": 7,
+    "title": "Gambit, part 2",
+    "prod_label": "257",
+    "airdate": "18 Oct, 1993",
+    "url": "http://www.chakoteya.net/NextGen/257.htm",
+    "stardate": "47160.1",
+    "lines": 675
+  },
+  {
+    "prod": "258",
+    "season": 7,
+    "title": "Phantasms",
+    "prod_label": "258",
+    "airdate": "25 Oct, 1993",
+    "url": "http://www.chakoteya.net/NextGen/258.htm",
+    "stardate": "47225.7",
+    "lines": 641
+  },
+  {
+    "prod": "259",
+    "season": 7,
+    "title": "Dark Page",
+    "prod_label": "259",
+    "airdate": "1 Nov, 1993",
+    "url": "http://www.chakoteya.net/NextGen/259.htm",
+    "stardate": "47254.1",
+    "lines": 552
+  },
+  {
+    "prod": "260",
+    "season": 7,
+    "title": "Attached",
+    "prod_label": "260",
+    "airdate": "8 Nov, 1993",
+    "url": "http://www.chakoteya.net/NextGen/260.htm",
+    "stardate": "47304.2",
+    "lines": 660
+  },
+  {
+    "prod": "261",
+    "season": 7,
+    "title": "Force of Nature",
+    "prod_label": "261",
+    "airdate": "15 Nov, 1993",
+    "url": "http://www.chakoteya.net/NextGen/261.htm",
+    "stardate": "47310.2",
+    "lines": 800
+  },
+  {
+    "prod": "262",
+    "season": 7,
+    "title": "Inheritance",
+    "prod_label": "262",
+    "airdate": "22 Nov, 1993",
+    "url": "http://www.chakoteya.net/NextGen/262.htm",
+    "stardate": "47410.2",
+    "lines": 595
+  },
+  {
+    "prod": "263",
+    "season": 7,
+    "title": "Parallels",
+    "prod_label": "263",
+    "airdate": "29 Nov, 1993",
+    "url": "http://www.chakoteya.net/NextGen/263.htm",
+    "stardate": "47391.2",
+    "lines": 659
+  },
+  {
+    "prod": "264",
+    "season": 7,
+    "title": "The Pegasus",
+    "prod_label": "264",
+    "airdate": "10 Jan,1994",
+    "url": "http://www.chakoteya.net/NextGen/264.htm",
+    "stardate": "47457.1",
+    "lines": 717
+  },
+  {
+    "prod": "265",
+    "season": 7,
+    "title": "Homeward",
+    "prod_label": "265",
+    "airdate": "17 Jan, 1994",
+    "url": "http://www.chakoteya.net/NextGen/265.htm",
+    "stardate": "47423.9",
+    "lines": 622
+  },
+  {
+    "prod": "266",
+    "season": 7,
+    "title": "Sub Rosa",
+    "prod_label": "266",
+    "airdate": "31 Jan, 1994",
+    "url": "http://www.chakoteya.net/NextGen/266.htm",
+    "stardate": "47423.9",
+    "lines": 615
+  },
+  {
+    "prod": "267",
+    "season": 7,
+    "title": "Lower Decks",
+    "prod_label": "267",
+    "airdate": "7 Feb, 1994",
+    "url": "http://www.chakoteya.net/NextGen/267.htm",
+    "stardate": "47566.7",
+    "lines": 761
+  },
+  {
+    "prod": "268",
+    "season": 7,
+    "title": "Thine Own Self",
+    "prod_label": "268",
+    "airdate": "14 Feb, 1994",
+    "url": "http://www.chakoteya.net/NextGen/268.htm",
+    "stardate": "47611.2",
+    "lines": 609
+  },
+  {
+    "prod": "269",
+    "season": 7,
+    "title": "Masks",
+    "prod_label": "269",
+    "airdate": "21 Feb, 1994",
+    "url": "http://www.chakoteya.net/NextGen/269.htm",
+    "stardate": "47615.2",
+    "lines": 638
+  },
+  {
+    "prod": "270",
+    "season": 7,
+    "title": "Eye of the Beholder",
+    "prod_label": "270",
+    "airdate": "28 Feb, 1994",
+    "url": "http://www.chakoteya.net/NextGen/270.htm",
+    "stardate": "47622.1",
+    "lines": 627
+  },
+  {
+    "prod": "271",
+    "season": 7,
+    "title": "Genesis",
+    "prod_label": "271",
+    "airdate": "21 Mar, 1994",
+    "url": "http://www.chakoteya.net/NextGen/271.htm",
+    "stardate": "47653.2",
+    "lines": 618
+  },
+  {
+    "prod": "272",
+    "season": 7,
+    "title": "Journey's End",
+    "prod_label": "272",
+    "airdate": "28 Mar, 1994",
+    "url": "http://www.chakoteya.net/NextGen/272.htm",
+    "stardate": "47751.2",
+    "lines": 621
+  },
+  {
+    "prod": "273",
+    "season": 7,
+    "title": "Firstborn",
+    "prod_label": "273",
+    "airdate": "25 Apr, 1994",
+    "url": "http://www.chakoteya.net/NextGen/273.htm",
+    "stardate": "47779.4",
+    "lines": 638
+  },
+  {
+    "prod": "274",
+    "season": 7,
+    "title": "Bloodlines",
+    "prod_label": "274",
+    "airdate": "2 May, 1994",
+    "url": "http://www.chakoteya.net/NextGen/274.htm",
+    "stardate": "47829.1",
+    "lines": 640
+  },
+  {
+    "prod": "275",
+    "season": 7,
+    "title": "Emergence",
+    "prod_label": "275",
+    "airdate": "9 May, 1994",
+    "url": "http://www.chakoteya.net/NextGen/275.htm",
+    "stardate": "47869.2",
+    "lines": 728
+  },
+  {
+    "prod": "276",
+    "season": 7,
+    "title": "Preemptive Strike",
+    "prod_label": "276",
+    "airdate": "16 May, 1994",
+    "url": "http://www.chakoteya.net/NextGen/276.htm",
+    "stardate": "47941.7",
+    "lines": 664
+  },
+  {
+    "prod": "277",
+    "season": 7,
+    "title": "All Good Things...",
+    "prod_label": "277",
+    "airdate": "23 May, 1994",
+    "url": "http://www.chakoteya.net/NextGen/277.htm",
+    "stardate": "47988",
+    "lines": 1461
+  }
+]

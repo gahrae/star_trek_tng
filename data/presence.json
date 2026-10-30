@@ -1,0 +1,10990 @@
+{
+ "101": {
+  "PICARD": {
+   "speaking_scenes": 33,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 18,
+   "silent_scenes": 4
+  },
+  "TROI": {
+   "speaking_scenes": 19,
+   "silent_scenes": 1
+  },
+  "TORRES": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 10,
+   "silent_scenes": 0
+  },
+  "Q": {
+   "speaking_scenes": 9,
+   "silent_scenes": 0
+  },
+  "TASHA": {
+   "speaking_scenes": 14,
+   "silent_scenes": 1
+  },
+  "O'BRIEN": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "BAILIFF": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "SOLDIER": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "ZORN": {
+   "speaking_scenes": 12,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 39,
+   "silent_scenes": 1
+  },
+  "WESLEY": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "MCCOY": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "ENSIGN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "COMPUTER": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "SECURITY": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "CREW": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "103": {
+  "DATA": {
+   "speaking_scenes": 12,
+   "silent_scenes": 3
+  },
+  "WOMAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "MAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 33,
+   "silent_scenes": 2
+  },
+  "RIKER": {
+   "speaking_scenes": 25,
+   "silent_scenes": 1
+  },
+  "WORF": {
+   "speaking_scenes": 10,
+   "silent_scenes": 0
+  },
+  "TASHA": {
+   "speaking_scenes": 8,
+   "silent_scenes": 1
+  },
+  "LAFORGE": {
+   "speaking_scenes": 8,
+   "silent_scenes": 1
+  },
+  "CRUSHER": {
+   "speaking_scenes": 19,
+   "silent_scenes": 1
+  },
+  "TROI": {
+   "speaking_scenes": 8,
+   "silent_scenes": 2
+  },
+  "WESLEY": {
+   "speaking_scenes": 13,
+   "silent_scenes": 1
+  },
+  "SHIMODA": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "MACDOUGAL": {
+   "speaking_scenes": 9,
+   "silent_scenes": 0
+  },
+  "CREWMAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "SECURITY": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "104": {
+  "LAFORGE": {
+   "speaking_scenes": 8,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 16,
+   "silent_scenes": 1
+  },
+  "PICARD": {
+   "speaking_scenes": 19,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 10,
+   "silent_scenes": 1
+  },
+  "TASHA": {
+   "speaking_scenes": 11,
+   "silent_scenes": 1
+  },
+  "LUTAN": {
+   "speaking_scenes": 10,
+   "silent_scenes": 0
+  },
+  "HAGON": {
+   "speaking_scenes": 9,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 7,
+   "silent_scenes": 1
+  },
+  "CRUSHER": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "WESLEY": {
+   "speaking_scenes": 2,
+   "silent_scenes": 1
+  },
+  "YAREENA": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "CHIEF": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  }
+ },
+ "107": {
+  "RIKER": {
+   "speaking_scenes": 13,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 10,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 9,
+   "silent_scenes": 1
+  },
+  "DATA": {
+   "speaking_scenes": 11,
+   "silent_scenes": 0
+  },
+  "TASHA": {
+   "speaking_scenes": 9,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "TARR": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "LETEK": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "MORDOC": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "KAYRON": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "PORTAL": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  }
+ },
+ "106": {
+  "PICARD": {
+   "speaking_scenes": 27,
+   "silent_scenes": 1
+  },
+  "RIKER": {
+   "speaking_scenes": 14,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "CHIEF": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "KOSINSKI": {
+   "speaking_scenes": 12,
+   "silent_scenes": 0
+  },
+  "ARGYLE": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "TRAVELLER": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "WESLEY": {
+   "speaking_scenes": 6,
+   "silent_scenes": 2
+  },
+  "WORF": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 9,
+   "silent_scenes": 0
+  },
+  "TASHA": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "CREWMAN": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "MAMAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 2,
+   "silent_scenes": 1
+  }
+ },
+ "108": {
+  "PICARD": {
+   "speaking_scenes": 20,
+   "silent_scenes": 1
+  },
+  "RIKER": {
+   "speaking_scenes": 16,
+   "silent_scenes": 0
+  },
+  "SELAY": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "TASHA": {
+   "speaking_scenes": 13,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 14,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 11,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 10,
+   "silent_scenes": 2
+  },
+  "CRUSHER": {
+   "speaking_scenes": 12,
+   "silent_scenes": 0
+  },
+  "ANTICAN": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 9,
+   "silent_scenes": 0
+  },
+  "WESLEY": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "SINGH": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "CHIEF": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "O'BRIEN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "109": {
+  "PICARD": {
+   "speaking_scenes": 15,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 6,
+   "silent_scenes": 1
+  },
+  "CRUSHER": {
+   "speaking_scenes": 10,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 9,
+   "silent_scenes": 0
+  },
+  "TASHA": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 6,
+   "silent_scenes": 1
+  },
+  "WORF": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "WESLEY": {
+   "speaking_scenes": 5,
+   "silent_scenes": 1
+  },
+  "RIVAN": {
+   "speaking_scenes": 9,
+   "silent_scenes": 0
+  },
+  "LIATOR": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "EDO": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "BOY": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "GIRL": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "OFFICER": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "MAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "WOMAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "MEDIATOR 2": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "MEDIATOR": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "CHIEF": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "MEDIC": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "110": {
+  "CRUSHER": {
+   "speaking_scenes": 12,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 20,
+   "silent_scenes": 2
+  },
+  "RIKER": {
+   "speaking_scenes": 18,
+   "silent_scenes": 0
+  },
+  "TASHA": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 9,
+   "silent_scenes": 0
+  },
+  "BOK": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 9,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "WESLEY": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 9,
+   "silent_scenes": 0
+  },
+  "KAZAGO": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "RATA": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "VOICES": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "VOICE": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "COMPUTER": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "111": {
+  "CRUSHER": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 11,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 9,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 9,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 10,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 6,
+   "silent_scenes": 1
+  },
+  "TASHA": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "Q": {
+   "speaking_scenes": 8,
+   "silent_scenes": 0
+  },
+  "COMPUTER": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "CREWMAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "WESLEY": {
+   "speaking_scenes": 2,
+   "silent_scenes": 1
+  },
+  "WOMAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "105": {
+  "PICARD": {
+   "speaking_scenes": 16,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "TASHA": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 9,
+   "silent_scenes": 1
+  },
+  "CHIEF": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 12,
+   "silent_scenes": 1
+  },
+  "FACE": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "STEVEN": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "VICTORIA": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "WYATT": {
+   "speaking_scenes": 10,
+   "silent_scenes": 0
+  },
+  "LWAXANA": {
+   "speaking_scenes": 8,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "VALEDA": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 3,
+   "silent_scenes": 1
+  },
+  "WRENN": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "ARIANA": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "HOMN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "113": {
+  "PICARD": {
+   "speaking_scenes": 19,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "COMPUTER": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "SECRETARY": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "JESSICA": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "LEECH": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 13,
+   "silent_scenes": 0
+  },
+  "WESLEY": {
+   "speaking_scenes": 6,
+   "silent_scenes": 1
+  },
+  "CRUSHER": {
+   "speaking_scenes": 8,
+   "silent_scenes": 2
+  },
+  "RIKER": {
+   "speaking_scenes": 13,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 10,
+   "silent_scenes": 0
+  },
+  "WHALEN": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "VENDOR": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "BELL": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "MCNARY": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "TASHA": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "JARADAN": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "POLICEMAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "SERGEANT": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "REDBLOCK": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "THUG": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "114": {
+  "LAFORGE": {
+   "speaking_scenes": 8,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 13,
+   "silent_scenes": 1
+  },
+  "PICARD": {
+   "speaking_scenes": 9,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 15,
+   "silent_scenes": 5
+  },
+  "WESLEY": {
+   "speaking_scenes": 8,
+   "silent_scenes": 2
+  },
+  "TASHA": {
+   "speaking_scenes": 7,
+   "silent_scenes": 1
+  },
+  "WORF": {
+   "speaking_scenes": 4,
+   "silent_scenes": 2
+  },
+  "CRUSHER": {
+   "speaking_scenes": 9,
+   "silent_scenes": 0
+  },
+  "ARGYLE": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "LORE": {
+   "speaking_scenes": 11,
+   "silent_scenes": 0
+  }
+ },
+ "115": {
+  "LAFORGE": {
+   "speaking_scenes": 14,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 15,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 20,
+   "silent_scenes": 2
+  },
+  "RIKER": {
+   "speaking_scenes": 31,
+   "silent_scenes": 0
+  },
+  "TASHA": {
+   "speaking_scenes": 19,
+   "silent_scenes": 2
+  },
+  "TROI": {
+   "speaking_scenes": 18,
+   "silent_scenes": 1
+  },
+  "WORF": {
+   "speaking_scenes": 6,
+   "silent_scenes": 1
+  },
+  "BEATA": {
+   "speaking_scenes": 12,
+   "silent_scenes": 0
+  },
+  "WESLEY": {
+   "speaking_scenes": 2,
+   "silent_scenes": 1
+  },
+  "ARIEL": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "TRENT": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 16,
+   "silent_scenes": 1
+  },
+  "RAMSEY": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "CREWMAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "116": {
+  "LAFORGE": {
+   "speaking_scenes": 9,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 22,
+   "silent_scenes": 1
+  },
+  "DATA": {
+   "speaking_scenes": 17,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 23,
+   "silent_scenes": 0
+  },
+  "COMPUTER": {
+   "speaking_scenes": 13,
+   "silent_scenes": 0
+  },
+  "QUINTEROS": {
+   "speaking_scenes": 8,
+   "silent_scenes": 0
+  },
+  "ONE ZERO": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "ZERO ONE": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "WESLEY": {
+   "speaking_scenes": 9,
+   "silent_scenes": 1
+  },
+  "TASHA": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "ZERO ZERO": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "ONE ONE": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "MINUET": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "BASS": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "PIANO": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "CHIEF": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "STARBASE": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "112": {
+  "PICARD": {
+   "speaking_scenes": 24,
+   "silent_scenes": 0
+  },
+  "JAMESON": {
+   "speaking_scenes": 21,
+   "silent_scenes": 0
+  },
+  "KARNAS": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 13,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 5,
+   "silent_scenes": 1
+  },
+  "CRUSHER": {
+   "speaking_scenes": 8,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 5,
+   "silent_scenes": 1
+  },
+  "ANNE": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "TASHA": {
+   "speaking_scenes": 1,
+   "silent_scenes": 1
+  },
+  "WORF": {
+   "speaking_scenes": 1,
+   "silent_scenes": 1
+  }
+ },
+ "118": {
+  "PICARD": {
+   "speaking_scenes": 21,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 14,
+   "silent_scenes": 1
+  },
+  "BERNARD": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "HARRY": {
+   "speaking_scenes": 9,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 13,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "TASHA": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 11,
+   "silent_scenes": 2
+  },
+  "TROI": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "RASHELLA": {
+   "speaking_scenes": 10,
+   "silent_scenes": 0
+  },
+  "RADUE": {
+   "speaking_scenes": 17,
+   "silent_scenes": 0
+  },
+  "WESLEY": {
+   "speaking_scenes": 14,
+   "silent_scenes": 1
+  },
+  "KATIE": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "TOYA": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "LEDA": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "ACCOLAN": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "MELIAN": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "DUANA": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "CUSTODIAN": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "ALEXANDRA": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  }
+ },
+ "117": {
+  "LAFORGE": {
+   "speaking_scenes": 19,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 22,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 6,
+   "silent_scenes": 1
+  },
+  "RIKER": {
+   "speaking_scenes": 20,
+   "silent_scenes": 0
+  },
+  "TASHA": {
+   "speaking_scenes": 10,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 23,
+   "silent_scenes": 0
+  },
+  "MANDL": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "COMPUTER": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "LUISA": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "BENSON": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "BENSEN": {
+   "speaking_scenes": 8,
+   "silent_scenes": 0
+  },
+  "MALENCON": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "WESLEY": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "CREWWOMAN": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "VOICE": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "CHIEF": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "119": {
+  "WESLEY": {
+   "speaking_scenes": 14,
+   "silent_scenes": 1
+  },
+  "JAKE KURLAND": {
+   "speaking_scenes": 16,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 23,
+   "silent_scenes": 0
+  },
+  "QUINN": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "REMMICK": {
+   "speaking_scenes": 14,
+   "silent_scenes": 0
+  },
+  "OLIANA": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "T'SHANIK": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "MORDOCK": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "CHANG": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 10,
+   "silent_scenes": 0
+  },
+  "COMPUTER": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "TASHA": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "RONDON": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "MAN": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "MAN 2": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "120": {
+  "WORF": {
+   "speaking_scenes": 14,
+   "silent_scenes": 1
+  },
+  "PICARD": {
+   "speaking_scenes": 29,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 16,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 10,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 15,
+   "silent_scenes": 0
+  },
+  "TASHA": {
+   "speaking_scenes": 14,
+   "silent_scenes": 1
+  },
+  "KORRIS": {
+   "speaking_scenes": 13,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "KONMEL": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "NURSE": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "K'NERA": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "GIRL": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "GUARD": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "CREWMAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "121": {
+  "PICARD": {
+   "speaking_scenes": 26,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 19,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 16,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 10,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "TASHA": {
+   "speaking_scenes": 14,
+   "silent_scenes": 1
+  },
+  "SALESMAN": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "T'SU": {
+   "speaking_scenes": 11,
+   "silent_scenes": 0
+  },
+  "RICE": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "CHIEF": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 6,
+   "silent_scenes": 4
+  },
+  "LOGAN": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "SOLIS": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "ENSIGN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "COMPUTER": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "123": {
+  "PICARD": {
+   "speaking_scenes": 24,
+   "silent_scenes": 0
+  },
+  "COMPUTER": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 14,
+   "silent_scenes": 1
+  },
+  "WESLEY": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "CREWWOMAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "T'JON": {
+   "speaking_scenes": 12,
+   "silent_scenes": 0
+  },
+  "TASHA": {
+   "speaking_scenes": 11,
+   "silent_scenes": 0
+  },
+  "VOICES": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "ROMAS": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "SOBI": {
+   "speaking_scenes": 8,
+   "silent_scenes": 0
+  },
+  "LANGOR": {
+   "speaking_scenes": 8,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 10,
+   "silent_scenes": 0
+  },
+  "MARGAN": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  }
+ },
+ "122": {
+  "WORF": {
+   "speaking_scenes": 11,
+   "silent_scenes": 0
+  },
+  "TASHA": {
+   "speaking_scenes": 4,
+   "silent_scenes": 1
+  },
+  "LAFORGE": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 24,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 15,
+   "silent_scenes": 1
+  },
+  "PRIETO": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "LYNCH": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 12,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 10,
+   "silent_scenes": 0
+  },
+  "COMPUTER": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 13,
+   "silent_scenes": 0
+  },
+  "ARMUS": {
+   "speaking_scenes": 14,
+   "silent_scenes": 0
+  },
+  "NURSE": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "NURSE 2": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "WESLEY": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  }
+ },
+ "124": {
+  "DEAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 28,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 14,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 16,
+   "silent_scenes": 2
+  },
+  "LAFORGE": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 3,
+   "silent_scenes": 1
+  },
+  "MANHEIM": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 5,
+   "silent_scenes": 1
+  },
+  "COMPUTER": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "EDOUARD": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "FRANCINE": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "GABRIELLE": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "JENICE": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 9,
+   "silent_scenes": 0
+  },
+  "PICARD 2": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "DATA 2": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "CHIEF": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "DATA 3": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "DATA 1": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "125": {
+  "LAFORGE": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 9,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 12,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 24,
+   "silent_scenes": 0
+  },
+  "COMPUTER": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "KEEL": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "RIXX": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "TRYLA": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 14,
+   "silent_scenes": 0
+  },
+  "SAVAR": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "QUINN": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "AARON": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "REMMICK": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  }
+ },
+ "126": {
+  "LAFORGE": {
+   "speaking_scenes": 8,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 8,
+   "silent_scenes": 1
+  },
+  "RIKER": {
+   "speaking_scenes": 16,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 17,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 19,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "COMPUTER": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "RALPH": {
+   "speaking_scenes": 12,
+   "silent_scenes": 0
+  },
+  "SONNY": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "CLARE": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "TEBOK": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "THEI": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "127": {
+  "COMPUTER": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 20,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 5,
+   "silent_scenes": 1
+  },
+  "REPULSE": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "WESLEY": {
+   "speaking_scenes": 11,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 13,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 26,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 16,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 10,
+   "silent_scenes": 2
+  },
+  "CREWMAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "SICKBAY": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "GUINAN": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "PULASKI": {
+   "speaking_scenes": 18,
+   "silent_scenes": 0
+  },
+  "DEALT": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "NURSE": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "IAN (THE CHILD)": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "MISS GLADSTONE": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "BOY": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "O'BRIEN": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  }
+ },
+ "128": {
+  "TROI": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 17,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 19,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 11,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 10,
+   "silent_scenes": 0
+  },
+  "WESLEY": {
+   "speaking_scenes": 5,
+   "silent_scenes": 1
+  },
+  "PULASKI": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "O'BRIEN": {
+   "speaking_scenes": 8,
+   "silent_scenes": 1
+  },
+  "COMPUTER": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "HASKELL": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "NAGILUM": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  }
+ },
+ "129": {
+  "CLANCY": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 18,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 16,
+   "silent_scenes": 0
+  },
+  "COMPUTER": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "LESTRADE": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "PULASKI": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "PIE MAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "WHORE": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "MORIARTY": {
+   "speaking_scenes": 6,
+   "silent_scenes": 1
+  },
+  "BOTH": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "RUFFIAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "130": {
+  "WORF": {
+   "speaking_scenes": 10,
+   "silent_scenes": 1
+  },
+  "DATA": {
+   "speaking_scenes": 12,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 10,
+   "silent_scenes": 0
+  },
+  "OKONA": {
+   "speaking_scenes": 15,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "WESLEY": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "ROBINSON": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "GUINAN": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "COMPUTER": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "COMIC": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "DEBIN": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "KUSHELL": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "BENZAN": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "YANAR": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  }
+ },
+ "132": {
+  "RIKER": {
+   "speaking_scenes": 25,
+   "silent_scenes": 0
+  },
+  "WESLEY": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 16,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 8,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 12,
+   "silent_scenes": 1
+  },
+  "O'BRIEN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 3
+  },
+  "WOMAN": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "SCHOLAR": {
+   "speaking_scenes": 8,
+   "silent_scenes": 0
+  },
+  "ADONIS": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "CHORUS": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 8,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "ALIEN 1": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "ALIEN 2": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "ALIEN 3": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "PULASKI": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  }
+ },
+ "131": {
+  "PICARD": {
+   "speaking_scenes": 22,
+   "silent_scenes": 1
+  },
+  "WORF": {
+   "speaking_scenes": 9,
+   "silent_scenes": 1
+  },
+  "RIKER": {
+   "speaking_scenes": 7,
+   "silent_scenes": 1
+  },
+  "WESLEY": {
+   "speaking_scenes": 4,
+   "silent_scenes": 1
+  },
+  "PULASKI": {
+   "speaking_scenes": 4,
+   "silent_scenes": 1
+  },
+  "TROI": {
+   "speaking_scenes": 14,
+   "silent_scenes": 1
+  },
+  "LAFORGE": {
+   "speaking_scenes": 8,
+   "silent_scenes": 2
+  },
+  "DATA": {
+   "speaking_scenes": 20,
+   "silent_scenes": 1
+  },
+  "KAREEN": {
+   "speaking_scenes": 8,
+   "silent_scenes": 0
+  },
+  "MAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "GRAVES": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "SELAR": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "TASHA": {
+   "speaking_scenes": 0,
+   "silent_scenes": 1
+  },
+  "COMPUTER": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "133": {
+  "PICARD": {
+   "speaking_scenes": 26,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 8,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 18,
+   "silent_scenes": 0
+  },
+  "VOICE": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 8,
+   "silent_scenes": 0
+  },
+  "WESLEY": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 9,
+   "silent_scenes": 0
+  },
+  "COMPUTER": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "PULASKI": {
+   "speaking_scenes": 23,
+   "silent_scenes": 0
+  },
+  "TELAKA": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "LANTREE": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "KINGSLEY": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "O'BRIEN": {
+   "speaking_scenes": 12,
+   "silent_scenes": 0
+  },
+  "CREWMAN": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "TAGGERT": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "134": {
+  "DATA": {
+   "speaking_scenes": 9,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 21,
+   "silent_scenes": 0
+  },
+  "WESLEY": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 24,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 16,
+   "silent_scenes": 1
+  },
+  "STARBASE": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "MENDON": {
+   "speaking_scenes": 8,
+   "silent_scenes": 0
+  },
+  "CREWMAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "PULASKI": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "KARGAN": {
+   "speaking_scenes": 12,
+   "silent_scenes": 0
+  },
+  "O'BRIEN": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "TACTICS": {
+   "speaking_scenes": 8,
+   "silent_scenes": 0
+  },
+  "KLAG": {
+   "speaking_scenes": 8,
+   "silent_scenes": 0
+  },
+  "VEKMA": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "135": {
+  "O'BRIEN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 10,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 8,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "PULASKI": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 11,
+   "silent_scenes": 0
+  },
+  "PHILLIPA": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "NAKAMURA": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "MADDOX": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "COMPUTER": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "TASHA": {
+   "speaking_scenes": 0,
+   "silent_scenes": 1
+  },
+  "WESLEY": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "GUINAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "136": {
+  "DATA": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 19,
+   "silent_scenes": 0
+  },
+  "GIBSON": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 11,
+   "silent_scenes": 0
+  },
+  "WESLEY": {
+   "speaking_scenes": 17,
+   "silent_scenes": 1
+  },
+  "TROI": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 12,
+   "silent_scenes": 0
+  },
+  "ANYA": {
+   "speaking_scenes": 12,
+   "silent_scenes": 0
+  },
+  "SALIA": {
+   "speaking_scenes": 17,
+   "silent_scenes": 0
+  },
+  "O'BRIEN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 1
+  },
+  "GIRL": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "COMPUTER": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "GUINAN": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "GUARD": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "PULASKI": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "VOICE": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "137": {
+  "PICARD": {
+   "speaking_scenes": 24,
+   "silent_scenes": 2
+  },
+  "WESLEY": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 14,
+   "silent_scenes": 1
+  },
+  "RIKER": {
+   "speaking_scenes": 17,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 8,
+   "silent_scenes": 1
+  },
+  "VARLEY": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "TARIS": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 14,
+   "silent_scenes": 0
+  },
+  "COMPUTER": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "PULASKI": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "MEDIC": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "DOCTOR": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "O'BRIEN": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "WILLIAMS (BRIDGE)": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "CREWMAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "138": {
+  "LAFORGE": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 53,
+   "silent_scenes": 1
+  },
+  "PICARD": {
+   "speaking_scenes": 41,
+   "silent_scenes": 0
+  },
+  "O'BRIEN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 1
+  },
+  "DATA": {
+   "speaking_scenes": 17,
+   "silent_scenes": 1
+  },
+  "TROI": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "WESLEY": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 9,
+   "silent_scenes": 3
+  },
+  "BELLBOY": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "CLERK": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "TEXAS": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "VANESSA": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "PULASKI": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "COMPUTER": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "WORD": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "MICKEY D": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "CROUPIER": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  }
+ },
+ "139": {
+  "RIKER": {
+   "speaking_scenes": 21,
+   "silent_scenes": 0
+  },
+  "PULASKI": {
+   "speaking_scenes": 13,
+   "silent_scenes": 1
+  },
+  "DATA": {
+   "speaking_scenes": 14,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 12,
+   "silent_scenes": 1
+  },
+  "LAFORGE": {
+   "speaking_scenes": 11,
+   "silent_scenes": 1
+  },
+  "PICARD": {
+   "speaking_scenes": 31,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 5,
+   "silent_scenes": 3
+  },
+  "P2": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "O'BRIEN": {
+   "speaking_scenes": 2,
+   "silent_scenes": 1
+  }
+ },
+ "140": {
+  "DATA": {
+   "speaking_scenes": 8,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 15,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 10,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "WESLEY": {
+   "speaking_scenes": 10,
+   "silent_scenes": 0
+  },
+  "HERBERT": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "KYLE RIKER": {
+   "speaking_scenes": 11,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "O'BRIEN": {
+   "speaking_scenes": 3,
+   "silent_scenes": 1
+  },
+  "MAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "MAN 2": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "PULASKI": {
+   "speaking_scenes": 7,
+   "silent_scenes": 1
+  },
+  "TROI": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "COMPUTER": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "BOTH": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "141": {
+  "DATA": {
+   "speaking_scenes": 18,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 16,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 16,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "COMPUTER": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "PULASKI": {
+   "speaking_scenes": 8,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "WESLEY": {
+   "speaking_scenes": 10,
+   "silent_scenes": 0
+  },
+  "DAVIES": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "SARJENKA": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "HILDEBRANDT": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "WOMAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "ALANS": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "O'BRIEN": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  }
+ },
+ "142": {
+  "SONYA": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 10,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 25,
+   "silent_scenes": 0
+  },
+  "Q": {
+   "speaking_scenes": 12,
+   "silent_scenes": 0
+  },
+  "GUINAN": {
+   "speaking_scenes": 14,
+   "silent_scenes": 1
+  },
+  "RIKER": {
+   "speaking_scenes": 23,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "COMPUTER": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 12,
+   "silent_scenes": 1
+  },
+  "WESLEY": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 13,
+   "silent_scenes": 0
+  },
+  "BORG": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "O'BRIEN": {
+   "speaking_scenes": 2,
+   "silent_scenes": 1
+  }
+ },
+ "143": {
+  "RIKER": {
+   "speaking_scenes": 28,
+   "silent_scenes": 0
+  },
+  "WESLEY": {
+   "speaking_scenes": 10,
+   "silent_scenes": 1
+  },
+  "DATA": {
+   "speaking_scenes": 15,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 12,
+   "silent_scenes": 2
+  },
+  "PULASKI": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 22,
+   "silent_scenes": 1
+  },
+  "SONYA": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 10,
+   "silent_scenes": 0
+  },
+  "HELM": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "GREBNEDLOG": {
+   "speaking_scenes": 17,
+   "silent_scenes": 0
+  },
+  "REGINOD": {
+   "speaking_scenes": 14,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "CHIEF": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "SURGEON": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "MEDIC": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "PHYSIOLOGIST": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "COMPUTER": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "NURSE": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "144": {
+  "PICARD": {
+   "speaking_scenes": 18,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 16,
+   "silent_scenes": 2
+  },
+  "WORF": {
+   "speaking_scenes": 11,
+   "silent_scenes": 4
+  },
+  "COMPUTER": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "PULASKI": {
+   "speaking_scenes": 12,
+   "silent_scenes": 1
+  },
+  "TROI": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "O'BRIEN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "DANILO": {
+   "speaking_scenes": 8,
+   "silent_scenes": 0
+  },
+  "CREWMAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "BRENNA": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "GRANGER": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "GRANGER 2": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 2,
+   "silent_scenes": 1
+  }
+ },
+ "145": {
+  "PICARD": {
+   "speaking_scenes": 25,
+   "silent_scenes": 1
+  },
+  "WESLEY": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "PULASKI": {
+   "speaking_scenes": 11,
+   "silent_scenes": 0
+  },
+  "O'BRIEN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 14,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 13,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 13,
+   "silent_scenes": 0
+  },
+  "PILOT": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "LWAXANA": {
+   "speaking_scenes": 20,
+   "silent_scenes": 0
+  },
+  "COMPUTER": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "MADELINE": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "SLADE": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "MAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "REX": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "ANTEDEANS": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "ANTEDEAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "146": {
+  "RIKER": {
+   "speaking_scenes": 10,
+   "silent_scenes": 0
+  },
+  "PULASKI": {
+   "speaking_scenes": 2,
+   "silent_scenes": 1
+  },
+  "LAFORGE": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 10,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 12,
+   "silent_scenes": 0
+  },
+  "CREWMAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 10,
+   "silent_scenes": 0
+  },
+  "CLANCEY": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "GROMEK": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "O'BRIEN": {
+   "speaking_scenes": 3,
+   "silent_scenes": 1
+  },
+  "K'EHLEYR": {
+   "speaking_scenes": 13,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "COMPUTER": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "TACTICAL": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "K'TEMOC": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "147": {
+  "PICARD": {
+   "speaking_scenes": 13,
+   "silent_scenes": 0
+  },
+  "KOLRAMI": {
+   "speaking_scenes": 12,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 11,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 9,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 15,
+   "silent_scenes": 0
+  },
+  "PULASKI": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 10,
+   "silent_scenes": 0
+  },
+  "WESLEY": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "BURKE": {
+   "speaking_scenes": 8,
+   "silent_scenes": 0
+  },
+  "NAGEL": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "BRACTOR": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "TACTICIAN": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "ALL": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "148": {
+  "LAFORGE": {
+   "speaking_scenes": 11,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 17,
+   "silent_scenes": 1
+  },
+  "O'BRIEN": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "PULASKI": {
+   "speaking_scenes": 18,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 13,
+   "silent_scenes": 1
+  },
+  "DATA": {
+   "speaking_scenes": 9,
+   "silent_scenes": 1
+  },
+  "TROI": {
+   "speaking_scenes": 11,
+   "silent_scenes": 1
+  },
+  "WESLEY": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "GUINAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "RIVAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "LIATOR": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "MINUET": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "BEATA": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "BRENNA": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "TASHA": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "ARMUS": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "KARGAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "KLAG": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "QUINN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "T'JON": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "COMPUTER": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "KORRIS": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "REMMICK": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "150": {
+  "RIKER": {
+   "speaking_scenes": 17,
+   "silent_scenes": 0
+  },
+  "WESLEY": {
+   "speaking_scenes": 14,
+   "silent_scenes": 2
+  },
+  "STUBBS": {
+   "speaking_scenes": 14,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 14,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 19,
+   "silent_scenes": 0
+  },
+  "CREWMAN": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 11,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "COMPUTER": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "NURSE": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 8,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "GUINAN": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  }
+ },
+ "149": {
+  "DATA": {
+   "speaking_scenes": 26,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 17,
+   "silent_scenes": 1
+  },
+  "RIKER": {
+   "speaking_scenes": 21,
+   "silent_scenes": 0
+  },
+  "O'BRIEN": {
+   "speaking_scenes": 0,
+   "silent_scenes": 2
+  },
+  "WORF": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "SHELIAK": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "HARITATH": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "KENTOR": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "GOSHEVEN": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "ARD'RIAN": {
+   "speaking_scenes": 9,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 4,
+   "silent_scenes": 1
+  },
+  "WESLEY": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "ALL": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "151": {
+  "RIKER": {
+   "speaking_scenes": 16,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 10,
+   "silent_scenes": 2
+  },
+  "PICARD": {
+   "speaking_scenes": 21,
+   "silent_scenes": 0
+  },
+  "WESLEY": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 7,
+   "silent_scenes": 2
+  },
+  "TROI": {
+   "speaking_scenes": 5,
+   "silent_scenes": 2
+  },
+  "CRUSHER": {
+   "speaking_scenes": 10,
+   "silent_scenes": 1
+  },
+  "LAFORGE": {
+   "speaking_scenes": 5,
+   "silent_scenes": 1
+  },
+  "KEVIN": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "RISHON": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "MEDIC": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "152": {
+  "PICARD": {
+   "speaking_scenes": 16,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 19,
+   "silent_scenes": 1
+  },
+  "TROI": {
+   "speaking_scenes": 12,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "BARRON": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 12,
+   "silent_scenes": 1
+  },
+  "CRUSHER": {
+   "speaking_scenes": 6,
+   "silent_scenes": 1
+  },
+  "LIKO": {
+   "speaking_scenes": 16,
+   "silent_scenes": 0
+  },
+  "OJI": {
+   "speaking_scenes": 12,
+   "silent_scenes": 0
+  },
+  "OGAWA": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "FENTO": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "NURIA": {
+   "speaking_scenes": 12,
+   "silent_scenes": 0
+  },
+  "HALI": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "MAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "153": {
+  "DATA": {
+   "speaking_scenes": 9,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 15,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 15,
+   "silent_scenes": 2
+  },
+  "PICARD": {
+   "speaking_scenes": 27,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 21,
+   "silent_scenes": 0
+  },
+  "O'BRIEN": {
+   "speaking_scenes": 2,
+   "silent_scenes": 1
+  },
+  "CRUSHER": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "WESLEY": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "JEREMY": {
+   "speaking_scenes": 12,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 11,
+   "silent_scenes": 0
+  },
+  "DAD": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "MARLA": {
+   "speaking_scenes": 10,
+   "silent_scenes": 0
+  },
+  "CREWMAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "154": {
+  "LAFORGE": {
+   "speaking_scenes": 29,
+   "silent_scenes": 1
+  },
+  "CHRISTY": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "WESLEY": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 14,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 22,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 27,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 10,
+   "silent_scenes": 0
+  },
+  "O'BRIEN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "GUINAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "GALEK SAR": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "COMPUTER": {
+   "speaking_scenes": 10,
+   "silent_scenes": 0
+  },
+  "LEAH": {
+   "speaking_scenes": 10,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  }
+ },
+ "155": {
+  "RIKER": {
+   "speaking_scenes": 11,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 12,
+   "silent_scenes": 3
+  },
+  "WORF": {
+   "speaking_scenes": 11,
+   "silent_scenes": 1
+  },
+  "CRUSHER": {
+   "speaking_scenes": 10,
+   "silent_scenes": 0
+  },
+  "O'BRIEN": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 11,
+   "silent_scenes": 0
+  },
+  "PATAHK": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "WESLEY": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "TOMALAK": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "BOCHRA": {
+   "speaking_scenes": 8,
+   "silent_scenes": 0
+  }
+ },
+ "156": {
+  "TROI": {
+   "speaking_scenes": 12,
+   "silent_scenes": 0
+  },
+  "COMPUTER": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 19,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 12,
+   "silent_scenes": 0
+  },
+  "BHAVANI": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "MENDOZA": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "LEYOR": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "RAL": {
+   "speaking_scenes": 13,
+   "silent_scenes": 0
+  },
+  "O'BRIEN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "GOSS": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 10,
+   "silent_scenes": 0
+  },
+  "ARRIDOR": {
+   "speaking_scenes": 10,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "WESLEY": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 13,
+   "silent_scenes": 0
+  },
+  "CREWMAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "157": {
+  "RIKER": {
+   "speaking_scenes": 13,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 11,
+   "silent_scenes": 0
+  },
+  "WESLEY": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "MAROUK": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "YUTA": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "BRULL": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "VOLNOTH": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "TEMAREK": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "CHORGAN": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "COMPUTER": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "158": {
+  "MICHAEL WILLIAMS": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "BATES": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 18,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 19,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 13,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 8,
+   "silent_scenes": 0
+  },
+  "SETAL": {
+   "speaking_scenes": 8,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 11,
+   "silent_scenes": 0
+  },
+  "CREWMAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "COMPUTER": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "HADEN": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "JAROK": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "TOMALAK": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "159": {
+  "PICARD": {
+   "speaking_scenes": 22,
+   "silent_scenes": 0
+  },
+  "NAYROK": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 24,
+   "silent_scenes": 0
+  },
+  "ZAYNAR": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 22,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 20,
+   "silent_scenes": 2
+  },
+  "WESLEY": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "O'BRIEN": {
+   "speaking_scenes": 9,
+   "silent_scenes": 0
+  },
+  "SECURITY": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "COMPUTER": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 9,
+   "silent_scenes": 0
+  },
+  "ROGA": {
+   "speaking_scenes": 8,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "WAGNOR": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "160": {
+  "DATA": {
+   "speaking_scenes": 11,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 18,
+   "silent_scenes": 2
+  },
+  "WORF": {
+   "speaking_scenes": 7,
+   "silent_scenes": 3
+  },
+  "POLICEMAN": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "KATIK": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 20,
+   "silent_scenes": 1
+  },
+  "CREWMAN": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 10,
+   "silent_scenes": 1
+  },
+  "ALEXANA": {
+   "speaking_scenes": 8,
+   "silent_scenes": 0
+  },
+  "FINN": {
+   "speaking_scenes": 10,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 4,
+   "silent_scenes": 1
+  },
+  "WESLEY": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 8,
+   "silent_scenes": 0
+  },
+  "VOICES": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "POLICE": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "161": {
+  "DATA": {
+   "speaking_scenes": 20,
+   "silent_scenes": 3
+  },
+  "GARIN": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "SCIENTIST": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 19,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 20,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 24,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 17,
+   "silent_scenes": 0
+  },
+  "Q": {
+   "speaking_scenes": 23,
+   "silent_scenes": 3
+  },
+  "TROI": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "WAITRESS": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "GUINAN": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "COMPUTER": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "VOICES": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "CREWMAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "Q2": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "ENSIGN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "162": {
+  "DATA": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 22,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 9,
+   "silent_scenes": 1
+  },
+  "RIKER": {
+   "speaking_scenes": 19,
+   "silent_scenes": 0
+  },
+  "O'BRIEN": {
+   "speaking_scenes": 10,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "KRAG": {
+   "speaking_scenes": 13,
+   "silent_scenes": 0
+  },
+  "APGAR": {
+   "speaking_scenes": 13,
+   "silent_scenes": 0
+  },
+  "MANUA": {
+   "speaking_scenes": 10,
+   "silent_scenes": 0
+  },
+  "TAYNA": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 4,
+   "silent_scenes": 1
+  },
+  "WESLEY": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "COMPUTER": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "163": {
+  "GUINAN": {
+   "speaking_scenes": 9,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 12,
+   "silent_scenes": 1
+  },
+  "PICARD": {
+   "speaking_scenes": 18,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 13,
+   "silent_scenes": 0
+  },
+  "WESLEY": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "TASHA": {
+   "speaking_scenes": 18,
+   "silent_scenes": 0
+  },
+  "CREWMAN": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "GARRETT": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 7,
+   "silent_scenes": 1
+  },
+  "CASTILLO": {
+   "speaking_scenes": 9,
+   "silent_scenes": 0
+  },
+  "CREWWOMAN": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "KLINGON": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "164": {
+  "LAFORGE": {
+   "speaking_scenes": 3,
+   "silent_scenes": 1
+  },
+  "TROI": {
+   "speaking_scenes": 10,
+   "silent_scenes": 1
+  },
+  "WESLEY": {
+   "speaking_scenes": 5,
+   "silent_scenes": 1
+  },
+  "DATA": {
+   "speaking_scenes": 22,
+   "silent_scenes": 0
+  },
+  "LAL": {
+   "speaking_scenes": 13,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 14,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "HAFTEL": {
+   "speaking_scenes": 9,
+   "silent_scenes": 0
+  },
+  "BALLARD": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "GUINAN": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "165": {
+  "PICARD": {
+   "speaking_scenes": 17,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 12,
+   "silent_scenes": 0
+  },
+  "CREWWOMAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "KURN": {
+   "speaking_scenes": 12,
+   "silent_scenes": 1
+  },
+  "WESLEY": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 12,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "K'MPEC": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "DURAS": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "COMPUTER": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "KAHLEST": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  }
+ },
+ "166": {
+  "DATA": {
+   "speaking_scenes": 6,
+   "silent_scenes": 1
+  },
+  "RIKER": {
+   "speaking_scenes": 10,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 5,
+   "silent_scenes": 2
+  },
+  "PICARD": {
+   "speaking_scenes": 10,
+   "silent_scenes": 3
+  },
+  "PICARD 2": {
+   "speaking_scenes": 11,
+   "silent_scenes": 0
+  },
+  "HARO": {
+   "speaking_scenes": 8,
+   "silent_scenes": 0
+  },
+  "THOLL": {
+   "speaking_scenes": 8,
+   "silent_scenes": 0
+  },
+  "WESLEY": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "ESOQQ": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "ALIEN 1": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "ALIEN 2": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "ALIEN 4": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "167": {
+  "COMPUTER": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "AJUR": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "BORATUS": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 11,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 24,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "VASH": {
+   "speaking_scenes": 10,
+   "silent_scenes": 1
+  },
+  "JOVAL": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "SOVAK": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  }
+ },
+ "168": {
+  "DATA": {
+   "speaking_scenes": 16,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 16,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 13,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 10,
+   "silent_scenes": 0
+  },
+  "DESOTO": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 11,
+   "silent_scenes": 1
+  },
+  "TAM": {
+   "speaking_scenes": 13,
+   "silent_scenes": 0
+  },
+  "O'BRIEN": {
+   "speaking_scenes": 2,
+   "silent_scenes": 1
+  },
+  "LAFORGE": {
+   "speaking_scenes": 10,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "WESLEY": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "COMPUTER": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "ROMULAN": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  }
+ },
+ "169": {
+  "GUINAN": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "BARCLAY": {
+   "speaking_scenes": 19,
+   "silent_scenes": 2
+  },
+  "LAFORGE": {
+   "speaking_scenes": 36,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 16,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 9,
+   "silent_scenes": 0
+  },
+  "CREWMAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "DUFFY": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "O'BRIEN": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 15,
+   "silent_scenes": 0
+  },
+  "WESLEY": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 10,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "COMPUTER": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "HOLO-PICARD": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "HOLO-DATA": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "HOLO-LAFORGE": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "HOLO-RIKER": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "HOLO-TROI": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  }
+ },
+ "170": {
+  "DATA": {
+   "speaking_scenes": 13,
+   "silent_scenes": 1
+  },
+  "PICARD": {
+   "speaking_scenes": 11,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 10,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 11,
+   "silent_scenes": 0
+  },
+  "VARRIA": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 12,
+   "silent_scenes": 0
+  },
+  "FAJO": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "WESLEY": {
+   "speaking_scenes": 9,
+   "silent_scenes": 0
+  },
+  "TASHA": {
+   "speaking_scenes": 0,
+   "silent_scenes": 1
+  },
+  "TROI": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "TOFF": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "COMPUTER": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "O'BRIEN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "171": {
+  "RIKER": {
+   "speaking_scenes": 12,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 16,
+   "silent_scenes": 0
+  },
+  "MENDROSSEN": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "SAKKATH": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "SAREK": {
+   "speaking_scenes": 10,
+   "silent_scenes": 1
+  },
+  "PERRIN": {
+   "speaking_scenes": 8,
+   "silent_scenes": 0
+  },
+  "O'BRIEN": {
+   "speaking_scenes": 2,
+   "silent_scenes": 1
+  },
+  "WESLEY": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 4,
+   "silent_scenes": 1
+  },
+  "CRUSHER": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "CREWMAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  }
+ },
+ "172": {
+  "RIKER": {
+   "speaking_scenes": 10,
+   "silent_scenes": 0
+  },
+  "WESLEY": {
+   "speaking_scenes": 9,
+   "silent_scenes": 0
+  },
+  "NIBOR": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 11,
+   "silent_scenes": 0
+  },
+  "GRAX": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 8,
+   "silent_scenes": 0
+  },
+  "LWAXANA": {
+   "speaking_scenes": 17,
+   "silent_scenes": 1
+  },
+  "TROI": {
+   "speaking_scenes": 11,
+   "silent_scenes": 2
+  },
+  "FAREK": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "TOG": {
+   "speaking_scenes": 12,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 8,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "COMPUTER": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "CREWWOMAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 1,
+   "silent_scenes": 1
+  },
+  "FERENGI": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "173": {
+  "LAFORGE": {
+   "speaking_scenes": 9,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "CHRISTI": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 16,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "TEMPLE": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 11,
+   "silent_scenes": 0
+  },
+  "JOHN": {
+   "speaking_scenes": 12,
+   "silent_scenes": 0
+  },
+  "O'BRIEN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "WESLEY": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "COMPUTER": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "SECURITY": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "SUNAD": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  }
+ },
+ "174": {
+  "RIKER": {
+   "speaking_scenes": 30,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 16,
+   "silent_scenes": 1
+  },
+  "O'BRIEN": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "HANSON": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "SHELBY": {
+   "speaking_scenes": 21,
+   "silent_scenes": 1
+  },
+  "PICARD": {
+   "speaking_scenes": 15,
+   "silent_scenes": 1
+  },
+  "WESLEY": {
+   "speaking_scenes": 8,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 13,
+   "silent_scenes": 1
+  },
+  "TROI": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 20,
+   "silent_scenes": 0
+  },
+  "BORG": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "COMPUTER": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "GUINAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  }
+ },
+ "175": {
+  "PICARD": {
+   "speaking_scenes": 10,
+   "silent_scenes": 5
+  },
+  "SHELBY": {
+   "speaking_scenes": 23,
+   "silent_scenes": 0
+  },
+  "HANSON": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 10,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 42,
+   "silent_scenes": 0
+  },
+  "WESLEY": {
+   "speaking_scenes": 12,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 13,
+   "silent_scenes": 1
+  },
+  "DATA": {
+   "speaking_scenes": 30,
+   "silent_scenes": 1
+  },
+  "WORF": {
+   "speaking_scenes": 16,
+   "silent_scenes": 2
+  },
+  "COMPUTER": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "GUINAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "GLEASON": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "O'BRIEN": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "CREWMAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "178": {
+  "RIKER": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 11,
+   "silent_scenes": 0
+  },
+  "O'BRIEN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "FEMALE": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "HELENA": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "SERGEY": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "RENE": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "MARIE": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "ROBERT": {
+   "speaking_scenes": 8,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "CREWWOMAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "ALL": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "LOUIS": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "GUINAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "WESLEY": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "COMPUTER": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "JACK": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "177": {
+  "RIKER": {
+   "speaking_scenes": 15,
+   "silent_scenes": 0
+  },
+  "JAKE POTTS": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 14,
+   "silent_scenes": 2
+  },
+  "LAFORGE": {
+   "speaking_scenes": 13,
+   "silent_scenes": 1
+  },
+  "PICARD": {
+   "speaking_scenes": 22,
+   "silent_scenes": 1
+  },
+  "WORF": {
+   "speaking_scenes": 12,
+   "silent_scenes": 2
+  },
+  "WESLEY": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "COMPUTER": {
+   "speaking_scenes": 10,
+   "silent_scenes": 0
+  },
+  "KOPF": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "O'BRIEN": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "WILLIE": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "SOONG": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "LORE": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  }
+ },
+ "176": {
+  "WORF": {
+   "speaking_scenes": 9,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 22,
+   "silent_scenes": 2
+  },
+  "RIKER": {
+   "speaking_scenes": 11,
+   "silent_scenes": 1
+  },
+  "DATA": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "WESLEY": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 7,
+   "silent_scenes": 1
+  },
+  "CRUSHER": {
+   "speaking_scenes": 8,
+   "silent_scenes": 0
+  },
+  "CHIEF": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "NURSE": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "JONO": {
+   "speaking_scenes": 13,
+   "silent_scenes": 0
+  },
+  "COMPUTER": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "CONNOR": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "MOIRA": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "JEREMIAH": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "ENDAR": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "CONNAUGHT": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "WAITER": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  }
+ },
+ "179": {
+  "CRUSHER": {
+   "speaking_scenes": 27,
+   "silent_scenes": 2
+  },
+  "QUAICE": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "O'BRIEN": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 9,
+   "silent_scenes": 0
+  },
+  "WESLEY": {
+   "speaking_scenes": 10,
+   "silent_scenes": 2
+  },
+  "COMPUTER": {
+   "speaking_scenes": 11,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 13,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 14,
+   "silent_scenes": 1
+  },
+  "TROI": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "TRAVELLER": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  }
+ },
+ "180": {
+  "WORF": {
+   "speaking_scenes": 14,
+   "silent_scenes": 2
+  },
+  "RIKER": {
+   "speaking_scenes": 22,
+   "silent_scenes": 1
+  },
+  "TROI": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 21,
+   "silent_scenes": 1
+  },
+  "PICARD": {
+   "speaking_scenes": 12,
+   "silent_scenes": 0
+  },
+  "TAN TSU": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "O'BRIEN": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 8,
+   "silent_scenes": 0
+  },
+  "PASSER-BY": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "MAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "HAYNE": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "ISHARA": {
+   "speaking_scenes": 19,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 5,
+   "silent_scenes": 1
+  },
+  "GUARD": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "GIRL": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "WOMAN": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "GUARD 2": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "181": {
+  "RIKER": {
+   "speaking_scenes": 9,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 12,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 17,
+   "silent_scenes": 2
+  },
+  "WESLEY": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "K'EHLEYR": {
+   "speaking_scenes": 15,
+   "silent_scenes": 2
+  },
+  "CHIEF": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "K'MPEC": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "ALEXANDER": {
+   "speaking_scenes": 5,
+   "silent_scenes": 1
+  },
+  "DURAS": {
+   "speaking_scenes": 8,
+   "silent_scenes": 0
+  },
+  "GOWRON": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "COMPUTER": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "KLINGON": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "GUARD": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  }
+ },
+ "182": {
+  "LAFORGE": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 9,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 8,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 38,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 21,
+   "silent_scenes": 1
+  },
+  "DATA": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "CREWMAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "HUBBLE": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "OGAWA": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "COMPUTER": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "JEAN-LUC": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "JEAN LUC": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "CHIEF": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "TOMALAK": {
+   "speaking_scenes": 10,
+   "silent_scenes": 0
+  },
+  "ETHAN": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  }
+ },
+ "183": {
+  "WESLEY": {
+   "speaking_scenes": 12,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 11,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "SONGI": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "DIRGO": {
+   "speaking_scenes": 8,
+   "silent_scenes": 0
+  },
+  "ALLENBY": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "COMPUTER": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "OGAWA": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "184": {
+  "BROOKS": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 21,
+   "silent_scenes": 1
+  },
+  "PICARD": {
+   "speaking_scenes": 17,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 24,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 8,
+   "silent_scenes": 0
+  },
+  "ALLENBY": {
+   "speaking_scenes": 13,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 18,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 24,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "COMPUTER": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "GUINAN": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  }
+ },
+ "185": {
+  "DATA": {
+   "speaking_scenes": 30,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "KEIKO": {
+   "speaking_scenes": 3,
+   "silent_scenes": 1
+  },
+  "O'BRIEN": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "TECHNICIAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "T'PEL": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 11,
+   "silent_scenes": 0
+  },
+  "V'SAL": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "COMPUTER": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "NURSE": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "HELM": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "MENDAK": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  }
+ },
+ "186": {
+  "DATA": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 13,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 8,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 2,
+   "silent_scenes": 1
+  },
+  "WORF": {
+   "speaking_scenes": 9,
+   "silent_scenes": 0
+  },
+  "O'BRIEN": {
+   "speaking_scenes": 10,
+   "silent_scenes": 1
+  },
+  "KEIKO": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "COMPUTER": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "MACET": {
+   "speaking_scenes": 9,
+   "silent_scenes": 0
+  },
+  "HADEN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "DARO": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "WAITER": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "TELLE": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "MAXWELL": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "ENSIGN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "BOTH": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "187": {
+  "MARLEY": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 10,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 22,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 8,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 11,
+   "silent_scenes": 1
+  },
+  "CLARK": {
+   "speaking_scenes": 8,
+   "silent_scenes": 0
+  },
+  "CHIEF": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "JARED": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "ARDRA": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "FEK'LHR": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "CREWMAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "DEVIL": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "188": {
+  "GUINAN": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "MADELINE": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "JOHNNY": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 23,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 16,
+   "silent_scenes": 0
+  },
+  "MCKNIGHT": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 13,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 8,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 17,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 13,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 8,
+   "silent_scenes": 1
+  },
+  "O'BRIEN": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "OGAWA": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "COMPUTER": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "189": {
+  "NURSE": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "TAVA": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "NILREM": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 6,
+   "silent_scenes": 1
+  },
+  "BEREL": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "VOICE": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "MIRASTA": {
+   "speaking_scenes": 10,
+   "silent_scenes": 0
+  },
+  "DURKEN": {
+   "speaking_scenes": 9,
+   "silent_scenes": 0
+  },
+  "KROLA": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 9,
+   "silent_scenes": 1
+  },
+  "TROI": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "MALE": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "LANEL": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 1,
+   "silent_scenes": 1
+  }
+ },
+ "190": {
+  "PICARD": {
+   "speaking_scenes": 17,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 28,
+   "silent_scenes": 0
+  },
+  "GUINAN": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "CREWWOMAN": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "LEAH": {
+   "speaking_scenes": 21,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 14,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 13,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 13,
+   "silent_scenes": 0
+  },
+  "RAGER": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 4,
+   "silent_scenes": 1
+  },
+  "COMPUTER": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "PAVLIK": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "HOLO LEAH": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "191": {
+  "PICARD": {
+   "speaking_scenes": 18,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 9,
+   "silent_scenes": 2
+  },
+  "DATA": {
+   "speaking_scenes": 25,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 18,
+   "silent_scenes": 2
+  },
+  "WORF": {
+   "speaking_scenes": 7,
+   "silent_scenes": 1
+  },
+  "CRUSHER": {
+   "speaking_scenes": 13,
+   "silent_scenes": 0
+  },
+  "HAGAN": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "ZAHEVA": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "VOICE": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "PEEPLES": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "KEIKO": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "O'BRIEN": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "GILLESPIE": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "RAGER": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "LIN": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "MEDIC": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "GUINAN": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "SECURITY": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "192": {
+  "BREVELLE": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "SUSANNA": {
+   "speaking_scenes": 15,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 17,
+   "silent_scenes": 0
+  },
+  "HICKMAN": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 10,
+   "silent_scenes": 1
+  },
+  "RIKER": {
+   "speaking_scenes": 10,
+   "silent_scenes": 0
+  },
+  "GRAHAM": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 10,
+   "silent_scenes": 1
+  },
+  "CRUSHER": {
+   "speaking_scenes": 13,
+   "silent_scenes": 0
+  },
+  "OGAWA": {
+   "speaking_scenes": 2,
+   "silent_scenes": 1
+  },
+  "COMPUTER": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "HOLO-SUZ": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "HEDRICK": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  }
+ },
+ "193": {
+  "CRUSHER": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "BARCLAY": {
+   "speaking_scenes": 28,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 20,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 12,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 24,
+   "silent_scenes": 1
+  },
+  "WORF": {
+   "speaking_scenes": 12,
+   "silent_scenes": 1
+  },
+  "PICARD": {
+   "speaking_scenes": 17,
+   "silent_scenes": 0
+  },
+  "ANAYA": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "LARSON": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "COMPUTER": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "EINSTEIN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "BROWER": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "ALIEN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "194": {
+  "PICARD": {
+   "speaking_scenes": 19,
+   "silent_scenes": 1
+  },
+  "TROI": {
+   "speaking_scenes": 5,
+   "silent_scenes": 3
+  },
+  "VASH": {
+   "speaking_scenes": 14,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 4,
+   "silent_scenes": 1
+  },
+  "RIKER": {
+   "speaking_scenes": 8,
+   "silent_scenes": 1
+  },
+  "CREWMAN": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 3,
+   "silent_scenes": 1
+  },
+  "DATA": {
+   "speaking_scenes": 4,
+   "silent_scenes": 2
+  },
+  "WORF": {
+   "speaking_scenes": 4,
+   "silent_scenes": 1
+  },
+  "Q": {
+   "speaking_scenes": 9,
+   "silent_scenes": 1
+  },
+  "SIR GUY": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "NURSE": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "RABBLE": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "COMPUTER": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "195": {
+  "RIKER": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "J'DAN": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 8,
+   "silent_scenes": 1
+  },
+  "SATIE": {
+   "speaking_scenes": 13,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 17,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "SABIN": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "TARSES": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "NELLEN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "196": {
+  "LWAXANA": {
+   "speaking_scenes": 15,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 14,
+   "silent_scenes": 0
+  },
+  "TIMICIN": {
+   "speaking_scenes": 21,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 15,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 11,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 8,
+   "silent_scenes": 0
+  },
+  "ENSIGN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "B'TARDAT": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "O'BRIEN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "DARA": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "197": {
+  "DATA": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 20,
+   "silent_scenes": 0
+  },
+  "ODAN": {
+   "speaking_scenes": 9,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 15,
+   "silent_scenes": 0
+  },
+  "LEKA": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "WOMAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "TAGGART": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 17,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "OGAWA": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "NURSE": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "KALIN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "LATHAL": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "COMPUTER": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "KAREEL": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  }
+ },
+ "198": {
+  "LAFORGE": {
+   "speaking_scenes": 22,
+   "silent_scenes": 1
+  },
+  "COMPUTER": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "KELL": {
+   "speaking_scenes": 10,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 9,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 7,
+   "silent_scenes": 1
+  },
+  "TAIBAK": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "WOMAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "O'BRIEN": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "CREWMAN": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 21,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "VAGH": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 1,
+   "silent_scenes": 1
+  }
+ },
+ "199": {
+  "DATA": {
+   "speaking_scenes": 27,
+   "silent_scenes": 0
+  },
+  "JENNA": {
+   "speaking_scenes": 8,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 17,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 10,
+   "silent_scenes": 0
+  },
+  "O'BRIEN": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "KEIKO": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "MILES": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 25,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "GUINAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 10,
+   "silent_scenes": 0
+  },
+  "COMPUTER": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "MCKNIGHT": {
+   "speaking_scenes": 8,
+   "silent_scenes": 0
+  },
+  "THORNE": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "200": {
+  "WORF": {
+   "speaking_scenes": 15,
+   "silent_scenes": 3
+  },
+  "PICARD": {
+   "speaking_scenes": 17,
+   "silent_scenes": 1
+  },
+  "RIKER": {
+   "speaking_scenes": 10,
+   "silent_scenes": 0
+  },
+  "GOWRON": {
+   "speaking_scenes": 11,
+   "silent_scenes": 1
+  },
+  "DATA": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "GUINAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "COMPUTER": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "KURN": {
+   "speaking_scenes": 3,
+   "silent_scenes": 1
+  },
+  "K'TAL": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "TORAL": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "B'ETOR": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "LURSA": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "MOVAR": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "WOMAN": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "KLINGON": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "HELMSMAN": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "ALL": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "TASHA": {
+   "speaking_scenes": 0,
+   "silent_scenes": 1
+  }
+ },
+ "201": {
+  "GOWRON": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 17,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 7,
+   "silent_scenes": 1
+  },
+  "LURSA": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "TORAL": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "MOVAR": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "WOMAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "KURN": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "HELM": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "SHANTHI": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 8,
+   "silent_scenes": 0
+  },
+  "LARG": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "B'ETOR": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "HOBSON": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "O'BRIEN": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "SELA": {
+   "speaking_scenes": 8,
+   "silent_scenes": 0
+  },
+  "KULGE": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "GUINAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "ROMULAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "CRAIG": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "202": {
+  "PICARD": {
+   "speaking_scenes": 13,
+   "silent_scenes": 2
+  },
+  "DATA": {
+   "speaking_scenes": 13,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 25,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 16,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "DATHON": {
+   "speaking_scenes": 9,
+   "silent_scenes": 0
+  },
+  "TAMARIAN": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 10,
+   "silent_scenes": 0
+  },
+  "COMPUTER": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "LEFLER": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "O'BRIEN": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "203": {
+  "MOT": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 19,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 13,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 8,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 8,
+   "silent_scenes": 0
+  },
+  "MAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "KENNELLY": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "RO": {
+   "speaking_scenes": 14,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 1,
+   "silent_scenes": 1
+  },
+  "TROI": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "KEEVE": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "GUINAN": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "CREWWOMAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "COMPUTER": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "COLLINS": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "CHIEF": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "BAJORAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "ORTA": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "WOMAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "DOLAK": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "204": {
+  "CARMEN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 10,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 16,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 10,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "MARR": {
+   "speaking_scenes": 15,
+   "silent_scenes": 0
+  },
+  "CAPTAIN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "HELM": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "205": {
+  "O'BRIEN": {
+   "speaking_scenes": 8,
+   "silent_scenes": 0
+  },
+  "KEIKO": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 8,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 7,
+   "silent_scenes": 1
+  },
+  "PATTERSON": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "JAY GORDON": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "MONROE": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "MANDEL": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "RO": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "CREWMAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "MARISSA": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "ALL": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "206": {
+  "RIKER": {
+   "speaking_scenes": 14,
+   "silent_scenes": 1
+  },
+  "ETANA": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 10,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 9,
+   "silent_scenes": 0
+  },
+  "ROBIN": {
+   "speaking_scenes": 10,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 2,
+   "silent_scenes": 1
+  },
+  "WESLEY": {
+   "speaking_scenes": 19,
+   "silent_scenes": 3
+  },
+  "O'BRIEN": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 6,
+   "silent_scenes": 3
+  },
+  "ALL": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 8,
+   "silent_scenes": 0
+  },
+  "COMPUTER": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "WOMAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "OGAWA": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "SECURITY": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  }
+ },
+ "208": {
+  "BRACKETT": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 16,
+   "silent_scenes": 0
+  },
+  "COMPUTER": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "PERRIN": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "SAREK": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "B'IJIK": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "K'VADA": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "KLINGON": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "DOKACHIN": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "NERAL": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "PARDEK": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "WOMAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "MAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "LADY": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "ROMULAN 1": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "SPOCK": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "207": {
+  "BRACKETT": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "SAREK": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 15,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 11,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "K'VADA": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "NERAL": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "ROMULAN 1": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "SPOCK": {
+   "speaking_scenes": 17,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 9,
+   "silent_scenes": 0
+  },
+  "D'TAN": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "PARDEK": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "AMARIE": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "WOMAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "WOMAN 2": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "OMAG": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "ENSIGN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "SELA": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "HOLO-SPOCK": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "VARIOUS": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "209": {
+  "LAFORGE": {
+   "speaking_scenes": 14,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 18,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 20,
+   "silent_scenes": 1
+  },
+  "PICARD": {
+   "speaking_scenes": 16,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 12,
+   "silent_scenes": 0
+  },
+  "ENSIGN": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "RASMUSSEN": {
+   "speaking_scenes": 18,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "MOSELEY": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "WOMAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "210": {
+  "LAFORGE": {
+   "speaking_scenes": 8,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 11,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 25,
+   "silent_scenes": 0
+  },
+  "CREWWOMAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "HELENA": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "ALEXANDER": {
+   "speaking_scenes": 9,
+   "silent_scenes": 1
+  },
+  "MRS KYLE": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 10,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "JA'DAR": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 14,
+   "silent_scenes": 1
+  },
+  "TROI": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "FELTON": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "COMPUTER": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  }
+ },
+ "211": {
+  "FELTON": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 21,
+   "silent_scenes": 2
+  },
+  "PICARD": {
+   "speaking_scenes": 20,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 9,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 12,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 14,
+   "silent_scenes": 1
+  },
+  "TIMOTHY": {
+   "speaking_scenes": 17,
+   "silent_scenes": 0
+  },
+  "HUTCHINSON": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 12,
+   "silent_scenes": 1
+  },
+  "TEACHER": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  }
+ },
+ "212": {
+  "KEIKO": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "TARMIN": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 9,
+   "silent_scenes": 0
+  },
+  "JEV": {
+   "speaking_scenes": 13,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 13,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 9,
+   "silent_scenes": 2
+  },
+  "DATA": {
+   "speaking_scenes": 11,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 14,
+   "silent_scenes": 0
+  },
+  "INAD": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 3,
+   "silent_scenes": 2
+  },
+  "TROI": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "MARTIN (VIOLATIONS)": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "DAVIS": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "COMPUTER": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  }
+ },
+ "213": {
+  "RIKER": {
+   "speaking_scenes": 10,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 13,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 8,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 17,
+   "silent_scenes": 0
+  },
+  "CONOR": {
+   "speaking_scenes": 14,
+   "silent_scenes": 0
+  },
+  "MARTIN BENBECK": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 11,
+   "silent_scenes": 1
+  },
+  "HANNAH": {
+   "speaking_scenes": 18,
+   "silent_scenes": 0
+  },
+  "CREWMAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "FELTON": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "214": {
+  "DATA": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 10,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "KRISTIN": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 16,
+   "silent_scenes": 0
+  },
+  "RO": {
+   "speaking_scenes": 13,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 14,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 12,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 13,
+   "silent_scenes": 0
+  },
+  "MACDUFF": {
+   "speaking_scenes": 13,
+   "silent_scenes": 0
+  },
+  "CREWMAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "COMPUTER": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "215": {
+  "DATA": {
+   "speaking_scenes": 22,
+   "silent_scenes": 2
+  },
+  "PICARD": {
+   "speaking_scenes": 42,
+   "silent_scenes": 1
+  },
+  "WORF": {
+   "speaking_scenes": 12,
+   "silent_scenes": 3
+  },
+  "RIKER": {
+   "speaking_scenes": 37,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 30,
+   "silent_scenes": 1
+  },
+  "RO": {
+   "speaking_scenes": 15,
+   "silent_scenes": 1
+  },
+  "LAFORGE": {
+   "speaking_scenes": 15,
+   "silent_scenes": 0
+  },
+  "O'BRIEN": {
+   "speaking_scenes": 23,
+   "silent_scenes": 1
+  },
+  "CRUSHER": {
+   "speaking_scenes": 10,
+   "silent_scenes": 0
+  },
+  "KEIKO": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "CREWMAN": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "SECURITY": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "216": {
+  "LAFORGE": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 8,
+   "silent_scenes": 2
+  },
+  "CREWMAN": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "CREWWOMAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 17,
+   "silent_scenes": 0
+  },
+  "RUSSELL": {
+   "speaking_scenes": 11,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 8,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "ALEXANDER": {
+   "speaking_scenes": 6,
+   "silent_scenes": 2
+  },
+  "TROI": {
+   "speaking_scenes": 6,
+   "silent_scenes": 1
+  },
+  "MEDIC": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "OGAWA": {
+   "speaking_scenes": 3,
+   "silent_scenes": 1
+  }
+ },
+ "217": {
+  "DATA": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "SOREN": {
+   "speaking_scenes": 15,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 20,
+   "silent_scenes": 1
+  },
+  "KRITE": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 3,
+   "silent_scenes": 2
+  },
+  "NOOR": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "MEDIC": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "ENSIGN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "218": {
+  "RIKER": {
+   "speaking_scenes": 13,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 24,
+   "silent_scenes": 1
+  },
+  "DATA": {
+   "speaking_scenes": 16,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 18,
+   "silent_scenes": 0
+  },
+  "RO": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 14,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 12,
+   "silent_scenes": 0
+  },
+  "OGAWA": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "BATESON": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "219": {
+  "WORF": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 12,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 2,
+   "silent_scenes": 1
+  },
+  "TROI": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "BRAND": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 4,
+   "silent_scenes": 2
+  },
+  "WESLEY": {
+   "speaking_scenes": 9,
+   "silent_scenes": 0
+  },
+  "LOCARNO": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "BOOTHBY": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "CADET": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "SITO": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "HAJAR": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "SATELK": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "ALBERT": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "220": {
+  "WORF": {
+   "speaking_scenes": 11,
+   "silent_scenes": 1
+  },
+  "PICARD": {
+   "speaking_scenes": 11,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 10,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 9,
+   "silent_scenes": 0
+  },
+  "ENSIGN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "ALEXANDER": {
+   "speaking_scenes": 10,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 8,
+   "silent_scenes": 0
+  },
+  "LWAXANA": {
+   "speaking_scenes": 13,
+   "silent_scenes": 1
+  },
+  "COMPUTER": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "JUGGLER": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "YOUNG MAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "YOUNG WOMAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "POET": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "WOMAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "MAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "ALL": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 13,
+   "silent_scenes": 0
+  },
+  "CHIEF": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "CAMPIO": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "ERKO": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  }
+ },
+ "221": {
+  "PICARD": {
+   "speaking_scenes": 22,
+   "silent_scenes": 1
+  },
+  "BRIAM": {
+   "speaking_scenes": 10,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 11,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 8,
+   "silent_scenes": 0
+  },
+  "CREWWOMAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "OFFICER": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "QOL": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "LENOR": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "COMPUTER": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "KAMALA": {
+   "speaking_scenes": 13,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "MINER 1": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "MINER 2": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "MINER 3": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "MEDIC": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "ALRIK": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "222": {
+  "CLARA": {
+   "speaking_scenes": 18,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 13,
+   "silent_scenes": 0
+  },
+  "SUTTER": {
+   "speaking_scenes": 12,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 14,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 9,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 16,
+   "silent_scenes": 0
+  },
+  "FELTON": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 9,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "OGAWA": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "ISABELLA": {
+   "speaking_scenes": 8,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 10,
+   "silent_scenes": 1
+  },
+  "GUINAN": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "ALEXANDER": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "TEACHER": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "223": {
+  "RIKER": {
+   "speaking_scenes": 9,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 3,
+   "silent_scenes": 1
+  },
+  "DATA": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 21,
+   "silent_scenes": 1
+  },
+  "CRUSHER": {
+   "speaking_scenes": 13,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 15,
+   "silent_scenes": 0
+  },
+  "SECURITY": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "GUINAN": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "HUGH": {
+   "speaking_scenes": 9,
+   "silent_scenes": 0
+  },
+  "CREWMAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "224": {
+  "PICARD": {
+   "speaking_scenes": 14,
+   "silent_scenes": 2
+  },
+  "DATA": {
+   "speaking_scenes": 14,
+   "silent_scenes": 1
+  },
+  "MCDOWELL": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "ROMULAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 16,
+   "silent_scenes": 0
+  },
+  "RO": {
+   "speaking_scenes": 16,
+   "silent_scenes": 1
+  },
+  "LAFORGE": {
+   "speaking_scenes": 13,
+   "silent_scenes": 1
+  },
+  "WORF": {
+   "speaking_scenes": 4,
+   "silent_scenes": 1
+  },
+  "VOICES": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "MIROK": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "VAREL": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "BROSSMER": {
+   "speaking_scenes": 12,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 0,
+   "silent_scenes": 1
+  },
+  "CRUSHER": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "PAREM": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "MAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "ENSIGN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "225": {
+  "PICARD": {
+   "speaking_scenes": 16,
+   "silent_scenes": 2
+  },
+  "DATA": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "ELINE": {
+   "speaking_scenes": 10,
+   "silent_scenes": 0
+  },
+  "BATAI": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "ENSIGN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "ADMINISTRATOR": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "MAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "OGAWA": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "MERIBOR": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "BATAI JR": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "DOCTOR": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "226": {
+  "SCIENTIST": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 11,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 30,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 12,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 11,
+   "silent_scenes": 0
+  },
+  "GUINAN": {
+   "speaking_scenes": 5,
+   "silent_scenes": 1
+  },
+  "TROI": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "MAN": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "BEGGAR": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "BELLBOY": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "GAMBLER": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "SEAMAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "NATIVE": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "CLEMENS": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "DOORMAN": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "CREWMAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "227": {
+  "LAFORGE": {
+   "speaking_scenes": 12,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 9,
+   "silent_scenes": 1
+  },
+  "GUINAN": {
+   "speaking_scenes": 7,
+   "silent_scenes": 2
+  },
+  "CLEMENS": {
+   "speaking_scenes": 14,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 15,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 12,
+   "silent_scenes": 2
+  },
+  "REPORTER": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 8,
+   "silent_scenes": 1
+  },
+  "TROI": {
+   "speaking_scenes": 9,
+   "silent_scenes": 1
+  },
+  "CARMICHAEL": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "BELLBOY": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "DOCTOR": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "POLICEMAN": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 5,
+   "silent_scenes": 1
+  },
+  "ALIEN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "COMPUTER": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  }
+ },
+ "228": {
+  "PICARD": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 8,
+   "silent_scenes": 1
+  },
+  "WORF": {
+   "speaking_scenes": 4,
+   "silent_scenes": 1
+  },
+  "DATA": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 14,
+   "silent_scenes": 1
+  },
+  "BARCLAY": {
+   "speaking_scenes": 20,
+   "silent_scenes": 1
+  },
+  "O'BRIEN": {
+   "speaking_scenes": 9,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 9,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "HAYES": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "OGAWA": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "COMPUTER": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "CREWMAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "229": {
+  "DATA": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 14,
+   "silent_scenes": 1
+  },
+  "WORF": {
+   "speaking_scenes": 8,
+   "silent_scenes": 1
+  },
+  "PICARD": {
+   "speaking_scenes": 17,
+   "silent_scenes": 0
+  },
+  "TALMADGE": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 18,
+   "silent_scenes": 5
+  },
+  "ALKAR": {
+   "speaking_scenes": 19,
+   "silent_scenes": 0
+  },
+  "MAYLOR": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "SIMONS": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 13,
+   "silent_scenes": 0
+  },
+  "COMPUTER": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "ENSIGN": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "CREWMAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "JARTH": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "LIVA": {
+   "speaking_scenes": 10,
+   "silent_scenes": 0
+  },
+  "JANEWAY": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "CHIEF": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "OGAWA": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  }
+ },
+ "230": {
+  "DATA": {
+   "speaking_scenes": 11,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 14,
+   "silent_scenes": 0
+  },
+  "RAGER": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 7,
+   "silent_scenes": 2
+  },
+  "LAFORGE": {
+   "speaking_scenes": 18,
+   "silent_scenes": 0
+  },
+  "SCOTT": {
+   "speaking_scenes": 20,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "KANE": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "BARTEL": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "WAITER": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "COMPUTER": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "CHIEF": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "231": {
+  "LAFORGE": {
+   "speaking_scenes": 24,
+   "silent_scenes": 0
+  },
+  "SHIPLEY": {
+   "speaking_scenes": 8,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 15,
+   "silent_scenes": 8
+  },
+  "DATA": {
+   "speaking_scenes": 22,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 4,
+   "silent_scenes": 1
+  },
+  "CRUSHER": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "ENGINEER": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "CREWMAN": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "MOT": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "COMPUTER": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "RAGER": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 10,
+   "silent_scenes": 1
+  },
+  "KAMINER": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "MEDIC": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "232": {
+  "PICARD": {
+   "speaking_scenes": 12,
+   "silent_scenes": 0
+  },
+  "AMANDA": {
+   "speaking_scenes": 17,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 11,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 11,
+   "silent_scenes": 0
+  },
+  "MEDIC": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 5,
+   "silent_scenes": 1
+  },
+  "DATA": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "Q": {
+   "speaking_scenes": 15,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "LOTE": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "WOMAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  }
+ },
+ "233": {
+  "PICARD": {
+   "speaking_scenes": 4,
+   "silent_scenes": 9
+  },
+  "GUINAN": {
+   "speaking_scenes": 2,
+   "silent_scenes": 2
+  },
+  "RO": {
+   "speaking_scenes": 2,
+   "silent_scenes": 2
+  },
+  "KEIKO": {
+   "speaking_scenes": 1,
+   "silent_scenes": 5
+  },
+  "WORF": {
+   "speaking_scenes": 6,
+   "silent_scenes": 1
+  },
+  "RIKER": {
+   "speaking_scenes": 16,
+   "silent_scenes": 1
+  },
+  "O'BRIEN": {
+   "speaking_scenes": 11,
+   "silent_scenes": 1
+  },
+  "COMPUTER": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "PICARD JR": {
+   "speaking_scenes": 17,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "RO JR": {
+   "speaking_scenes": 9,
+   "silent_scenes": 0
+  },
+  "GUINAN JR": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "KEIKO JR": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "MOLLY": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 4,
+   "silent_scenes": 1
+  },
+  "FERENGI": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "BERIK": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "MORTA": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "LURIN": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "ALEXANDER": {
+   "speaking_scenes": 4,
+   "silent_scenes": 2
+  },
+  "CHILD": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "234": {
+  "PICARD": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 13,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 13,
+   "silent_scenes": 0
+  },
+  "ALEXANDER": {
+   "speaking_scenes": 8,
+   "silent_scenes": 2
+  },
+  "ELI": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "BANDITO": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "ANNIE": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "COMPUTER": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  }
+ },
+ "235": {
+  "WORF": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 18,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 12,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 10,
+   "silent_scenes": 1
+  },
+  "FARALLON": {
+   "speaking_scenes": 20,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 23,
+   "silent_scenes": 0
+  },
+  "KELSO": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "PIERSON": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "COMPUTER": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "236": {
+  "PICARD": {
+   "speaking_scenes": 15,
+   "silent_scenes": 1
+  },
+  "RIKER": {
+   "speaking_scenes": 14,
+   "silent_scenes": 0
+  },
+  "NECHAYEV": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "SOLDIER": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 10,
+   "silent_scenes": 1
+  },
+  "CRUSHER": {
+   "speaking_scenes": 11,
+   "silent_scenes": 0
+  },
+  "JELLICO": {
+   "speaking_scenes": 14,
+   "silent_scenes": 0
+  },
+  "COMPUTER": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "SOLOK": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "LEMEC": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "CARDASSIAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "MADRED": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "237": {
+  "PICARD": {
+   "speaking_scenes": 11,
+   "silent_scenes": 0
+  },
+  "JELLICO": {
+   "speaking_scenes": 13,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "MADRED": {
+   "speaking_scenes": 9,
+   "silent_scenes": 0
+  },
+  "LEMEC": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 2,
+   "silent_scenes": 1
+  },
+  "DATA": {
+   "speaking_scenes": 3,
+   "silent_scenes": 1
+  },
+  "LAFORGE": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "JIL ORRA": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "COMPUTER": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "238": {
+  "DATA": {
+   "speaking_scenes": 20,
+   "silent_scenes": 0
+  },
+  "GENTLEMAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 8,
+   "silent_scenes": 0
+  },
+  "BARCLAY": {
+   "speaking_scenes": 18,
+   "silent_scenes": 1
+  },
+  "COMPUTER": {
+   "speaking_scenes": 8,
+   "silent_scenes": 0
+  },
+  "MORIARTY": {
+   "speaking_scenes": 13,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 17,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 12,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "COUNTESS": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  }
+ },
+ "239": {
+  "CRUSHER": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 20,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 12,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 9,
+   "silent_scenes": 0
+  },
+  "AQUIEL": {
+   "speaking_scenes": 14,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 8,
+   "silent_scenes": 0
+  },
+  "COMPUTER": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "TORAK": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "BARMAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "MORAG": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "240": {
+  "TROI": {
+   "speaking_scenes": 15,
+   "silent_scenes": 0
+  },
+  "N'VEK": {
+   "speaking_scenes": 12,
+   "silent_scenes": 0
+  },
+  "TORETH": {
+   "speaking_scenes": 10,
+   "silent_scenes": 0
+  },
+  "PILOT": {
+   "speaking_scenes": 8,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 9,
+   "silent_scenes": 0
+  },
+  "DESEVE": {
+   "speaking_scenes": 8,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 12,
+   "silent_scenes": 0
+  },
+  "ALIEN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "MCKNIGHT": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "MEDIC": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "241": {
+  "CRUSHER": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "MEDIC": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "CREWMAN": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 16,
+   "silent_scenes": 2
+  },
+  "Q": {
+   "speaking_scenes": 10,
+   "silent_scenes": 0
+  },
+  "MAURICE": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "WOMAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "CREWWOMAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "MAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "MARTA": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "COREY": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "COMPUTER": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "PENNY": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "NAUSICAAN 1": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "NAUSICAAN": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "242": {
+  "CRUSHER": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 10,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 11,
+   "silent_scenes": 2
+  },
+  "RIKER": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "BASHIR": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "SHREK": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "BA'EL": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "ROMULAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "SOONG": {
+   "speaking_scenes": 1,
+   "silent_scenes": 1
+  },
+  "L'KOR": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "GI'RAL": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "243": {
+  "SHREK": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 17,
+   "silent_scenes": 1
+  },
+  "TROI": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "BA'EL": {
+   "speaking_scenes": 10,
+   "silent_scenes": 0
+  },
+  "GI'RAL": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "L'KOR": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "TOQ": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "TOKATH": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "ROMULAN": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "BOY": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "ALL": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "244": {
+  "CREWWOMAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 25,
+   "silent_scenes": 7
+  },
+  "CREWMAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 8,
+   "silent_scenes": 1
+  },
+  "DATA": {
+   "speaking_scenes": 11,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "COMPUTER": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "ORTON": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "KELSEY": {
+   "speaking_scenes": 26,
+   "silent_scenes": 0
+  },
+  "NEIL": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "KIROS": {
+   "speaking_scenes": 8,
+   "silent_scenes": 0
+  },
+  "DEVOR": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "HUTCH": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "MAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "WAITER": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "SATLER": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "POMET": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  }
+ },
+ "245": {
+  "PICARD": {
+   "speaking_scenes": 27,
+   "silent_scenes": 1
+  },
+  "DATA": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "COMPUTER": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "NELLA": {
+   "speaking_scenes": 17,
+   "silent_scenes": 0
+  },
+  "MARQUEZ": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 12,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 1,
+   "silent_scenes": 1
+  },
+  "LAFORGE": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "HELM": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "CREWWOMAN": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "ENSIGN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "CREWMAN": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  }
+ },
+ "246": {
+  "DATA": {
+   "speaking_scenes": 13,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 23,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 12,
+   "silent_scenes": 0
+  },
+  "GALEN": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 9,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "CREWMAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "COMPUTER": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "OCETT": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "KLINGON": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "NU'DAQ": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "ENSIGN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "ROMULAN": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "HUMANOID": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "247": {
+  "RIKER": {
+   "speaking_scenes": 26,
+   "silent_scenes": 1
+  },
+  "DOCTOR": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 8,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 4,
+   "silent_scenes": 2
+  },
+  "WORF": {
+   "speaking_scenes": 6,
+   "silent_scenes": 2
+  },
+  "CREWMAN": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "MEDIC": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "NURSE": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "CROWD": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "SYRUS": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "MAVEK": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "JAYA": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "LIEUTENANT": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "SUNA": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  }
+ },
+ "248": {
+  "CRUSHER": {
+   "speaking_scenes": 26,
+   "silent_scenes": 0
+  },
+  "GUINAN": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "REYGA": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "T'PAN": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "KURAK": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "CHRISTOPHER": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "JO'BRIL": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "OGAWA": {
+   "speaking_scenes": 4,
+   "silent_scenes": 1
+  },
+  "LAFORGE": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "COMPUTER": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "249": {
+  "DATA": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "COMPUTER": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "SECURITY": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 14,
+   "silent_scenes": 3
+  },
+  "PICARD": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "DIVOK": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "KOROTH": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "KAHLESS": {
+   "speaking_scenes": 10,
+   "silent_scenes": 0
+  },
+  "TORIN": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "ALL": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "KLINGON": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "GOWRON": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  }
+ },
+ "250": {
+  "RIKER": {
+   "speaking_scenes": 13,
+   "silent_scenes": 1
+  },
+  "TROI": {
+   "speaking_scenes": 12,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 8,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "RIKER 2": {
+   "speaking_scenes": 13,
+   "silent_scenes": 0
+  },
+  "CREWMAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "PALMER": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "WAITER": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "CREWWOMAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "251": {
+  "CRUSHER": {
+   "speaking_scenes": 2,
+   "silent_scenes": 1
+  },
+  "RIKER": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 2,
+   "silent_scenes": 2
+  },
+  "DATA": {
+   "speaking_scenes": 27,
+   "silent_scenes": 0
+  },
+  "COMPUTER": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 14,
+   "silent_scenes": 3
+  },
+  "LAFORGE": {
+   "speaking_scenes": 15,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 24,
+   "silent_scenes": 1
+  },
+  "ROMULAN": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "ROMULAN 2": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "ROMULAN 3": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "ALIEN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "ALIEN 2": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "ENSIGN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "CREWMAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "252": {
+  "HAWKING": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "EINSTEIN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 11,
+   "silent_scenes": 0
+  },
+  "NEWTON": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 15,
+   "silent_scenes": 1
+  },
+  "PICARD": {
+   "speaking_scenes": 15,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 7,
+   "silent_scenes": 2
+  },
+  "ENSIGN": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 11,
+   "silent_scenes": 0
+  },
+  "BOSUS": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "TAYAR": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "NECHAYEV": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "HUGH": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "COMPUTER": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "FRANKLIN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "CROSIS": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "BORG": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "LORE": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "253": {
+  "DATA": {
+   "speaking_scenes": 15,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 12,
+   "silent_scenes": 2
+  },
+  "TROI": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "HUGH": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 9,
+   "silent_scenes": 2
+  },
+  "LAFORGE": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "SECURITY": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "CROSIS": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "LORE": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 4,
+   "silent_scenes": 2
+  },
+  "CRUSHER": {
+   "speaking_scenes": 15,
+   "silent_scenes": 0
+  },
+  "TAITT": {
+   "speaking_scenes": 8,
+   "silent_scenes": 0
+  },
+  "SALAZAR": {
+   "speaking_scenes": 8,
+   "silent_scenes": 0
+  },
+  "ARMSTRONG": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "HELM": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "POWELL": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "BARNABY": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "GOVAL": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "254": {
+  "WORF": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 5,
+   "silent_scenes": 1
+  },
+  "PICARD": {
+   "speaking_scenes": 7,
+   "silent_scenes": 1
+  },
+  "LOQUEL": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "BYLETH": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "WOMAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "VOVAL": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "BOY": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "ANNA": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "VOICE": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "255": {
+  "RIKER": {
+   "speaking_scenes": 13,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 55,
+   "silent_scenes": 1
+  },
+  "CRUSHER": {
+   "speaking_scenes": 19,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 27,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 21,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "HOLT": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "SILVA": {
+   "speaking_scenes": 13,
+   "silent_scenes": 0
+  },
+  "DR LA FORGE": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "256": {
+  "BARTENDER": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 16,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 9,
+   "silent_scenes": 0
+  },
+  "YRANAC": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "CHEKOTE": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 13,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 8,
+   "silent_scenes": 0
+  },
+  "ENSIGN": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "GIUSTI": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "CHIEF": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "BARAN": {
+   "speaking_scenes": 8,
+   "silent_scenes": 0
+  },
+  "NARIK": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "VEKOR": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 5,
+   "silent_scenes": 1
+  },
+  "TALLERA": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "COMPUTER": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "SANDERS": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "257": {
+  "RIKER": {
+   "speaking_scenes": 9,
+   "silent_scenes": 1
+  },
+  "YRANEC": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "BARAN": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 14,
+   "silent_scenes": 0
+  },
+  "TALLERA": {
+   "speaking_scenes": 9,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 9,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 8,
+   "silent_scenes": 1
+  },
+  "TROI": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "GIUSTI": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "NARIK": {
+   "speaking_scenes": 8,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "COMPUTER": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "ENSIGN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "KORAL": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "VEKOR": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "SATOK": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "258": {
+  "LAFORGE": {
+   "speaking_scenes": 22,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 22,
+   "silent_scenes": 2
+  },
+  "WORKMAN": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 9,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 21,
+   "silent_scenes": 0
+  },
+  "TYLER": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 7,
+   "silent_scenes": 2
+  },
+  "WORF": {
+   "speaking_scenes": 8,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 6,
+   "silent_scenes": 1
+  },
+  "FREUD": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "NAKAMURA": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "MEDIC": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "259": {
+  "LWAXANA": {
+   "speaking_scenes": 13,
+   "silent_scenes": 1
+  },
+  "PICARD": {
+   "speaking_scenes": 8,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "HEDRIL": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 24,
+   "silent_scenes": 1
+  },
+  "MAQUES": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "IAN ANDREW TROI": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "KESTRA": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "260": {
+  "CRUSHER": {
+   "speaking_scenes": 12,
+   "silent_scenes": 2
+  },
+  "PICARD": {
+   "speaking_scenes": 14,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 12,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 7,
+   "silent_scenes": 1
+  },
+  "KES": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "LORIN": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "MAURIC": {
+   "speaking_scenes": 9,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "PRYTT": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "AIDE": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "BOTH": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "TROOPER": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  }
+ },
+ "261": {
+  "DATA": {
+   "speaking_scenes": 20,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 28,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 18,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 19,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 12,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "HANSEN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "COMPUTER": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "HELM": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "PRAK": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "RABAL": {
+   "speaking_scenes": 9,
+   "silent_scenes": 0
+  },
+  "SEROVA": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  }
+ },
+ "262": {
+  "JULIANA": {
+   "speaking_scenes": 19,
+   "silent_scenes": 0
+  },
+  "PRAN": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 24,
+   "silent_scenes": 2
+  },
+  "PICARD": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 13,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "AUDIENCE": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "SOONG": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "263": {
+  "WORF": {
+   "speaking_scenes": 24,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 12,
+   "silent_scenes": 0
+  },
+  "ALL": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 10,
+   "silent_scenes": 1
+  },
+  "CRUSHER": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 14,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "NADOR": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "GATES": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "HAYES": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "COMPUTER": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "OGAWA": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "WESLEY": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "HELM": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "264": {
+  "PICARD": {
+   "speaking_scenes": 14,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 17,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "BLACKWELL": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "CREWMAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "PRESSMAN": {
+   "speaking_scenes": 12,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "SIROL": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "GATES": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "265": {
+  "PICARD": {
+   "speaking_scenes": 12,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 23,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "VORIN": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "KATERAS": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "NIKOLAI": {
+   "speaking_scenes": 17,
+   "silent_scenes": 0
+  },
+  "DOBARA": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "GATES": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "COMPUTER": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "TARRANA": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "WOMAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "MAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "266": {
+  "CRUSHER": {
+   "speaking_scenes": 14,
+   "silent_scenes": 1
+  },
+  "MATURIN": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "ALL": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 10,
+   "silent_scenes": 0
+  },
+  "QUINT": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 8,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "RONIN": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "NURSE": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "CREWMAN": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "FELISA": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "267": {
+  "RIKER": {
+   "speaking_scenes": 14,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "LAVELLE": {
+   "speaking_scenes": 13,
+   "silent_scenes": 0
+  },
+  "OGAWA": {
+   "speaking_scenes": 12,
+   "silent_scenes": 0
+  },
+  "SITO": {
+   "speaking_scenes": 17,
+   "silent_scenes": 0
+  },
+  "TAURIK": {
+   "speaking_scenes": 12,
+   "silent_scenes": 0
+  },
+  "BEN": {
+   "speaking_scenes": 10,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 3,
+   "silent_scenes": 1
+  },
+  "LAFORGE": {
+   "speaking_scenes": 10,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 15,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 10,
+   "silent_scenes": 1
+  },
+  "CRUSHER": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "BARTENDER": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "CREWMAN": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "JORET": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  }
+ },
+ "268": {
+  "CRUSHER": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "RAINER": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "GARVIN": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "GIA": {
+   "speaking_scenes": 9,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 11,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "TALUR": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "SKORAN": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "APPRENTICE": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "COMPUTER": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "CROWD": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "269": {
+  "TROI": {
+   "speaking_scenes": 10,
+   "silent_scenes": 1
+  },
+  "ERIC": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 13,
+   "silent_scenes": 2
+  },
+  "RIKER": {
+   "speaking_scenes": 13,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 20,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 12,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  }
+ },
+ "270": {
+  "DATA": {
+   "speaking_scenes": 8,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 10,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 19,
+   "silent_scenes": 1
+  },
+  "RIKER": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "NARA": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "KWAN": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "COMPUTER": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 24,
+   "silent_scenes": 1
+  },
+  "CALLOWAY": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "BARMAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "WOMAN": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "PIERCE": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "SECURITY": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "CREWWOMAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "271": {
+  "OGAWA": {
+   "speaking_scenes": 3,
+   "silent_scenes": 3
+  },
+  "RIKER": {
+   "speaking_scenes": 6,
+   "silent_scenes": 2
+  },
+  "BARCLAY": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 20,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 5,
+   "silent_scenes": 5
+  },
+  "PICARD": {
+   "speaking_scenes": 17,
+   "silent_scenes": 2
+  },
+  "TROI": {
+   "speaking_scenes": 5,
+   "silent_scenes": 2
+  },
+  "WAITRESS": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 3,
+   "silent_scenes": 0
+  },
+  "DERN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "NURSE": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "COMPUTER": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  }
+ },
+ "272": {
+  "CRUSHER": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "WESLEY": {
+   "speaking_scenes": 13,
+   "silent_scenes": 1
+  },
+  "LAFORGE": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 12,
+   "silent_scenes": 0
+  },
+  "NECHEYEV": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "WAKASA": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "ANTHWARA": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "LAKANTA": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "GUL EVEK": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "JACK": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "SECURITY": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "INDIAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "TELAK": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "TRAVELLER": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "CREWMAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "273": {
+  "WORF": {
+   "speaking_scenes": 16,
+   "silent_scenes": 0
+  },
+  "ALEXANDER": {
+   "speaking_scenes": 7,
+   "silent_scenes": 2
+  },
+  "ERIC": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "SINGER": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "MOLOR": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "ROBBER": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "K'MTAR": {
+   "speaking_scenes": 11,
+   "silent_scenes": 0
+  },
+  "QUARK": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "HELM": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "COMPUTER": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "GORTA": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "YOG": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "LURSA": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "B'ETOR": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  }
+ },
+ "274": {
+  "PICARD": {
+   "speaking_scenes": 23,
+   "silent_scenes": 1
+  },
+  "RIKER": {
+   "speaking_scenes": 8,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 10,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "BOK": {
+   "speaking_scenes": 5,
+   "silent_scenes": 0
+  },
+  "HELM": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "JASON": {
+   "speaking_scenes": 10,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 5,
+   "silent_scenes": 1
+  },
+  "LAFORGE": {
+   "speaking_scenes": 7,
+   "silent_scenes": 0
+  },
+  "BIRTA": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "RHODES": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "COMPUTER": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "TOL": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ },
+ "275": {
+  "DATA": {
+   "speaking_scenes": 27,
+   "silent_scenes": 1
+  },
+  "PICARD": {
+   "speaking_scenes": 24,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "RIKER": {
+   "speaking_scenes": 17,
+   "silent_scenes": 0
+  },
+  "LAFORGE": {
+   "speaking_scenes": 31,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 11,
+   "silent_scenes": 3
+  },
+  "CONDUCTOR": {
+   "speaking_scenes": 10,
+   "silent_scenes": 0
+  },
+  "RUSTIC": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "ENGINEER": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "GANGSTER": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "CREWMAN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 13,
+   "silent_scenes": 1
+  }
+ },
+ "276": {
+  "LAFORGE": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "RO": {
+   "speaking_scenes": 24,
+   "silent_scenes": 0
+  },
+  "TROI": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 17,
+   "silent_scenes": 1
+  },
+  "RIKER": {
+   "speaking_scenes": 9,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 10,
+   "silent_scenes": 0
+  },
+  "WORF": {
+   "speaking_scenes": 8,
+   "silent_scenes": 0
+  },
+  "GUL EVEK": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "NECHAYEV": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "SANTOS": {
+   "speaking_scenes": 11,
+   "silent_scenes": 0
+  },
+  "MACIAS": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "KALITA": {
+   "speaking_scenes": 10,
+   "silent_scenes": 0
+  }
+ },
+ "277": {
+  "TROI": {
+   "speaking_scenes": 16,
+   "silent_scenes": 1
+  },
+  "WORF": {
+   "speaking_scenes": 15,
+   "silent_scenes": 0
+  },
+  "PICARD": {
+   "speaking_scenes": 60,
+   "silent_scenes": 1
+  },
+  "LAFORGE": {
+   "speaking_scenes": 17,
+   "silent_scenes": 0
+  },
+  "TASHA": {
+   "speaking_scenes": 13,
+   "silent_scenes": 0
+  },
+  "CREWMAN": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "CRUSHER": {
+   "speaking_scenes": 17,
+   "silent_scenes": 0
+  },
+  "OGAWA": {
+   "speaking_scenes": 2,
+   "silent_scenes": 1
+  },
+  "RIKER": {
+   "speaking_scenes": 18,
+   "silent_scenes": 1
+  },
+  "NAKAMURA": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "JESSEL": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "DATA": {
+   "speaking_scenes": 36,
+   "silent_scenes": 0
+  },
+  "O'BRIEN": {
+   "speaking_scenes": 10,
+   "silent_scenes": 0
+  },
+  "FLETCHER": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "CHILTON": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "Q": {
+   "speaking_scenes": 6,
+   "silent_scenes": 0
+  },
+  "COMPUTER": {
+   "speaking_scenes": 2,
+   "silent_scenes": 0
+  },
+  "TOMOLAK": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "GATES": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "GAINES": {
+   "speaking_scenes": 4,
+   "silent_scenes": 0
+  },
+  "ENSIGN": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  },
+  "HELM": {
+   "speaking_scenes": 1,
+   "silent_scenes": 0
+  }
+ }
+}

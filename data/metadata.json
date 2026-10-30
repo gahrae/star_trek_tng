@@ -1,0 +1,2646 @@
+{
+ "101": {
+  "overall": [
+   1,
+   2
+  ],
+  "season": 1,
+  "episode_in_season": [
+   1,
+   2
+  ],
+  "code": "S01E01-E02",
+  "title_wiki": "Encounter at Farpoint",
+  "director": "Corey Allen",
+  "writer": "D. C. Fontana & Gene Roddenberry",
+  "airdate_iso": "1987-09-28",
+  "viewers_millions": "15.7"
+ },
+ "103": {
+  "overall": [
+   3
+  ],
+  "season": 1,
+  "episode_in_season": [
+   3
+  ],
+  "code": "S01E03",
+  "title_wiki": "The Naked Now",
+  "director": "Paul Lynch",
+  "writer": "Story by: John D. F. Black and D. C. Fontana Teleplay by: D. C. Fontana",
+  "airdate_iso": "1987-10-05",
+  "viewers_millions": "11.5"
+ },
+ "104": {
+  "overall": [
+   4
+  ],
+  "season": 1,
+  "episode_in_season": [
+   4
+  ],
+  "code": "S01E04",
+  "title_wiki": "Code of Honor",
+  "director": "Russ Mayberry",
+  "writer": "Katharyn Powers & Michael Baron",
+  "airdate_iso": "1987-10-12",
+  "viewers_millions": "9.5"
+ },
+ "107": {
+  "overall": [
+   5
+  ],
+  "season": 1,
+  "episode_in_season": [
+   5
+  ],
+  "code": "S01E05",
+  "title_wiki": "The Last Outpost",
+  "director": "Richard Colla",
+  "writer": "Story by: Richard Krzmeien Teleplay by: Herbert Wright",
+  "airdate_iso": "1987-10-19",
+  "viewers_millions": "8.9"
+ },
+ "106": {
+  "overall": [
+   6
+  ],
+  "season": 1,
+  "episode_in_season": [
+   6
+  ],
+  "code": "S01E06",
+  "title_wiki": "Where No One Has Gone Before",
+  "director": "Rob Bowman",
+  "writer": "Diane Duane & Michael Reaves",
+  "airdate_iso": "1987-10-26",
+  "viewers_millions": "10.5"
+ },
+ "108": {
+  "overall": [
+   7
+  ],
+  "season": 1,
+  "episode_in_season": [
+   7
+  ],
+  "code": "S01E07",
+  "title_wiki": "Lonely Among Us",
+  "director": "Cliff Bole",
+  "writer": "Story by: Michael Halperin Teleplay by: D. C. Fontana",
+  "airdate_iso": "1987-11-02",
+  "viewers_millions": "12.1"
+ },
+ "109": {
+  "overall": [
+   8
+  ],
+  "season": 1,
+  "episode_in_season": [
+   8
+  ],
+  "code": "S01E08",
+  "title_wiki": "Justice",
+  "director": "James L. Conway",
+  "writer": "Story by: John D. F. Black & Worley Thorne Teleplay by: Worley Thorne",
+  "airdate_iso": "1987-11-09",
+  "viewers_millions": "12.7"
+ },
+ "110": {
+  "overall": [
+   9
+  ],
+  "season": 1,
+  "episode_in_season": [
+   9
+  ],
+  "code": "S01E09",
+  "title_wiki": "The Battle",
+  "director": "Rob Bowman",
+  "writer": "Story by: Larry Forrester Teleplay by: Herbert Wright",
+  "airdate_iso": "1987-11-16",
+  "viewers_millions": "10.5"
+ },
+ "111": {
+  "overall": [
+   10
+  ],
+  "season": 1,
+  "episode_in_season": [
+   10
+  ],
+  "code": "S01E10",
+  "title_wiki": "Hide and Q",
+  "director": "Cliff Bole",
+  "writer": "Story by: Maurice Hurley Teleplay by: Maurice Hurley & Gene Roddenberry",
+  "airdate_iso": "1987-11-23",
+  "viewers_millions": "11.0"
+ },
+ "105": {
+  "overall": [
+   11
+  ],
+  "season": 1,
+  "episode_in_season": [
+   11
+  ],
+  "code": "S01E11",
+  "title_wiki": "Haven",
+  "director": "Richard Compton",
+  "writer": "Story by: Tracy Torm\u00e9 & Lan O'Kun Teleplay by: Tracy Torm\u00e9",
+  "airdate_iso": "1987-11-30",
+  "viewers_millions": "10.3"
+ },
+ "113": {
+  "overall": [
+   12
+  ],
+  "season": 1,
+  "episode_in_season": [
+   12
+  ],
+  "code": "S01E12",
+  "title_wiki": "The Big Goodbye",
+  "director": "Joseph L. Scanlan",
+  "writer": "Tracy Torm\u00e9",
+  "airdate_iso": "1988-01-11",
+  "viewers_millions": "11.5"
+ },
+ "114": {
+  "overall": [
+   13
+  ],
+  "season": 1,
+  "episode_in_season": [
+   13
+  ],
+  "code": "S01E13",
+  "title_wiki": "Datalore",
+  "director": "Rob Bowman",
+  "writer": "Story by: Robert Lewin & Maurice Hurley Teleplay by: Robert Lewin & Gene Roddenberry",
+  "airdate_iso": "1988-01-18",
+  "viewers_millions": "10.3"
+ },
+ "115": {
+  "overall": [
+   14
+  ],
+  "season": 1,
+  "episode_in_season": [
+   14
+  ],
+  "code": "S01E14",
+  "title_wiki": "Angel One",
+  "director": "Michael Rhodes",
+  "writer": "Patrick Barry",
+  "airdate_iso": "1988-01-25",
+  "viewers_millions": "11.4"
+ },
+ "116": {
+  "overall": [
+   15
+  ],
+  "season": 1,
+  "episode_in_season": [
+   15
+  ],
+  "code": "S01E15",
+  "title_wiki": "11001001",
+  "director": "Paul Lynch",
+  "writer": "Maurice Hurley & Robert Lewin",
+  "airdate_iso": "1988-02-01",
+  "viewers_millions": "10.7"
+ },
+ "112": {
+  "overall": [
+   16
+  ],
+  "season": 1,
+  "episode_in_season": [
+   16
+  ],
+  "code": "S01E16",
+  "title_wiki": "Too Short a Season",
+  "director": "Rob Bowman",
+  "writer": "Story by: Michael Michaelian Teleplay by: Michael Michaelian & D. C. Fontana",
+  "airdate_iso": "1988-02-08",
+  "viewers_millions": "10.9"
+ },
+ "118": {
+  "overall": [
+   17
+  ],
+  "season": 1,
+  "episode_in_season": [
+   17
+  ],
+  "code": "S01E17",
+  "title_wiki": "When the Bough Breaks",
+  "director": "Kim Manners",
+  "writer": "Hannah Louise Shearer",
+  "airdate_iso": "1988-02-15",
+  "viewers_millions": "10.2"
+ },
+ "117": {
+  "overall": [
+   18
+  ],
+  "season": 1,
+  "episode_in_season": [
+   18
+  ],
+  "code": "S01E18",
+  "title_wiki": "Home Soil",
+  "director": "Corey Allen",
+  "writer": "Story by: Karl Geurs & Ralph Sanchez and Robert Sabaroff Teleplay by: Robert Sabaroff",
+  "airdate_iso": "1988-02-22",
+  "viewers_millions": "9.0"
+ },
+ "119": {
+  "overall": [
+   19
+  ],
+  "season": 1,
+  "episode_in_season": [
+   19
+  ],
+  "code": "S01E19",
+  "title_wiki": "Coming of Age",
+  "director": "Mike Vejar",
+  "writer": "Sandy Fries",
+  "airdate_iso": "1988-03-14",
+  "viewers_millions": "10.1"
+ },
+ "120": {
+  "overall": [
+   20
+  ],
+  "season": 1,
+  "episode_in_season": [
+   20
+  ],
+  "code": "S01E20",
+  "title_wiki": "Heart of Glory",
+  "director": "Rob Bowman",
+  "writer": "Story by: Maurice Hurley and Herbert Wright & D. C. Fontana Teleplay by: Maurice Hurley",
+  "airdate_iso": "1988-03-21",
+  "viewers_millions": "10.7"
+ },
+ "121": {
+  "overall": [
+   21
+  ],
+  "season": 1,
+  "episode_in_season": [
+   21
+  ],
+  "code": "S01E21",
+  "title_wiki": "The Arsenal of Freedom",
+  "director": "Les Landau",
+  "writer": "Story by: Maurice Hurley & Robert Lewin Teleplay by: Richard Manning & Hans Beimler",
+  "airdate_iso": "1988-04-11",
+  "viewers_millions": "10.4"
+ },
+ "123": {
+  "overall": [
+   22
+  ],
+  "season": 1,
+  "episode_in_season": [
+   22
+  ],
+  "code": "S01E22",
+  "title_wiki": "Symbiosis",
+  "director": "Win Phelps",
+  "writer": "Story by: Robert Lewin Teleplay by: Robert Lewin and Richard Manning & Hans Beimler",
+  "airdate_iso": "1988-04-18",
+  "viewers_millions": "10.8"
+ },
+ "122": {
+  "overall": [
+   23
+  ],
+  "season": 1,
+  "episode_in_season": [
+   23
+  ],
+  "code": "S01E23",
+  "title_wiki": "Skin of Evil",
+  "director": "Joseph L. Scanlan",
+  "writer": "Story by: Joseph Stefano Teleplay by: Joseph Stefano & Hannah Louise Shearer",
+  "airdate_iso": "1988-04-25",
+  "viewers_millions": "9.7"
+ },
+ "124": {
+  "overall": [
+   24
+  ],
+  "season": 1,
+  "episode_in_season": [
+   24
+  ],
+  "code": "S01E24",
+  "title_wiki": "We'll Always Have Paris",
+  "director": "Robert Becker",
+  "writer": "Deborah Dean Davis & Hannah Louise Shearer",
+  "airdate_iso": "1988-05-02",
+  "viewers_millions": "9.7"
+ },
+ "125": {
+  "overall": [
+   25
+  ],
+  "season": 1,
+  "episode_in_season": [
+   25
+  ],
+  "code": "S01E25",
+  "title_wiki": "Conspiracy",
+  "director": "Cliff Bole",
+  "writer": "Story by: Robert Sabaroff Teleplay by: Tracy Torm\u00e9",
+  "airdate_iso": "1988-05-09",
+  "viewers_millions": "9.4"
+ },
+ "126": {
+  "overall": [
+   26
+  ],
+  "season": 1,
+  "episode_in_season": [
+   26
+  ],
+  "code": "S01E26",
+  "title_wiki": "The Neutral Zone",
+  "director": "James L. Conway",
+  "writer": "Story by: Deborah McIntyre & Mona Clee Teleplay by: Maurice Hurley",
+  "airdate_iso": "1988-05-16",
+  "viewers_millions": "10.2"
+ },
+ "127": {
+  "overall": [
+   27
+  ],
+  "season": 2,
+  "episode_in_season": [
+   1
+  ],
+  "code": "S02E01",
+  "title_wiki": "The Child",
+  "director": "Rob Bowman",
+  "writer": "Jaron Summers & Jon Povill and Maurice Hurley",
+  "airdate_iso": "1988-11-21",
+  "viewers_millions": "10.9"
+ },
+ "128": {
+  "overall": [
+   28
+  ],
+  "season": 2,
+  "episode_in_season": [
+   2
+  ],
+  "code": "S02E02",
+  "title_wiki": "Where Silence Has Lease",
+  "director": "Winrich Kolbe",
+  "writer": "Jack B. Sowards",
+  "airdate_iso": "1988-11-28",
+  "viewers_millions": "10.3"
+ },
+ "129": {
+  "overall": [
+   29
+  ],
+  "season": 2,
+  "episode_in_season": [
+   3
+  ],
+  "code": "S02E03",
+  "title_wiki": "Elementary, Dear Data",
+  "director": "Rob Bowman",
+  "writer": "Brian Alan Lane",
+  "airdate_iso": "1988-12-05",
+  "viewers_millions": "Unknown"
+ },
+ "130": {
+  "overall": [
+   30
+  ],
+  "season": 2,
+  "episode_in_season": [
+   4
+  ],
+  "code": "S02E04",
+  "title_wiki": "The Outrageous Okona",
+  "director": "Robert Becker",
+  "writer": "Story by: Les Menchen & Lance Dickson and David Landsberg Teleplay by: Burton Armus",
+  "airdate_iso": "1988-12-12",
+  "viewers_millions": "Unknown"
+ },
+ "132": {
+  "overall": [
+   31
+  ],
+  "season": 2,
+  "episode_in_season": [
+   5
+  ],
+  "code": "S02E05",
+  "title_wiki": "Loud as a Whisper",
+  "director": "Larry Shaw",
+  "writer": "Jacqueline Zambrano",
+  "airdate_iso": "1989-01-09",
+  "viewers_millions": "10.7"
+ },
+ "131": {
+  "overall": [
+   32
+  ],
+  "season": 2,
+  "episode_in_season": [
+   6
+  ],
+  "code": "S02E06",
+  "title_wiki": "The Schizoid Man",
+  "director": "Les Landau",
+  "writer": "Story by: Richard Manning & Hans Beimler Teleplay by: Tracy Torm\u00e9",
+  "airdate_iso": "1989-01-23",
+  "viewers_millions": "10.8"
+ },
+ "133": {
+  "overall": [
+   33
+  ],
+  "season": 2,
+  "episode_in_season": [
+   7
+  ],
+  "code": "S02E07",
+  "title_wiki": "Unnatural Selection",
+  "director": "Paul Lynch",
+  "writer": "John Mason & Mike Gray",
+  "airdate_iso": "1989-01-30",
+  "viewers_millions": "11.0"
+ },
+ "134": {
+  "overall": [
+   34
+  ],
+  "season": 2,
+  "episode_in_season": [
+   8
+  ],
+  "code": "S02E08",
+  "title_wiki": "A Matter of Honor",
+  "director": "Rob Bowman",
+  "writer": "Story by: Wanda M. Haight & Gregory Amos and Burton Armus Teleplay by: Burton Armus",
+  "airdate_iso": "1989-02-06",
+  "viewers_millions": "11.3"
+ },
+ "135": {
+  "overall": [
+   35
+  ],
+  "season": 2,
+  "episode_in_season": [
+   9
+  ],
+  "code": "S02E09",
+  "title_wiki": "The Measure of a Man",
+  "director": "Robert Scheerer",
+  "writer": "Melinda M. Snodgrass",
+  "airdate_iso": "1989-02-13",
+  "viewers_millions": "11.3"
+ },
+ "136": {
+  "overall": [
+   36
+  ],
+  "season": 2,
+  "episode_in_season": [
+   10
+  ],
+  "code": "S02E10",
+  "title_wiki": "The Dauphin",
+  "director": "Rob Bowman",
+  "writer": "Scott Rubenstein & Leonard Mlodinow",
+  "airdate_iso": "1989-02-20",
+  "viewers_millions": "10.7"
+ },
+ "137": {
+  "overall": [
+   37
+  ],
+  "season": 2,
+  "episode_in_season": [
+   11
+  ],
+  "code": "S02E11",
+  "title_wiki": "Contagion",
+  "director": "Joseph L. Scanlan",
+  "writer": "Steve Gerber & Beth Woods",
+  "airdate_iso": "1989-03-20",
+  "viewers_millions": "10.2"
+ },
+ "138": {
+  "overall": [
+   38
+  ],
+  "season": 2,
+  "episode_in_season": [
+   12
+  ],
+  "code": "S02E12",
+  "title_wiki": "The Royale",
+  "director": "Cliff Bole",
+  "writer": "Tracy Torm\u00e9",
+  "airdate_iso": "1989-03-27",
+  "viewers_millions": "10.6"
+ },
+ "139": {
+  "overall": [
+   39
+  ],
+  "season": 2,
+  "episode_in_season": [
+   13
+  ],
+  "code": "S02E13",
+  "title_wiki": "Time Squared",
+  "director": "Joseph L. Scanlan",
+  "writer": "Story by: Kurt Michael Bensmiller Teleplay by: Maurice Hurley",
+  "airdate_iso": "1989-04-03",
+  "viewers_millions": "9.9"
+ },
+ "140": {
+  "overall": [
+   40
+  ],
+  "season": 2,
+  "episode_in_season": [
+   14
+  ],
+  "code": "S02E14",
+  "title_wiki": "The Icarus Factor",
+  "director": "Robert Iscove",
+  "writer": "Story by: David Assael Teleplay by: David Assael and Robert McCullough",
+  "airdate_iso": "1989-04-24",
+  "viewers_millions": "9.1"
+ },
+ "141": {
+  "overall": [
+   41
+  ],
+  "season": 2,
+  "episode_in_season": [
+   15
+  ],
+  "code": "S02E15",
+  "title_wiki": "Pen Pals",
+  "director": "Winrich Kolbe",
+  "writer": "Story by: Hannah Louise Shearer Teleplay by: Melinda M. Snodgrass",
+  "airdate_iso": "1989-05-01",
+  "viewers_millions": "9.7"
+ },
+ "142": {
+  "overall": [
+   42
+  ],
+  "season": 2,
+  "episode_in_season": [
+   16
+  ],
+  "code": "S02E16",
+  "title_wiki": "Q Who",
+  "director": "Rob Bowman",
+  "writer": "Maurice Hurley",
+  "airdate_iso": "1989-05-08",
+  "viewers_millions": "10.3"
+ },
+ "143": {
+  "overall": [
+   43
+  ],
+  "season": 2,
+  "episode_in_season": [
+   17
+  ],
+  "code": "S02E17",
+  "title_wiki": "Samaritan Snare",
+  "director": "Les Landau",
+  "writer": "Robert McCullough",
+  "airdate_iso": "1989-05-15",
+  "viewers_millions": "10.0"
+ },
+ "144": {
+  "overall": [
+   44
+  ],
+  "season": 2,
+  "episode_in_season": [
+   18
+  ],
+  "code": "S02E18",
+  "title_wiki": "Up the Long Ladder",
+  "director": "Winrich Kolbe",
+  "writer": "Melinda M. Snodgrass",
+  "airdate_iso": "1989-05-22",
+  "viewers_millions": "9.2"
+ },
+ "145": {
+  "overall": [
+   45
+  ],
+  "season": 2,
+  "episode_in_season": [
+   19
+  ],
+  "code": "S02E19",
+  "title_wiki": "Manhunt",
+  "director": "Rob Bowman",
+  "writer": "Tracy Torm\u00e9",
+  "airdate_iso": "1989-06-19",
+  "viewers_millions": "8.9"
+ },
+ "146": {
+  "overall": [
+   46
+  ],
+  "season": 2,
+  "episode_in_season": [
+   20
+  ],
+  "code": "S02E20",
+  "title_wiki": "The Emissary",
+  "director": "Cliff Bole",
+  "writer": "Story by: Richard Manning & Hans Beimler Teleplay by: Richard Manning & Hans Beimler Based on an unpublished story by: Thomas H. Calder",
+  "airdate_iso": "1989-06-26",
+  "viewers_millions": "9.0"
+ },
+ "147": {
+  "overall": [
+   47
+  ],
+  "season": 2,
+  "episode_in_season": [
+   21
+  ],
+  "code": "S02E21",
+  "title_wiki": "Peak Performance",
+  "director": "Robert Scheerer",
+  "writer": "David Kemper",
+  "airdate_iso": "1989-07-10",
+  "viewers_millions": "9.4"
+ },
+ "148": {
+  "overall": [
+   48
+  ],
+  "season": 2,
+  "episode_in_season": [
+   22
+  ],
+  "code": "S02E22",
+  "title_wiki": "Shades of Gray",
+  "director": "Rob Bowman",
+  "writer": "Story by: Maurice Hurley Teleplay by: Maurice Hurley and Richard Manning & Hans Beimler",
+  "airdate_iso": "1989-07-17",
+  "viewers_millions": "9.8"
+ },
+ "150": {
+  "overall": [
+   49
+  ],
+  "season": 3,
+  "episode_in_season": [
+   1
+  ],
+  "code": "S03E01",
+  "title_wiki": "Evolution",
+  "director": "Winrich Kolbe",
+  "writer": "Story by: Michael Piller & Michael Wagner Teleplay by: Michael Piller",
+  "airdate_iso": "1989-09-25",
+  "viewers_millions": "10.8"
+ },
+ "149": {
+  "overall": [
+   50
+  ],
+  "season": 3,
+  "episode_in_season": [
+   2
+  ],
+  "code": "S03E02",
+  "title_wiki": "The Ensigns of Command",
+  "director": "Cliff Bole",
+  "writer": "Melinda M. Snodgrass",
+  "airdate_iso": "1989-10-02",
+  "viewers_millions": "Unknown"
+ },
+ "151": {
+  "overall": [
+   51
+  ],
+  "season": 3,
+  "episode_in_season": [
+   3
+  ],
+  "code": "S03E03",
+  "title_wiki": "The Survivors",
+  "director": "Les Landau",
+  "writer": "Michael Wagner",
+  "airdate_iso": "1989-10-09",
+  "viewers_millions": "9.6"
+ },
+ "152": {
+  "overall": [
+   52
+  ],
+  "season": 3,
+  "episode_in_season": [
+   4
+  ],
+  "code": "S03E04",
+  "title_wiki": "Who Watches the Watchers",
+  "director": "Robert Wiemer",
+  "writer": "Richard Manning & Hans Beimler",
+  "airdate_iso": "1989-10-16",
+  "viewers_millions": "9.6"
+ },
+ "153": {
+  "overall": [
+   53
+  ],
+  "season": 3,
+  "episode_in_season": [
+   5
+  ],
+  "code": "S03E05",
+  "title_wiki": "The Bonding",
+  "director": "Winrich Kolbe",
+  "writer": "Ronald D. Moore",
+  "airdate_iso": "1989-10-23",
+  "viewers_millions": "9.9"
+ },
+ "154": {
+  "overall": [
+   54
+  ],
+  "season": 3,
+  "episode_in_season": [
+   6
+  ],
+  "code": "S03E06",
+  "title_wiki": "Booby Trap",
+  "director": "Gabrielle Beaumont",
+  "writer": "Story by: Michael Wagner & Ron Roman Teleplay by: Ron Roman and Michael Piller & Richard Danus",
+  "airdate_iso": "1989-10-30",
+  "viewers_millions": "11.0"
+ },
+ "155": {
+  "overall": [
+   55
+  ],
+  "season": 3,
+  "episode_in_season": [
+   7
+  ],
+  "code": "S03E07",
+  "title_wiki": "The Enemy",
+  "director": "David Carson",
+  "writer": "David Kemper and Michael Piller",
+  "airdate_iso": "1989-11-06",
+  "viewers_millions": "10.3"
+ },
+ "156": {
+  "overall": [
+   56
+  ],
+  "season": 3,
+  "episode_in_season": [
+   8
+  ],
+  "code": "S03E08",
+  "title_wiki": "The Price",
+  "director": "Robert Scheerer",
+  "writer": "Hannah Louise Shearer",
+  "airdate_iso": "1989-11-13",
+  "viewers_millions": "10.6"
+ },
+ "157": {
+  "overall": [
+   57
+  ],
+  "season": 3,
+  "episode_in_season": [
+   9
+  ],
+  "code": "S03E09",
+  "title_wiki": "The Vengeance Factor",
+  "director": "Timothy Bond",
+  "writer": "Sam Rolfe",
+  "airdate_iso": "1989-11-20",
+  "viewers_millions": "9.7"
+ },
+ "158": {
+  "overall": [
+   58
+  ],
+  "season": 3,
+  "episode_in_season": [
+   10
+  ],
+  "code": "S03E10",
+  "title_wiki": "The Defector",
+  "director": "Robert Scheerer",
+  "writer": "Ronald D. Moore",
+  "airdate_iso": "1990-01-01",
+  "viewers_millions": "10.5"
+ },
+ "159": {
+  "overall": [
+   59
+  ],
+  "season": 3,
+  "episode_in_season": [
+   11
+  ],
+  "code": "S03E11",
+  "title_wiki": "The Hunted",
+  "director": "Cliff Bole",
+  "writer": "Robin Bernheim",
+  "airdate_iso": "1990-01-10",
+  "viewers_millions": "10.6"
+ },
+ "160": {
+  "overall": [
+   60
+  ],
+  "season": 3,
+  "episode_in_season": [
+   12
+  ],
+  "code": "S03E12",
+  "title_wiki": "The High Ground",
+  "director": "Gabrielle Beaumont",
+  "writer": "Melinda M. Snodgrass",
+  "airdate_iso": "1990-01-31",
+  "viewers_millions": "10.5"
+ },
+ "161": {
+  "overall": [
+   61
+  ],
+  "season": 3,
+  "episode_in_season": [
+   13
+  ],
+  "code": "S03E13",
+  "title_wiki": "Deja Q",
+  "director": "Les Landau",
+  "writer": "Richard Danus",
+  "airdate_iso": "1990-02-05",
+  "viewers_millions": "11.3"
+ },
+ "162": {
+  "overall": [
+   62
+  ],
+  "season": 3,
+  "episode_in_season": [
+   14
+  ],
+  "code": "S03E14",
+  "title_wiki": "A Matter of Perspective",
+  "director": "Cliff Bole",
+  "writer": "Ed Zuckerman",
+  "airdate_iso": "1990-02-12",
+  "viewers_millions": "10.8"
+ },
+ "163": {
+  "overall": [
+   63
+  ],
+  "season": 3,
+  "episode_in_season": [
+   15
+  ],
+  "code": "S03E15",
+  "title_wiki": "Yesterday's Enterprise",
+  "director": "David Carson",
+  "writer": "Teleplay by: Ira Steven Behr & Richard Manning & Hans Beimler & Ronald D. Moore Story by: Trent Christopher Ganino & Eric A. Stillwell",
+  "airdate_iso": "1990-02-19",
+  "viewers_millions": "11.9"
+ },
+ "164": {
+  "overall": [
+   64
+  ],
+  "season": 3,
+  "episode_in_season": [
+   16
+  ],
+  "code": "S03E16",
+  "title_wiki": "The Offspring",
+  "director": "Jonathan Frakes",
+  "writer": "Ren\u00e9 Echevarria",
+  "airdate_iso": "1990-03-12",
+  "viewers_millions": "10.2"
+ },
+ "165": {
+  "overall": [
+   65
+  ],
+  "season": 3,
+  "episode_in_season": [
+   17
+  ],
+  "code": "S03E17",
+  "title_wiki": "Sins of the Father",
+  "director": "Les Landau",
+  "writer": "Story by: Drew Deighan Teleplay by: Ronald D. Moore & W. Reed Moran",
+  "airdate_iso": "1990-03-19",
+  "viewers_millions": "11.1"
+ },
+ "166": {
+  "overall": [
+   66
+  ],
+  "season": 3,
+  "episode_in_season": [
+   18
+  ],
+  "code": "S03E18",
+  "title_wiki": "Allegiance",
+  "director": "Winrich Kolbe",
+  "writer": "Richard Manning & Hans Beimler",
+  "airdate_iso": "1990-03-26",
+  "viewers_millions": "10.2"
+ },
+ "167": {
+  "overall": [
+   67
+  ],
+  "season": 3,
+  "episode_in_season": [
+   19
+  ],
+  "code": "S03E19",
+  "title_wiki": "Captain's Holiday",
+  "director": "Chip Chalmers",
+  "writer": "Ira Steven Behr",
+  "airdate_iso": "1990-04-02",
+  "viewers_millions": "11.7"
+ },
+ "168": {
+  "overall": [
+   68
+  ],
+  "season": 3,
+  "episode_in_season": [
+   20
+  ],
+  "code": "S03E20",
+  "title_wiki": "Tin Man",
+  "director": "Robert Scheerer",
+  "writer": "Dennis Bailey & David Bischoff",
+  "airdate_iso": "1990-04-23",
+  "viewers_millions": "10.2"
+ },
+ "169": {
+  "overall": [
+   69
+  ],
+  "season": 3,
+  "episode_in_season": [
+   21
+  ],
+  "code": "S03E21",
+  "title_wiki": "Hollow Pursuits",
+  "director": "Cliff Bole",
+  "writer": "Sally Caves",
+  "airdate_iso": "1990-04-30",
+  "viewers_millions": "9.8"
+ },
+ "170": {
+  "overall": [
+   70
+  ],
+  "season": 3,
+  "episode_in_season": [
+   22
+  ],
+  "code": "S03E22",
+  "title_wiki": "The Most Toys",
+  "director": "Timothy Bond",
+  "writer": "Shari Goodhartz",
+  "airdate_iso": "1990-05-07",
+  "viewers_millions": "10.3"
+ },
+ "171": {
+  "overall": [
+   71
+  ],
+  "season": 3,
+  "episode_in_season": [
+   23
+  ],
+  "code": "S03E23",
+  "title_wiki": "Sarek",
+  "director": "Les Landau",
+  "writer": "Story by: Peter S. Beagle Teleplay by: Peter S. Beagle",
+  "airdate_iso": "1990-05-14",
+  "viewers_millions": "10.6"
+ },
+ "172": {
+  "overall": [
+   72
+  ],
+  "season": 3,
+  "episode_in_season": [
+   24
+  ],
+  "code": "S03E24",
+  "title_wiki": "M\u00e9nage \u00e0 Troi",
+  "director": "Robert Legato",
+  "writer": "Fred Bronson & Susan Sackett",
+  "airdate_iso": "1990-05-28",
+  "viewers_millions": "9.1"
+ },
+ "173": {
+  "overall": [
+   73
+  ],
+  "season": 3,
+  "episode_in_season": [
+   25
+  ],
+  "code": "S03E25",
+  "title_wiki": "Transfigurations",
+  "director": "Tom Benko",
+  "writer": "Ren\u00e9 Echevarria",
+  "airdate_iso": "1990-06-04",
+  "viewers_millions": "10.2"
+ },
+ "174": {
+  "overall": [
+   74
+  ],
+  "season": 3,
+  "episode_in_season": [
+   26
+  ],
+  "code": "S03E26",
+  "title_wiki": "The Best of Both Worlds, Part I",
+  "director": "Cliff Bole",
+  "writer": "Michael Piller",
+  "airdate_iso": "1990-06-18",
+  "viewers_millions": "10.1"
+ },
+ "175": {
+  "overall": [
+   75
+  ],
+  "season": 4,
+  "episode_in_season": [
+   1
+  ],
+  "code": "S04E01",
+  "title_wiki": "The Best of Both Worlds, Part II",
+  "director": "Cliff Bole",
+  "writer": "Michael Piller",
+  "airdate_iso": "1990-09-24",
+  "viewers_millions": "12.3"
+ },
+ "178": {
+  "overall": [
+   76
+  ],
+  "season": 4,
+  "episode_in_season": [
+   2
+  ],
+  "code": "S04E02",
+  "title_wiki": "Family",
+  "director": "Les Landau",
+  "writer": "Ronald D. Moore",
+  "airdate_iso": "1990-10-01",
+  "viewers_millions": "9.6"
+ },
+ "177": {
+  "overall": [
+   77
+  ],
+  "season": 4,
+  "episode_in_season": [
+   3
+  ],
+  "code": "S04E03",
+  "title_wiki": "Brothers",
+  "director": "Rob Bowman",
+  "writer": "Rick Berman",
+  "airdate_iso": "1990-10-08",
+  "viewers_millions": "10.9"
+ },
+ "176": {
+  "overall": [
+   78
+  ],
+  "season": 4,
+  "episode_in_season": [
+   4
+  ],
+  "code": "S04E04",
+  "title_wiki": "Suddenly Human",
+  "director": "Gabrielle Beaumont",
+  "writer": "Story by: Ralph Phillips Teleplay by: John Whelpley and Jeri Taylor",
+  "airdate_iso": "1990-10-15",
+  "viewers_millions": "10.3"
+ },
+ "179": {
+  "overall": [
+   79
+  ],
+  "season": 4,
+  "episode_in_season": [
+   5
+  ],
+  "code": "S04E05",
+  "title_wiki": "Remember Me",
+  "director": "Cliff Bole",
+  "writer": "Lee Sheldon",
+  "airdate_iso": "1990-10-22",
+  "viewers_millions": "11.4"
+ },
+ "180": {
+  "overall": [
+   80
+  ],
+  "season": 4,
+  "episode_in_season": [
+   6
+  ],
+  "code": "S04E06",
+  "title_wiki": "Legacy",
+  "director": "Robert Scheerer",
+  "writer": "Joe Menosky",
+  "airdate_iso": "1990-10-29",
+  "viewers_millions": "12.0"
+ },
+ "181": {
+  "overall": [
+   81
+  ],
+  "season": 4,
+  "episode_in_season": [
+   7
+  ],
+  "code": "S04E07",
+  "title_wiki": "Reunion",
+  "director": "Jonathan Frakes",
+  "writer": "Story by: Drew Deighan and Thomas Perry & Jo Perry Teleplay by: Thomas Perry & Jo Perry and Ronald D. Moore & Brannon Braga",
+  "airdate_iso": "1990-11-05",
+  "viewers_millions": "12.2"
+ },
+ "182": {
+  "overall": [
+   82
+  ],
+  "season": 4,
+  "episode_in_season": [
+   8
+  ],
+  "code": "S04E08",
+  "title_wiki": "Future Imperfect",
+  "director": "Les Landau",
+  "writer": "J. Larry Carroll & David Bennett Carren",
+  "airdate_iso": "1990-11-12",
+  "viewers_millions": "12.0"
+ },
+ "183": {
+  "overall": [
+   83
+  ],
+  "season": 4,
+  "episode_in_season": [
+   9
+  ],
+  "code": "S04E09",
+  "title_wiki": "Final Mission",
+  "director": "Corey Allen",
+  "writer": "Story by: Kacey Arnold-Ince Teleplay by: Kacey Arnold-Ince & Jeri Taylor",
+  "airdate_iso": "1990-11-19",
+  "viewers_millions": "11.5"
+ },
+ "184": {
+  "overall": [
+   84
+  ],
+  "season": 4,
+  "episode_in_season": [
+   10
+  ],
+  "code": "S04E10",
+  "title_wiki": "The Loss",
+  "director": "Chip Chalmers",
+  "writer": "Teleplay by: Hilary J. Bader and Allan J. Adler & Vanessa Greene Story by: Hilary J. Bader",
+  "airdate_iso": "1990-12-31",
+  "viewers_millions": "12.2"
+ },
+ "185": {
+  "overall": [
+   85
+  ],
+  "season": 4,
+  "episode_in_season": [
+   11
+  ],
+  "code": "S04E11",
+  "title_wiki": "Data's Day",
+  "director": "Robert Wiemer",
+  "writer": "Story by: Harold Apter Teleplay by: Harold Apter and Ronald D. Moore",
+  "airdate_iso": "1991-01-07",
+  "viewers_millions": "11.7"
+ },
+ "186": {
+  "overall": [
+   86
+  ],
+  "season": 4,
+  "episode_in_season": [
+   12
+  ],
+  "code": "S04E12",
+  "title_wiki": "The Wounded",
+  "director": "Chip Chalmers",
+  "writer": "Story by: Stuart Charno & Sara Charno and Cy Chermak Teleplay by: Jeri Taylor",
+  "airdate_iso": "1991-01-28",
+  "viewers_millions": "12.1"
+ },
+ "187": {
+  "overall": [
+   87
+  ],
+  "season": 4,
+  "episode_in_season": [
+   13
+  ],
+  "code": "S04E13",
+  "title_wiki": "Devil's Due",
+  "director": "Tom Benko",
+  "writer": "Story by: Philip LaZebnik & William Douglas Lansford Teleplay by: Philip LaZebnik",
+  "airdate_iso": "1991-02-04",
+  "viewers_millions": "13.0"
+ },
+ "188": {
+  "overall": [
+   88
+  ],
+  "season": 4,
+  "episode_in_season": [
+   14
+  ],
+  "code": "S04E14",
+  "title_wiki": "Clues",
+  "director": "Les Landau",
+  "writer": "Story by: Bruce D. Arthurs Teleplay by: Bruce D. Arthurs and Joe Menosky",
+  "airdate_iso": "1991-02-11",
+  "viewers_millions": "12.3"
+ },
+ "189": {
+  "overall": [
+   89
+  ],
+  "season": 4,
+  "episode_in_season": [
+   15
+  ],
+  "code": "S04E15",
+  "title_wiki": "First Contact",
+  "director": "Cliff Bole",
+  "writer": "Teleplay by: Dennis Bailey & David Bischoff and Joe Menosky & Ronald D. Moore and Michael Piller Story by: Marc Scott Zicree",
+  "airdate_iso": "1991-02-18",
+  "viewers_millions": "11.4"
+ },
+ "190": {
+  "overall": [
+   90
+  ],
+  "season": 4,
+  "episode_in_season": [
+   16
+  ],
+  "code": "S04E16",
+  "title_wiki": "Galaxy's Child",
+  "director": "Winrich Kolbe",
+  "writer": "Story by: Thomas Kartozian Teleplay by: Maurice Hurley",
+  "airdate_iso": "1991-03-11",
+  "viewers_millions": "11.7"
+ },
+ "191": {
+  "overall": [
+   91
+  ],
+  "season": 4,
+  "episode_in_season": [
+   17
+  ],
+  "code": "S04E17",
+  "title_wiki": "Night Terrors",
+  "director": "Les Landau",
+  "writer": "Story by: Shari Goodhartz Teleplay by: Pamela Douglas & Jeri Taylor",
+  "airdate_iso": "1991-03-18",
+  "viewers_millions": "11.2"
+ },
+ "192": {
+  "overall": [
+   92
+  ],
+  "season": 4,
+  "episode_in_season": [
+   18
+  ],
+  "code": "S04E18",
+  "title_wiki": "Identity Crisis",
+  "director": "Winrich Kolbe",
+  "writer": "Story by: Timothy DeHaas Teleplay by: Brannon Braga",
+  "airdate_iso": "1991-03-25",
+  "viewers_millions": "10.9"
+ },
+ "193": {
+  "overall": [
+   93
+  ],
+  "season": 4,
+  "episode_in_season": [
+   19
+  ],
+  "code": "S04E19",
+  "title_wiki": "The Nth Degree",
+  "director": "Robert Legato",
+  "writer": "Joe Menosky",
+  "airdate_iso": "1991-04-01",
+  "viewers_millions": "11.0"
+ },
+ "194": {
+  "overall": [
+   94
+  ],
+  "season": 4,
+  "episode_in_season": [
+   20
+  ],
+  "code": "S04E20",
+  "title_wiki": "Qpid",
+  "director": "Cliff Bole",
+  "writer": "Story by: Randee Russell and Ira Steven Behr Teleplay by: Ira Steven Behr",
+  "airdate_iso": "1991-04-22",
+  "viewers_millions": "10.8"
+ },
+ "195": {
+  "overall": [
+   95
+  ],
+  "season": 4,
+  "episode_in_season": [
+   21
+  ],
+  "code": "S04E21",
+  "title_wiki": "The Drumhead",
+  "director": "Jonathan Frakes",
+  "writer": "Jeri Taylor",
+  "airdate_iso": "1991-04-29",
+  "viewers_millions": "10.5"
+ },
+ "196": {
+  "overall": [
+   96
+  ],
+  "season": 4,
+  "episode_in_season": [
+   22
+  ],
+  "code": "S04E22",
+  "title_wiki": "Half a Life",
+  "director": "Les Landau",
+  "writer": "Story by: Ted Roberts and Peter Allan Fields Teleplay by: Peter Allan Fields",
+  "airdate_iso": "1991-05-06",
+  "viewers_millions": "Unknown"
+ },
+ "197": {
+  "overall": [
+   97
+  ],
+  "season": 4,
+  "episode_in_season": [
+   23
+  ],
+  "code": "S04E23",
+  "title_wiki": "The Host",
+  "director": "Marvin V. Rush",
+  "writer": "Michel Horvat",
+  "airdate_iso": "1991-05-13",
+  "viewers_millions": "11.3"
+ },
+ "198": {
+  "overall": [
+   98
+  ],
+  "season": 4,
+  "episode_in_season": [
+   24
+  ],
+  "code": "S04E24",
+  "title_wiki": "The Mind's Eye",
+  "director": "David Livingston",
+  "writer": "Story by: Ken Schafer and Ren\u00e9 Echevarria Teleplay by: Ren\u00e9 Echevarria",
+  "airdate_iso": "1991-05-27",
+  "viewers_millions": "10.1"
+ },
+ "199": {
+  "overall": [
+   99
+  ],
+  "season": 4,
+  "episode_in_season": [
+   25
+  ],
+  "code": "S04E25",
+  "title_wiki": "In Theory",
+  "director": "Patrick Stewart",
+  "writer": "Joe Menosky & Ronald D. Moore",
+  "airdate_iso": "1991-06-03",
+  "viewers_millions": "9.8"
+ },
+ "200": {
+  "overall": [
+   100
+  ],
+  "season": 4,
+  "episode_in_season": [
+   26
+  ],
+  "code": "S04E26",
+  "title_wiki": "Redemption, Part I",
+  "director": "Cliff Bole",
+  "writer": "Ronald D. Moore",
+  "airdate_iso": "1991-06-17",
+  "viewers_millions": "10.9"
+ },
+ "201": {
+  "overall": [
+   101
+  ],
+  "season": 5,
+  "episode_in_season": [
+   1
+  ],
+  "code": "S05E01",
+  "title_wiki": "Redemption, Part II",
+  "director": "David Carson",
+  "writer": "Ronald D. Moore",
+  "airdate_iso": "1991-09-23",
+  "viewers_millions": "Unknown"
+ },
+ "202": {
+  "overall": [
+   102
+  ],
+  "season": 5,
+  "episode_in_season": [
+   2
+  ],
+  "code": "S05E02",
+  "title_wiki": "Darmok",
+  "director": "Winrich Kolbe",
+  "writer": "Story by: Philip LaZebnik and Joe Menosky Teleplay by: Joe Menosky",
+  "airdate_iso": "1991-09-30",
+  "viewers_millions": "Unknown"
+ },
+ "203": {
+  "overall": [
+   103
+  ],
+  "season": 5,
+  "episode_in_season": [
+   3
+  ],
+  "code": "S05E03",
+  "title_wiki": "Ensign Ro",
+  "director": "Les Landau",
+  "writer": "Story by: Rick Berman & Michael Piller Teleplay by: Michael Piller",
+  "airdate_iso": "1991-10-07",
+  "viewers_millions": "11.6"
+ },
+ "204": {
+  "overall": [
+   104
+  ],
+  "season": 5,
+  "episode_in_season": [
+   4
+  ],
+  "code": "S05E04",
+  "title_wiki": "Silicon Avatar",
+  "director": "Cliff Bole",
+  "writer": "Story by: Lawrence V. Conley Teleplay by: Jeri Taylor",
+  "airdate_iso": "1991-10-14",
+  "viewers_millions": "12.0"
+ },
+ "205": {
+  "overall": [
+   105
+  ],
+  "season": 5,
+  "episode_in_season": [
+   5
+  ],
+  "code": "S05E05",
+  "title_wiki": "Disaster",
+  "director": "Gabrielle Beaumont",
+  "writer": "Story by: Ron Jarvis & Philip A. Scorza Teleplay by: Ronald D. Moore",
+  "airdate_iso": "1991-10-21",
+  "viewers_millions": "12.3"
+ },
+ "206": {
+  "overall": [
+   106
+  ],
+  "season": 5,
+  "episode_in_season": [
+   6
+  ],
+  "code": "S05E06",
+  "title_wiki": "The Game",
+  "director": "Corey Allen",
+  "writer": "Story by: Susan Sackett & Fred Bronson and Brannon Braga Teleplay by: Brannon Braga",
+  "airdate_iso": "1991-10-28",
+  "viewers_millions": "13.4"
+ },
+ "208": {
+  "overall": [
+   107
+  ],
+  "season": 5,
+  "episode_in_season": [
+   7
+  ],
+  "code": "S05E07",
+  "title_wiki": "Unification, Part I",
+  "director": "Les Landau",
+  "writer": "Story by: Rick Berman & Michael Piller Teleplay by: Jeri Taylor",
+  "airdate_iso": "1991-11-04",
+  "viewers_millions": "15.4"
+ },
+ "209": {
+  "overall": [
+   109
+  ],
+  "season": 5,
+  "episode_in_season": [
+   9
+  ],
+  "code": "S05E09",
+  "title_wiki": "A Matter of Time",
+  "director": "Paul Lynch",
+  "writer": "Rick Berman",
+  "airdate_iso": "1991-11-18",
+  "viewers_millions": "13.9"
+ },
+ "210": {
+  "overall": [
+   110
+  ],
+  "season": 5,
+  "episode_in_season": [
+   10
+  ],
+  "code": "S05E10",
+  "title_wiki": "New Ground",
+  "director": "Robert Scheerer",
+  "writer": "Story by: Sara Charno & Stuart Charno Teleplay by: Grant Rosenberg",
+  "airdate_iso": "1991-12-30",
+  "viewers_millions": "11.9"
+ },
+ "211": {
+  "overall": [
+   111
+  ],
+  "season": 5,
+  "episode_in_season": [
+   11
+  ],
+  "code": "S05E11",
+  "title_wiki": "Hero Worship",
+  "director": "Patrick Stewart",
+  "writer": "Story by: Hilary J. Bader Teleplay by: Joe Menosky",
+  "airdate_iso": "1992-01-06",
+  "viewers_millions": "12.7"
+ },
+ "212": {
+  "overall": [
+   112
+  ],
+  "season": 5,
+  "episode_in_season": [
+   12
+  ],
+  "code": "S05E12",
+  "title_wiki": "Violations",
+  "director": "Robert Wiemer",
+  "writer": "Story by: Shari Goodhartz & T. Michael and Pamela Gray Teleplay by: Pamela Gray & Jeri Taylor",
+  "airdate_iso": "1992-01-27",
+  "viewers_millions": "12.1"
+ },
+ "213": {
+  "overall": [
+   113
+  ],
+  "season": 5,
+  "episode_in_season": [
+   13
+  ],
+  "code": "S05E13",
+  "title_wiki": "The Masterpiece Society",
+  "director": "Winrich Kolbe",
+  "writer": "Story by: James Kahn and Adam Belanoff Teleplay by: Adam Belanoff and Michael Piller",
+  "airdate_iso": "1992-02-03",
+  "viewers_millions": "12.0"
+ },
+ "214": {
+  "overall": [
+   114
+  ],
+  "season": 5,
+  "episode_in_season": [
+   14
+  ],
+  "code": "S05E14",
+  "title_wiki": "Conundrum",
+  "director": "Les Landau",
+  "writer": "Story by: Paul Schiffer Teleplay by: Barry Schkolnick",
+  "airdate_iso": "1992-02-10",
+  "viewers_millions": "12.2"
+ },
+ "215": {
+  "overall": [
+   115
+  ],
+  "season": 5,
+  "episode_in_season": [
+   15
+  ],
+  "code": "S05E15",
+  "title_wiki": "Power Play",
+  "director": "David Livingston",
+  "writer": "Story by: Paul Ruben and Maurice Hurley Teleplay by: Ren\u00e9 Balcer and Herbert Wright & Brannon Braga",
+  "airdate_iso": "1992-02-17",
+  "viewers_millions": "13.2"
+ },
+ "216": {
+  "overall": [
+   116
+  ],
+  "season": 5,
+  "episode_in_season": [
+   16
+  ],
+  "code": "S05E16",
+  "title_wiki": "Ethics",
+  "director": "Chip Chalmers",
+  "writer": "Story by: Sara Charno & Stuart Charno Teleplay by: Ronald D. Moore",
+  "airdate_iso": "1992-02-24",
+  "viewers_millions": "12.6"
+ },
+ "217": {
+  "overall": [
+   117
+  ],
+  "season": 5,
+  "episode_in_season": [
+   17
+  ],
+  "code": "S05E17",
+  "title_wiki": "The Outcast",
+  "director": "Robert Scheerer",
+  "writer": "Jeri Taylor",
+  "airdate_iso": "1992-03-16",
+  "viewers_millions": "12.3"
+ },
+ "218": {
+  "overall": [
+   118
+  ],
+  "season": 5,
+  "episode_in_season": [
+   18
+  ],
+  "code": "S05E18",
+  "title_wiki": "Cause and Effect",
+  "director": "Jonathan Frakes",
+  "writer": "Brannon Braga",
+  "airdate_iso": "1992-03-23",
+  "viewers_millions": "13.0"
+ },
+ "219": {
+  "overall": [
+   119
+  ],
+  "season": 5,
+  "episode_in_season": [
+   19
+  ],
+  "code": "S05E19",
+  "title_wiki": "The First Duty",
+  "director": "Paul Lynch",
+  "writer": "Ronald D. Moore & Naren Shankar",
+  "airdate_iso": "1992-03-30",
+  "viewers_millions": "12.1"
+ },
+ "220": {
+  "overall": [
+   120
+  ],
+  "season": 5,
+  "episode_in_season": [
+   20
+  ],
+  "code": "S05E20",
+  "title_wiki": "Cost of Living",
+  "director": "Winrich Kolbe",
+  "writer": "Peter Allan Fields",
+  "airdate_iso": "1992-04-20",
+  "viewers_millions": "11.7"
+ },
+ "221": {
+  "overall": [
+   121
+  ],
+  "season": 5,
+  "episode_in_season": [
+   21
+  ],
+  "code": "S05E21",
+  "title_wiki": "The Perfect Mate",
+  "director": "Cliff Bole",
+  "writer": "Story by: Ren\u00e9 Echevarria and Gary Perconte Teleplay by: Gary Perconte and Michael Piller",
+  "airdate_iso": "1992-04-27",
+  "viewers_millions": "10.8"
+ },
+ "222": {
+  "overall": [
+   122
+  ],
+  "season": 5,
+  "episode_in_season": [
+   22
+  ],
+  "code": "S05E22",
+  "title_wiki": "Imaginary Friend",
+  "director": "Gabrielle Beaumont",
+  "writer": "Story by: Jean Louise Matthias & Ronald Wilkerson and Richard Fliegel Teleplay by: Edithe Swensen and Brannon Braga",
+  "airdate_iso": "1992-05-04",
+  "viewers_millions": "12.1"
+ },
+ "223": {
+  "overall": [
+   123
+  ],
+  "season": 5,
+  "episode_in_season": [
+   23
+  ],
+  "code": "S05E23",
+  "title_wiki": "I, Borg",
+  "director": "Robert Lederman",
+  "writer": "Ren\u00e9 Echevarria",
+  "airdate_iso": "1992-05-11",
+  "viewers_millions": "12.8"
+ },
+ "224": {
+  "overall": [
+   124
+  ],
+  "season": 5,
+  "episode_in_season": [
+   24
+  ],
+  "code": "S05E24",
+  "title_wiki": "The Next Phase",
+  "director": "David Carson",
+  "writer": "Ronald D. Moore",
+  "airdate_iso": "1992-05-18",
+  "viewers_millions": "11.7"
+ },
+ "225": {
+  "overall": [
+   125
+  ],
+  "season": 5,
+  "episode_in_season": [
+   25
+  ],
+  "code": "S05E25",
+  "title_wiki": "The Inner Light",
+  "director": "Peter Lauritson",
+  "writer": "Story by: Morgan Gendel Teleplay by: Morgan Gendel and Peter Allan Fields",
+  "airdate_iso": "1992-06-01",
+  "viewers_millions": "11.1"
+ },
+ "226": {
+  "overall": [
+   126
+  ],
+  "season": 5,
+  "episode_in_season": [
+   26
+  ],
+  "code": "S05E26",
+  "title_wiki": "Time's Arrow, Part I",
+  "director": "Les Landau",
+  "writer": "Story by: Joe Menosky Teleplay by: Joe Menosky & Michael Piller",
+  "airdate_iso": "1992-06-15",
+  "viewers_millions": "11.8"
+ },
+ "227": {
+  "overall": [
+   127
+  ],
+  "season": 6,
+  "episode_in_season": [
+   1
+  ],
+  "code": "S06E01",
+  "title_wiki": "Time's Arrow, Part II",
+  "director": "Les Landau",
+  "writer": "Story by: Joe Menosky Teleplay by: Jeri Taylor",
+  "airdate_iso": "1992-09-21",
+  "viewers_millions": "13.8"
+ },
+ "228": {
+  "overall": [
+   128
+  ],
+  "season": 6,
+  "episode_in_season": [
+   2
+  ],
+  "code": "S06E02",
+  "title_wiki": "Realm of Fear",
+  "director": "Cliff Bole",
+  "writer": "Brannon Braga",
+  "airdate_iso": "1992-09-28",
+  "viewers_millions": "13.2"
+ },
+ "229": {
+  "overall": [
+   129
+  ],
+  "season": 6,
+  "episode_in_season": [
+   3
+  ],
+  "code": "S06E03",
+  "title_wiki": "Man of the People",
+  "director": "Winrich Kolbe",
+  "writer": "Frank Abatemarco",
+  "airdate_iso": "1992-10-05",
+  "viewers_millions": "13.2"
+ },
+ "230": {
+  "overall": [
+   130
+  ],
+  "season": 6,
+  "episode_in_season": [
+   4
+  ],
+  "code": "S06E04",
+  "title_wiki": "Relics",
+  "director": "Alexander Singer",
+  "writer": "Ronald D. Moore",
+  "airdate_iso": "1992-10-12",
+  "viewers_millions": "13.9"
+ },
+ "231": {
+  "overall": [
+   131
+  ],
+  "season": 6,
+  "episode_in_season": [
+   5
+  ],
+  "code": "S06E05",
+  "title_wiki": "Schisms",
+  "director": "Robert Wiemer",
+  "writer": "Story by: Jean Louise Matthias & Ronald Wilkerson Teleplay by: Brannon Braga",
+  "airdate_iso": "1992-10-19",
+  "viewers_millions": "13.2"
+ },
+ "232": {
+  "overall": [
+   132
+  ],
+  "season": 6,
+  "episode_in_season": [
+   6
+  ],
+  "code": "S06E06",
+  "title_wiki": "True Q",
+  "director": "Robert Scheerer",
+  "writer": "Ren\u00e9 Echevarria",
+  "airdate_iso": "1992-10-26",
+  "viewers_millions": "13.7"
+ },
+ "233": {
+  "overall": [
+   133
+  ],
+  "season": 6,
+  "episode_in_season": [
+   7
+  ],
+  "code": "S06E07",
+  "title_wiki": "Rascals",
+  "director": "Adam Nimoy",
+  "writer": "Story by: Ward Botsford & Diana Dru Botsford and Michael Piller Teleplay by: Allison Hock",
+  "airdate_iso": "1992-11-02",
+  "viewers_millions": "13.5"
+ },
+ "234": {
+  "overall": [
+   134
+  ],
+  "season": 6,
+  "episode_in_season": [
+   8
+  ],
+  "code": "S06E08",
+  "title_wiki": "A Fistful of Datas",
+  "director": "Patrick Stewart",
+  "writer": "Story by: Robert Hewitt Wolfe Teleplay by: Robert Hewitt Wolfe and Brannon Braga",
+  "airdate_iso": "1992-11-09",
+  "viewers_millions": "13.4"
+ },
+ "235": {
+  "overall": [
+   135
+  ],
+  "season": 6,
+  "episode_in_season": [
+   9
+  ],
+  "code": "S06E09",
+  "title_wiki": "The Quality of Life",
+  "director": "Jonathan Frakes",
+  "writer": "Naren Shankar",
+  "airdate_iso": "1992-11-16",
+  "viewers_millions": "13.2"
+ },
+ "236": {
+  "overall": [
+   136
+  ],
+  "season": 6,
+  "episode_in_season": [
+   10
+  ],
+  "code": "S06E10",
+  "title_wiki": "Chain of Command, Part I",
+  "director": "Robert Scheerer",
+  "writer": "Story by: Frank Abatemarco Teleplay by: Ronald D. Moore",
+  "airdate_iso": "1992-12-14",
+  "viewers_millions": "10.2"
+ },
+ "238": {
+  "overall": [
+   138
+  ],
+  "season": 6,
+  "episode_in_season": [
+   12
+  ],
+  "code": "S06E12",
+  "title_wiki": "Ship in a Bottle",
+  "director": "Alexander Singer",
+  "writer": "Ren\u00e9 Echevarria",
+  "airdate_iso": "1993-01-25",
+  "viewers_millions": "11.3"
+ },
+ "239": {
+  "overall": [
+   139
+  ],
+  "season": 6,
+  "episode_in_season": [
+   13
+  ],
+  "code": "S06E13",
+  "title_wiki": "Aquiel",
+  "director": "Cliff Bole",
+  "writer": "Story by: Jeri Taylor Teleplay by: Brannon Braga & Ronald D. Moore",
+  "airdate_iso": "1993-02-01",
+  "viewers_millions": "14.1"
+ },
+ "240": {
+  "overall": [
+   140
+  ],
+  "season": 6,
+  "episode_in_season": [
+   14
+  ],
+  "code": "S06E14",
+  "title_wiki": "Face of the Enemy",
+  "director": "Gabrielle Beaumont",
+  "writer": "Story by: Ren\u00e9 Echevarria Teleplay by: Naren Shankar",
+  "airdate_iso": "1993-02-08",
+  "viewers_millions": "13.1"
+ },
+ "241": {
+  "overall": [
+   141
+  ],
+  "season": 6,
+  "episode_in_season": [
+   15
+  ],
+  "code": "S06E15",
+  "title_wiki": "Tapestry",
+  "director": "Les Landau",
+  "writer": "Ronald D. Moore",
+  "airdate_iso": "1993-02-15",
+  "viewers_millions": "13.8"
+ },
+ "242": {
+  "overall": [
+   142
+  ],
+  "season": 6,
+  "episode_in_season": [
+   16
+  ],
+  "code": "S06E16",
+  "title_wiki": "Birthright, Part I",
+  "director": "Winrich Kolbe",
+  "writer": "Brannon Braga",
+  "airdate_iso": "1993-02-22",
+  "viewers_millions": "13.2"
+ },
+ "244": {
+  "overall": [
+   144
+  ],
+  "season": 6,
+  "episode_in_season": [
+   18
+  ],
+  "code": "S06E18",
+  "title_wiki": "Starship Mine",
+  "director": "Cliff Bole",
+  "writer": "Morgan Gendel",
+  "airdate_iso": "1993-03-29",
+  "viewers_millions": "13.0"
+ },
+ "245": {
+  "overall": [
+   145
+  ],
+  "season": 6,
+  "episode_in_season": [
+   19
+  ],
+  "code": "S06E19",
+  "title_wiki": "Lessons",
+  "director": "Robert Wiemer",
+  "writer": "Ronald Wilkerson & Jean Louise Matthias",
+  "airdate_iso": "1993-04-05",
+  "viewers_millions": "12.2"
+ },
+ "246": {
+  "overall": [
+   146
+  ],
+  "season": 6,
+  "episode_in_season": [
+   20
+  ],
+  "code": "S06E20",
+  "title_wiki": "The Chase",
+  "director": "Jonathan Frakes",
+  "writer": "Story by: Ronald D. Moore & Joe Menosky Teleplay by: Joe Menosky",
+  "airdate_iso": "1993-04-26",
+  "viewers_millions": "11.2"
+ },
+ "247": {
+  "overall": [
+   147
+  ],
+  "season": 6,
+  "episode_in_season": [
+   21
+  ],
+  "code": "S06E21",
+  "title_wiki": "Frame of Mind",
+  "director": "James L. Conway",
+  "writer": "Brannon Braga",
+  "airdate_iso": "1993-05-03",
+  "viewers_millions": "11.4"
+ },
+ "248": {
+  "overall": [
+   148
+  ],
+  "season": 6,
+  "episode_in_season": [
+   22
+  ],
+  "code": "S06E22",
+  "title_wiki": "Suspicions",
+  "director": "Cliff Bole",
+  "writer": "Joe Menosky & Naren Shankar",
+  "airdate_iso": "1993-05-10",
+  "viewers_millions": "11.3"
+ },
+ "249": {
+  "overall": [
+   149
+  ],
+  "season": 6,
+  "episode_in_season": [
+   23
+  ],
+  "code": "S06E23",
+  "title_wiki": "Rightful Heir",
+  "director": "Winrich Kolbe",
+  "writer": "Story by: James E. Brooks Teleplay by: Ronald D. Moore",
+  "airdate_iso": "1993-05-17",
+  "viewers_millions": "10.6"
+ },
+ "250": {
+  "overall": [
+   150
+  ],
+  "season": 6,
+  "episode_in_season": [
+   24
+  ],
+  "code": "S06E24",
+  "title_wiki": "Second Chances",
+  "director": "LeVar Burton",
+  "writer": "Story by: Michael A. Medlock Teleplay by: Ren\u00e9 Echevarria",
+  "airdate_iso": "1993-05-24",
+  "viewers_millions": "9.7"
+ },
+ "251": {
+  "overall": [
+   151
+  ],
+  "season": 6,
+  "episode_in_season": [
+   25
+  ],
+  "code": "S06E25",
+  "title_wiki": "Timescape",
+  "director": "Adam Nimoy",
+  "writer": "Brannon Braga",
+  "airdate_iso": "1993-06-14",
+  "viewers_millions": "11.6"
+ },
+ "252": {
+  "overall": [
+   152
+  ],
+  "season": 6,
+  "episode_in_season": [
+   26
+  ],
+  "code": "S06E26",
+  "title_wiki": "Descent, Part I",
+  "director": "Alexander Singer",
+  "writer": "Story by: Jeri Taylor Teleplay by: Ronald D. Moore",
+  "airdate_iso": "1993-06-21",
+  "viewers_millions": "11.7"
+ },
+ "253": {
+  "overall": [
+   153
+  ],
+  "season": 7,
+  "episode_in_season": [
+   1
+  ],
+  "code": "S07E01",
+  "title_wiki": "Descent, Part II",
+  "director": "Alexander Singer",
+  "writer": "Ren\u00e9 Echevarria",
+  "airdate_iso": "1993-09-20",
+  "viewers_millions": "13.0"
+ },
+ "254": {
+  "overall": [
+   154
+  ],
+  "season": 7,
+  "episode_in_season": [
+   2
+  ],
+  "code": "S07E02",
+  "title_wiki": "Liaisons",
+  "director": "Cliff Bole",
+  "writer": "Story by: Roger Eschbacher & Jaq Greenspon Teleplay by: Jeanne Carrigan-Fauci & Lisa Rich",
+  "airdate_iso": "1993-09-27",
+  "viewers_millions": "12.2"
+ },
+ "255": {
+  "overall": [
+   155
+  ],
+  "season": 7,
+  "episode_in_season": [
+   3
+  ],
+  "code": "S07E03",
+  "title_wiki": "Interface",
+  "director": "Robert Wiemer",
+  "writer": "Joe Menosky",
+  "airdate_iso": "1993-10-04",
+  "viewers_millions": "11.7"
+ },
+ "256": {
+  "overall": [
+   156
+  ],
+  "season": 7,
+  "episode_in_season": [
+   4
+  ],
+  "code": "S07E04",
+  "title_wiki": "Gambit, Part I",
+  "director": "Peter Lauritson",
+  "writer": "Story by: Naren Shankar and Christopher Hatton Teleplay by: Naren Shankar",
+  "airdate_iso": "1993-10-11",
+  "viewers_millions": "11.9"
+ },
+ "258": {
+  "overall": [
+   158
+  ],
+  "season": 7,
+  "episode_in_season": [
+   6
+  ],
+  "code": "S07E06",
+  "title_wiki": "Phantasms",
+  "director": "Patrick Stewart",
+  "writer": "Brannon Braga",
+  "airdate_iso": "1993-10-25",
+  "viewers_millions": "12.2"
+ },
+ "259": {
+  "overall": [
+   159
+  ],
+  "season": 7,
+  "episode_in_season": [
+   7
+  ],
+  "code": "S07E07",
+  "title_wiki": "Dark Page",
+  "director": "Les Landau",
+  "writer": "Hilary J. Bader",
+  "airdate_iso": "1993-11-01",
+  "viewers_millions": "11.6"
+ },
+ "260": {
+  "overall": [
+   160
+  ],
+  "season": 7,
+  "episode_in_season": [
+   8
+  ],
+  "code": "S07E08",
+  "title_wiki": "Attached",
+  "director": "Jonathan Frakes",
+  "writer": "Nick Sagan",
+  "airdate_iso": "1993-11-08",
+  "viewers_millions": "12.1"
+ },
+ "261": {
+  "overall": [
+   161
+  ],
+  "season": 7,
+  "episode_in_season": [
+   9
+  ],
+  "code": "S07E09",
+  "title_wiki": "Force of Nature",
+  "director": "Robert Lederman",
+  "writer": "Naren Shankar",
+  "airdate_iso": "1993-11-15",
+  "viewers_millions": "11.9"
+ },
+ "262": {
+  "overall": [
+   162
+  ],
+  "season": 7,
+  "episode_in_season": [
+   10
+  ],
+  "code": "S07E10",
+  "title_wiki": "Inheritance",
+  "director": "Robert Scheerer",
+  "writer": "Story by: Dan Koeppel Teleplay by: Dan Koeppel and Ren\u00e9 Echevarria",
+  "airdate_iso": "1993-11-22",
+  "viewers_millions": "11.6"
+ },
+ "263": {
+  "overall": [
+   163
+  ],
+  "season": 7,
+  "episode_in_season": [
+   11
+  ],
+  "code": "S07E11",
+  "title_wiki": "Parallels",
+  "director": "Robert Wiemer",
+  "writer": "Brannon Braga",
+  "airdate_iso": "1993-11-29",
+  "viewers_millions": "12.8"
+ },
+ "264": {
+  "overall": [
+   164
+  ],
+  "season": 7,
+  "episode_in_season": [
+   12
+  ],
+  "code": "S07E12",
+  "title_wiki": "The Pegasus",
+  "director": "LeVar Burton",
+  "writer": "Ronald D. Moore",
+  "airdate_iso": "1994-01-10",
+  "viewers_millions": "11.9"
+ },
+ "265": {
+  "overall": [
+   165
+  ],
+  "season": 7,
+  "episode_in_season": [
+   13
+  ],
+  "code": "S07E13",
+  "title_wiki": "Homeward",
+  "director": "Alexander Singer",
+  "writer": "Story by: Spike Steingasser Teleplay by: Naren Shankar",
+  "airdate_iso": "1994-01-17",
+  "viewers_millions": "11.8"
+ },
+ "266": {
+  "overall": [
+   166
+  ],
+  "season": 7,
+  "episode_in_season": [
+   14
+  ],
+  "code": "S07E14",
+  "title_wiki": "Sub Rosa",
+  "director": "Jonathan Frakes",
+  "writer": "Story by: Jeri Taylor Teleplay by: Brannon Braga",
+  "airdate_iso": "1994-01-31",
+  "viewers_millions": "11.5"
+ },
+ "267": {
+  "overall": [
+   167
+  ],
+  "season": 7,
+  "episode_in_season": [
+   15
+  ],
+  "code": "S07E15",
+  "title_wiki": "Lower Decks",
+  "director": "Gabrielle Beaumont",
+  "writer": "Story by: Ronald Wilkerson & Jean Louise Matthias Teleplay by: Ren\u00e9 Echevarria",
+  "airdate_iso": "1994-02-07",
+  "viewers_millions": "11.9"
+ },
+ "268": {
+  "overall": [
+   168
+  ],
+  "season": 7,
+  "episode_in_season": [
+   16
+  ],
+  "code": "S07E16",
+  "title_wiki": "Thine Own Self",
+  "director": "Winrich Kolbe",
+  "writer": "Story by: Christopher Hatton Teleplay by: Ronald D. Moore",
+  "airdate_iso": "1994-02-14",
+  "viewers_millions": "11.4"
+ },
+ "269": {
+  "overall": [
+   169
+  ],
+  "season": 7,
+  "episode_in_season": [
+   17
+  ],
+  "code": "S07E17",
+  "title_wiki": "Masks",
+  "director": "Robert Wiemer",
+  "writer": "Joe Menosky",
+  "airdate_iso": "1994-02-21",
+  "viewers_millions": "11.8"
+ },
+ "270": {
+  "overall": [
+   170
+  ],
+  "season": 7,
+  "episode_in_season": [
+   18
+  ],
+  "code": "S07E18",
+  "title_wiki": "Eye of the Beholder",
+  "director": "Cliff Bole",
+  "writer": "Story by: Brannon Braga Teleplay by: Ren\u00e9 Echevarria",
+  "airdate_iso": "1994-02-28",
+  "viewers_millions": "13.3"
+ },
+ "271": {
+  "overall": [
+   171
+  ],
+  "season": 7,
+  "episode_in_season": [
+   19
+  ],
+  "code": "S07E19",
+  "title_wiki": "Genesis",
+  "director": "Gates McFadden",
+  "writer": "Brannon Braga",
+  "airdate_iso": "1994-03-21",
+  "viewers_millions": "11.3"
+ },
+ "272": {
+  "overall": [
+   172
+  ],
+  "season": 7,
+  "episode_in_season": [
+   20
+  ],
+  "code": "S07E20",
+  "title_wiki": "Journey's End",
+  "director": "Corey Allen",
+  "writer": "Ronald D. Moore",
+  "airdate_iso": "1994-03-28",
+  "viewers_millions": "11.9"
+ },
+ "273": {
+  "overall": [
+   173
+  ],
+  "season": 7,
+  "episode_in_season": [
+   21
+  ],
+  "code": "S07E21",
+  "title_wiki": "Firstborn",
+  "director": "Jonathan West",
+  "writer": "Story by: Mark Kalbfeld Teleplay by: Ren\u00e9 Echevarria",
+  "airdate_iso": "1994-04-25",
+  "viewers_millions": "11.4"
+ },
+ "274": {
+  "overall": [
+   174
+  ],
+  "season": 7,
+  "episode_in_season": [
+   22
+  ],
+  "code": "S07E22",
+  "title_wiki": "Bloodlines",
+  "director": "Les Landau",
+  "writer": "Nick Sagan",
+  "airdate_iso": "1994-05-02",
+  "viewers_millions": "11.3"
+ },
+ "275": {
+  "overall": [
+   175
+  ],
+  "season": 7,
+  "episode_in_season": [
+   23
+  ],
+  "code": "S07E23",
+  "title_wiki": "Emergence",
+  "director": "Cliff Bole",
+  "writer": "Story by: Brannon Braga Teleplay by: Joe Menosky",
+  "airdate_iso": "1994-05-09",
+  "viewers_millions": "11.3"
+ },
+ "276": {
+  "overall": [
+   176
+  ],
+  "season": 7,
+  "episode_in_season": [
+   24
+  ],
+  "code": "S07E24",
+  "title_wiki": "Preemptive Strike",
+  "director": "Patrick Stewart",
+  "writer": "Story by: Naren Shankar Teleplay by: Ren\u00e9 Echevarria",
+  "airdate_iso": "1994-05-16",
+  "viewers_millions": "11.8"
+ },
+ "277": {
+  "overall": [
+   177,
+   178
+  ],
+  "season": 7,
+  "episode_in_season": [
+   25,
+   26
+  ],
+  "code": "S07E25-E26",
+  "title_wiki": "All Good Things...",
+  "director": "Winrich Kolbe",
+  "writer": "Ronald D. Moore & Brannon Braga",
+  "airdate_iso": "1994-05-23",
+  "viewers_millions": "17.4"
+ },
+ "207": {
+  "overall": [
+   108
+  ],
+  "season": 5,
+  "episode_in_season": [
+   8
+  ],
+  "code": "S05E08",
+  "title_wiki": "Unification, Part II",
+  "director": "Cliff Bole",
+  "writer": "Story by: Rick Berman & Michael Piller Teleplay by: Michael Piller",
+  "airdate_iso": "1991-11-11",
+  "viewers_millions": ""
+ },
+ "237": {
+  "overall": [
+   137
+  ],
+  "season": 6,
+  "episode_in_season": [
+   11
+  ],
+  "code": "S06E11",
+  "title_wiki": "Chain of Command, Part II",
+  "director": "Les Landau",
+  "writer": "Frank Abatemarco",
+  "airdate_iso": "1992-12-21",
+  "viewers_millions": ""
+ },
+ "243": {
+  "overall": [
+   143
+  ],
+  "season": 6,
+  "episode_in_season": [
+   17
+  ],
+  "code": "S06E17",
+  "title_wiki": "Birthright, Part II",
+  "director": "Dan Curry",
+  "writer": "Ren\u00e9 Echevarria",
+  "airdate_iso": "1993-03-01",
+  "viewers_millions": ""
+ },
+ "257": {
+  "overall": [
+   157
+  ],
+  "season": 7,
+  "episode_in_season": [
+   5
+  ],
+  "code": "S07E05",
+  "title_wiki": "Gambit, Part II",
+  "director": "Alexander Singer",
+  "writer": "Story by: Naren Shankar Teleplay by: Ronald D. Moore",
+  "airdate_iso": "1993-10-18",
+  "viewers_millions": ""
+ }
+}
