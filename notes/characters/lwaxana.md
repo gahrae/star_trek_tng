@@ -13,10 +13,10 @@
 ## Key facts
 
 - Deanna's mother, a full Betazoid telepath and Federation ambassador; 'Daughter of the Fifth House, Holder of the Sacred Chalice of Rixx, Heir to the Holy Rings of Betazed'.
-- Attended by her nearly silent valet Mr Homn; relentlessly flirts with Picard (*Haven*, *Manhunt*).
-- Falls in love with the scientist Timicin, who must undergo ritual death at sixty (*Half a Life*).
-- Kidnapped with Deanna and Riker by Ferengi (*Menage a Troi*); nearly marries a stuffy bureaucrat (*Cost of Living*).
-- Reveals the repressed grief for her first daughter Kestra (*Dark Page*).
+- Attended by her nearly silent valet Mr Homn; relentlessly flirts with Picard (*Haven*, *Manhunt*). <span class="src">([S01E11](../../data/text/105.txt "Haven") · [S02E19](../../data/text/145.txt "Manhunt"))</span>
+- Falls in love with the scientist Timicin, who must undergo ritual death at sixty (*Half a Life*). <span class="src">([S04E22](../../data/text/196.txt "Half a Life"))</span>
+- Kidnapped with Deanna and Riker by Ferengi (*Menage a Troi*); nearly marries a stuffy bureaucrat (*Cost of Living*). <span class="src">([S03E24](../../data/text/172.txt "Ménage à Troi") · [S05E20](../../data/text/220.txt "Cost of Living"))</span>
+- Reveals the repressed grief for her first daughter Kestra (*Dark Page*). <span class="src">([S07E07](../../data/text/259.txt "Dark Page"))</span>
 
 ## Relationships
 

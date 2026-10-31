@@ -47,6 +47,33 @@ if site.exists():
     used = set()
     for p in (site / "episodes").glob("*.html"): used |= set(re.findall(r'href="\.\./arcs\.html#([^"]+)"', p.read_text(encoding="utf-8")))
     check(used <= ids, f"arc anchors missing on arcs.html: {sorted(used - ids)[:5]}")
+# source links: every cited episode exists, explicit markers are backed by the transcript they point to,
+# and a character's facts only cite episodes that character is in
+sys.path.insert(0, str(ROOT / "scripts"))
+import sources, curated_characters as cc
+appear = json.load(open(ROOT / "data" / "appearances.json")); presence = json.load(open(ROOT / "data" / "presence.json"))
+_text = {}
+def transcript(prod):
+    if prod not in _text: _text[prod] = (ROOT / "data" / "text" / f"{prod}.txt").read_text(encoding="utf-8").lower()
+    return _text[prod]
+RANKS = {"captain", "commander", "lieutenant", "counselor", "doctor", "chief", "ensign", "admiral", "lord", "the"}
+claims = ([(k, n, x) for k, (n, fs) in cc.FACTS.items() for x in fs] + [(k, cc.GUESTS[k][0], x) for k, fs in cc.GUEST_FACTS.items() for x in fs if k in cc.GUESTS]
+          + [(k, n, d) for k, (n, d) in cc.GUESTS.items()])
+unknown, unbacked, absent = [], [], []
+def present(label, words, p):
+    return label in appear and p in appear[label] or label in presence.get(p, {}) or any(w in transcript(p) for w in words)
+for label, name, text in claims:
+    try: groups = sources.cited_groups(text)
+    except ValueError as ex: unknown.append(str(ex)); continue
+    kws = sources.keywords(text)
+    for p in sources.cited_prods(text, italics=False):
+        if kws and not any(k.lower() in transcript(p) for k in kws): unbacked.append(f"{label} cites {sources.CODE[p]} but it has none of {kws[:3]}")
+    words = [w.lower() for w in re.findall(r"[A-Za-z']{3,}", name) if w.lower() not in RANKS]
+    for g in groups:      # a title naming two parts only needs the character in one of them
+        if not any(present(label, words, p) for p in g): absent.append(f"{label} cites {', '.join(sources.CODE[p] + ' ' + sources.TITLE[p] for p in g)}, where the name never appears")
+check(not unknown, f"unknown episodes cited: {unknown[:3]}")
+check(not unbacked, f"explicit source markers the transcript does not back: {unbacked[:3]}")
+check(not absent, f"{len(absent)} cited episodes where the character does not appear: {absent[:5]}")
 if fails:
     print("CHECKS FAILED:\n  " + "\n  ".join(fails)); sys.exit(1)
 print("all checks passed")

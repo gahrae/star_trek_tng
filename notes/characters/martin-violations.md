@@ -8,7 +8,7 @@
 
 ## Key facts
 
-- Doctor in sickbay who monitors Troi's condition (*Violations*).
+- Doctor in sickbay who monitors Troi's condition (*Violations*). <span class="src">([S05E12](../../data/text/212.txt "Violations"))</span>
 
 ## Most scenes shared with
 

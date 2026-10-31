@@ -12,7 +12,7 @@
 
 ## Key facts
 
-- Original-series chief engineer recovered from a transporter pattern buffer after 75 years (*Relics*).
+- Original-series chief engineer recovered from a transporter pattern buffer after 75 years (*Relics*). <span class="src">([S06E04](../../data/text/230.txt "Relics"))</span>
 
 ## Rank and role timeline
 

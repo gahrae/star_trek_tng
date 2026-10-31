@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Apgar's widow, whose account differs from Riker's (*A Matter of Perspective*).
+- Apgar's widow, whose account differs from Riker's (*A Matter of Perspective*). <span class="src">([S03E14](../../data/text/162.txt "A Matter Of Perspective"))</span>
 
 ## Most scenes shared with
 

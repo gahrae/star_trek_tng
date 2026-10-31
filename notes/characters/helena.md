@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Worf's adoptive human mother (*Family*, *New Ground*).
+- Worf's adoptive human mother (*Family*, *New Ground*). <span class="src">([S04E02](../../data/text/178.txt "Family") · [S05E10](../../data/text/210.txt "New Ground"))</span>
 
 ## Relationships
 

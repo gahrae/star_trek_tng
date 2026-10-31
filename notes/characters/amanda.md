@@ -11,7 +11,7 @@
 
 - Gifted Starfleet intern raised by human foster parents in Kansas.
 - Her birth parents were Q who chose to live as humans and were executed by the Continuum; Q arrives to judge whether she is a threat.
-- Tries to refuse her powers, then uses them to save the ship and chooses the Continuum (*True Q*).
+- Tries to refuse her powers, then uses them to save the ship and chooses the Continuum (*True Q*). <span class="src">([S06E06](../../data/text/232.txt "True Q"))</span>
 
 ## Relationships
 

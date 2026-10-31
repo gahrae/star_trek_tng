@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Admiral in *The Defector* and *The Wounded*.
+- Admiral in *The Defector* and *The Wounded*. <span class="src">([S03E10](../../data/text/158.txt "The Defector") · [S04E12](../../data/text/186.txt "The Wounded"))</span>
 
 ## Most scenes shared with
 

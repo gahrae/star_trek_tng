@@ -12,7 +12,7 @@
 
 ## Key facts
 
-- Roguish archaeologist and treasure hunter who romances Picard on Risa (*Captain's Holiday*) and leaves with Q (*Qpid*).
+- Roguish archaeologist and treasure hunter who romances Picard on Risa (*Captain's Holiday*) and leaves with Q (*Qpid*). <span class="src">([S03E19](../../data/text/167.txt "Captain's Holiday") · [S04E20](../../data/text/194.txt "Qpid"))</span>
 
 ## Relationships
 

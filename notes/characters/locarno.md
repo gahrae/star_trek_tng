@@ -11,7 +11,7 @@
 
 - Leader of Nova Squadron at the Academy, whose attempt at the banned Kolvoord Starburst kills cadet Joshua Albert.
 - Pressures Wesley and the others to cover it up.
-- Takes full responsibility once Wesley speaks and is expelled (*The First Duty*).
+- Takes full responsibility once Wesley speaks and is expelled (*The First Duty*). <span class="src">([S05E19](../../data/text/219.txt "The First Duty"))</span>
 
 ## Relationships
 

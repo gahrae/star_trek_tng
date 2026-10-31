@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Second officer of the Pagh (*A Matter of Honor*).
+- Second officer of the Pagh (*A Matter of Honor*). <span class="src">([S02E08](../../data/text/134.txt "A Matter of Honour"))</span>
 
 ## Most scenes shared with
 

@@ -12,7 +12,7 @@
 
 ## Key facts
 
-- Vulcan ambassador who goes to Romulus to pursue reunification; Picard carries his father Sarek's last feelings to him (*Unification*).
+- Vulcan ambassador who goes to Romulus to pursue reunification; Picard carries his father Sarek's last feelings to him (*Unification*). <span class="src">([S05E07](../../data/text/208.txt "Unification, part 1") · [S05E08](../../data/text/207.txt "Unification, part 2"))</span>
 
 ## Relationships
 

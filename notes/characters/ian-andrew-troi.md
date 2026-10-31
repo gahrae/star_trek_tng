@@ -8,7 +8,7 @@
 
 ## Key facts
 
-- Deanna's late father, a Starfleet officer, seen in Lwaxana's memories (*Dark Page*).
+- Deanna's late father, a Starfleet officer, seen in Lwaxana's memories (*Dark Page*). <span class="src">([S07E07](../../data/text/259.txt "Dark Page"))</span>
 
 ## Most scenes shared with
 

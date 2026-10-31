@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Sarek's human wife (*Sarek*, *Unification*).
+- Sarek's human wife (*Sarek*, *Unification*). <span class="src">([S03E23](../../data/text/171.txt "Sarek") · [S05E07](../../data/text/208.txt "Unification, part 1") · [S05E08](../../data/text/207.txt "Unification, part 2"))</span>
 
 ## Relationships
 

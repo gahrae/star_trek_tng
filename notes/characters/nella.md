@@ -11,7 +11,7 @@
 
 - Head of stellar sciences and a pianist, who plays alongside Picard's Ressikan flute.
 - Picard plays the Ressikan flute from his Kataan life with her, and shares what the probe gave him.
-- Her deflector plan during the Bersallis III evacuation puts her and the perimeter teams at risk; she survives and asks for a transfer (*Lessons*).
+- Her deflector plan during the Bersallis III evacuation puts her and the perimeter teams at risk; she survives and asks for a transfer (*Lessons*). <span class="src">([S06E19](../../data/text/245.txt "Lessons"))</span>
 
 ## Relationships
 

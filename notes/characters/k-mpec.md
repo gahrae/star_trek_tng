@@ -10,7 +10,7 @@
 ## Key facts
 
 - Chancellor of the Klingon High Council, slowly poisoned (Veridium six in his wine) by either Gowron or Duras.
-- Names Picard Arbiter of Succession because no one on the Council can be trusted, and asks him to find which rival poisoned him (*Reunion*).
+- Names Picard Arbiter of Succession because no one on the Council can be trusted, and asks him to find which rival poisoned him (*Reunion*). <span class="src">([S04E07](../../data/text/181.txt "Reunion"))</span>
 
 ## Most scenes shared with
 

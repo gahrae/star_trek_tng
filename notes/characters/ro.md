@@ -12,9 +12,9 @@
 
 ## Key facts
 
-- Bajoran officer with a court-martial record from the Garon II incident; brought aboard by Admiral Kennelly (*Ensign Ro*).
-- Trapped out of phase with Geordi after a transporter accident (*The Next Phase*); de-aged to a child (*Rascals*).
-- After advanced tactical training, defects to the Maquis, betraying Picard's trust (*Preemptive Strike*).
+- Bajoran officer with a court-martial record from the Garon II incident; brought aboard by Admiral Kennelly (*Ensign Ro*). <span class="src">([S05E03](../../data/text/203.txt "Ensign Ro"))</span>
+- Trapped out of phase with Geordi after a transporter accident (*The Next Phase*); de-aged to a child (*Rascals*). <span class="src">([S05E24](../../data/text/224.txt "The Next Phase") · [S06E07](../../data/text/233.txt "Rascals"))</span>
+- After advanced tactical training, defects to the Maquis, betraying Picard's trust (*Preemptive Strike*). <span class="src">([S07E24](../../data/text/276.txt "Preemptive Strike"))</span>
 
 ## Rank and role timeline
 

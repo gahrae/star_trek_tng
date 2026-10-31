@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Starfleet inspector who investigates the Enterprise (*Coming of Age*) and later hosts the parasite mother creature (*Conspiracy*).
+- Starfleet inspector who investigates the Enterprise (*Coming of Age*) and later hosts the parasite mother creature (*Conspiracy*). <span class="src">([S01E19](../../data/text/119.txt "Coming of Age") · [S01E25](../../data/text/125.txt "Conspiracy"))</span>
 
 ## Most scenes shared with
 

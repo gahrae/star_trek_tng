@@ -12,7 +12,7 @@
 
 ## Key facts
 
-- Holodeck character who becomes self-aware when Geordi asks for an opponent able to defeat Data (*Elementary, Dear Data*); later takes control of the ship to force the issue of leaving the holodeck, and is tricked by Picard and Data into a simulation inside a memory module where he believes he is free (*Ship in a Bottle*).
+- Holodeck character who becomes self-aware when Geordi asks for an opponent able to defeat Data (*Elementary, Dear Data*); later takes control of the ship to force the issue of leaving the holodeck, and is tricked by Picard and Data into a simulation inside a memory module where he believes he is free (*Ship in a Bottle*). <span class="src">([S02E03](../../data/text/129.txt "Elementary, Dear Data") · [S06E12](../../data/text/238.txt "Ship in a Bottle"))</span>
 
 ## Relationships
 

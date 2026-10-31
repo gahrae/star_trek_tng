@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Ferengi who blames Picard for his son's death at Maxia (*The Battle*, *Bloodlines*).
+- Ferengi who blames Picard for his son's death at Maxia (*The Battle*, *Bloodlines*). <span class="src">([S01E09](../../data/text/110.txt "The Battle") · [S07E22](../../data/text/274.txt "Bloodlines"))</span>
 
 ## Most scenes shared with
 

@@ -12,7 +12,7 @@
 
 ## Key facts
 
-- Spock's father; suffers from Bendii Syndrome, which leaks his emotions; mind-melds with Picard to complete his final negotiation (*Sarek*, *Unification*).
+- Spock's father; suffers from Bendii Syndrome, which leaks his emotions; mind-melds with Picard to complete his final negotiation (*Sarek*, *Unification*). <span class="src">([S03E23](../../data/text/171.txt "Sarek") · [S05E07](../../data/text/208.txt "Unification, part 1") · [S05E08](../../data/text/207.txt "Unification, part 2"))</span>
 
 ## Relationships
 

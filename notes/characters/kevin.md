@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- The Douwd who wiped out the Husnock (*The Survivors*).
+- The Douwd who wiped out the Husnock (*The Survivors*). <span class="src">([S03E03](../../data/text/151.txt "The Survivors"))</span>
 
 ## Most scenes shared with
 

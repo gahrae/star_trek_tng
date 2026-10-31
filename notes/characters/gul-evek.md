@@ -8,7 +8,7 @@
 
 ## Key facts
 
-- Cardassian officer in the demilitarised zone (*Journey's End*, *Preemptive Strike*).
+- Cardassian officer in the demilitarised zone (*Journey's End*, *Preemptive Strike*). <span class="src">([S07E20](../../data/text/272.txt "Journey's End") · [S07E24](../../data/text/276.txt "Preemptive Strike"))</span>
 
 ## Most scenes shared with
 

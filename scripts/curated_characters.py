@@ -16,7 +16,7 @@ FACTS = {
  "Lived an entire simulated lifetime as 'Kamin' on the dead planet Kataan (*The Inner Light*) and keeps the Ressikan flute afterwards.",
  "Tortured by Gul Madred of the Cardassians (*Chain of Command*); refuses to say there are five lights.",
  "Chosen as Arbiter of Succession for the Klingon High Council (*Reunion*, *Redemption*).",
- "Interests: archaeology (studied under Galen, *The Chase*), Shakespeare, horse riding, Dixon Hill detective holonovels; drinks 'Tea, Earl Grey, hot'.",
+ "Interests: archaeology (studied under Galen, *The Chase*), Shakespeare, horse riding, Dixon Hill detective holonovels; drinks 'Tea, Earl Grey, hot' {141}.",
  "Long unspoken attachment to Beverly Crusher (*Attached*); his friend Jack Crusher died under his command on the Stargazer.",
  "Q puts humanity on trial through him in the pilot and the finale (*Encounter at Farpoint*, *All Good Things...*).",
 ]),
@@ -179,7 +179,7 @@ FACTS = {
  "Romulan officer, daughter of the alternate-timeline Tasha Yar and a Romulan general; backs the Duras family in the civil war (*Redemption*) and the Vulcan invasion plot (*Unification*).",
 ]),
 "TOMALAK": ("Tomalak", [
- "Recurring Romulan commander and Picard's adversary (*The Enemy*, *The Defector*, *Future Imperfect*, *All Good Things...*).",
+ "Recurring Romulan commander and Picard's adversary (*The Enemy*, *The Defector*, *Future Imperfect*).",
 ]),
 "HUGH": ("Hugh", [
  "Borg drone rescued and taught individuality by Geordi and the crew (*I, Borg*); later leads Borg freed from Lore's control (*Descent*).",
@@ -439,7 +439,7 @@ GUESTS = {
 "LIATOR": ("Liator", "Edo spokesman (*Justice*)."),
 "T'JON": ("T'Jon", "Ornaran freighter captain dependent on felicium (*Symbiosis*)."),
 "EINSTEIN": ("Albert Einstein", "Holodeck recreation at Data's poker table (*Descent*)."),
-"MADELINE": ("Madeline", "Dixon Hill's secretary in the holonovel (*The Big Goodbye*, *Manhunt*, *Clues*)."),
+"MADELINE": ("Madeline", "Dixon Hill's secretary in the holonovel (*Manhunt*, *Clues*)."),
 "WILLIAMS": ("Williams", "Two unrelated characters share this label: a relief bridge officer in *Contagion*, and the soldier Michael Williams in the *Henry V* holodeck scene that opens *The Defector*, played uncredited by Patrick Stewart opposite Data."),
 "ERIC": ("Eric", "Child on the ship (*Masks*, *Firstborn*)."),
 "JAKE": ("Jake Kurland", "Teenager who steals a shuttle (*Coming of Age*)."),

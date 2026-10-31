@@ -59,6 +59,7 @@ code{background:var(--panel);padding:.1rem .3rem;border-radius:4px;font-size:.9e
 figure.portrait{float:right;margin:0 0 1rem 1.5rem;max-width:220px;text-align:center;font-size:.75rem;color:var(--muted);text-transform:uppercase;letter-spacing:.05em}
 figure.portrait.still{max-width:320px}
 a.report{color:var(--muted);text-decoration:underline dotted}
+.src{font-size:.8em;color:var(--muted);}.src a{color:var(--muted);text-decoration:underline dotted}.src a:hover{color:var(--text)}
 figure.portrait img{width:100%;border-radius:12px;border:3px solid var(--tan);display:block}
 /* chart panels keep the validated dark surface and palette steps */
 .egowrap{--surface-1:#1a1a19;--text-primary:#f0efec;--text-secondary:#c3c2b7;--s1:#3987e5;--s2:#d95926;--s3:#199e70;--s4:#c98500;--s5:#d55181;background:var(--surface-1);border:1px solid var(--line);border-radius:10px;padding:0;margin:1rem 0;clear:both;height:460px;min-height:260px;resize:vertical;overflow:hidden}
@@ -157,6 +158,7 @@ def render(md_path):
     body = re.sub(r'href="([^"]+?)\.md(#[^"]*)?"', lambda m: f'href="{m.group(1)}.html{m.group(2) or ""}"', body)
     body = body.replace('href="README.html"', 'href="index.html"')
     body = re.sub(r"<code>data/text/(\d+)\.txt</code>", r'<a href="../transcripts/\1.html">read the transcript</a>', body)
+    body = re.sub(r'href="(?:\.\./)+data/text/(\d+)\.txt"', lambda m: f'href="{"../" * depth}transcripts/{m.group(1)}.html"', body)   # source links go to the site's transcript pages
     title = re.search(r"^# (.+)$", text, re.M); title = html.unescape(title.group(1)) if title else rel.stem
     if rel.parent.name == "characters": body = character_extras(body, rel.stem)
     if rel.parent.name == "episodes": body = episode_still(body, rel.stem, title)

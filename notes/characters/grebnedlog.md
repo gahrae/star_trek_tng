@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Pakled captain who kidnaps Geordi (*Samaritan Snare*).
+- Pakled captain who kidnaps Geordi (*Samaritan Snare*). <span class="src">([S02E17](../../data/text/143.txt "Samaritan Snare"))</span>
 
 ## Most scenes shared with
 

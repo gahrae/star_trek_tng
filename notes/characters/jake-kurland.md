@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Teenager who fails the Academy entrance exam and steals a shuttle in despair (*Coming of Age*).
+- Teenager who fails the Academy entrance exam and steals a shuttle in despair (*Coming of Age*). <span class="src">([S01E19](../../data/text/119.txt "Coming of Age"))</span>
 
 ## Most scenes shared with
 

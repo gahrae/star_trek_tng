@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Danilo's daughter, flirts with Riker (*Up the Long Ladder*).
+- Danilo's daughter, flirts with Riker (*Up the Long Ladder*). <span class="src">([S02E18](../../data/text/144.txt "Up The Long Ladder"))</span>
 
 ## Most scenes shared with
 

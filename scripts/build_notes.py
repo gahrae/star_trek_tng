@@ -9,6 +9,7 @@ ROOT = pathlib.Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / "scripts"))
 from curated_episodes import EPISODES, ARCS, ARC_GROUPS, LINK_NOTES
 from curated_characters import FACTS, PROFILES, GUESTS, ENTITIES, CATCHPHRASES, SPLIT, GUEST_FACTS
+from sources import cite
 
 NOTES = ROOT / "notes"
 for d in ("characters", "episodes", "locations"): (NOTES / d).mkdir(parents=True, exist_ok=True)
@@ -223,15 +224,15 @@ for e in eps:
         f.write(f"| | |\n|---|---|\n| Code | {e['code']} (episode {', '.join(map(str, e['overall']))} overall) |\n"
                 f"| Aired | {e['airdate_iso']} |\n| Stardate | {e['stardate'] or 'none given'}" + (f" (the transcript reads {e['stardate_transcript']}; Memory Alpha's value is used)" if e['stardate_transcript'] and e['stardate_transcript'] != e['stardate'] else "") + f" |\n| Director | {e['director']} |\n| Writer | {e['writer']} |\n"
                 f"| Arcs | {', '.join(f'[{a}](../arcs.md#{slug(a)})' for a in arcs)} |\n| Transcript | `data/text/{prod}.txt` |\n\n")
-        f.write(f"## Synopsis\n\n{syn}\n\n")
+        f.write(f"## Synopsis\n\n{cite(syn, '../../', base=[prod], italics=False)}\n\n")
         if links or back:
             f.write("## Continuity\n\n")
             for p in sorted(links, key=order.get):
                 note = LINK_NOTES.get((prod, p)) or LINK_NOTES.get((p, prod), "")
-                f.write(f"- {'Follows' if order[p] < order[prod] else 'Leads to'} {ep_ref(p)}" + (f": {note}" if note else "") + "\n")
+                f.write(f"- {'Follows' if order[p] < order[prod] else 'Leads to'} {ep_ref(p)}" + (f": {cite(note, '../../', base=[prod, p], italics=False)}" if note else "") + "\n")
             for p in sorted(back, key=order.get):
                 note = LINK_NOTES.get((p, prod), "")
-                f.write(f"- Referenced by {ep_ref(p)}" + (f": {note}" if note else "") + "\n")
+                f.write(f"- Referenced by {ep_ref(p)}" + (f": {cite(note, '../../', base=[p, prod], italics=False)}" if note else "") + "\n")
             f.write("\n")
         if logs_by_ep[prod]:
             f.write("## Log entries\n\n" + "".join(f"> {l}\n\n" for l in logs_by_ep[prod]))
@@ -273,9 +274,9 @@ for lbl in rows:
         if p:
             f.write(f"| Species | {p['species']} |\n| Affiliation | {p['affiliation']} |\n| Status | {p['status']} |\n")
         f.write("\n## Key facts\n\n")
-        if lbl in FACTS: f.write("".join(f"- {x}\n" for x in FACTS[lbl][1]))
-        elif lbl in GUEST_FACTS: f.write("".join(f"- {x}\n" for x in GUEST_FACTS[lbl]))
-        elif lbl in GUESTS: f.write(f"- {GUESTS[lbl][1]}\n")
+        if lbl in FACTS: f.write("".join(f"- {cite(x, '../../')}\n" for x in FACTS[lbl][1]))
+        elif lbl in GUEST_FACTS: f.write("".join(f"- {cite(x, '../../')}\n" for x in GUEST_FACTS[lbl]))
+        elif lbl in GUESTS: f.write(f"- {cite(GUESTS[lbl][1], '../../')}\n")
         else: f.write("- (not yet written)\n")
         if p and p["ranks"]:
             f.write("\n## Rank and role timeline\n\n| From | Rank / role |\n|---|---|\n")
@@ -320,7 +321,7 @@ with open(NOTES / "continuity.md", "w", encoding="utf-8") as f:
     for e in eps:
         prior = sorted([p for p in EPISODES[e["prod"]][2] if order[p] < order[e["prod"]]], key=order.get)
         for p in prior:
-            f.write(f"| {e['code']} [{e['title']}](episodes/{e['prod']}.md) | {by_prod[p]['code']} [{by_prod[p]['title']}](episodes/{p}.md) | {LINK_NOTES.get((e['prod'], p), '')} |\n")
+            f.write(f"| {e['code']} [{e['title']}](episodes/{e['prod']}.md) | {by_prod[p]['code']} [{by_prod[p]['title']}](episodes/{p}.md) | {cite(LINK_NOTES.get((e['prod'], p), ''), '../', base=[e['prod'], p], italics=False) if LINK_NOTES.get((e['prod'], p)) else ''} |\n")
 
 with open(NOTES / "relationships.md", "w", encoding="utf-8") as f:
     f.write("# Relationships\n\n## Curated relationships\n\nLinks between characters (family, romance, rivalry, mentorship) recorded in the curated data files, grouped by character. "
@@ -391,7 +392,7 @@ with open(NOTES / "entities.md", "w", encoding="utf-8") as f:
             f.write(f"| {n} | {sum(h.values())} | {len(h)} | " + ", ".join(f"[{by_prod[p]['title']}](episodes/{p}.md) ({k})" for p, k in top) + " |\n")
 
 with open(NOTES / "stats.md", "w", encoding="utf-8") as f:
-    f.write("# Statistics\n\n## Episodes, scenes and dialogue per season\n\n| Season | Entries | Scenes | Scenes per entry | Dialogue lines | Speaking characters |\n|---|---:|---:|---:|---:|---:|\n")
+    f.write("# Statistics\n\nEvery count on this page is computed from the transcripts by code: a dialogue line is a line that starts with a speaker label, and a scene is a bracketed location heading. The catchphrases and entities that are counted were chosen by hand, and stardates are corrected from Memory Alpha where the transcript misreads one. The transcript pages let you check any count.\n\n## Episodes, scenes and dialogue per season\n\n| Season | Entries | Scenes | Scenes per entry | Dialogue lines | Speaking characters |\n|---|---:|---:|---:|---:|---:|\n")
     for s in range(1, 8):
         se = [e for e in eps if e["season"] == s]; sc = sum(len(scenes_by_ep[e["prod"]]) for e in se)
         dl = sum(sum(lines_by_ep[e["prod"]].values()) for e in se); sp = len({l for e in se for l in lines_by_ep[e["prod"]]})
@@ -531,6 +532,7 @@ Episodes are identified on the pages by their code (S03E15, broadcast order) and
 - Cast lists come from Memory Alpha (CC BY-NC) and are matched to transcript labels by name, which fails for some credits.
 - Speaker labels follow the transcriber's spelling. A few aliases are merged (Geordi, Beverly, Alyssa, and Data's personas in *Masks*).
 - Synopses, arc tags, continuity links, key facts, profiles, relationships and guest descriptions were written with Claude, an AI assistant. Each episode's synopsis and arc tags were written from its full transcript. Key facts, profiles, relationships and guest descriptions were written from general knowledge of the show and then checked against Memory Alpha and the transcripts. Each continuity link was checked against both episodes' transcripts. Portraits are picked by an automated search, so a few may be wrong. Check anything you rely on.
+- Source links: synopses, continuity notes and facts that name an episode end with the code of the episode transcript they rest on, for example (S04E02). About three quarters of the character facts have one so far.
 
 ## Rebuilding
 

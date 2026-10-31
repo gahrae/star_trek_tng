@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Geordi's former crewmate transforming into a Tarchannen creature (*Identity Crisis*).
+- Geordi's former crewmate transforming into a Tarchannen creature (*Identity Crisis*). <span class="src">([S04E18](../../data/text/192.txt "Identity Crisis"))</span>
 
 ## Most scenes shared with
 

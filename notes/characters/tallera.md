@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Vulcan isolationist posing as a mercenary (*Gambit*).
+- Vulcan isolationist posing as a mercenary (*Gambit*). <span class="src">([S07E04](../../data/text/256.txt "Gambit, part 1") · [S07E05](../../data/text/257.txt "Gambit, part 2"))</span>
 
 ## Most scenes shared with
 

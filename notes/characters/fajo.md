@@ -11,7 +11,7 @@
 
 - Zibalian trader and collector of unique objects who kidnaps Data by faking his death in a shuttle explosion.
 - Owns an illegal Varon-T disruptor and murders his assistant Varria when she helps Data.
-- Data is beamed away as he levels the weapon at him, and it discharges in transit; Fajo ends up in custody with his collection confiscated (*The Most Toys*).
+- Data is beamed away as he levels the weapon at him, and it discharges in transit; Fajo ends up in custody with his collection confiscated (*The Most Toys*). <span class="src">([S03E22](../../data/text/170.txt "The Most Toys"))</span>
 
 ## Most scenes shared with
 

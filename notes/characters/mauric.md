@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Kes ambassador whose paranoia and accusations strain the Kesprytt talks (*Attached*).
+- Kes ambassador whose paranoia and accusations strain the Kesprytt talks (*Attached*). <span class="src">([S07E08](../../data/text/260.txt "Attached"))</span>
 
 ## Most scenes shared with
 

@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Starfleet admiral who brings Maddox to the Enterprise to study Data (*The Measure of a Man*), chases Picard for the admirals' banquet (*Phantasms*) and orders a fleet-wide Yellow Alert (*All Good Things...*).
+- Starfleet admiral who brings Maddox to the Enterprise to study Data (*The Measure of a Man*), chases Picard for the admirals' banquet (*Phantasms*) and orders a fleet-wide Yellow Alert (*All Good Things...*). <span class="src">([S02E09](../../data/text/135.txt "The Measure of a Man") · [S07E06](../../data/text/258.txt "Phantasms") · [S07E25-E26](../../data/text/277.txt "All Good Things..."))</span>
 
 ## Most scenes shared with
 

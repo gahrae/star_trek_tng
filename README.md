@@ -64,6 +64,7 @@ The site uses only relative links, so it works from any folder or sub-path. The 
 - **From the transcripts:** each episode's synopsis and arc tags were written by reading the full transcript.
 - **Written from general knowledge, then checked:** character key facts, profiles, relationships and guest descriptions were checked against Memory Alpha and the episode transcripts, and corrected where they didn't match.
 - **Continuity links:** each link between episodes was checked against both transcripts, and links with no explicit connection in the text were removed.
+- **Source links:** episode synopses, continuity notes and any fact that names an episode link to the transcript it rests on, shown as a small episode code such as (S04E02) after the text. `./build.sh` checks that the cited episodes exist and that a character's facts only cite episodes the character is in. About three quarters of the character facts and descriptions have a source so far; the rest still need one.
 - **Not checked:** the choice of which entities and catchphrases to count. Portraits are picked by an automated search, so a few may be wrong. Check anything you rely on.
 
 Appearance counts are based on dialogue. Speaker labels follow the transcriber's spelling, with a few aliases merged.

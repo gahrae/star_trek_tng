@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Malcorian scientist who leaves with the Enterprise (*First Contact*).
+- Malcorian scientist who leaves with the Enterprise (*First Contact*). <span class="src">([S04E15](../../data/text/189.txt "First Contact"))</span>
 
 ## Most scenes shared with
 

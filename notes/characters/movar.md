@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Romulan general supporting the Duras (*Redemption*).
+- Romulan general supporting the Duras (*Redemption*). <span class="src">([S04E26](../../data/text/200.txt "Redemption") · [S05E01](../../data/text/201.txt "Redemption part 2"))</span>
 
 ## Most scenes shared with
 

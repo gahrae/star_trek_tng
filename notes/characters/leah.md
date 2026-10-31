@@ -12,7 +12,7 @@
 
 ## Key facts
 
-- Designer of the Enterprise's warp engines; Geordi builds a holodeck version of her and is embarrassed when the real, married Brahms visits (*Booby Trap*, *Galaxy's Child*).
+- Designer of the Enterprise's warp engines; Geordi builds a holodeck version of her and is embarrassed when the real, married Brahms visits (*Booby Trap*, *Galaxy's Child*). <span class="src">([S03E06](../../data/text/154.txt "Booby Trap") · [S04E16](../../data/text/190.txt "Galaxy's Child"))</span>
 
 ## Relationships
 

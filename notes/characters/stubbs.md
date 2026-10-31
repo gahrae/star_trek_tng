@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Astrophysicist studying a neutron star (*Evolution*).
+- Astrophysicist studying a neutron star (*Evolution*). <span class="src">([S03E01](../../data/text/150.txt "Evolution"))</span>
 
 ## Most scenes shared with
 

@@ -11,7 +11,7 @@
 
 - Xenologist who has studied the Crystalline Entity since it killed the Omicron Theta colonists, including her son Renny.
 - Data carries her son's journals in his memory, which she finds both comforting and unbearable.
-- Destroys the Entity with a resonating graviton beam against Picard's orders, ending her career (*Silicon Avatar*).
+- Destroys the Entity with a resonating graviton beam against Picard's orders, ending her career (*Silicon Avatar*). <span class="src">([S05E04](../../data/text/204.txt "Silicon Avatar"))</span>
 
 ## Most scenes shared with
 

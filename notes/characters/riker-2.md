@@ -10,7 +10,7 @@
 
 - A duplicate created when a transporter beam reflected off Nervala IV's distortion field eight years earlier.
 - Survived alone on the planet, still in love with Troi and bitter about the career he lost.
-- Takes the name Thomas and a posting on the USS Gandhi (*Second Chances*).
+- Takes the name Thomas and a posting on the USS Gandhi (*Second Chances*). <span class="src">([S06E24](../../data/text/250.txt "Second Chances"))</span>
 
 ## Relationships
 

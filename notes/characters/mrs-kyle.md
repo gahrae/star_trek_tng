@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Teacher at the Enterprise school who reports Alexander's behaviour to Worf (*New Ground*).
+- Teacher at the Enterprise school who reports Alexander's behaviour to Worf (*New Ground*). <span class="src">([S05E10](../../data/text/210.txt "New Ground"))</span>
 
 ## Most scenes shared with
 

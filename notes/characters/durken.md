@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Malcorian leader who delays first contact (*First Contact*).
+- Malcorian leader who delays first contact (*First Contact*). <span class="src">([S04E15](../../data/text/189.txt "First Contact"))</span>
 
 ## Most scenes shared with
 

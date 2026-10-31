@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Ferengi who kidnaps Lwaxana (*Menage a Troi*).
+- Ferengi who kidnaps Lwaxana (*Menage a Troi*). <span class="src">([S03E24](../../data/text/172.txt "Ménage à Troi"))</span>
 
 ## Most scenes shared with
 

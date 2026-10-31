@@ -11,7 +11,7 @@
 
 - Lumerian ambassador famed for calm mediation, achieved by dumping his negative emotions into a 'receptacle' through a ritual bond.
 - His 'mother' was the previous receptacle; he bonds Troi, who ages rapidly and turns aggressive.
-- Dies when Crusher fakes Troi's death to break the bond and the backlog of emotion hits him (*Man of the People*).
+- Dies when Crusher fakes Troi's death to break the bond and the backlog of emotion hits him (*Man of the People*). <span class="src">([S06E03](../../data/text/229.txt "Man of the People"))</span>
 
 ## Relationships
 

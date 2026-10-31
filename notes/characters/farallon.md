@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Inventor of the exocomps (*The Quality of Life*).
+- Inventor of the exocomps (*The Quality of Life*). <span class="src">([S06E09](../../data/text/235.txt "The Quality of Life"))</span>
 
 ## Most scenes shared with
 

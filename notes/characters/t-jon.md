@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Ornaran freighter captain dependent on felicium (*Symbiosis*).
+- Ornaran freighter captain dependent on felicium (*Symbiosis*). <span class="src">([S01E22](../../data/text/123.txt "Symbiosis"))</span>
 
 ## Most scenes shared with
 

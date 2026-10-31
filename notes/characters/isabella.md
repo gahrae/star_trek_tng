@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Clara's imaginary friend, an alien energy being (*Imaginary Friend*).
+- Clara's imaginary friend, an alien energy being (*Imaginary Friend*). <span class="src">([S05E22](../../data/text/222.txt "Imaginary Friend"))</span>
 
 ## Most scenes shared with
 

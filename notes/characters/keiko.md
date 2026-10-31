@@ -12,7 +12,7 @@
 
 ## Key facts
 
-- Botanist; marries Miles O'Brien (*Data's Day*); gives birth to Molly during *Disaster*; de-aged in *Rascals*.
+- Botanist; marries Miles O'Brien (*Data's Day*); gives birth to Molly during *Disaster*; de-aged in *Rascals*. <span class="src">([S04E11](../../data/text/185.txt "Data's Day") · [S05E05](../../data/text/205.txt "Disaster") · [S06E07](../../data/text/233.txt "Rascals"))</span>
 
 ## Relationships
 

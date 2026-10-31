@@ -8,7 +8,7 @@
 
 ## Key facts
 
-- Starfleet officer who briefs Picard by monitor about Ferengi and Cardassian ships (*Realm of Fear*); an Ensign Hayes also appears in *Parallels*.
+- Starfleet officer who briefs Picard by monitor about Ferengi and Cardassian ships (*Realm of Fear*); an Ensign Hayes also appears in *Parallels*. <span class="src">([S06E02](../../data/text/228.txt "Realm of Fear") · [S07E11](../../data/text/263.txt "Parallels"))</span>
 
 ## Most scenes shared with
 

@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Holodeck woman Riker creates in *11001001*, where the Bynars use her to distract him; she returns as the illusory wife Min in *Future Imperfect* and in Riker's memories in *Shades of Gray*.
+- Holodeck woman Riker creates in *11001001*, where the Bynars use her to distract him; she returns as the illusory wife Min in *Future Imperfect* and in Riker's memories in *Shades of Gray*. <span class="src">([S01E15](../../data/text/116.txt "11001001") · [S04E08](../../data/text/182.txt "Future Imperfect") · [S02E22](../../data/text/148.txt "Shades Of Gray"))</span>
 
 ## Most scenes shared with
 

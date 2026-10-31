@@ -8,7 +8,7 @@
 
 ## Key facts
 
-- Relief bridge officer who reports the Romulan warbird's actions (*Contagion*).
+- Relief bridge officer who reports the Romulan warbird's actions (*Contagion*). <span class="src">([S02E11](../../data/text/137.txt "Contagion"))</span>
 
 ## Most scenes shared with
 

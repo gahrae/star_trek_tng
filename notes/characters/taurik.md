@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Vulcan engineer among the junior officers (*Lower Decks*).
+- Vulcan engineer among the junior officers (*Lower Decks*). <span class="src">([S07E15](../../data/text/267.txt "Lower Decks"))</span>
 
 ## Most scenes shared with
 

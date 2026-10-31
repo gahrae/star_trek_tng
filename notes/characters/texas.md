@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Gambler recreated by aliens from a novel, at the Hotel Royale (*The Royale*).
+- Gambler recreated by aliens from a novel, at the Hotel Royale (*The Royale*). <span class="src">([S02E12](../../data/text/138.txt "The Royale"))</span>
 
 ## Most scenes shared with
 

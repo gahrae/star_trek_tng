@@ -13,8 +13,8 @@
 ## Key facts
 
 - Transporter chief; first appears as an unnamed conn officer in the pilot.
-- Marries botanist Keiko Ishikawa (*Data's Day*); daughter Molly is born during *Disaster*.
-- Veteran of the Cardassian border wars, served on the USS Rutledge under Captain Maxwell; haunted by Setlik III (*The Wounded*).
+- Marries botanist Keiko Ishikawa (*Data's Day*); daughter Molly is born during *Disaster*. <span class="src">([S04E11](../../data/text/185.txt "Data's Day") · [S05E05](../../data/text/205.txt "Disaster"))</span>
+- Veteran of the Cardassian border wars, served on the USS Rutledge under Captain Maxwell; haunted by Setlik III (*The Wounded*). <span class="src">([S04E12](../../data/text/186.txt "The Wounded"))</span>
 - Transfers to Deep Space Nine after the series ends (season 7).
 
 ## Rank and role timeline

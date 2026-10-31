@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Mercenary in Baran's crew (*Gambit*).
+- Mercenary in Baran's crew (*Gambit*). <span class="src">([S07E04](../../data/text/256.txt "Gambit, part 1") · [S07E05](../../data/text/257.txt "Gambit, part 2"))</span>
 
 ## Most scenes shared with
 

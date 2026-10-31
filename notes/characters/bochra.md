@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Romulan stranded with Geordi on Galorndon Core (*The Enemy*).
+- Romulan stranded with Geordi on Galorndon Core (*The Enemy*). <span class="src">([S03E07](../../data/text/155.txt "The Enemy"))</span>
 
 ## Most scenes shared with
 

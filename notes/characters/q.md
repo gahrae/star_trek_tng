@@ -13,11 +13,11 @@
 ## Key facts
 
 - Omnipotent, mischievous member of the Q Continuum; puts humanity on trial in the pilot and keeps the trial open through the finale.
-- Flings the Enterprise into Borg space, giving the Federation its first contact with the Borg (*Q Who*).
-- Stripped of his powers and made human as punishment (*Deja Q*).
-- Tempts Riker with Q powers (*Hide and Q*), sets a Robin Hood scenario with Vash (*Qpid*), evaluates the young Q Amanda Rogers (*True Q*).
-- Shows Picard the consequences of his youthful choices (*Tapestry*); helps him solve the anti-time anomaly (*All Good Things...*).
-- Feuds with Guinan, with whom he had earlier dealings that left strong mutual antipathy (*Q Who*).
+- Flings the Enterprise into Borg space, giving the Federation its first contact with the Borg (*Q Who*). <span class="src">([S02E16](../../data/text/142.txt "Q Who?"))</span>
+- Stripped of his powers and made human as punishment (*Deja Q*). <span class="src">([S03E13](../../data/text/161.txt "Déjà Q"))</span>
+- Tempts Riker with Q powers (*Hide and Q*), sets a Robin Hood scenario with Vash (*Qpid*), evaluates the young Q Amanda Rogers (*True Q*). <span class="src">([S01E10](../../data/text/111.txt "Hide & Q") · [S04E20](../../data/text/194.txt "Qpid") · [S06E06](../../data/text/232.txt "True Q"))</span>
+- Shows Picard the consequences of his youthful choices (*Tapestry*); helps him solve the anti-time anomaly (*All Good Things...*). <span class="src">([S06E15](../../data/text/241.txt "Tapestry") · [S07E25-E26](../../data/text/277.txt "All Good Things..."))</span>
+- Feuds with Guinan, with whom he had earlier dealings that left strong mutual antipathy (*Q Who*). <span class="src">([S02E16](../../data/text/142.txt "Q Who?"))</span>
 
 ## Relationships
 

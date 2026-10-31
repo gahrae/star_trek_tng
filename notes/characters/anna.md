@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Alien who imitates a crashed survivor to study love (*Liaisons*).
+- Alien who imitates a crashed survivor to study love (*Liaisons*). <span class="src">([S07E02](../../data/text/254.txt "Liaisons"))</span>
 
 ## Most scenes shared with
 

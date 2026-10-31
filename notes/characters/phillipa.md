@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- JAG officer and Picard's old flame who rules Data is not property (*The Measure of a Man*).
+- JAG officer and Picard's old flame who rules Data is not property (*The Measure of a Man*). <span class="src">([S02E09](../../data/text/135.txt "The Measure of a Man"))</span>
 
 ## Most scenes shared with
 

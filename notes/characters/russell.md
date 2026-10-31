@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Neurogeneticist whose experimental surgery saves Worf (*Ethics*).
+- Neurogeneticist whose experimental surgery saves Worf (*Ethics*). <span class="src">([S05E16](../../data/text/216.txt "Ethics"))</span>
 
 ## Most scenes shared with
 

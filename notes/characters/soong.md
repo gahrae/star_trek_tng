@@ -12,7 +12,7 @@
 
 ## Key facts
 
-- Reclusive cyberneticist who built Lore and Data; summons Data to give him an emotion chip and dies after Lore attacks him (*Brothers*).
+- Reclusive cyberneticist who built Lore and Data; summons Data to give him an emotion chip and dies after Lore attacks him (*Brothers*). <span class="src">([S04E03](../../data/text/177.txt "Brothers"))</span>
 
 ## Relationships
 

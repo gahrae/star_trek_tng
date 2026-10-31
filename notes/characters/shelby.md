@@ -12,7 +12,7 @@
 
 ## Key facts
 
-- Ambitious Borg tactical specialist who becomes Riker's first officer during the Borg invasion (*The Best of Both Worlds*).
+- Ambitious Borg tactical specialist who becomes Riker's first officer during the Borg invasion (*The Best of Both Worlds*). <span class="src">([S03E26](../../data/text/174.txt "Best Of Both Worlds, part 1") · [S04E01](../../data/text/175.txt "Best of Both Worlds, part 2"))</span>
 
 ## Rank and role timeline
 

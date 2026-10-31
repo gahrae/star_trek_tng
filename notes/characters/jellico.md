@@ -12,7 +12,7 @@
 
 ## Key facts
 
-- Takes command of the Enterprise during the Cardassian crisis while Picard is on a covert mission; clashes with Riker (*Chain of Command*).
+- Takes command of the Enterprise during the Cardassian crisis while Picard is on a covert mission; clashes with Riker (*Chain of Command*). <span class="src">([S06E10](../../data/text/236.txt "Chain of Command, part 1") · [S06E11](../../data/text/237.txt "Chain of Command, part 2"))</span>
 
 ## Rank and role timeline
 

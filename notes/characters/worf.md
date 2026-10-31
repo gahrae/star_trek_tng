@@ -14,13 +14,13 @@
 
 - Klingon, son of Mogh; orphaned at the Khitomer massacre and raised by human parents Sergey and Helena Rozhenko; first Klingon officer in Starfleet.
 - Chief of security and tactical officer from season 2 after Tasha Yar's death.
-- Accepts discommendation (loss of honour) to protect the Empire when Duras' family frames Mogh for Khitomer (*Sins of the Father*).
-- Younger brother Kurn, raised by Lorgh (*Sins of the Father*, *Redemption*).
-- Fathered Alexander with K'Ehleyr, a half-human Federation emissary; after Duras murders her, Worf kills Duras (*The Emissary*, *Reunion*).
-- Honour restored by Gowron during the Klingon civil war (*Redemption*).
-- Paralysed when his spine is crushed and considers ritual suicide; saved by experimental surgery (*Ethics*).
-- Adoptive human brother Nikolai (*Homeward*); shifts through parallel quantum realities (*Parallels*).
-- Romance with Deanna Troi in season 7 (*Parallels*, *Eye of the Beholder*); prefers prune juice, 'a warrior's drink'.
+- Accepts discommendation (loss of honour) to protect the Empire when Duras' family frames Mogh for Khitomer (*Sins of the Father*). <span class="src">([S03E17](../../data/text/165.txt "Sins Of The Father"))</span>
+- Younger brother Kurn, raised by Lorgh (*Sins of the Father*, *Redemption*). <span class="src">([S03E17](../../data/text/165.txt "Sins Of The Father") · [S04E26](../../data/text/200.txt "Redemption") · [S05E01](../../data/text/201.txt "Redemption part 2"))</span>
+- Fathered Alexander with K'Ehleyr, a half-human Federation emissary; after Duras murders her, Worf kills Duras (*The Emissary*, *Reunion*). <span class="src">([S02E20](../../data/text/146.txt "The Emissary") · [S04E07](../../data/text/181.txt "Reunion"))</span>
+- Honour restored by Gowron during the Klingon civil war (*Redemption*). <span class="src">([S04E26](../../data/text/200.txt "Redemption") · [S05E01](../../data/text/201.txt "Redemption part 2"))</span>
+- Paralysed when his spine is crushed and considers ritual suicide; saved by experimental surgery (*Ethics*). <span class="src">([S05E16](../../data/text/216.txt "Ethics"))</span>
+- Adoptive human brother Nikolai (*Homeward*); shifts through parallel quantum realities (*Parallels*). <span class="src">([S07E13](../../data/text/265.txt "Homeward") · [S07E11](../../data/text/263.txt "Parallels"))</span>
+- Romance with Deanna Troi in season 7 (*Parallels*, *Eye of the Beholder*); prefers prune juice, 'a warrior's drink'. <span class="src">([S07E11](../../data/text/263.txt "Parallels") · [S07E18](../../data/text/270.txt "Eye of the Beholder"))</span>
 
 ## Rank and role timeline
 

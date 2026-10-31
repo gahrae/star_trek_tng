@@ -1,5 +1,7 @@
 # Statistics
 
+Every count on this page is computed from the transcripts by code: a dialogue line is a line that starts with a speaker label, and a scene is a bracketed location heading. The catchphrases and entities that are counted were chosen by hand, and stardates are corrected from Memory Alpha where the transcript misreads one. The transcript pages let you check any count.
+
 ## Episodes, scenes and dialogue per season
 
 | Season | Entries | Scenes | Scenes per entry | Dialogue lines | Speaking characters |

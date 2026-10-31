@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Shapeshifting future ruler of Daled IV, who falls for Wesley (*The Dauphin*).
+- Shapeshifting future ruler of Daled IV, who falls for Wesley (*The Dauphin*). <span class="src">([S02E10](../../data/text/136.txt "The Dauphin"))</span>
 
 ## Relationships
 

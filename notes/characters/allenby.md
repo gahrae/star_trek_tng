@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Flight controller (*Final Mission*, *The Loss*).
+- Flight controller (*Final Mission*, *The Loss*). <span class="src">([S04E09](../../data/text/183.txt "Final Mission") · [S04E10](../../data/text/184.txt "The Loss"))</span>
 
 ## Most scenes shared with
 

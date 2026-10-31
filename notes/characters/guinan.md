@@ -13,10 +13,10 @@
 ## Key facts
 
 - El-Aurian bartender who runs Ten Forward from season 2; centuries old; a 'listener'.
-- Her people were scattered by the Borg; she alone senses the wrongness of the altered timeline (*Yesterday's Enterprise*).
-- Met Picard in 1893 San Francisco (*Time's Arrow*); of their friendship she later says 'beyond friendship, beyond family' (*The Best of Both Worlds, Part II*).
-- Mutual hostility with Q (*Q Who*, *Deja Q*).
-- Urges Picard to talk to Hugh face to face and see him as an individual (*I, Borg*); turned into a child in *Rascals*.
+- Her people were scattered by the Borg; she alone senses the wrongness of the altered timeline (*Yesterday's Enterprise*). <span class="src">([S03E15](../../data/text/163.txt "Yesterday's Enterprise"))</span>
+- Met Picard in 1893 San Francisco (*Time's Arrow*); of their friendship she later says 'beyond friendship, beyond family' (*The Best of Both Worlds, Part II*). <span class="src">([S05E26](../../data/text/226.txt "Time's Arrow, part 1") · [S06E01](../../data/text/227.txt "Time's Arrow, part 2") · [S04E01](../../data/text/175.txt "Best of Both Worlds, part 2"))</span>
+- Mutual hostility with Q (*Q Who*, *Deja Q*). <span class="src">([S02E16](../../data/text/142.txt "Q Who?") · [S03E13](../../data/text/161.txt "Déjà Q"))</span>
+- Urges Picard to talk to Hugh face to face and see him as an individual (*I, Borg*); turned into a child in *Rascals*. <span class="src">([S05E23](../../data/text/223.txt "I, Borg") · [S06E07](../../data/text/233.txt "Rascals"))</span>
 
 ## Relationships
 

@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Child whose imaginary friend Isabella is a real alien (*Imaginary Friend*).
+- Child whose imaginary friend Isabella is a real alien (*Imaginary Friend*). <span class="src">([S05E22](../../data/text/222.txt "Imaginary Friend"))</span>
 
 ## Most scenes shared with
 

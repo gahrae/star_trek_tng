@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Boy whose prank leaves his brother Willie badly injured on the Enterprise (*Brothers*).
+- Boy whose prank leaves his brother Willie badly injured on the Enterprise (*Brothers*). <span class="src">([S04E03](../../data/text/177.txt "Brothers"))</span>
 
 ## Most scenes shared with
 

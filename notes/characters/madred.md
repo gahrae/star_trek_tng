@@ -10,7 +10,7 @@
 
 - Cardassian interrogator who tortures Picard for Federation defence plans using an implanted pain device.
 - Shows Picard four lights and insists there are five; brings his young daughter to the sessions.
-- Picard later admits to Troi that he had been about to say he saw five (*Chain of Command*).
+- Picard later admits to Troi that he had been about to say he saw five (*Chain of Command*). <span class="src">([S06E10](../../data/text/236.txt "Chain of Command, part 1") · [S06E11](../../data/text/237.txt "Chain of Command, part 2"))</span>
 
 ## Most scenes shared with
 

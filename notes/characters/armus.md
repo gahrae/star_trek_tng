@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Malevolent entity that kills Tasha (*Skin of Evil*).
+- Malevolent entity that kills Tasha (*Skin of Evil*). <span class="src">([S01E23](../../data/text/122.txt "Skin Of Evil"))</span>
 
 ## Most scenes shared with
 

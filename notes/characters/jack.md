@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Beverly's late husband, seen in a recorded message to Wesley (*Family*), in Beverly's memories (*Violations*) and as a vision to Wesley (*Journey's End*).
+- Beverly's late husband, seen in a recorded message to Wesley (*Family*), in Beverly's memories (*Violations*) and as a vision to Wesley (*Journey's End*). <span class="src">([S04E02](../../data/text/178.txt "Family") · [S05E12](../../data/text/212.txt "Violations") · [S07E20](../../data/text/272.txt "Journey's End"))</span>
 
 ## Relationships
 

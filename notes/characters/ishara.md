@@ -11,7 +11,7 @@
 
 - Tasha's younger sister, still living with the Coalition gang on the failed colony Turkana IV.
 - Helps the crew rescue hostages and seems to want a new life, winning Data's trust.
-- Uses the mission to disable the rival Alliance's defences and chooses the gang over Tasha's example (*Legacy*).
+- Uses the mission to disable the rival Alliance's defences and chooses the gang over Tasha's example (*Legacy*). <span class="src">([S04E06](../../data/text/180.txt "Legacy"))</span>
 
 ## Relationships
 

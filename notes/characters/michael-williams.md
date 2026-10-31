@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Soldier in the *Henry V* holodeck scene that opens *The Defector*, played by Patrick Stewart opposite Data's king.
+- Soldier in the *Henry V* holodeck scene that opens *The Defector*, played by Patrick Stewart opposite Data's king. <span class="src">([S03E10](../../data/text/158.txt "The Defector"))</span>
 
 ## Most scenes shared with
 

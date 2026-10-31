@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Admiral secretly working with the Cardassians (*Ensign Ro*).
+- Admiral secretly working with the Cardassians (*Ensign Ro*). <span class="src">([S05E03](../../data/text/203.txt "Ensign Ro"))</span>
 
 ## Most scenes shared with
 

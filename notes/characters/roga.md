@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Enhanced Angosian veteran (*The Hunted*).
+- Enhanced Angosian veteran (*The Hunted*). <span class="src">([S03E11](../../data/text/159.txt "The Hunted"))</span>
 
 ## Most scenes shared with
 

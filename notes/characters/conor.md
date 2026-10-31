@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Leader of the Genome Colony (*The Masterpiece Society*).
+- Leader of the Genome Colony (*The Masterpiece Society*). <span class="src">([S05E13](../../data/text/213.txt "The Masterpiece Society"))</span>
 
 ## Most scenes shared with
 
