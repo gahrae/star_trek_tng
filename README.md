@@ -57,7 +57,7 @@ The site uses only relative links, so it works from any folder or sub-path. The 
 **Taken from other sources:**
 - Transcripts come from [Chrissie's Transcripts Site](http://www.chakoteya.net/NextGen/episodes.htm) (chakoteya.net), downloaded for personal study.
 - Episode numbering, airdates, directors and writers come from Wikipedia.
-- Cast lists, portraits and episode screenshots come from [Memory Alpha](https://memory-alpha.fandom.com/) (CC BY-NC). Cast credits are matched to speakers by name, and only about half match. Portraits are picked by an automated search, so a few may show the wrong person. Episode screenshots are the lead image of each episode's Memory Alpha page, checked by eye.
+- Cast lists, portraits and episode screenshots come from [Memory Alpha](https://memory-alpha.fandom.com/) (CC BY-NC). Cast credits are matched to speakers by name. About half don't match, mostly because they are extras with generic roles ("operations ensign") who often don't speak, and a transcript can't say which of several such actors delivered a line. Portraits are picked by an automated search, so a few may show the wrong person. Episode screenshots are the lead image of each episode's Memory Alpha page, checked by eye.
 
 **Where AI was used:** the project was built with Claude, an AI assistant, working from my direction and review.
 - **Code:** the scripts, the site and the build were written with Claude's help.
