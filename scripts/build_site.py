@@ -58,6 +58,7 @@ code{background:var(--panel);padding:.1rem .3rem;border-radius:4px;font-size:.9e
 .strip{display:grid;grid-template-columns:2.4rem repeat(28,1fr);gap:3px;align-items:center;margin:.5rem 0 1rem}.strip .cell{display:block;aspect-ratio:1;border-radius:3px;background:var(--panel2)}.strip .cell.ns{outline:2px solid var(--peach);outline-offset:-2px}.strip .cell:hover{outline:2px solid var(--text)}.strip .sl{color:var(--muted);font-size:.75rem}
 figure.portrait{float:right;margin:0 0 1rem 1.5rem;max-width:220px;text-align:center;font-size:.75rem;color:var(--muted);text-transform:uppercase;letter-spacing:.05em}
 figure.portrait.still{max-width:320px}
+a.report{color:var(--muted);text-decoration:underline dotted}
 figure.portrait img{width:100%;border-radius:12px;border:3px solid var(--tan);display:block}
 /* chart panels keep the validated dark surface and palette steps */
 .egowrap{--surface-1:#1a1a19;--text-primary:#f0efec;--text-secondary:#c3c2b7;--s1:#3987e5;--s2:#d95926;--s3:#199e70;--s4:#c98500;--s5:#d55181;background:var(--surface-1);border:1px solid var(--line);border-radius:10px;padding:0;margin:1rem 0;clear:both;height:460px;min-height:260px;resize:vertical;overflow:hidden}
@@ -84,6 +85,8 @@ box.addEventListener('input',async()=>{await load();const q=box.value.trim().toL
 document.addEventListener('click',e=>{if(!e.target.closest('.search'))out.style.display='none';});
 // side-rail readout: today's date as a fan-convention stardate (1000 per year from 2323)
 (()=>{const r=document.getElementById('rail-date');if(!r)return;const d=new Date(),y=d.getFullYear(),doy=(d-new Date(y,0,0))/864e5;r.textContent=y+'.'+String(Math.floor(doy)).padStart(3,'0');})();
+// "Report an issue" links open a GitHub issue prefilled with the page being viewed
+(()=>{const root=new URL(ROOTP||'./',location.href).href,page='https://gahrae.github.io/star_trek_tng/'+location.href.slice(root.length).split('#')[0],nl=String.fromCharCode(10,10),title=document.title.replace(/ - TNG notes$/,'');document.querySelectorAll('a.report').forEach(a=>{a.href='https://github.com/gahrae/star_trek_tng/issues/new?title='+encodeURIComponent('Issue on: '+title)+'&body='+encodeURIComponent('Page: '+page+nl+'What is wrong:'+nl);});})();
 // narrow-screen menu: the nav drops down under the header; closes on a link, outside tap or Escape
 (()=>{const hd=document.querySelector('header'),b=document.getElementById('menu');const set=o=>{hd.classList.toggle('open',o);b.setAttribute('aria-expanded',o);};b.onclick=e=>{e.stopPropagation();set(!hd.classList.contains('open'));};addEventListener('click',e=>{if(hd.classList.contains('open')&&!e.target.closest('nav'))set(false);});addEventListener('keydown',e=>{if(e.key==='Escape')set(false);});})();
 // measure the sticky header so table headings and anchor jumps clear it at any window width
@@ -107,7 +110,7 @@ def shell(title, body, rel, depth):
 <header><a class="brand" href="{rootp}index.html">TNG notes</a><button class="menu" id="menu" type="button" aria-expanded="false" aria-controls="nav">{cur} &#9662;</button><nav id="nav">{nav}</nav>
 <div class="search"><input id="q" type="search" placeholder="Search episodes and characters" autocomplete="off"><div id="results"></div></div></header>
 <aside class="rail" aria-hidden="true"><span>LCR</span><span id="rail-date"></span><span>176</span><span>NCC-1701-D</span><span></span><span>SEC</span></aside>
-<main>{body}</main><div class="tip" id="tip"></div><footer>Unofficial fan project, not affiliated with or endorsed by Paramount. Star Trek and related marks are trademarks of Paramount Skydance Corporation.<br>Transcripts from <a href="http://www.chakoteya.net/NextGen/episodes.htm">Chrissie&#39;s Transcripts Site</a> (chakoteya.net), credits from <a href="https://en.wikipedia.org/wiki/List_of_Star_Trek:_The_Next_Generation_episodes">Wikipedia</a>, cast lists, portraits and episode screenshots from <a href="https://memory-alpha.fandom.com/">Memory Alpha</a> (CC BY-NC). For personal study.</footer>
+<main>{body}</main><div class="tip" id="tip"></div><footer>Unofficial fan project, not affiliated with or endorsed by Paramount. Star Trek and related marks are trademarks of Paramount Skydance Corporation.<br>Transcripts from <a href="http://www.chakoteya.net/NextGen/episodes.htm">Chrissie&#39;s Transcripts Site</a> (chakoteya.net), credits from <a href="https://en.wikipedia.org/wiki/List_of_Star_Trek:_The_Next_Generation_episodes">Wikipedia</a>, cast lists, portraits and episode screenshots from <a href="https://memory-alpha.fandom.com/">Memory Alpha</a> (CC BY-NC). For personal study.<br><a class="report" href="https://github.com/gahrae/star_trek_tng/issues/new" target="_blank" rel="noopener">Report an issue</a></footer>
 <script>const ROOTP="{rootp}";{JS}</script>{'<script src="../ego.js"></script>' if rel.startswith("characters/") else ''}</body></html>"""
 
 def slug(label): return re.sub(r"[^a-z0-9]+", "-", label.lower()).strip("-")   # same rule as build_notes, so arc links match
@@ -165,7 +168,7 @@ def episode_still(body, prod, title):
     img = EP_IMAGES.get(prod)
     if not img or not img.get("file"): return body
     return re.sub(r"(<h1[^>]*>.*?</h1>)", lambda m: m.group(1) + f'<figure class="portrait still"><img src="../episode_images/{img["file"]}" alt="Still from the episode {html.escape(re.sub(r"<[^>]+>", "", title))}" loading="lazy">'
-                  f'<figcaption>Image: <a href="https://memory-alpha.fandom.com/wiki/{html.escape(img["page"].replace(" ", "_"))}">Memory Alpha</a></figcaption></figure>', body, count=1, flags=re.S)
+                  f'<figcaption>Image: <a href="https://memory-alpha.fandom.com/wiki/{html.escape(img["page"].replace(" ", "_"))}">Memory Alpha</a><br><a class="report" href="https://github.com/gahrae/star_trek_tng/issues/new" target="_blank" rel="noopener">Report an issue</a></figcaption></figure>', body, count=1, flags=re.S)
 
 IMAGES = json.load(open(ROOT / "data" / "images.json")) if (ROOT / "data" / "images.json").exists() else {}
 APPEAR = json.load(open(ROOT / "data" / "appearances.json")) if (ROOT / "data" / "appearances.json").exists() else {}
@@ -196,7 +199,7 @@ def character_extras(body, stem):
     if IMAGES.get(stem, {}).get("file"):
         img = IMAGES[stem]
         body = re.sub(r"(<h1[^>]*>.*?</h1>)", lambda m: m.group(1) + f'<figure class="portrait"><img src="../images/{img["file"]}" alt="{html.escape(stem)}" loading="lazy">'
-                      f'<figcaption>Image: <a href="https://memory-alpha.fandom.com/wiki/{html.escape(img["page"].replace(" ", "_"))}">Memory Alpha</a></figcaption></figure>', body, count=1, flags=re.S)
+                      f'<figcaption>Image: <a href="https://memory-alpha.fandom.com/wiki/{html.escape(img["page"].replace(" ", "_"))}">Memory Alpha</a><br><a class="report" href="https://github.com/gahrae/star_trek_tng/issues/new" target="_blank" rel="noopener">Report an issue</a></figcaption></figure>', body, count=1, flags=re.S)
     strip = appearance_strip(label)
     if strip:
         body = re.sub(r"(<h2 id=\"appearances\">)", strip + r"\1", body, count=1) if 'id="appearances"' in body else body + strip
