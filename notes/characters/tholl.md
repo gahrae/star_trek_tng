@@ -6,6 +6,7 @@
 | Episodes | 1 of 176 speaking |
 | Dialogue lines | 46 |
 | Played by | Stephen Markle |
+| Species | Mizarian <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Kova_Tholl "Memory Alpha: Kova Tholl"))</span> |
 
 ## Key facts
 

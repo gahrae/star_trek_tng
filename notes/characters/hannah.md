@@ -6,6 +6,7 @@
 | Episodes | 1 of 176 speaking |
 | Dialogue lines | 63 |
 | Played by | Dey Young |
+| Species | Human <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Hannah_Bates "Memory Alpha: Hannah Bates"))</span> |
 
 ## Key facts
 

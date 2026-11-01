@@ -6,6 +6,7 @@
 | Episodes | 2 of 176 speaking |
 | Dialogue lines | 33 |
 | Played by | Rosalyn Landor |
+| Species | Human <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Brenna_Odell "Memory Alpha: Brenna Odell"))</span> |
 
 ## Key facts
 

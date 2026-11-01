@@ -5,6 +5,7 @@
 | Transcript label | `RASMUSSEN` |
 | Episodes | 1 of 176 speaking |
 | Dialogue lines | 101 |
+| Species | Human <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Berlinghoff_Rasmussen "Memory Alpha: Berlinghoff Rasmussen"))</span> |
 
 ## Key facts
 

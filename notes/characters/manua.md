@@ -6,6 +6,7 @@
 | Episodes | 1 of 176 speaking |
 | Dialogue lines | 40 |
 | Played by | Gina Hecht |
+| Species | Tanugan <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Manua_Apgar "Memory Alpha: Manua Apgar"))</span> |
 
 ## Key facts
 

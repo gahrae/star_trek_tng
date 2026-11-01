@@ -6,6 +6,7 @@
 | Episodes | 1 of 176 speaking |
 | Dialogue lines | 100 |
 | Played by | Olivia d'Abo, Kim Max Pemberton |
+| Species | Q (conceived in Human form) <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Amanda_Rogers "Memory Alpha: Amanda Rogers"))</span> |
 
 ## Key facts
 

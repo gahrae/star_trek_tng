@@ -6,6 +6,7 @@
 | Episodes | 2 of 176 speaking |
 | Dialogue lines | 60 |
 | Played by | Christopher Collins |
+| Species | Klingon <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Kargan "Memory Alpha: Kargan"))</span> |
 
 ## Key facts
 

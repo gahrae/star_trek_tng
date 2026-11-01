@@ -5,6 +5,7 @@
 | Transcript label | `HAYES` |
 | Episodes | 2 of 176 speaking |
 | Dialogue lines | 5 |
+| Species | Human <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Hayes_%28Female_Admiral%29 "Memory Alpha: Hayes (Female Admiral)"))</span> |
 
 ## Key facts
 

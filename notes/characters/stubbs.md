@@ -6,6 +6,7 @@
 | Episodes | 1 of 176 speaking |
 | Dialogue lines | 47 |
 | Played by | Ken Jenkins |
+| Species | Human <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Paul_Stubbs "Memory Alpha: Paul Stubbs"))</span> |
 
 ## Key facts
 

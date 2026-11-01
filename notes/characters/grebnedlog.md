@@ -6,6 +6,7 @@
 | Episodes | 1 of 176 speaking |
 | Dialogue lines | 58 |
 | Played by | Christopher Collins |
+| Species | Pakled <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Grebnedlog "Memory Alpha: Grebnedlog"))</span> |
 
 ## Key facts
 

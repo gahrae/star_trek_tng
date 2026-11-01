@@ -6,6 +6,7 @@
 | Episodes | 2 of 176 speaking |
 | Dialogue lines | 76 |
 | Played by | Richard Lynch |
+| Species | Unknown <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Arctus_Baran "Memory Alpha: Arctus Baran"))</span> |
 
 ## Key facts
 

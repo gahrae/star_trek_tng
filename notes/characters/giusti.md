@@ -6,6 +6,7 @@
 | Episodes | 2 of 176 speaking |
 | Dialogue lines | 15 |
 | Played by | Sabrina LeBeauf |
+| Species | Human <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Giusti "Memory Alpha: Giusti"))</span> |
 
 ## Key facts
 

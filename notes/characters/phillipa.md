@@ -6,6 +6,7 @@
 | Episodes | 1 of 176 speaking |
 | Dialogue lines | 45 |
 | Played by | Amanda McBroom |
+| Species | Human <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Phillipa_Louvois "Memory Alpha: Phillipa Louvois"))</span> |
 
 ## Key facts
 

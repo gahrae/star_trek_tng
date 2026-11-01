@@ -6,6 +6,7 @@
 | Episodes | 3 of 176 speaking |
 | Dialogue lines | 36 |
 | Played by | Barbara March |
+| Species | Klingon <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Lursa "Memory Alpha: Lursa"))</span> |
 
 ## Key facts
 

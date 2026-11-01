@@ -5,6 +5,7 @@
 | Transcript label | `TAM` |
 | Episodes | 1 of 176 speaking |
 | Dialogue lines | 70 |
+| Species | Betazoid <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Tam_Elbrun "Memory Alpha: Tam Elbrun"))</span> |
 
 ## Key facts
 

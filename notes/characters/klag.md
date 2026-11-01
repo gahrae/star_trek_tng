@@ -6,6 +6,7 @@
 | Episodes | 2 of 176 speaking |
 | Dialogue lines | 37 |
 | Played by | Brian Thompson |
+| Species | Klingon <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Klag_%28Lieutenant%29 "Memory Alpha: Klag (Lieutenant)"))</span> |
 
 ## Key facts
 

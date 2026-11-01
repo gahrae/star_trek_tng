@@ -6,6 +6,7 @@
 | Episodes | 2 of 176 speaking |
 | Dialogue lines | 32 |
 | Played by | John Durbin |
+| Species | Cardassian <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Lemec "Memory Alpha: Lemec"))</span> |
 
 ## Key facts
 

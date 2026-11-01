@@ -6,6 +6,7 @@
 | Episodes | 2 of 176 speaking |
 | Dialogue lines | 52 |
 | Played by | Vaughn Armstrong |
+| Species | Klingon <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Korris "Memory Alpha: Korris"))</span> |
 
 ## Key facts
 

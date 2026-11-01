@@ -6,6 +6,7 @@
 | Episodes | 1 of 176 speaking |
 | Dialogue lines | 43 |
 | Played by | John Snyder |
+| Species | Romulan <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Bochra "Memory Alpha: Bochra"))</span> |
 
 ## Key facts
 

@@ -6,6 +6,7 @@
 | Episodes | 1 of 176 speaking |
 | Dialogue lines | 47 |
 | Played by | Brian Brophy |
+| Species | Human <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Bruce_Maddox "Memory Alpha: Bruce Maddox"))</span> |
 
 ## Key facts
 

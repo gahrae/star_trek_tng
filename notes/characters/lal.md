@@ -6,6 +6,7 @@
 | Episodes | 1 of 176 speaking |
 | Dialogue lines | 60 |
 | Played by | Hallie Todd, Kristina Kochoff, Andy Wiley |
+| Species | Soong-type android <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Lal "Memory Alpha: Lal"))</span> |
 
 ## Key facts
 

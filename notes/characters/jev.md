@@ -6,6 +6,7 @@
 | Episodes | 1 of 176 speaking |
 | Dialogue lines | 61 |
 | Played by | Ben Lemon |
+| Species | Ullian <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Jev "Memory Alpha: Jev"))</span> |
 
 ## Key facts
 

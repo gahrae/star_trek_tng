@@ -6,6 +6,7 @@
 | Episodes | 1 of 176 speaking |
 | Dialogue lines | 70 |
 | Played by | Beth Toussaint |
+| Species | Human <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Ishara_Yar "Memory Alpha: Ishara Yar"))</span> |
 
 ## Key facts
 

@@ -6,6 +6,7 @@
 | Episodes | 1 of 176 speaking |
 | Dialogue lines | 48 |
 | Played by | Kathryn Leigh Scott |
+| Species | Mintakan <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Nuria "Memory Alpha: Nuria"))</span> |
 
 ## Key facts
 

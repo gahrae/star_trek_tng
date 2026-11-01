@@ -5,6 +5,7 @@
 | Transcript label | `RIKER 2` |
 | Episodes | 1 of 176 speaking |
 | Dialogue lines | 98 |
+| Species | Human <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Thomas_Riker "Memory Alpha: Thomas Riker"))</span> |
 
 ## Key facts
 

@@ -6,6 +6,7 @@
 | Episodes | 1 of 176 speaking |
 | Dialogue lines | 78 |
 | Played by | Chip Lucia |
+| Species | Lumerian <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Ves_Alkar "Memory Alpha: Ves Alkar"))</span> |
 
 ## Key facts
 

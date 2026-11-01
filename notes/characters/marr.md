@@ -6,6 +6,7 @@
 | Episodes | 1 of 176 speaking |
 | Dialogue lines | 89 |
 | Played by | Ellen Geer, Jason Marsden |
+| Species | Human <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Kila_Marr "Memory Alpha: Kila Marr"))</span> |
 
 ## Key facts
 

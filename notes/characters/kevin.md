@@ -6,6 +6,7 @@
 | Episodes | 1 of 176 speaking |
 | Dialogue lines | 41 |
 | Played by | John Anderson |
+| Species | Human <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Kevin_Uxbridge "Memory Alpha: Kevin Uxbridge"))</span> |
 
 ## Key facts
 

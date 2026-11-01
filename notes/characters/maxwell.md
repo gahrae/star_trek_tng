@@ -6,6 +6,7 @@
 | Episodes | 1 of 176 speaking |
 | Dialogue lines | 38 |
 | Played by | Bob Gunton |
+| Species | Human <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Benjamin_Maxwell "Memory Alpha: Benjamin Maxwell"))</span> |
 
 ## Key facts
 

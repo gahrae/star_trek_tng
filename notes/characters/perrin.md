@@ -6,6 +6,7 @@
 | Episodes | 2 of 176 speaking |
 | Dialogue lines | 44 |
 | Played by | Joanna Miles |
+| Species | Human <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Perrin "Memory Alpha: Perrin"))</span> |
 
 ## Key facts
 

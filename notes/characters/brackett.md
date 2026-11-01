@@ -6,6 +6,7 @@
 | Episodes | 2 of 176 speaking |
 | Dialogue lines | 4 |
 | Played by | Karen Hensel |
+| Species | Human <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Ruah_Brackett "Memory Alpha: Ruah Brackett"))</span> |
 
 ## Key facts
 

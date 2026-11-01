@@ -6,6 +6,7 @@
 | Episodes | 1 of 176 speaking |
 | Dialogue lines | 68 |
 | Played by | Paul Sorvino |
+| Species | Human <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Nikolai_Rozhenko "Memory Alpha: Nikolai Rozhenko"))</span> |
 
 ## Key facts
 

@@ -6,6 +6,7 @@
 | Episodes | 1 of 176 speaking |
 | Dialogue lines | 50 |
 | Played by | Barbara Williams |
+| Species | Human <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Anna_%28alias%29 "Memory Alpha: Anna (alias)"))</span> |
 
 ## Key facts
 

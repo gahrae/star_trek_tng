@@ -6,6 +6,7 @@
 | Episodes | 1 of 176 speaking |
 | Dialogue lines | 71 |
 | Played by | Joshua Harris |
+| Species | Human <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Timothy_%28Vico%29 "Memory Alpha: Timothy (Vico)"))</span> |
 
 ## Key facts
 

@@ -6,6 +6,7 @@
 | Episodes | 1 of 176 speaking |
 | Dialogue lines | 72 |
 | Played by | Matt McCoy |
+| Species | Human-Betazoid hybrid <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Devinoni_Ral "Memory Alpha: Devinoni Ral"))</span> |
 
 ## Key facts
 

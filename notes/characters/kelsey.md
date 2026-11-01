@@ -6,6 +6,7 @@
 | Episodes | 1 of 176 speaking |
 | Dialogue lines | 53 |
 | Played by | Marie Marshall |
+| Species | Human <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Kelsey "Memory Alpha: Kelsey"))</span> |
 
 ## Key facts
 

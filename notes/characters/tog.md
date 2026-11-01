@@ -6,6 +6,7 @@
 | Episodes | 1 of 176 speaking |
 | Dialogue lines | 54 |
 | Played by | Frank Corsentino |
+| Species | Ferengi <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Tog "Memory Alpha: Tog"))</span> |
 
 ## Key facts
 

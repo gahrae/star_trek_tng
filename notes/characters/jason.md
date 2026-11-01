@@ -6,6 +6,7 @@
 | Episodes | 1 of 176 speaking |
 | Dialogue lines | 69 |
 | Played by | Ken Olandt |
+| Species | Human <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Jason_Vigo "Memory Alpha: Jason Vigo"))</span> |
 
 ## Key facts
 

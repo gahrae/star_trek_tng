@@ -6,6 +6,7 @@
 | Episodes | 1 of 176 speaking |
 | Dialogue lines | 50 |
 | Played by | Lisa Wilcox |
+| Species | Acamarian <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Yuta "Memory Alpha: Yuta"))</span> |
 
 ## Key facts
 

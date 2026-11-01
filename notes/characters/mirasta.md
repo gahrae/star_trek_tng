@@ -6,6 +6,7 @@
 | Episodes | 1 of 176 speaking |
 | Dialogue lines | 44 |
 | Played by | Carolyn Seymour |
+| Species | Malcorian <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Mirasta_Yale "Memory Alpha: Mirasta Yale"))</span> |
 
 ## Key facts
 

@@ -6,6 +6,7 @@
 | Episodes | 1 of 176 speaking, plus 4 non-speaking |
 | Dialogue lines | 1 |
 | Played by | Carel Struycken |
+| Species | Unknown; Humanoid <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Homn "Memory Alpha: Homn"))</span> |
 
 ## Key facts
 

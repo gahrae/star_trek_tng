@@ -6,6 +6,7 @@
 | Episodes | 2 of 176 speaking |
 | Dialogue lines | 36 |
 | Played by | Charles Cooper |
+| Species | Klingon <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/K%27mpec "Memory Alpha: K'mpec"))</span> |
 
 ## Key facts
 

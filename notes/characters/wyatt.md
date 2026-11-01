@@ -6,6 +6,7 @@
 | Episodes | 1 of 176 speaking |
 | Dialogue lines | 43 |
 | Played by | Rob Knepper |
+| Species | Human <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Wyatt_Miller "Memory Alpha: Wyatt Miller"))</span> |
 
 ## Key facts
 

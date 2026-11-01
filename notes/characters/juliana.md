@@ -6,6 +6,7 @@
 | Episodes | 1 of 176 speaking |
 | Dialogue lines | 83 |
 | Played by | Fionnula Flanagan |
+| Species | Human (until 2338), Soong-type android (2338 onward) <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Juliana_Tainer "Memory Alpha: Juliana Tainer"))</span> |
 
 ## Key facts
 

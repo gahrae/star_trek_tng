@@ -6,6 +6,7 @@
 | Episodes | 2 of 176 speaking |
 | Dialogue lines | 25 |
 | Played by | Malachi Throne |
+| Species | Romulan <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Pardek "Memory Alpha: Pardek"))</span> |
 
 ## Key facts
 

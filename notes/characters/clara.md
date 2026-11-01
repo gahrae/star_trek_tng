@@ -6,6 +6,7 @@
 | Episodes | 1 of 176 speaking |
 | Dialogue lines | 96 |
 | Played by | Noley Thornton |
+| Species | Human <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Clara_Sutter "Memory Alpha: Clara Sutter"))</span> |
 
 ## Key facts
 

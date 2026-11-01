@@ -6,6 +6,7 @@
 | Episodes | 1 of 176 speaking |
 | Dialogue lines | 47 |
 | Played by | Jeff McCarthy |
+| Species | Angosian <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Roga_Danar "Memory Alpha: Roga Danar"))</span> |
 
 ## Key facts
 

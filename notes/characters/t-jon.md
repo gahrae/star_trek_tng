@@ -6,6 +6,7 @@
 | Episodes | 2 of 176 speaking |
 | Dialogue lines | 74 |
 | Played by | Merritt Butrick |
+| Species | Ornaran <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/T%27Jon "Memory Alpha: T'Jon"))</span> |
 
 ## Key facts
 

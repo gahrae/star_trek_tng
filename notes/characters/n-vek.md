@@ -6,6 +6,7 @@
 | Episodes | 1 of 176 speaking |
 | Dialogue lines | 53 |
 | Played by | Scott MacDonald |
+| Species | Romulan <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/N%27Vek "Memory Alpha: N'Vek"))</span> |
 
 ## Key facts
 

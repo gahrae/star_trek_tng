@@ -6,6 +6,7 @@
 | Episodes | 2 of 176 speaking |
 | Dialogue lines | 20 |
 | Played by | Brian J. Cousins, Brian Cousins |
+| Species | Borg <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Crosis "Memory Alpha: Crosis"))</span> |
 
 ## Key facts
 

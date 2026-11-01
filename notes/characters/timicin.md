@@ -5,6 +5,7 @@
 | Transcript label | `TIMICIN` |
 | Episodes | 1 of 176 speaking |
 | Dialogue lines | 88 |
+| Species | Kaelon <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Timicin "Memory Alpha: Timicin"))</span> |
 
 ## Key facts
 

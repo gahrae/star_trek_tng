@@ -6,6 +6,7 @@
 | Episodes | 1 of 176 speaking |
 | Dialogue lines | 29 |
 | Played by | Alan Scarfe |
+| Species | Romulan <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Tokath "Memory Alpha: Tokath"))</span> |
 
 ## Key facts
 

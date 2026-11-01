@@ -6,6 +6,7 @@
 | Episodes | 1 of 176 speaking |
 | Dialogue lines | 101 |
 | Played by | Wendy Hughes |
+| Species | Human <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Nella_Daren "Memory Alpha: Nella Daren"))</span> |
 
 ## Key facts
 

@@ -6,6 +6,7 @@
 | Episodes | 1 of 176 speaking |
 | Dialogue lines | 42 |
 | Played by | Kimberly Cullum |
+| Species | Barkonian <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Gia_%28Barkonian%29 "Memory Alpha: Gia (Barkonian)"))</span> |
 
 ## Key facts
 

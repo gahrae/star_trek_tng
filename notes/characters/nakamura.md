@@ -6,6 +6,7 @@
 | Episodes | 3 of 176 speaking |
 | Dialogue lines | 18 |
 | Played by | Clyde Kusatsu |
+| Species | Human <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Nakamura "Memory Alpha: Nakamura"))</span> |
 
 ## Key facts
 

@@ -6,6 +6,7 @@
 | Episodes | 1 of 176 speaking |
 | Dialogue lines | 71 |
 | Played by | Michele Scarabelli |
+| Species | Human <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Jenna_D%27Sora "Memory Alpha: Jenna D'Sora"))</span> |
 
 ## Key facts
 

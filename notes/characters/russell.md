@@ -6,6 +6,7 @@
 | Episodes | 1 of 176 speaking |
 | Dialogue lines | 59 |
 | Played by | Caroline Kava, Debbie David |
+| Species | Human <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Toby_Russell "Memory Alpha: Toby Russell"))</span> |
 
 ## Key facts
 

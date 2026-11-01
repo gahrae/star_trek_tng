@@ -6,6 +6,7 @@
 | Episodes | 3 of 176 speaking |
 | Dialogue lines | 64 |
 | Played by | Ward Costello |
+| Species | Human <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Gregory_Quinn "Memory Alpha: Gregory Quinn"))</span> |
 
 ## Key facts
 

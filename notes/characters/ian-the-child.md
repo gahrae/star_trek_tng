@@ -6,6 +6,7 @@
 | Episodes | 1 of 176 speaking, plus 1 non-speaking |
 | Dialogue lines | 18 |
 | Played by | Josh Bell, R.J. Williams |
+| Species | Life-force entity (primarily), Half Betazoid, Half Human (temporarily) <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Ian_Troi "Memory Alpha: Ian Troi"))</span> |
 
 ## Key facts
 

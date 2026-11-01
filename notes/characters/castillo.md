@@ -6,6 +6,7 @@
 | Episodes | 1 of 176 speaking |
 | Dialogue lines | 40 |
 | Played by | Christopher McDonald |
+| Species | Human <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Richard_Castillo "Memory Alpha: Richard Castillo"))</span> |
 
 ## Key facts
 

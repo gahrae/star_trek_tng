@@ -6,6 +6,7 @@
 | Episodes | 2 of 176 speaking |
 | Dialogue lines | 15 |
 | Played by | Cristine Rose |
+| Species | Klingon <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Gi%27ral "Memory Alpha: Gi'ral"))</span> |
 
 ## Key facts
 

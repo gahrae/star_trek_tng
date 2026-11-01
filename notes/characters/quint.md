@@ -6,6 +6,7 @@
 | Episodes | 1 of 176 speaking |
 | Dialogue lines | 15 |
 | Played by | Shay Duffin |
+| Species | Human <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Ned_Quint "Memory Alpha: Ned Quint"))</span> |
 
 ## Key facts
 

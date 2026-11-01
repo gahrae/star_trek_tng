@@ -9,7 +9,7 @@ ROOT = pathlib.Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / "scripts"))
 from curated_episodes import EPISODES, ARCS, ARC_GROUPS, LINK_NOTES
 from curated_characters import FACTS, PROFILES, GUESTS, INVERSE, ENTITIES, CATCHPHRASES, SPLIT, GUEST_FACTS
-from sources import cite, airdate_links, credit_links, actor_links, cast_list_link
+from sources import cite, airdate_links, credit_links, actor_links, cast_list_link, ma_link
 
 NOTES = ROOT / "notes"
 for d in ("characters", "episodes", "locations"): (NOTES / d).mkdir(parents=True, exist_ok=True)
@@ -211,6 +211,13 @@ appearances = {l: {e["prod"]: {"lines": e["lines"]} for e in d["episodes"]} for 
 for l, d in nonspeak.items():
     for prod, src in d.items(): appearances.setdefault(l, {})[prod] = {"lines": 0, "sources": sorted(src)}
 json.dump(appearances, open(ROOT / "data" / "appearances.json", "w"))
+# Species for characters with no curated profile come from the infobox of their Memory Alpha page (data/species.json, by fetch_species.py).
+_species = json.load(open(ROOT / "data" / "species.json")) if (ROOT / "data" / "species.json").exists() else {}
+def ma_species(lbl):
+    """(species, Memory Alpha page) for a character, or (None, None)."""
+    rec = _species.get(slug(lbl))
+    return (rec["species"], rec["page"]) if rec and rec["species"] else (None, None)
+
 def played_by(lbl):
     if lbl in PROFILES: return PROFILES[lbl]["actor"]
     return ", ".join(a for a, _ in actors_of[lbl].most_common(3)) if actors_of.get(lbl) else ""
@@ -290,10 +297,10 @@ with open(NOTES / "character_index.md", "w", encoding="utf-8") as f:
     f.write("# Character index\n\nEvery named speaking character in two or more episodes, plus notable single-episode characters. "
             "Line counts are dialogue lines in the transcripts; a character present but silent is not counted. "
             "'Non-speaking' counts further episodes where the character appears without dialogue, according to the cast list or the stage directions. "
-            "Profile fields come from the curated data files where present; actors come from Memory Alpha credits.\n\n| Character | Episodes | Non-speaking | Lines | Played by | Species | Affiliation | Status | First | Last |\n|---|---:|---:|---:|---|---|---|---|---|---|\n")
+            "Profile fields come from the curated data files where present, and the species of characters without a profile comes from the infobox of their Memory Alpha page; actors come from Memory Alpha credits.\n\n| Character | Episodes | Non-speaking | Lines | Played by | Species | Affiliation | Status | First | Last |\n|---|---:|---:|---:|---|---|---|---|---|---|\n")
     for lbl in rows:
         d = chars[lbl]; p = PROFILES.get(lbl, {})
-        f.write(f"| {char_link(lbl)} | {len(d['episodes'])} | {len(nonspeak.get(lbl, {})) or ''} | {d['lines']} | {played_by(lbl)} | {p.get('species','')} | {p.get('affiliation','')} | {p.get('status','')} | {d['episodes'][0]['title']} | {d['episodes'][-1]['title']} |\n")
+        f.write(f"| {char_link(lbl)} | {len(d['episodes'])} | {len(nonspeak.get(lbl, {})) or ''} | {d['lines']} | {played_by(lbl)} | {p.get('species') or ma_species(lbl)[0] or ''} | {p.get('affiliation','')} | {p.get('status','')} | {d['episodes'][0]['title']} | {d['episodes'][-1]['title']} |\n")
 
 for lbl in rows:
     d = chars[lbl]; p = PROFILES.get(lbl); name = name_of(lbl)
@@ -304,6 +311,8 @@ for lbl in rows:
         if played_by(lbl): f.write(f"| Played by | {played_by(lbl)} |\n")
         if p:
             f.write(f"| Species | {p['species']} |\n| Affiliation | {p['affiliation']} |\n| Status | {p['status']} |\n")
+        elif ma_species(lbl)[0]:
+            f.write(f"| Species | {ma_species(lbl)[0]} <span class='src'>({ma_link(ma_species(lbl)[1])})</span> |\n")
         f.write("\n## Key facts\n\n")
         if lbl in FACTS: f.write("".join(f"- {cite(x, '../../')}\n" for x in FACTS[lbl][1]))
         elif lbl in GUEST_FACTS: f.write("".join(f"- {cite(x, '../../')}\n" for x in GUEST_FACTS[lbl]))

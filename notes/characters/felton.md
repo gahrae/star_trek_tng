@@ -6,6 +6,7 @@
 | Episodes | 4 of 176 speaking |
 | Dialogue lines | 24 |
 | Played by | Sheila Franklin |
+| Species | Human <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Felton "Memory Alpha: Felton"))</span> |
 
 ## Key facts
 

@@ -6,6 +6,7 @@
 | Episodes | 1 of 176 speaking |
 | Dialogue lines | 49 |
 | Played by | Jessie Lawrence Ferguson |
+| Species | Ligonian <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Lutan "Memory Alpha: Lutan"))</span> |
 
 ## Key facts
 

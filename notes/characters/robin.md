@@ -6,6 +6,7 @@
 | Episodes | 1 of 176 speaking |
 | Dialogue lines | 64 |
 | Played by | Ashley Judd |
+| Species | Human <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Robin_Lefler "Memory Alpha: Robin Lefler"))</span> |
 
 ## Key facts
 

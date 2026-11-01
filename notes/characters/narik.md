@@ -6,6 +6,7 @@
 | Episodes | 2 of 176 speaking |
 | Dialogue lines | 22 |
 | Played by | Cameron Thor |
+| Species | Boslic <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Narik "Memory Alpha: Narik"))</span> |
 
 ## Key facts
 

@@ -6,6 +6,7 @@
 | Episodes | 2 of 176 speaking |
 | Dialogue lines | 25 |
 | Played by | Stephen Root |
+| Species | Klingon <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/K%27Vada "Memory Alpha: K'Vada"))</span> |
 
 ## Key facts
 

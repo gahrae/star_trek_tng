@@ -6,6 +6,7 @@
 | Episodes | 2 of 176 speaking |
 | Dialogue lines | 42 |
 | Played by | Georgia Brown |
+| Species | Human <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Helena_Rozhenko "Memory Alpha: Helena Rozhenko"))</span> |
 
 ## Key facts
 

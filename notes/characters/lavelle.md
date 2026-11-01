@@ -6,6 +6,7 @@
 | Episodes | 1 of 176 speaking |
 | Dialogue lines | 60 |
 | Played by | Dan Gauthier |
+| Species | Human <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Sam_Lavelle "Memory Alpha: Sam Lavelle"))</span> |
 
 ## Key facts
 

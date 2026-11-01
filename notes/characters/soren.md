@@ -6,6 +6,7 @@
 | Episodes | 1 of 176 speaking |
 | Dialogue lines | 109 |
 | Played by | Melinda Culea |
+| Species | J'naii <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Soren "Memory Alpha: Soren"))</span> |
 
 ## Key facts
 

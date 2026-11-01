@@ -6,6 +6,7 @@
 | Episodes | 2 of 176 speaking |
 | Dialogue lines | 23 |
 | Played by | George Murdock |
+| Species | Human <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/J.P._Hanson "Memory Alpha: J.P. Hanson"))</span> |
 
 ## Key facts
 

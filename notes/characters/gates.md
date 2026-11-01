@@ -6,6 +6,7 @@
 | Episodes | 4 of 176 speaking, plus 42 non-speaking |
 | Dialogue lines | 6 |
 | Played by | Joycelyn Robinson |
+| Species | Human <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Gates "Memory Alpha: Gates"))</span> |
 
 ## Key facts
 

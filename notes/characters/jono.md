@@ -6,6 +6,7 @@
 | Episodes | 1 of 176 speaking |
 | Dialogue lines | 57 |
 | Played by | Chad Allen |
+| Species | Human <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Jono "Memory Alpha: Jono"))</span> |
 
 ## Key facts
 

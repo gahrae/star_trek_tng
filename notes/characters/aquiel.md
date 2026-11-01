@@ -6,6 +6,7 @@
 | Episodes | 1 of 176 speaking |
 | Dialogue lines | 60 |
 | Played by | Renée Jones |
+| Species | Haliian <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Aquiel_Uhnari "Memory Alpha: Aquiel Uhnari"))</span> |
 
 ## Key facts
 

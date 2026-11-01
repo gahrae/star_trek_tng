@@ -6,6 +6,7 @@
 | Episodes | 2 of 176 speaking |
 | Dialogue lines | 31 |
 | Played by | Brenda Bakke |
+| Species | Edo <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Rivan "Memory Alpha: Rivan"))</span> |
 
 ## Key facts
 

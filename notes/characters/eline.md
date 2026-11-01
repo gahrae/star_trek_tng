@@ -6,6 +6,7 @@
 | Episodes | 1 of 176 speaking |
 | Dialogue lines | 65 |
 | Played by | Margot Rose |
+| Species | Kataan native <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Eline "Memory Alpha: Eline"))</span> |
 
 ## Key facts
 

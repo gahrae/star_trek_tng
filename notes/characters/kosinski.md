@@ -6,6 +6,7 @@
 | Episodes | 1 of 176 speaking |
 | Dialogue lines | 40 |
 | Played by | Stanley Kamel |
+| Species | Human <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Kosinski "Memory Alpha: Kosinski"))</span> |
 
 ## Key facts
 

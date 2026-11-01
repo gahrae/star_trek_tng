@@ -6,6 +6,7 @@
 | Episodes | 1 of 176 speaking |
 | Dialogue lines | 13 |
 | Played by | Cory Danziger |
+| Species | Human <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Jake_Potts "Memory Alpha: Jake Potts"))</span> |
 
 ## Key facts
 

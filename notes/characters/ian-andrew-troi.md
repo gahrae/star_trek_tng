@@ -6,6 +6,7 @@
 | Episodes | 1 of 176 speaking |
 | Dialogue lines | 13 |
 | Played by | Amick Byram |
+| Species | Human <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Ian_Andrew_Troi "Memory Alpha: Ian Andrew Troi"))</span> |
 
 ## Key facts
 

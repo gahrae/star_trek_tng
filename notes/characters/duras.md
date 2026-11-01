@@ -6,6 +6,7 @@
 | Episodes | 2 of 176 speaking |
 | Dialogue lines | 50 |
 | Played by | Patrick Massett |
+| Species | Klingon <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Duras,_son_of_Ja%27rod "Memory Alpha: Duras, son of Ja'rod"))</span> |
 
 ## Key facts
 

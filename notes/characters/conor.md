@@ -6,6 +6,7 @@
 | Episodes | 1 of 176 speaking |
 | Dialogue lines | 84 |
 | Played by | John Snyder |
+| Species | Human <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Aaron_Conor "Memory Alpha: Aaron Conor"))</span> |
 
 ## Key facts
 

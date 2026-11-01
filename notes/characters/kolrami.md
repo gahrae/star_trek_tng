@@ -6,6 +6,7 @@
 | Episodes | 1 of 176 speaking |
 | Dialogue lines | 40 |
 | Played by | Roy Brocksmith |
+| Species | Zakdorn <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Sirna_Kolrami "Memory Alpha: Sirna Kolrami"))</span> |
 
 ## Key facts
 

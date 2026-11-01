@@ -6,6 +6,7 @@
 | Episodes | 1 of 176 speaking |
 | Dialogue lines | 96 |
 | Played by | Famke Janssen |
+| Species | Kriosian <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Kamala "Memory Alpha: Kamala"))</span> |
 
 ## Key facts
 

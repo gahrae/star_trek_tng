@@ -6,6 +6,7 @@
 | Episodes | 1 of 176 speaking |
 | Dialogue lines | 95 |
 | Played by | Jamie Hubbard |
+| Species | Allasomorph <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Salia "Memory Alpha: Salia"))</span> |
 
 ## Key facts
 

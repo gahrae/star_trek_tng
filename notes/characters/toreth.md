@@ -6,6 +6,7 @@
 | Episodes | 1 of 176 speaking |
 | Dialogue lines | 70 |
 | Played by | Carolyn Seymour |
+| Species | Romulan <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Toreth "Memory Alpha: Toreth"))</span> |
 
 ## Key facts
 

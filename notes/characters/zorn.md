@@ -6,6 +6,7 @@
 | Episodes | 1 of 176 speaking |
 | Dialogue lines | 41 |
 | Played by | Michael Bell |
+| Species | Bandi <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Zorn "Memory Alpha: Zorn"))</span> |
 
 ## Key facts
 

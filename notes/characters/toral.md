@@ -6,6 +6,7 @@
 | Episodes | 2 of 176 speaking |
 | Dialogue lines | 12 |
 | Played by | J.D. Cullum |
+| Species | Klingon <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Toral,_son_of_Duras "Memory Alpha: Toral, son of Duras"))</span> |
 
 ## Key facts
 

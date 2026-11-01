@@ -6,6 +6,7 @@
 | Episodes | 2 of 176 speaking |
 | Dialogue lines | 19 |
 | Played by | Norman Large |
+| Species | Romulan <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Neral "Memory Alpha: Neral"))</span> |
 
 ## Key facts
 

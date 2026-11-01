@@ -6,6 +6,7 @@
 | Episodes | 2 of 176 speaking |
 | Dialogue lines | 10 |
 | Played by | Jim Norton |
+| Species | Human <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Albert_Einstein "Memory Alpha: Albert Einstein"))</span> |
 
 ## Key facts
 

@@ -6,6 +6,7 @@
 | Episodes | 1 of 176 speaking |
 | Dialogue lines | 43 |
 | Played by | Alex Datcher |
+| Species | Human <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Taitt "Memory Alpha: Taitt"))</span> |
 
 ## Key facts
 

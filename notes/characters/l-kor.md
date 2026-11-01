@@ -5,6 +5,7 @@
 | Transcript label | `L'KOR` |
 | Episodes | 2 of 176 speaking |
 | Dialogue lines | 33 |
+| Species | Klingon <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/L%27Kor "Memory Alpha: L'Kor"))</span> |
 
 ## Key facts
 

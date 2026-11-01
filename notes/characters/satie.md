@@ -5,6 +5,7 @@
 | Transcript label | `SATIE` |
 | Episodes | 1 of 176 speaking |
 | Dialogue lines | 84 |
+| Species | Human <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Norah_Satie "Memory Alpha: Norah Satie"))</span> |
 
 ## Key facts
 

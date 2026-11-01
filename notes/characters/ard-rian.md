@@ -6,6 +6,7 @@
 | Episodes | 1 of 176 speaking |
 | Dialogue lines | 42 |
 | Played by | Eileen Seeley |
+| Species | Human <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Ard%27rian_McKenzie "Memory Alpha: Ard'rian McKenzie"))</span> |
 
 ## Key facts
 

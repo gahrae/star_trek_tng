@@ -6,6 +6,7 @@
 | Episodes | 1 of 176 speaking |
 | Dialogue lines | 88 |
 | Played by | Ellen Bry |
+| Species | Tyran <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Farallon "Memory Alpha: Farallon"))</span> |
 
 ## Key facts
 

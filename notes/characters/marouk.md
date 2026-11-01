@@ -6,6 +6,7 @@
 | Episodes | 1 of 176 speaking |
 | Dialogue lines | 43 |
 | Played by | Nancy Parsons |
+| Species | Acamarian <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Marouk "Memory Alpha: Marouk"))</span> |
 
 ## Key facts
 

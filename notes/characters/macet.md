@@ -6,6 +6,7 @@
 | Episodes | 1 of 176 speaking |
 | Dialogue lines | 37 |
 | Played by | Marc Alaimo |
+| Species | Cardassian <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Macet "Memory Alpha: Macet"))</span> |
 
 ## Key facts
 

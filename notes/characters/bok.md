@@ -6,6 +6,7 @@
 | Episodes | 2 of 176 speaking |
 | Dialogue lines | 45 |
 | Played by | Frank Corsentino, Lee Arenberg |
+| Species | Ferengi <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Bok "Memory Alpha: Bok"))</span> |
 
 ## Key facts
 

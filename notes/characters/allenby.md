@@ -6,6 +6,7 @@
 | Episodes | 2 of 176 speaking, plus 1 non-speaking |
 | Dialogue lines | 22 |
 | Played by | Mary Kohnert |
+| Species | Human <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Allenby "Memory Alpha: Allenby"))</span> |
 
 ## Key facts
 

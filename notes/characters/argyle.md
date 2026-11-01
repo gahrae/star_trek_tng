@@ -6,6 +6,7 @@
 | Episodes | 2 of 176 speaking |
 | Dialogue lines | 15 |
 | Played by | Biff Yeager |
+| Species | Human <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Argyle "Memory Alpha: Argyle"))</span> |
 
 ## Key facts
 

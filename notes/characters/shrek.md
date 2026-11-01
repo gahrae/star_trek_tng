@@ -6,6 +6,7 @@
 | Episodes | 2 of 176 speaking |
 | Dialogue lines | 28 |
 | Played by | James Cromwell |
+| Species | Yridian <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Jaglom_Shrek "Memory Alpha: Jaglom Shrek"))</span> |
 
 ## Key facts
 

@@ -6,6 +6,7 @@
 | Episodes | 1 of 176 speaking |
 | Dialogue lines | 57 |
 | Played by | Richard Cox |
+| Species | Rutian <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Kyril_Finn "Memory Alpha: Kyril Finn"))</span> |
 
 ## Key facts
 

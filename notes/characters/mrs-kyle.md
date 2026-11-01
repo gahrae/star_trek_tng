@@ -6,6 +6,7 @@
 | Episodes | 1 of 176 speaking |
 | Dialogue lines | 16 |
 | Played by | Jennifer Edwards |
+| Species | Human <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Kyle_%28teacher%29 "Memory Alpha: Kyle (teacher)"))</span> |
 
 ## Key facts
 

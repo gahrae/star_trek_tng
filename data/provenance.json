@@ -211,5 +211,11 @@
   "source": "https://memory-alpha.fandom.com/api.php",
   "actors": 387,
   "with_page": 378
+ },
+ "species": {
+  "fetched": "2026-11-01T06:44:53+00:00",
+  "source": "https://memory-alpha.fandom.com/api.php",
+  "characters": 198,
+  "with_species": 190
  }
 }

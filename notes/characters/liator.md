@@ -6,6 +6,7 @@
 | Episodes | 2 of 176 speaking |
 | Dialogue lines | 28 |
 | Played by | Jay Louden |
+| Species | Edo <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Liator "Memory Alpha: Liator"))</span> |
 
 ## Key facts
 

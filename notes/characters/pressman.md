@@ -6,6 +6,7 @@
 | Episodes | 1 of 176 speaking |
 | Dialogue lines | 75 |
 | Played by | Terry O'Quinn |
+| Species | Human <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Erik_Pressman "Memory Alpha: Erik Pressman"))</span> |
 
 ## Key facts
 

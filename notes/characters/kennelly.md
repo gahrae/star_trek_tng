@@ -6,6 +6,7 @@
 | Episodes | 1 of 176 speaking |
 | Dialogue lines | 40 |
 | Played by | Cliff Potts |
+| Species | Human <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Kennelly "Memory Alpha: Kennelly"))</span> |
 
 ## Key facts
 

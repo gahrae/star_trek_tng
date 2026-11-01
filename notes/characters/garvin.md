@@ -6,6 +6,7 @@
 | Episodes | 1 of 176 speaking |
 | Dialogue lines | 44 |
 | Played by | Michael Rothhaar |
+| Species | Barkonian <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Garvin "Memory Alpha: Garvin"))</span> |
 
 ## Key facts
 

@@ -6,6 +6,7 @@
 | Episodes | 1 of 176 speaking |
 | Dialogue lines | 27 |
 | Played by | Stephen Gregory |
+| Species | Human <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Jake_Kurland "Memory Alpha: Jake Kurland"))</span> |
 
 ## Key facts
 

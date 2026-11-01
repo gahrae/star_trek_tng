@@ -6,6 +6,7 @@
 | Episodes | 1 of 176 speaking |
 | Dialogue lines | 45 |
 | Played by | Shay Astar |
+| Species | Human <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Isabella "Memory Alpha: Isabella"))</span> |
 
 ## Key facts
 

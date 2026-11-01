@@ -6,6 +6,7 @@
 | Episodes | 4 of 176 speaking |
 | Dialogue lines | 19 |
 | Played by | Lanei Chapman |
+| Species | Human <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Sariel_Rager "Memory Alpha: Sariel Rager"))</span> |
 
 ## Key facts
 

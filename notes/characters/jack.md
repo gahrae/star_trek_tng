@@ -6,6 +6,7 @@
 | Episodes | 2 of 176 speaking, plus 1 non-speaking |
 | Dialogue lines | 6 |
 | Played by | Doug Wert |
+| Species | Human <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Jack_R._Crusher "Memory Alpha: Jack R. Crusher"))</span> |
 
 ## Key facts
 

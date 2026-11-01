@@ -6,6 +6,7 @@
 | Episodes | 1 of 176 speaking |
 | Dialogue lines | 55 |
 | Played by | Paddi Edwards, Alex Daniels |
+| Species | Allasomorph <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Anya_%28allasomorph%29 "Memory Alpha: Anya (allasomorph)"))</span> |
 
 ## Key facts
 

@@ -6,6 +6,7 @@
 | Episodes | 2 of 176 speaking |
 | Dialogue lines | 96 |
 | Played by | Mart McChesney, Ron Gans |
+| Species | Remnant of former Vagrans <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Armus "Memory Alpha: Armus"))</span> |
 
 ## Key facts
 

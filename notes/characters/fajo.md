@@ -6,6 +6,7 @@
 | Episodes | 1 of 176 speaking |
 | Dialogue lines | 64 |
 | Played by | Saul Rubinek |
+| Species | Zibalian <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Kivas_Fajo "Memory Alpha: Kivas Fajo"))</span> |
 
 ## Key facts
 

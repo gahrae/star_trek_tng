@@ -6,6 +6,7 @@
 | Episodes | 1 of 176 speaking |
 | Dialogue lines | 52 |
 | Played by | George Coe |
+| Species | Malcorian <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Avel_Durken "Memory Alpha: Avel Durken"))</span> |
 
 ## Key facts
 

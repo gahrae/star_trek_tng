@@ -6,6 +6,7 @@
 | Episodes | 3 of 176 speaking |
 | Dialogue lines | 19 |
 | Played by | Pamela Winslow, Linda Robertson |
+| Species | Human <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/McKnight "Memory Alpha: McKnight"))</span> |
 
 ## Key facts
 

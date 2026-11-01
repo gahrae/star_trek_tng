@@ -6,6 +6,7 @@
 | Episodes | 2 of 176 speaking |
 | Dialogue lines | 11 |
 | Played by | Ken Thorley |
+| Species | Bolian <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Mot "Memory Alpha: Mot"))</span> |
 
 ## Key facts
 

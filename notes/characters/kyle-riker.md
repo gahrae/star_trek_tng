@@ -5,6 +5,7 @@
 | Transcript label | `KYLE RIKER` |
 | Episodes | 1 of 176 speaking |
 | Dialogue lines | 75 |
+| Species | Human <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Kyle_Riker "Memory Alpha: Kyle Riker"))</span> |
 
 ## Key facts
 

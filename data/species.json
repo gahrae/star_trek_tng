@@ -1,0 +1,794 @@
+{
+ "conor": {
+  "page": "Aaron Conor",
+  "species": "Human"
+ },
+ "einstein": {
+  "page": "Albert Einstein",
+  "species": "Human"
+ },
+ "alexander": {
+  "page": "Alexander Rozhenko",
+  "species": "Three-quarters Klingon, One-quarter Human"
+ },
+ "allenby": {
+  "page": "Allenby",
+  "species": "Human"
+ },
+ "nechayev": {
+  "page": "Alynna Nechayev",
+  "species": "Human"
+ },
+ "ogawa": {
+  "page": "Alyssa Ogawa",
+  "species": "Human"
+ },
+ "amanda": {
+  "page": "Amanda Rogers",
+  "species": "Q (conceived in Human form)"
+ },
+ "anna": {
+  "page": "Anna (alias)",
+  "species": "Human"
+ },
+ "anya": {
+  "page": "Anya (allasomorph)",
+  "species": "Allasomorph"
+ },
+ "aquiel": {
+  "page": "Aquiel Uhnari",
+  "species": "Haliian"
+ },
+ "baran": {
+  "page": "Arctus Baran",
+  "species": "Unknown"
+ },
+ "ard-rian": {
+  "page": "Ard'rian McKenzie",
+  "species": "Human"
+ },
+ "ardra": {
+  "page": "Ardra (impostor)",
+  "species": "Unknown"
+ },
+ "argyle": {
+  "page": "Argyle",
+  "species": "Human"
+ },
+ "armus": {
+  "page": "Armus",
+  "species": "Remnant of former Vagrans"
+ },
+ "durken": {
+  "page": "Avel Durken",
+  "species": "Malcorian"
+ },
+ "b-etor": {
+  "page": "B'Etor",
+  "species": "Klingon"
+ },
+ "ba-el": {
+  "page": "Ba'el",
+  "species": "Klingon/Romulan hybrid"
+ },
+ "beata": {
+  "page": "Beata",
+  "species": "Angel I native"
+ },
+ "maxwell": {
+  "page": "Benjamin Maxwell",
+  "species": "Human"
+ },
+ "rasmussen": {
+  "page": "Berlinghoff Rasmussen",
+  "species": "Human"
+ },
+ "crusher": {
+  "page": "Beverly Crusher",
+  "species": "Human"
+ },
+ "bochra": {
+  "page": "Bochra",
+  "species": "Romulan"
+ },
+ "bok": {
+  "page": "Bok",
+  "species": "Ferengi"
+ },
+ "brenna": {
+  "page": "Brenna Odell",
+  "species": "Human"
+ },
+ "maddox": {
+  "page": "Bruce Maddox",
+  "species": "Human"
+ },
+ "clara": {
+  "page": "Clara Sutter",
+  "species": "Human"
+ },
+ "crosis": {
+  "page": "Crosis",
+  "species": "Borg"
+ },
+ "danilo": {
+  "page": "Danilo Odell",
+  "species": "Human"
+ },
+ "data": {
+  "page": "Data",
+  "species": "Soong-type Android"
+ },
+ "dathon": {
+  "page": "Dathon",
+  "species": "Tamarian"
+ },
+ "troi": {
+  "page": "Deanna Troi",
+  "species": "Human-Betazoid hybrid"
+ },
+ "ral": {
+  "page": "Devinoni Ral",
+  "species": "Human-Betazoid hybrid"
+ },
+ "remmick": {
+  "page": "Dexter Remmick",
+  "species": "Human"
+ },
+ "dirgo": {
+  "page": "Dirgo",
+  "species": "Unknown; Humanoid"
+ },
+ "duras": {
+  "page": "Duras, son of Ja'rod",
+  "species": "Klingon"
+ },
+ "jellico": {
+  "page": "Edward Jellico",
+  "species": "Human"
+ },
+ "eline": {
+  "page": "Eline",
+  "species": "Kataan native"
+ },
+ "shelby": {
+  "page": "Elizabeth Shelby",
+  "species": "Human"
+ },
+ "pressman": {
+  "page": "Erik Pressman",
+  "species": "Human"
+ },
+ "gul-evek": {
+  "page": "Evek",
+  "species": "Cardassian"
+ },
+ "farallon": {
+  "page": "Farallon",
+  "species": "Tyran"
+ },
+ "felton": {
+  "page": "Felton",
+  "species": "Human"
+ },
+ "garvin": {
+  "page": "Garvin",
+  "species": "Barkonian"
+ },
+ "gates": {
+  "page": "Gates",
+  "species": "Human"
+ },
+ "laforge": {
+  "page": "Geordi La Forge",
+  "species": "Human (cybernetically augmented)"
+ },
+ "gi-ral": {
+  "page": "Gi'ral",
+  "species": "Klingon"
+ },
+ "gia": {
+  "page": "Gia (Barkonian)",
+  "species": "Barkonian"
+ },
+ "giusti": {
+  "page": "Giusti",
+  "species": "Human"
+ },
+ "gowron": {
+  "page": "Gowron",
+  "species": "Klingon"
+ },
+ "grebnedlog": {
+  "page": "Grebnedlog",
+  "species": "Pakled"
+ },
+ "quinn": {
+  "page": "Gregory Quinn",
+  "species": "Human"
+ },
+ "guinan": {
+  "page": "Guinan",
+  "species": "El-Aurian"
+ },
+ "haden": {
+  "page": "Haden",
+  "species": "Human"
+ },
+ "haftel": {
+  "page": "Haftel",
+  "species": "Human"
+ },
+ "hannah": {
+  "page": "Hannah Bates",
+  "species": "Human"
+ },
+ "hayes": {
+  "page": "Hayes (Female Admiral)",
+  "species": "Human"
+ },
+ "helena": {
+  "page": "Helena Rozhenko",
+  "species": "Human"
+ },
+ "homn": {
+  "page": "Homn",
+  "species": "Unknown; Humanoid"
+ },
+ "hugh": {
+  "page": "Hugh",
+  "species": "Unknown"
+ },
+ "ian-andrew-troi": {
+  "page": "Ian Andrew Troi",
+  "species": "Human"
+ },
+ "ian-the-child": {
+  "page": "Ian Troi",
+  "species": "Life-force entity (primarily), Half Betazoid, Half Human (temporarily)"
+ },
+ "isabella": {
+  "page": "Isabella",
+  "species": "Human"
+ },
+ "ishara": {
+  "page": "Ishara Yar",
+  "species": "Human"
+ },
+ "hanson": {
+  "page": "J.P. Hanson",
+  "species": "Human"
+ },
+ "jack": {
+  "page": "Jack R. Crusher",
+  "species": "Human"
+ },
+ "shrek": {
+  "page": "Jaglom Shrek",
+  "species": "Yridian"
+ },
+ "jake-kurland": {
+  "page": "Jake Kurland",
+  "species": "Human"
+ },
+ "jake-potts": {
+  "page": "Jake Potts",
+  "species": "Human"
+ },
+ "moriarty": {
+  "page": "James Moriarty (hologram)",
+  "species": null
+ },
+ "jason": {
+  "page": "Jason Vigo",
+  "species": "Human"
+ },
+ "picard": {
+  "page": "Jean-Luc Picard",
+  "species": "Human (with residual Borg DNA; until 2399), Golem (2399 onward)"
+ },
+ "picard-jr": {
+  "page": "Jean-Luc Picard",
+  "species": "Human (with residual Borg DNA; until 2399), Golem (2399 onward)"
+ },
+ "jenice": {
+  "page": "Jenice Manheim",
+  "species": "Human"
+ },
+ "jenna": {
+  "page": "Jenna D'Sora",
+  "species": "Human"
+ },
+ "jev": {
+  "page": "Jev",
+  "species": "Ullian"
+ },
+ "john": {
+  "page": "John Doe",
+  "species": "Zalkonian"
+ },
+ "jono": {
+  "page": "Jono",
+  "species": "Human"
+ },
+ "juliana": {
+  "page": "Juliana Tainer",
+  "species": "Human (until 2338), Soong-type android (2338 onward)"
+ },
+ "k-ehleyr": {
+  "page": "K'Ehleyr",
+  "species": "Klingon/Human hybrid"
+ },
+ "k-vada": {
+  "page": "K'Vada",
+  "species": "Klingon"
+ },
+ "k-mpec": {
+  "page": "K'mpec",
+  "species": "Klingon"
+ },
+ "k-mtar": {
+  "page": "K'mtar",
+  "species": "Klingon"
+ },
+ "kamala": {
+  "page": "Kamala",
+  "species": "Kriosian"
+ },
+ "kargan": {
+  "page": "Kargan",
+  "species": "Klingon"
+ },
+ "pulaski": {
+  "page": "Katherine Pulaski",
+  "species": "Human"
+ },
+ "keiko": {
+  "page": "Keiko O'Brien",
+  "species": "Human"
+ },
+ "kelsey": {
+  "page": "Kelsey",
+  "species": "Human"
+ },
+ "kennelly": {
+  "page": "Kennelly",
+  "species": "Human"
+ },
+ "kevin": {
+  "page": "Kevin Uxbridge",
+  "species": "Human"
+ },
+ "marr": {
+  "page": "Kila Marr",
+  "species": "Human"
+ },
+ "fajo": {
+  "page": "Kivas Fajo",
+  "species": "Zibalian"
+ },
+ "klag": {
+  "page": "Klag (Lieutenant)",
+  "species": "Klingon"
+ },
+ "korris": {
+  "page": "Korris",
+  "species": "Klingon"
+ },
+ "kosinski": {
+  "page": "Kosinski",
+  "species": "Human"
+ },
+ "tholl": {
+  "page": "Kova Tholl",
+  "species": "Mizarian"
+ },
+ "krag": {
+  "page": "Krag",
+  "species": "Tanugan"
+ },
+ "kurn": {
+  "page": "Kurn",
+  "species": "Klingon"
+ },
+ "mrs-kyle": {
+  "page": "Kyle (teacher)",
+  "species": "Human"
+ },
+ "kyle-riker": {
+  "page": "Kyle Riker",
+  "species": "Human"
+ },
+ "finn": {
+  "page": "Kyril Finn",
+  "species": "Rutian"
+ },
+ "l-kor": {
+  "page": "L'Kor",
+  "species": "Klingon"
+ },
+ "lal": {
+  "page": "Lal",
+  "species": "Soong-type android"
+ },
+ "leah": {
+  "page": "Leah Brahms",
+  "species": "Human"
+ },
+ "lemec": {
+  "page": "Lemec",
+  "species": "Cardassian"
+ },
+ "macduff": {
+  "page": "Les MacDuff",
+  "species": null
+ },
+ "liator": {
+  "page": "Liator",
+  "species": "Edo"
+ },
+ "liko": {
+  "page": "Liko",
+  "species": "Mintakan"
+ },
+ "lore": {
+  "page": "Lore",
+  "species": "Soong-type android"
+ },
+ "lursa": {
+  "page": "Lursa",
+  "species": "Klingon"
+ },
+ "lutan": {
+  "page": "Lutan",
+  "species": "Ligonian"
+ },
+ "lwaxana": {
+  "page": "Lwaxana Troi",
+  "species": "Betazoid"
+ },
+ "macet": {
+  "page": "Macet",
+  "species": "Cardassian"
+ },
+ "madeline": {
+  "page": "Madeline (Dixon Hill)",
+  "species": null
+ },
+ "madred": {
+  "page": "Madred",
+  "species": "Cardassian"
+ },
+ "manua": {
+  "page": "Manua Apgar",
+  "species": "Tanugan"
+ },
+ "jameson": {
+  "page": "Mark Jameson",
+  "species": "Human"
+ },
+ "marouk": {
+  "page": "Marouk",
+  "species": "Acamarian"
+ },
+ "martin-violations": {
+  "page": "Martin (Doctor)",
+  "species": "Human"
+ },
+ "mauric": {
+  "page": "Mauric",
+  "species": "Kesprytt"
+ },
+ "mcknight": {
+  "page": "McKnight",
+  "species": "Human"
+ },
+ "michael-williams": {
+  "page": "Michael Williams",
+  "species": null
+ },
+ "o-brien": {
+  "page": "Miles O'Brien",
+  "species": "Human"
+ },
+ "minuet": {
+  "page": "Minuet",
+  "species": null
+ },
+ "mirasta": {
+  "page": "Mirasta Yale",
+  "species": "Malcorian"
+ },
+ "scott": {
+  "page": "Montgomery Scott",
+  "species": "Human"
+ },
+ "mot": {
+  "page": "Mot",
+  "species": "Bolian"
+ },
+ "movar": {
+  "page": "Movar",
+  "species": "Romulan"
+ },
+ "n-vek": {
+  "page": "N'Vek",
+  "species": "Romulan"
+ },
+ "nakamura": {
+  "page": "Nakamura",
+  "species": "Human"
+ },
+ "narik": {
+  "page": "Narik",
+  "species": "Boslic"
+ },
+ "tasha": {
+  "page": "Natasha Yar",
+  "species": "Human"
+ },
+ "quint": {
+  "page": "Ned Quint",
+  "species": "Human"
+ },
+ "apgar": {
+  "page": "Nel Apgar",
+  "species": "Tanugan"
+ },
+ "nella": {
+  "page": "Nella Daren",
+  "species": "Human"
+ },
+ "neral": {
+  "page": "Neral",
+  "species": "Romulan"
+ },
+ "locarno": {
+  "page": "Nick Locarno",
+  "species": "Human"
+ },
+ "nikolai": {
+  "page": "Nikolai Rozhenko",
+  "species": "Human"
+ },
+ "soong": {
+  "page": "Noonien Soong",
+  "species": "Human"
+ },
+ "satie": {
+  "page": "Norah Satie",
+  "species": "Human"
+ },
+ "nuria": {
+  "page": "Nuria",
+  "species": "Mintakan"
+ },
+ "odan": {
+  "page": "Odan",
+  "species": null
+ },
+ "pardek": {
+  "page": "Pardek",
+  "species": "Romulan"
+ },
+ "stubbs": {
+  "page": "Paul Stubbs",
+  "species": "Human"
+ },
+ "perrin": {
+  "page": "Perrin",
+  "species": "Human"
+ },
+ "phillipa": {
+  "page": "Phillipa Louvois",
+  "species": "Human"
+ },
+ "q": {
+  "page": "Q",
+  "species": null
+ },
+ "radue": {
+  "page": "Radue",
+  "species": "Aldean"
+ },
+ "ralph": {
+  "page": "Ralph Offenhouse",
+  "species": "Human"
+ },
+ "barclay": {
+  "page": "Reginald Barclay",
+  "species": "Human"
+ },
+ "castillo": {
+  "page": "Richard Castillo",
+  "species": "Human"
+ },
+ "rivan": {
+  "page": "Rivan",
+  "species": "Edo"
+ },
+ "ro": {
+  "page": "Ro Laren",
+  "species": "Bajoran"
+ },
+ "robert": {
+  "page": "Robert Picard",
+  "species": "Human"
+ },
+ "robin": {
+  "page": "Robin Lefler",
+  "species": "Human"
+ },
+ "roga": {
+  "page": "Roga Danar",
+  "species": "Angosian"
+ },
+ "ronin": {
+  "page": "Ronin",
+  "species": "Unknown (anaphasic lifeform)"
+ },
+ "brackett": {
+  "page": "Ruah Brackett",
+  "species": "Human"
+ },
+ "salia": {
+  "page": "Salia",
+  "species": "Allasomorph"
+ },
+ "lavelle": {
+  "page": "Sam Lavelle",
+  "species": "Human"
+ },
+ "clemens": {
+  "page": "Samuel Clemens",
+  "species": "Human"
+ },
+ "sarek": {
+  "page": "Sarek",
+  "species": "Vulcan"
+ },
+ "rager": {
+  "page": "Sariel Rager",
+  "species": "Human"
+ },
+ "sela": {
+  "page": "Sela",
+  "species": "½ Human , ½ Romulan"
+ },
+ "sergey": {
+  "page": "Sergey Rozhenko",
+  "species": "Human"
+ },
+ "setal": {
+  "page": "Setal",
+  "species": "Romulan"
+ },
+ "silva": {
+  "page": "Silva La Forge",
+  "species": "Human"
+ },
+ "kolrami": {
+  "page": "Sirna Kolrami",
+  "species": "Zakdorn"
+ },
+ "sito": {
+  "page": "Sito Jaxa",
+  "species": "Bajoran"
+ },
+ "sonya": {
+  "page": "Sonya Gomez",
+  "species": "Human"
+ },
+ "soren": {
+  "page": "Soren",
+  "species": "J'naii"
+ },
+ "spock": {
+  "page": "Spock",
+  "species": "Vulcan/Human hybrid"
+ },
+ "susanna": {
+  "page": "Susanna Leijten",
+  "species": "Human"
+ },
+ "t-jon": {
+  "page": "T'Jon",
+  "species": "Ornaran"
+ },
+ "taitt": {
+  "page": "Taitt",
+  "species": "Human"
+ },
+ "tallera": {
+  "page": "Tallera",
+  "species": "Romulan"
+ },
+ "tam": {
+  "page": "Tam Elbrun",
+  "species": "Betazoid"
+ },
+ "taurik": {
+  "page": "Taurik",
+  "species": "Vulcan"
+ },
+ "texas": {
+  "page": "Texas (character)",
+  "species": null
+ },
+ "okona": {
+  "page": "Thadiun Okona",
+  "species": "Unnamed"
+ },
+ "traveller": {
+  "page": "The Traveler",
+  "species": "Unknown"
+ },
+ "riker-2": {
+  "page": "Thomas Riker",
+  "species": "Human"
+ },
+ "timicin": {
+  "page": "Timicin",
+  "species": "Kaelon"
+ },
+ "timothy": {
+  "page": "Timothy (Vico)",
+  "species": "Human"
+ },
+ "russell": {
+  "page": "Toby Russell",
+  "species": "Human"
+ },
+ "tog": {
+  "page": "Tog",
+  "species": "Ferengi"
+ },
+ "tokath": {
+  "page": "Tokath",
+  "species": "Romulan"
+ },
+ "tomalak": {
+  "page": "Tomalak",
+  "species": "Romulan"
+ },
+ "toral": {
+  "page": "Toral, son of Duras",
+  "species": "Klingon"
+ },
+ "toreth": {
+  "page": "Toreth",
+  "species": "Romulan"
+ },
+ "vash": {
+  "page": "Vash",
+  "species": "Human"
+ },
+ "alkar": {
+  "page": "Ves Alkar",
+  "species": "Lumerian"
+ },
+ "wesley": {
+  "page": "Wesley Crusher",
+  "species": "Human"
+ },
+ "riker": {
+  "page": "William T. Riker",
+  "species": "Human"
+ },
+ "worf": {
+  "page": "Worf",
+  "species": "Klingon"
+ },
+ "wyatt": {
+  "page": "Wyatt Miller",
+  "species": "Human"
+ },
+ "yuta": {
+  "page": "Yuta",
+  "species": "Acamarian"
+ },
+ "zorn": {
+  "page": "Zorn",
+  "species": "Bandi"
+ }
+}

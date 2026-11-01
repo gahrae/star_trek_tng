@@ -6,6 +6,7 @@
 | Episodes | 2 of 176 speaking |
 | Dialogue lines | 74 |
 | Played by | Jerry Hardin |
+| Species | Human <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Samuel_Clemens "Memory Alpha: Samuel Clemens"))</span> |
 
 ## Key facts
 

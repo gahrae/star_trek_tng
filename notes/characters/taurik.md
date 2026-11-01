@@ -6,6 +6,7 @@
 | Episodes | 1 of 176 speaking |
 | Dialogue lines | 42 |
 | Played by | Alexander Enberg |
+| Species | Vulcan <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Taurik "Memory Alpha: Taurik"))</span> |
 
 ## Key facts
 

@@ -6,6 +6,7 @@
 | Episodes | 1 of 176 speaking |
 | Dialogue lines | 58 |
 | Played by | Jerry Hardin |
+| Species | Aldean <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Radue "Memory Alpha: Radue"))</span> |
 
 ## Key facts
 

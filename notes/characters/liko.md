@@ -6,6 +6,7 @@
 | Episodes | 1 of 176 speaking |
 | Dialogue lines | 51 |
 | Played by | Ray Wise |
+| Species | Mintakan <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Liko "Memory Alpha: Liko"))</span> |
 
 ## Key facts
 

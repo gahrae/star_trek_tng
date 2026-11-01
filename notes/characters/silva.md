@@ -6,6 +6,7 @@
 | Episodes | 1 of 176 speaking |
 | Dialogue lines | 24 |
 | Played by | Madge Sinclair |
+| Species | Human <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Silva_La_Forge "Memory Alpha: Silva La Forge"))</span> |
 
 ## Key facts
 

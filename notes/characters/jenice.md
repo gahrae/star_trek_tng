@@ -6,6 +6,7 @@
 | Episodes | 1 of 176 speaking |
 | Dialogue lines | 50 |
 | Played by | Michelle Phillips |
+| Species | Human <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Jenice_Manheim "Memory Alpha: Jenice Manheim"))</span> |
 
 ## Key facts
 

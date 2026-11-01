@@ -6,6 +6,7 @@
 | Episodes | 1 of 176 speaking |
 | Dialogue lines | 73 |
 | Played by | William O. Campbell |
+| Species | Unnamed <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Thadiun_Okona "Memory Alpha: Thadiun Okona"))</span> |
 
 ## Key facts
 

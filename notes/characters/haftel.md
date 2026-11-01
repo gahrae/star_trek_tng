@@ -6,6 +6,7 @@
 | Episodes | 1 of 176 speaking |
 | Dialogue lines | 46 |
 | Played by | Nicolas Coster |
+| Species | Human <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Haftel "Memory Alpha: Haftel"))</span> |
 
 ## Key facts
 

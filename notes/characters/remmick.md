@@ -6,6 +6,7 @@
 | Episodes | 3 of 176 speaking |
 | Dialogue lines | 58 |
 | Played by | Robert Schenkkan |
+| Species | Human <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Dexter_Remmick "Memory Alpha: Dexter Remmick"))</span> |
 
 ## Key facts
 

@@ -5,6 +5,7 @@
 | Transcript label | `RALPH` |
 | Episodes | 1 of 176 speaking |
 | Dialogue lines | 41 |
+| Species | Human <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Ralph_Offenhouse "Memory Alpha: Ralph Offenhouse"))</span> |
 
 ## Key facts
 

@@ -6,6 +6,7 @@
 | Episodes | 1 of 176 speaking |
 | Dialogue lines | 62 |
 | Played by | Mark La Mura |
+| Species | Zalkonian <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/John_Doe "Memory Alpha: John Doe"))</span> |
 
 ## Key facts
 

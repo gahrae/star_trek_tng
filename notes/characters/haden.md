@@ -6,6 +6,7 @@
 | Episodes | 2 of 176 speaking |
 | Dialogue lines | 7 |
 | Played by | John Hancock |
+| Species | Human <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Haden "Memory Alpha: Haden"))</span> |
 
 ## Key facts
 

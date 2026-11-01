@@ -6,6 +6,7 @@
 | Episodes | 1 of 176 speaking |
 | Dialogue lines | 85 |
 | Played by | James Sloyan |
+| Species | Klingon <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/K%27mtar "Memory Alpha: K'mtar"))</span> |
 
 ## Key facts
 

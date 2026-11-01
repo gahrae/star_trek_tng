@@ -6,6 +6,7 @@
 | Episodes | 1 of 176 speaking |
 | Dialogue lines | 43 |
 | Played by | Nick Tate |
+| Species | Unknown; Humanoid <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Dirgo "Memory Alpha: Dirgo"))</span> |
 
 ## Key facts
 

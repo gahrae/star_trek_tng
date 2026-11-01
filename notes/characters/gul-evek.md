@@ -5,6 +5,7 @@
 | Transcript label | `GUL EVEK` |
 | Episodes | 2 of 176 speaking |
 | Dialogue lines | 19 |
+| Species | Cardassian <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Evek "Memory Alpha: Evek"))</span> |
 
 ## Key facts
 

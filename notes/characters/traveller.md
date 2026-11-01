@@ -6,6 +6,7 @@
 | Episodes | 3 of 176 speaking |
 | Dialogue lines | 57 |
 | Played by | Eric Menyuk |
+| Species | Unknown <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/The_Traveler "Memory Alpha: The Traveler"))</span> |
 
 ## Key facts
 

@@ -6,6 +6,7 @@
 | Episodes | 1 of 176 speaking |
 | Dialogue lines | 73 |
 | Played by | Marta Dubois |
+| Species | Unknown <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Ardra_%28impostor%29 "Memory Alpha: Ardra (impostor)"))</span> |
 
 ## Key facts
 

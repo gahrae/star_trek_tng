@@ -127,6 +127,9 @@ check(not credit_missing, f"{len(credit_missing)} cast credits whose actor is no
 _m = re.search(r"<!-- ai-disclosure:start -->\n(.*?)\n<!-- ai-disclosure:end -->", (ROOT / "README.md").read_text(encoding="utf-8"), re.S)
 check(bool(_m) and _m.group(1).replace("**Where AI was used:** the project", "The project", 1) in (ROOT / "notes" / "README.md").read_text(encoding="utf-8"),
       "the site's home page (notes/README.md) does not carry the README's \"Where AI was used\" text; run ./build.sh")
+_images = json.load(open(ROOT / "data" / "images.json")); _species = json.load(open(ROOT / "data" / "species.json"))
+check(all(sl in _species and _species[sl]["page"] == rec["page"] for sl, rec in _images.items() if rec.get("page")),
+      "data/species.json is out of date for the character pages in data/images.json; run scripts/fetch_species.py")
 check(not rel_bad, f"{len(rel_bad)} relationships without a good source: {rel_bad[:4]}")
 check(not drift, f"line links would point at the wrong line in {drift[:5]}: sources.dialogue() no longer matches the transcript pages")
 check(not unknown, f"unknown episodes cited: {unknown[:3]}")

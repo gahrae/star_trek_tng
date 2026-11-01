@@ -6,6 +6,7 @@
 | Episodes | 1 of 176 speaking |
 | Dialogue lines | 93 |
 | Played by | Clayton Rohner |
+| Species | Human <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Mark_Jameson "Memory Alpha: Mark Jameson"))</span> |
 
 ## Key facts
 

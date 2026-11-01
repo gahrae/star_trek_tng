@@ -5,6 +5,7 @@
 | Transcript label | `DATHON` |
 | Episodes | 1 of 176 speaking |
 | Dialogue lines | 46 |
+| Species | Tamarian <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Dathon "Memory Alpha: Dathon"))</span> |
 
 ## Key facts
 

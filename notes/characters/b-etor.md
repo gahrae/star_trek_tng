@@ -6,6 +6,7 @@
 | Episodes | 3 of 176 speaking |
 | Dialogue lines | 37 |
 | Played by | Gwynyth Walsh |
+| Species | Klingon <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/B%27Etor "Memory Alpha: B'Etor"))</span> |
 
 ## Key facts
 

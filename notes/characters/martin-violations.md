@@ -5,6 +5,7 @@
 | Transcript label | `MARTIN (VIOLATIONS)` |
 | Episodes | 1 of 176 speaking |
 | Dialogue lines | 7 |
+| Species | Human <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Martin_%28Doctor%29 "Memory Alpha: Martin (Doctor)"))</span> |
 
 ## Key facts
 

@@ -6,6 +6,7 @@
 | Episodes | 1 of 176 speaking |
 | Dialogue lines | 44 |
 | Played by | Jeremy Kemp, Ian Abercrombie |
+| Species | Human <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Robert_Picard "Memory Alpha: Robert Picard"))</span> |
 
 ## Key facts
 

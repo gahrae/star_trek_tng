@@ -6,6 +6,7 @@
 | Episodes | 2 of 176 speaking |
 | Dialogue lines | 16 |
 | Played by | Nicholas Kepros |
+| Species | Romulan <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Movar "Memory Alpha: Movar"))</span> |
 
 ## Key facts
 

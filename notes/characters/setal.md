@@ -5,6 +5,7 @@
 | Transcript label | `SETAL` |
 | Episodes | 1 of 176 speaking |
 | Dialogue lines | 45 |
+| Species | Romulan <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Setal "Memory Alpha: Setal"))</span> |
 
 ## Key facts
 

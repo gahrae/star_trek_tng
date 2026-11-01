@@ -6,6 +6,7 @@
 | Episodes | 2 of 176 speaking |
 | Dialogue lines | 51 |
 | Played by | Jennifer Gatti |
+| Species | Klingon/Romulan hybrid <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Ba%27el "Memory Alpha: Ba'el"))</span> |
 
 ## Key facts
 

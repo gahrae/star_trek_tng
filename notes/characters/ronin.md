@@ -5,6 +5,7 @@
 | Transcript label | `RONIN` |
 | Episodes | 1 of 176 speaking |
 | Dialogue lines | 44 |
+| Species | Unknown (anaphasic lifeform) <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Ronin "Memory Alpha: Ronin"))</span> |
 
 ## Key facts
 

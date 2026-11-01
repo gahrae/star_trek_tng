@@ -5,6 +5,7 @@
 | Transcript label | `PICARD JR` |
 | Episodes | 1 of 176 speaking |
 | Dialogue lines | 55 |
+| Species | Human (with residual Borg DNA; until 2399), Golem (2399 onward) <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Jean-Luc_Picard "Memory Alpha: Jean-Luc Picard"))</span> |
 
 ## Key facts
 

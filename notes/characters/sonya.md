@@ -6,6 +6,7 @@
 | Episodes | 2 of 176 speaking |
 | Dialogue lines | 33 |
 | Played by | Lycia Naff |
+| Species | Human <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Sonya_Gomez "Memory Alpha: Sonya Gomez"))</span> |
 
 ## Key facts
 

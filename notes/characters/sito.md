@@ -6,6 +6,7 @@
 | Episodes | 2 of 176 speaking |
 | Dialogue lines | 72 |
 | Played by | Shannon Fill |
+| Species | Bajoran <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Sito_Jaxa "Memory Alpha: Sito Jaxa"))</span> |
 
 ## Key facts
 

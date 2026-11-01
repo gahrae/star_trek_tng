@@ -6,6 +6,7 @@
 | Episodes | 1 of 176 speaking |
 | Dialogue lines | 30 |
 | Played by | Theodore Bikel |
+| Species | Human <span class='src'>([Memory Alpha](https://memory-alpha.fandom.com/wiki/Sergey_Rozhenko "Memory Alpha: Sergey Rozhenko"))</span> |
 
 ## Key facts
 
