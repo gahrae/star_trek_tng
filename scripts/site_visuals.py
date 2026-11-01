@@ -72,7 +72,8 @@ main{max-width:none}.gwrap{height:max(560px,72vh);min-height:300px;resize:vertic
 canvas{width:100%;height:100%;display:block;border-radius:8px;cursor:grab}
 .tip{position:fixed;pointer-events:none;background:var(--panel,#fff);color:var(--text,#111);border:1px solid var(--line,#ccc);border-radius:6px;padding:.35rem .55rem;font-size:.85rem;max-width:22rem;z-index:9;display:none;box-shadow:0 2px 8px rgba(0,0,0,.2)}
 .heat{display:grid;gap:2px;font-size:.78rem;max-width:760px}.heat div{aspect-ratio:1;display:flex;align-items:center;justify-content:center;border-radius:3px;min-width:0}.heat .h{background:none;color:var(--text-secondary);aspect-ratio:auto;padding:.2rem;justify-content:flex-end}.heat .ht{aspect-ratio:auto;justify-content:center;writing-mode:vertical-rl;transform:rotate(180deg);padding:.2rem}
-.heat .c{color:var(--text-primary);cursor:default}.heat .c.dark{color:#fff}
+.heat .c{color:var(--text-primary);cursor:default}
+.heat.mx-active .c{opacity:.38;transition:opacity .08s}.heat.mx-active .c.hl-row,.heat.mx-active .c.hl-col{opacity:1}.heat.mx-active .c.hl-cell{outline:2px solid var(--text-primary);outline-offset:-2px}.heat .h.hl-lab{font-weight:700;color:var(--text-primary)}.heat .c.dark{color:#fff}
 svg text{fill:var(--text-primary);font-size:12px}svg .axis{stroke:var(--grid)}svg .lab{fill:var(--text-secondary)}
 .tl{display:grid;grid-template-columns:3rem repeat(28,1fr);gap:3px;align-items:center}.tl .cell{aspect-ratio:1;border-radius:3px;background:var(--grid);cursor:pointer}.tl .cell.on{background:var(--s1)}.tl .cell:hover{outline:2px solid var(--text-primary)}.tl .sl{color:var(--text-secondary);font-size:.8rem}
 </style>
@@ -168,10 +169,15 @@ function heat(D){
  const el=document.getElementById('heat'),L=D.heat.labels,M=D.heat.m,max=Math.max(...M.flat().filter(v=>v!==null));
  el.style.gridTemplateColumns=`5rem repeat(${L.length},1fr)`;
  const steps=['--seq1','--seq2','--seq3','--seq4','--seq5','--seq6','--seq7'];
- let h='<div class="h"></div>'+L.map(l=>`<div class="ht h">${l}</div>`).join('');
- M.forEach((row,i)=>{h+=`<div class="h">${L[i]}</div>`;row.forEach((v,j)=>{if(v===null){h+='<div></div>';return;}const k=Math.min(6,Math.floor(Math.sqrt(v/max)*7));
-  h+=`<div class="c ${k>=4?'dark':''}" style="background:var(${steps[k]})" data-t="<b>${L[i]} and ${L[j]}</b><br>${v} scenes together">${v}</div>`;});});
- el.innerHTML=h;el.querySelectorAll('.c').forEach(c=>{c.onmousemove=e=>showTip(e,c.dataset.t);c.onmouseleave=hideTip;});
+ let h='<div class="h"></div>'+L.map((l,j)=>`<div class="ht h" data-c="${j}">${l}</div>`).join('');
+ M.forEach((row,i)=>{h+=`<div class="h" data-r="${i}">${L[i]}</div>`;row.forEach((v,j)=>{if(v===null){h+='<div></div>';return;}const k=Math.min(6,Math.floor(Math.sqrt(v/max)*7));
+  h+=`<div class="c ${k>=4?'dark':''}" data-r="${i}" data-c="${j}" style="background:var(${steps[k]})" data-t="<b>${L[i]} and ${L[j]}</b><br>${v} scenes together">${v}</div>`;});});
+ el.innerHTML=h;
+ const cells=[...el.querySelectorAll('.c')],rh=[...el.querySelectorAll('.h[data-r]')],ch=[...el.querySelectorAll('.h[data-c]')];
+ const clear=()=>{el.classList.remove('mx-active');el.querySelectorAll('.hl-row,.hl-col,.hl-cell,.hl-lab').forEach(x=>x.classList.remove('hl-row','hl-col','hl-cell','hl-lab'));};
+ cells.forEach(c=>{c.onmousemove=e=>showTip(e,c.dataset.t);
+  c.onmouseenter=()=>{clear();el.classList.add('mx-active');const r=c.dataset.r,k=c.dataset.c;cells.forEach(x=>{if(x.dataset.r===r)x.classList.add('hl-row');if(x.dataset.c===k)x.classList.add('hl-col');});c.classList.add('hl-cell');rh[+r].classList.add('hl-lab');ch[+k].classList.add('hl-lab');};
+  c.onmouseleave=()=>{hideTip();clear();};});
 }
 
 // ---------- lines per season (SVG line chart with crosshair)

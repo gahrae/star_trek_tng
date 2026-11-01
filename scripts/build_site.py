@@ -72,6 +72,8 @@ input[type=range]{accent-color:var(--peach)}select{background:var(--panel);color
 details.toc{background:var(--panel);border-left:.55rem solid var(--lilac);border-radius:.6rem;padding:.4rem .9rem;margin:1rem 0}details.toc summary{cursor:pointer;font-weight:700;padding:.2rem 0;text-transform:uppercase;letter-spacing:.08em;font-size:.8rem;color:var(--lilac)}
 details.sec{margin-top:2rem}details.sec>summary{cursor:pointer;list-style:none;display:flex;align-items:baseline;gap:.5rem}details.sec>summary::-webkit-details-marker{display:none}
 details.sec>summary::before{content:"\\25BE";color:var(--tan);font-size:1.1rem;flex:none}details.sec:not([open])>summary::before{content:"\\25B8"}details.sec>summary h2{margin:0;flex:1}
+table.mx-active td.hc{opacity:.38;transition:opacity .08s}table.mx-active td.hc.hl-row,table.mx-active td.hc.hl-col{opacity:1}table.mx-active td.hc.hl-cell{outline:2px solid var(--peach);outline-offset:-2px}
+table.mx-active td.hl-lab{color:var(--peach)}table.mx-active th.hl-lab{background:#0b0b0b;color:var(--peach)}
 details.toc ul{columns:2;margin:.4rem 0;padding-left:1.2rem}details.toc li{break-inside:avoid;padding:.1rem 0}
 details.nested>ul{columns:4;list-style:none;padding-left:0}details.nested li.grp>a{font-weight:700;color:var(--tan);text-transform:uppercase;font-size:.8rem;letter-spacing:.06em}details.nested li.grp ul{columns:1;margin:.2rem 0 .6rem;padding-left:1rem}
 @media (max-width:900px){details.nested>ul{columns:2}}@media (max-width:700px){details.toc ul{columns:1}}
@@ -98,6 +100,13 @@ document.addEventListener('click',e=>{if(!e.target.closest('.search'))out.style.
 (()=>{const hd=document.querySelector('header'),b=document.getElementById('menu');const set=o=>{hd.classList.toggle('open',o);b.setAttribute('aria-expanded',o);};b.onclick=e=>{e.stopPropagation();set(!hd.classList.contains('open'));};addEventListener('click',e=>{if(hd.classList.contains('open')&&!e.target.closest('nav'))set(false);});addEventListener('keydown',e=>{if(e.key==='Escape')set(false);});})();
 // measure the sticky header so table headings and anchor jumps clear it at any window width
 (()=>{const hd=document.querySelector('header'),set=()=>document.documentElement.style.setProperty('--hdr',hd.offsetHeight+'px');set();addEventListener('resize',set);})();
+// matrix tables (cells with class hc): hovering a cell emphasises its row and column and lights the two labels
+document.querySelectorAll('table').forEach(t=>{if(!t.querySelector('td.hc'))return;
+ const clear=()=>{t.classList.remove('mx-active');t.querySelectorAll('.hl-row,.hl-col,.hl-cell,.hl-lab').forEach(x=>x.classList.remove('hl-row','hl-col','hl-cell','hl-lab'));};
+ t.addEventListener('mouseover',e=>{const c=e.target.closest('td.hc');if(!c)return;clear();t.classList.add('mx-active');const col=c.cellIndex,tr=c.parentElement;
+  [...t.rows].forEach(r=>[...r.cells].forEach((x,i)=>{if(r===tr)x.classList.add('hl-row');if(i===col)x.classList.add('hl-col');}));
+  c.classList.add('hl-cell');t.rows[0].cells[col].classList.add('hl-lab');tr.cells[0].classList.add('hl-lab');});
+ t.addEventListener('mouseleave',clear);});
 // live filter for big tables: one box per page, applied to every large table (so a page split by season filters as a whole)
 (()=>{const tables=[...document.querySelectorAll('table')].filter(t=>t.rows.length>=15);if(!tables.length)return;
  const f=document.createElement('input');f.className='filter';f.placeholder=tables.length>1?'Filter all tables...':'Filter rows...';
