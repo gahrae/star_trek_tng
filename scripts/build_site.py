@@ -7,6 +7,8 @@ import json, re, pathlib, html, shutil, collections
 import markdown
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 NOTES, SITE = ROOT / "notes", ROOT / "site"
+NAV_GROUP = {"Home": "home", "Episodes": "story", "Arcs": "story", "Continuity": "story", "Characters": "people", "Relationships": "people", "Actors": "people", "Crew": "people",
+             "Locations": "world", "Entities": "world", "Stats": "numbers", "Visuals": "numbers", "Search": "tool"}      # one colour per group in the menu
 NAV = [("README.md", "Home"),
        ("episodes.md", "Episodes"), ("arcs.md", "Arcs"), ("continuity.md", "Continuity"),                       # the story
        ("character_index.md", "Characters"), ("relationships.md", "Relationships"), ("actors.md", "Actors"), ("crew.md", "Crew"),   # the people
@@ -33,7 +35,7 @@ header::before{content:"";display:block;width:4.2rem;height:2rem;border-radius:1
 header .brand{font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--peach);text-decoration:none;font-size:1.05rem;margin-right:.6rem}
 header nav{display:flex;flex-wrap:wrap;gap:.3rem;flex-basis:100%;order:2}
 header nav a{color:#0b0b0f;background:var(--lilac);text-decoration:none;padding:.22rem .7rem;border-radius:1rem;font-size:.8rem;font-weight:700;text-transform:uppercase;letter-spacing:.06em}
-header nav a:nth-child(3n+2){background:var(--tan)}header nav a:nth-child(3n){background:var(--sky)}header nav a:hover,header nav a:focus-visible{color:#0b0b0f;filter:brightness(1.12);text-decoration:underline}header nav a.active{background:var(--peach);outline:2px solid var(--text);outline-offset:1px}
+header nav a.g-home{background:var(--tan)}header nav a.g-story{background:var(--sky)}header nav a.g-people{background:var(--lilac)}header nav a.g-world{background:var(--mint)}header nav a.g-numbers{background:var(--amber)}header nav a.g-tool{background:var(--rose)}header nav a:hover,header nav a:focus-visible{color:#0b0b0f;filter:brightness(1.12);text-decoration:underline}header nav a.active{background:var(--peach);outline:2px solid var(--text);outline-offset:1px}
 header .search{margin-left:auto;position:relative;order:1}header input{background:var(--panel);color:var(--text);border:2px solid var(--tan);border-radius:1rem;padding:.35rem .8rem;width:23rem;max-width:60vw;font:inherit;font-size:.9rem}
 header input::placeholder{color:var(--muted);text-transform:uppercase;font-size:.75rem;letter-spacing:.06em}
 #results{position:absolute;right:0;top:2.6rem;width:26rem;max-height:60vh;overflow:auto;background:var(--panel);border:2px solid var(--tan);border-radius:12px;display:none}
@@ -132,7 +134,7 @@ document.addEventListener('click',e=>{if(!e.target.closest('.search'))out.style.
 
 def shell(title, body, rel, depth):
     rootp = "../" * depth
-    nav = "".join(f'<a href="{rootp}{"index" if f == "README.md" else f[:-3]}.html"{" class=active" if f == rel else ""}>{n}</a>'
+    nav = "".join(f'<a href="{rootp}{"index" if f == "README.md" else f[:-3]}.html"class="g-{NAV_GROUP[n]}{' active' if f == rel else ''}">{n}</a>'
                   for f, n in NAV if (NOTES / f).exists() or f in ("visuals.md", "search.md"))
     section = {"characters/": "character_index.md", "episodes/": "episodes.md", "locations/": "locations.md", "transcripts/": "episodes.md"}
     cur = next((n for f, n in NAV if f == rel), None) or next((n for f, n in NAV if f == section.get(rel.split("/")[0] + "/")), "Menu")   # label for the narrow-screen menu toggle
