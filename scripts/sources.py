@@ -178,9 +178,9 @@ def actor_page(name):
     return page if name.split()[0].lower() in pwords or name.split()[-1].lower() in pwords else None
 
 def actor_links(name):
-    """An actor's name followed by a link to their Memory Alpha page, where there is one."""
+    """An actor's name with a link to their Memory Alpha page on the line below, where there is one."""
     page = actor_page(name)
-    return f'{name} <span class="src">([Memory Alpha]({_url("https://memory-alpha.fandom.com/wiki/" + page.replace(" ", "_"))}))</span>' if page else name
+    return f'{name}<br><span class="src">([Memory Alpha]({_url("https://memory-alpha.fandom.com/wiki/" + page.replace(" ", "_"))}))</span>' if page else name
 
 def cast_list_link(prod):
     """Link to the Memory Alpha page of an episode, where its cast list is."""
