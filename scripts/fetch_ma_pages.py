@@ -13,13 +13,14 @@ API = "https://memory-alpha.fandom.com/api.php"
 S = requests.Session(); S.headers["User-Agent"] = "Mozilla/5.0 (personal study; contact gareth.stretton@gmail.com)"
 src = (ROOT / "scripts" / "curated_characters.py").read_text(encoding="utf-8") + (ROOT / "scripts" / "curated_episodes.py").read_text(encoding="utf-8")
 titles = sorted({m.group(1) for m in MA_TOKEN.finditer(src)} | set(sys.argv[1:]))
-got = 0
+got = 0; missing = []
 for t in titles:
     f = OUT / f"{ma_slug(t)}.txt"
     if f.exists(): continue
     r = S.get(API, params=dict(action="query", prop="extracts", explaintext=1, titles=t, redirects=1, format="json"), timeout=30); r.raise_for_status()
     pg = next(iter(r.json()["query"]["pages"].values())); time.sleep(1.0)
-    if "extract" not in pg: print(f"no page for {t!r}", file=sys.stderr); continue
+    if "extract" not in pg: print(f"no page for {t!r}", file=sys.stderr); missing.append(t); continue
     f.write_text(t + "\n" + pg["extract"], encoding="utf-8"); got += 1; print(f"{t}: {len(pg['extract'])} characters")
 from provenance import record; record("ma_pages", source=API, pages=len(list(OUT.glob("*.txt"))))
 print(f"{got} new pages, {len(titles)} cited -> {OUT}")
+sys.exit(1 if missing else 0)

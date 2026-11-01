@@ -6,7 +6,7 @@ marker after the claim ({102}, or {102,103} for several). A marker can also quot
 Alpha page instead, {ma:Worf|chief of security}; the build checks the phrase is on the page (data/ma_pages/). cite() strips the markers and
 appends the transcript links, e.g. "(S04E02 · S03E15)".
 """
-import json, re, pathlib, unicodedata
+import json, re, pathlib, unicodedata, urllib.parse
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 _eps = json.load(open(ROOT / "data" / "episodes.json"))
 _meta = json.load(open(ROOT / "data" / "metadata.json"))
@@ -48,7 +48,9 @@ def locate(prod, phrase):
 
 def anchor(prod, raw):
     """Site anchor number of the dialogue line at a raw line number."""
-    return next(l[0] for l in dialogue(prod) if l[1] == raw)
+    for l in dialogue(prod):
+        if l[1] == raw: return l[0]
+    raise ValueError(f"{CODE[prod]} line {raw} is not a dialogue line, so a source link to it has no anchor")
 
 def _norm(title):
     t = unicodedata.normalize("NFKD", title).encode("ascii", "ignore").decode()      # Ménage à Troi -> Menage a Troi
@@ -85,7 +87,7 @@ def ma_page(title, phrase=None):
 
 def ma_link(title, phrase=None):
     tip = f"Memory Alpha: {title}" + (f": {phrase}" if phrase else "")
-    return f'[Memory Alpha](https://memory-alpha.fandom.com/wiki/{title.replace(" ", "_")} "{tip.replace(chr(34), chr(39))}")'
+    return f'[Memory Alpha](https://memory-alpha.fandom.com/wiki/{urllib.parse.quote(title.replace(" ", "_"), safe="_(),\'.-:")} "{tip.replace(chr(34), chr(39))}")'
 
 def _token(m, italics=True):
     """Episodes and quoted phrase of one token: a marker {102|phrase} or an italic title *The Battle|phrase*."""
@@ -131,6 +133,7 @@ def cite(text, prefix):
         if m.group(4): return f' <span class="src">({ma_link(m.group(4), m.group(5))})</span>'
         found, phrase = _token(m)
         if not found: return m.group(0)
+        if phrase and len(found) != 1: raise ValueError(f"a quoted line needs one episode: {m.group(0)}")
         line = locate(found[0], phrase)[1] if phrase else None
         if m.group(1): return f'*{m.group(1).partition("|")[0]}* <span class="src">{links(found, prefix, line)}</span>'
         return f' <span class="src">({links(found, prefix, line)})</span>'

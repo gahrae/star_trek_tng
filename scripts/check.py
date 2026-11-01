@@ -96,13 +96,15 @@ for a, prof in cc.PROFILES.items():     # every relationship has a source that n
         if not src: rel_bad.append(f"{a} -> {other} has no source"); continue
         try: sources.cited_groups(src[0])
         except ValueError as ex: rel_bad.append(f"{a} -> {other}: {ex}"); continue
-        m = sources.TOKEN.search(src[0])
-        if m.group(4):
-            page = set(spell(sources.ma_page(m.group(4))).split())
-            if not all(any(spell(w).split()[0] in page for w in name_words(x) if spell(w)) for x in (a, other)): rel_bad.append(f"{a} -> {other}: Memory Alpha page {m.group(4)} does not name both")
-        else:
-            p = m.group(2)
-            if not all(present(x, name_words(x), p) for x in (a, other)): rel_bad.append(f"{a} -> {other}: {sources.CODE[p]} does not have both characters")
+        toks = [m for m in sources.TOKEN.finditer(src[0]) if m.group(2) or m.group(4)]
+        if not toks: rel_bad.append(f"{a} -> {other}: the source is not an episode or Memory Alpha marker"); continue
+        for m in toks:
+            if m.group(4):
+                page = set(spell(sources.ma_page(m.group(4))).split())
+                if not all(any(spell(w).split()[0] in page for w in name_words(x) if spell(w)) for x in (a, other)): rel_bad.append(f"{a} -> {other}: Memory Alpha page {m.group(4)} does not name both")
+            else:
+                for p in m.group(2).split(","):
+                    if not all(present(x, name_words(x), p) for x in (a, other)): rel_bad.append(f"{a} -> {other}: {sources.CODE[p]} does not have both characters")
 check(not rel_bad, f"{len(rel_bad)} relationships without a good source: {rel_bad[:4]}")
 check(not drift, f"line links would point at the wrong line in {drift[:5]}: sources.dialogue() no longer matches the transcript pages")
 check(not unknown, f"unknown episodes cited: {unknown[:3]}")

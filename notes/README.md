@@ -31,7 +31,7 @@ Episodes are identified on the pages by their code (S03E15, broadcast order) and
 - Cast lists come from Memory Alpha (CC BY-NC) and are matched to transcript labels by name, which fails for some credits.
 - Speaker labels follow the transcriber's spelling. A few aliases are merged (Geordi, Beverly, Alyssa, and Data's personas in *Masks*).
 - Synopses, arc tags, continuity links, key facts, profiles, relationships and guest descriptions were written with Claude, an AI assistant. Each episode's synopsis and arc tags were written from its full transcript. Key facts, profiles, relationships and guest descriptions were written from general knowledge of the show and then checked against Memory Alpha and the transcripts. Each continuity link was checked against both episodes' transcripts. Portraits are picked by an automated search, so a few may be wrong. Check anything you rely on.
-- Source links: character facts and guest descriptions that name an episode end with the code of the episode transcript they rest on, for example (S04E02).
+- Source links: each claim in a character fact, guest description or relationship is followed by a link to what it rests on: the episode transcript (a small code such as S04E02, sometimes to the exact line) or, for things no episode shows, a Memory Alpha page. The build checks that the cited episode or page contains the names and phrases in the claim.
 
 ## Rebuilding
 
