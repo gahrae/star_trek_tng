@@ -3,8 +3,9 @@
 | | |
 |---|---|
 | Transcript label | `IAN (THE CHILD)` |
-| Episodes | 1 of 176 speaking |
+| Episodes | 1 of 176 speaking, plus 1 non-speaking |
 | Dialogue lines | 18 |
+| Played by | Josh Bell, R.J. Williams |
 
 ## Key facts
 
@@ -26,3 +27,11 @@
 | Code | Episode | Lines |
 |---|---|---:|
 | S02E01 | [The Child](../episodes/127.md) | 18 |
+
+## Non-speaking appearances
+
+Episodes where the character appears without dialogue, and how we know.
+
+| Code | Episode | Source |
+|---|---|---|
+| S02E22 | [Shades Of Gray](../episodes/148.md) | cast list |

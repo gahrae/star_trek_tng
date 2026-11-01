@@ -5,6 +5,7 @@
 | Transcript label | `IAN ANDREW TROI` |
 | Episodes | 1 of 176 speaking |
 | Dialogue lines | 13 |
+| Played by | Amick Byram |
 
 ## Key facts
 

@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | Transcript label | `JACK` |
-| Episodes | 2 of 176 speaking |
+| Episodes | 2 of 176 speaking, plus 1 non-speaking |
 | Dialogue lines | 6 |
 | Played by | Doug Wert |
 
@@ -27,3 +27,11 @@
 |---|---|---:|
 | S04E02 | [Family](../episodes/178.md) | 1 |
 | S07E20 | [Journey's End](../episodes/272.md) | 5 |
+
+## Non-speaking appearances
+
+Episodes where the character appears without dialogue, and how we know.
+
+| Code | Episode | Source |
+|---|---|---|
+| S05E12 | [Violations](../episodes/212.md) | cast list |

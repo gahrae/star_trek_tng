@@ -46,7 +46,7 @@ pip install -r requirements.txt
 python3 -m http.server -d site 8000   # then open http://localhost:8000
 ```
 
-The individual steps are `scripts/fetch_transcripts.py`, `fetch_metadata.py`, `fetch_cast.py`, `fetch_images.py`, `build_notes.py`, `build_site.py` and `check.py`. `fetch_actor_pages.py` finds each listed actor's Memory Alpha page. `fetch_credit_links.py` finds the Wikipedia and Memory Alpha pages behind each airdate, director and writer. `fetch_ma_pages.py` stores the Memory Alpha character pages that facts cite. `data/provenance.json` records when and from where each data set was fetched.
+The individual steps are `scripts/fetch_transcripts.py`, `fetch_metadata.py`, `fetch_cast.py`, `fetch_images.py`, `build_notes.py`, `build_site.py` and `check.py`. `fetch_credit_links.py` finds the Wikipedia and Memory Alpha pages behind each airdate, director and writer. `fetch_ma_pages.py` stores the Memory Alpha character pages that facts cite. `data/provenance.json` records when and from where each data set was fetched.
 
 The site uses only relative links, so it works from any folder or sub-path. The workflow in `.github/workflows/pages.yml` rebuilds and deploys it to GitHub Pages on every push to `main`.
 

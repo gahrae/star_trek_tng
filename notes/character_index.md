@@ -17,7 +17,7 @@ Every named speaking character in two or more episodes, plus notable single-epis
 | [Lieutenant Natasha 'Tasha' Yar](characters/tasha.md) | 25 | 4 | 527 | Denise Crosby | Human | Starfleet | Killed by Armus (S1); alternate self lost in the past | Encounter at Farpoint | All Good Things... |
 | [Dr Katherine Pulaski](characters/pulaski.md) | 20 |  | 525 | Diana Muldaur | Human | Starfleet | Left after season 2 | The Child | Shades Of Gray |
 | [Nurse Alyssa Ogawa](characters/ogawa.md) | 18 |  | 142 | Patti Yasutake | Human | Starfleet | Active | Who Watches The Watchers | All Good Things... |
-| [Q](characters/q.md) | 8 | 1 | 555 | John de Lancie | Q | Q Continuum | Active | Encounter at Farpoint | All Good Things... |
+| [Q](characters/q.md) | 8 |  | 555 | John de Lancie | Q | Q Continuum | Active | Encounter at Farpoint | All Good Things... |
 | [Ensign Ro Laren](characters/ro.md) | 8 |  | 374 | Michelle Forbes | Bajoran | Starfleet, then Maquis | Defected to the Maquis | Ensign Ro | Preemptive Strike |
 | [Alexander Rozhenko](characters/alexander.md) | 8 |  | 200 | Brian Bonsall (child, most episodes), Jon Steuer (Reunion), James Sloyan as K'mtar | Three-quarters Klingon | Civilian | Living on the Enterprise | Reunion | Firstborn |
 | [Keiko O'Brien](characters/keiko.md) | 8 |  | 89 | Rosalind Chao | Human | Civilian botanist | Moved to Deep Space 9 | Data's Day | Rascals |
@@ -27,7 +27,7 @@ Every named speaking character in two or more episodes, plus notable single-epis
 | [Lore](characters/lore.md) | 4 |  | 112 | Brent Spiner | Android (Soong-type) | None; later leads rogue Borg | Deactivated and disassembled | Datalore | Descent, part 2 |
 | [Ensign Felton](characters/felton.md) | 4 |  | 24 | Sheila Franklin |  |  |  | New Ground | Imaginary Friend |
 | [Ensign Rager](characters/rager.md) | 4 |  | 19 | Lanei Chapman |  |  |  | Galaxy's Child | Schisms |
-| [Ensign Gates](characters/gates.md) | 4 |  | 6 | Joycelyn Robinson |  |  |  | Parallels | All Good Things... |
+| [Ensign Gates](characters/gates.md) | 4 | 42 | 6 | Joycelyn Robinson |  |  |  | Parallels | All Good Things... |
 | [Hugh](characters/hugh.md) | 3 |  | 98 | Jonathan Del Arco | Borg (freed) | Independent Borg | Leads freed Borg | I, Borg | Descent, part 2 |
 | [Kurn](characters/kurn.md) | 3 |  | 95 | Tony Todd | Klingon | Klingon Defence Force | Active | Sins Of The Father | Redemption part 2 |
 | [Ambassador Sarek](characters/sarek.md) | 3 |  | 77 | Mark Lenard | Vulcan | Federation ambassador | Dies of Bendii Syndrome | Sarek | Unification, part 2 |
@@ -35,11 +35,11 @@ Every named speaking character in two or more episodes, plus notable single-epis
 | [Admiral Gregory Quinn](characters/quinn.md) | 3 |  | 64 | Ward Costello |  |  |  | Coming of Age | Shades Of Gray |
 | [Tomalak](characters/tomalak.md) | 3 | 1 | 63 | Andreas Katsulas | Romulan | Romulan military | Active | The Enemy | Future Imperfect |
 | [Dexter Remmick](characters/remmick.md) | 3 |  | 58 | Robert Schenkkan |  |  |  | Coming of Age | Shades Of Gray |
-| [The Traveler](characters/traveller.md) | 3 |  | 57 |  |  |  |  | Where No One Has Gone Before | Journey's End |
+| [The Traveler](characters/traveller.md) | 3 |  | 57 | Eric Menyuk |  |  |  | Where No One Has Gone Before | Journey's End |
 | [B'Etor](characters/b-etor.md) | 3 |  | 37 | Gwynyth Walsh |  |  |  | Redemption | Firstborn |
 | [Lursa](characters/lursa.md) | 3 |  | 36 | Barbara March |  |  |  | Redemption | Firstborn |
-| [Admiral Alynna Nechayev](characters/nechayev.md) | 3 | 1 | 22 | Natalia Nogulich | Human | Starfleet | Active | Chain of Command, part 1 | Preemptive Strike |
-| [Ensign McKnight](characters/mcknight.md) | 3 |  | 19 | Pamela Winslow |  |  |  | Clues | Face of the Enemy |
+| [Admiral Alynna Nechayev](characters/nechayev.md) | 3 | 1 | 22 | Natalija Nogulich | Human | Starfleet | Active | Chain of Command, part 1 | Preemptive Strike |
+| [Ensign McKnight](characters/mcknight.md) | 3 |  | 19 | Pamela Winslow, Linda Robertson |  |  |  | Clues | Face of the Enemy |
 | [Admiral Nakamura](characters/nakamura.md) | 3 |  | 18 | Clyde Kusatsu |  |  |  | The Measure of a Man | All Good Things... |
 | [Vash](characters/vash.md) | 2 |  | 199 | Jennifer Hetrick | Human | Independent archaeologist | Travelling with Q at the end of her appearances | Captain's Holiday | Qpid |
 | [K'Ehleyr](characters/k-ehleyr.md) | 2 |  | 161 | Suzie Plakson | Half Klingon, half Human | Federation emissary | Murdered by Duras | The Emissary | Reunion |
@@ -79,7 +79,7 @@ Every named speaking character in two or more episodes, plus notable single-epis
 | [Captain K'Vada](characters/k-vada.md) | 2 |  | 25 | Stephen Root |  |  |  | Unification, part 1 | Unification, part 2 |
 | [Senator Pardek](characters/pardek.md) | 2 |  | 25 | Malachi Throne |  |  |  | Unification, part 1 | Unification, part 2 |
 | [Admiral J. P. Hanson](characters/hanson.md) | 2 |  | 23 | George Murdock |  |  |  | Best Of Both Worlds, part 1 | Best of Both Worlds, part 2 |
-| [Ensign Allenby](characters/allenby.md) | 2 |  | 22 | Mary Kohnert |  |  |  | Final Mission | The Loss |
+| [Ensign Allenby](characters/allenby.md) | 2 | 1 | 22 | Mary Kohnert |  |  |  | Final Mission | The Loss |
 | [Narik](characters/narik.md) | 2 |  | 22 | Cameron Thor |  |  |  | Gambit, part 1 | Gambit, part 2 |
 | [Crosis](characters/crosis.md) | 2 |  | 20 | Brian J. Cousins, Brian Cousins |  |  |  | Descent, part 1 | Descent, part 2 |
 | [Gul Evek](characters/gul-evek.md) | 2 |  | 19 |  |  |  |  | Journey's End | Preemptive Strike |
@@ -93,7 +93,7 @@ Every named speaking character in two or more episodes, plus notable single-epis
 | [Mot](characters/mot.md) | 2 |  | 11 | Ken Thorley |  |  |  | Ensign Ro | Schisms |
 | [Albert Einstein](characters/einstein.md) | 2 |  | 10 | Jim Norton |  |  |  | The Nth Degree | Descent, part 1 |
 | [Admiral Haden](characters/haden.md) | 2 |  | 7 | John Hancock |  |  |  | The Defector | The Wounded |
-| [Jack Crusher](characters/jack.md) | 2 |  | 6 | Doug Wert |  |  |  | Family | Journey's End |
+| [Jack Crusher](characters/jack.md) | 2 | 1 | 6 | Doug Wert |  |  |  | Family | Journey's End |
 | [Admiral Hayes](characters/hayes.md) | 2 |  | 5 |  |  |  |  | Realm of Fear | Parallels |
 | [Eric](characters/eric.md) | 2 |  | 5 | Rickey D'Shon Collins |  |  |  | Masks | Firstborn |
 | [Admiral Brackett](characters/brackett.md) | 2 |  | 4 | Karen Hensel |  |  |  | Unification, part 1 | Unification, part 2 |
@@ -197,13 +197,13 @@ Every named speaking character in two or more episodes, plus notable single-epis
 | [Tokath](characters/tokath.md) | 1 |  | 29 | Alan Scarfe |  |  |  | Birthright, part 2 | Birthright, part 2 |
 | [Jake Kurland](characters/jake-kurland.md) | 1 |  | 27 | Stephen Gregory |  |  |  | Coming of Age | Coming of Age |
 | [Captain Silva La Forge](characters/silva.md) | 1 |  | 24 | Madge Sinclair |  |  |  | Interface | Interface |
-| [Ian Andrew Troi II](characters/ian-the-child.md) | 1 |  | 18 |  |  |  |  | The Child | The Child |
+| [Ian Andrew Troi II](characters/ian-the-child.md) | 1 | 1 | 18 | Josh Bell, R.J. Williams |  |  |  | The Child | The Child |
 | [Mrs Kyle](characters/mrs-kyle.md) | 1 |  | 16 | Jennifer Edwards |  |  |  | New Ground | New Ground |
 | [Quint](characters/quint.md) | 1 |  | 15 | Shay Duffin |  |  |  | Sub Rosa | Sub Rosa |
-| [Ian Andrew Troi](characters/ian-andrew-troi.md) | 1 |  | 13 |  |  |  |  | Dark Page | Dark Page |
+| [Ian Andrew Troi](characters/ian-andrew-troi.md) | 1 |  | 13 | Amick Byram |  |  |  | Dark Page | Dark Page |
 | [Jake Potts](characters/jake-potts.md) | 1 |  | 13 | Cory Danziger |  |  |  | Brothers | Brothers |
 | [Q2](characters/q2.md) | 1 |  | 13 |  |  |  |  | Déjà Q | Déjà Q |
 | [Williams (bridge officer)](characters/williams-bridge.md) | 1 |  | 9 |  |  |  |  | Contagion | Contagion |
 | [Martin](characters/martin-violations.md) | 1 |  | 7 |  |  |  |  | Violations | Violations |
 | [Michael Williams](characters/michael-williams.md) | 1 |  | 6 | Patrick Stewart |  |  |  | The Defector | The Defector |
-| [Mr Homn](characters/homn.md) | 1 |  | 1 |  |  |  |  | Haven | Haven |
+| [Mr Homn](characters/homn.md) | 1 | 4 | 1 | Carel Struycken |  |  |  | Haven | Haven |
