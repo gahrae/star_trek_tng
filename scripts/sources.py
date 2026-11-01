@@ -1,8 +1,9 @@
 """Source links for the curated text: which transcripts a claim rests on.
 
 A claim cites an episode in two ways: by naming it in italics (*The Battle*), or with an explicit
-marker after the claim ({102}, or {102,103} for several). cite() strips the markers and appends the
-transcript links, e.g. "(S04E02 · S03E15)".
+marker after the claim ({102}, or {102,103} for several). A marker can also quote the line it rests on,
+{102|just too damned efficient}, and the link then goes to that line. cite() strips the markers and
+appends the transcript links, e.g. "(S04E02 · S03E15)".
 """
 import json, re, pathlib, unicodedata
 ROOT = pathlib.Path(__file__).resolve().parent.parent
@@ -11,8 +12,41 @@ _meta = json.load(open(ROOT / "data" / "metadata.json"))
 CODE = {e["prod"]: _meta[e["prod"]]["code"] for e in _eps}
 TITLE = {e["prod"]: e["title"] for e in _eps}
 
-TOKEN = re.compile(r"\*([^*]+)\*|\{(\d{3}(?:,\d{3})*)\}")
-MARKER = re.compile(r"\s*\{\d{3}(?:,\d{3})*\}")
+TOKEN = re.compile(r"\*([^*]+)\*|\{(\d{3}(?:,\d{3})*)(?:\|([^}]+))?\}")
+MARKER = re.compile(r"\s*\{\d{3}(?:,\d{3})*(?:\|[^}]+)?\}")
+
+# Transcript structure; build_site.py renders the same lines, numbering each dialogue line as id="l<n>".
+SPEAKER = re.compile(r"^([A-Z][A-Z0-9 .'\-]{0,30}?)(\s\[[^\]]+\])?:\s(.*)$")
+LOG = re.compile(r"^(?:[A-Z][\w']*(?:'s)? )?(?:[A-Z][a-z]+ )*(?:[Oo]fficer's |[Cc]aptain's |[Ss]hip's |[Mm]edical |[Pp]ersonal )?[Ll]og\b")
+_dialogue = {}
+def dialogue(prod):
+    """Dialogue lines of a transcript as [n, raw line number, speaker, text]; n is the site's anchor number."""
+    if prod not in _dialogue:
+        out, cur = [], None
+        for i, raw in enumerate((ROOT / "data" / "text" / f"{prod}.txt").read_text(encoding="utf-8").split("\n")[5:], 6):
+            s = raw.strip()
+            if not s: continue
+            if s.startswith("[") and s.endswith("]"): cur = None; continue
+            m = SPEAKER.match(s)
+            if m: cur = [len(out) + 1, i, m.group(1).strip(), m.group(3)]; out.append(cur); continue
+            if s.startswith("(") or LOG.match(s): cur = None; continue
+            if cur: cur[3] += " " + s
+        _dialogue[prod] = out
+    return _dialogue[prod]
+
+def _flat(s):
+    return " ".join(re.sub(r"[^a-z0-9]+", " ", unicodedata.normalize("NFKD", s).encode("ascii", "ignore").decode().lower()).split())
+
+def locate(prod, phrase):
+    """The first dialogue line of an episode containing the phrase (ignoring case and punctuation)."""
+    want = _flat(phrase)
+    for line in dialogue(prod):
+        if want in _flat(line[3]): return line
+    raise ValueError(f"{CODE[prod]} has no dialogue line containing '{phrase}'")
+
+def anchor(prod, raw):
+    """Site anchor number of the dialogue line at a raw line number."""
+    return next(l[0] for l in dialogue(prod) if l[1] == raw)
 
 def _norm(title):
     t = unicodedata.normalize("NFKD", title).encode("ascii", "ignore").decode()      # Ménage à Troi -> Menage a Troi
@@ -44,6 +78,9 @@ def cited_groups(text, italics=True):
         found = m.group(2).split(",") if m.group(2) else (title_prods(m.group(1)) if italics else [])
         for p in found:
             if p not in CODE: raise ValueError(f"unknown episode {p} cited in: {text[:60]}")
+        if m.group(3):
+            if len(found) != 1: raise ValueError(f"a quoted line needs one episode: {text[:60]}")
+            locate(found[0], m.group(3))
         if found: groups.append(sorted(found, key=_order.get) if m.group(1) else found)
     return groups
 
@@ -54,15 +91,23 @@ def cited_prods(text, italics=True):
         prods += [p for p in g if p not in prods]
     return prods
 
-def links(prods, prefix):
-    """Markdown for a source list. prefix is the relative path from the page to the repository root."""
-    return " · ".join(f'[{CODE[p]}]({prefix}data/text/{p}.txt "{TITLE[p].replace(chr(34), chr(39))}")' for p in prods)
+def cited_lines(text):
+    """Episode -> raw line number of the quoted line, for the markers that quote one."""
+    return {m.group(2): locate(m.group(2), m.group(3))[1] for m in TOKEN.finditer(text) if m.group(3)}
+
+def links(prods, prefix, lines={}):
+    """Markdown for a source list. prefix is the relative path from the page to the repository root; lines maps
+    an episode to the raw line number to link to (GitHub's #L anchor; build_site.py turns it into the site's)."""
+    def one(p):
+        tip = TITLE[p] if p not in lines else f"{TITLE[p]}: " + next(f"{l[2]}: {l[3]}"[:110] for l in dialogue(p) if l[1] == lines[p])
+        return f'[{CODE[p]}]({prefix}data/text/{p}.txt{f"#L{lines[p]}" if p in lines else ""} "{tip.replace(chr(34), chr(39))}")'
+    return " · ".join(one(p) for p in prods)
 
 def cite(text, prefix):
     """text without its markers, followed by links to the transcripts it cites."""
     prods = cited_prods(text)
     clean = MARKER.sub("", text)
-    return f'{clean} <span class="src">({links(prods, prefix)})</span>' if prods else clean
+    return f'{clean} <span class="src">({links(prods, prefix, cited_lines(text))})</span>' if prods else clean
 
 def keywords(text):
     """Distinctive words in a claim: quoted phrases, capitalised words (not at the start of a sentence), long plain words."""

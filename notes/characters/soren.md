@@ -11,7 +11,7 @@
 
 - Member of the J'naii, an androgynous species that treats any gender identity as a sickness. <span class="src">([S05E17](../../data/text/217.txt "The Outcast"))</span>
 - Identifies as female and falls for Riker while they work together to rescue a shuttle from null space. <span class="src">([S05E17](../../data/text/217.txt "The Outcast"))</span>
-- Put on trial and subjected to 'psychotectic' treatment; Riker and Worf's rescue attempt comes too late, and she no longer wants to leave (*The Outcast*). <span class="src">([S05E17](../../data/text/217.txt "The Outcast"))</span>
+- Put on trial and subjected to 'psychotectic' treatment; Riker and Worf's rescue attempt comes too late, and she no longer wants to leave (*The Outcast*). <span class="src">([S05E17](../../data/text/217.txt#L553 "The Outcast: RIKER: I can't just leave her there. They'll give her these psychotectic treatments. I don't know what to do."))</span>
 
 ## Most scenes shared with
 

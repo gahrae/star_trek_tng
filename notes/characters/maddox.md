@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Cyberneticist at the Daystrom Institute who opposed Data's entry to Starfleet Academy. <span class="src">([S02E09](../../data/text/135.txt "The Measure of a Man"))</span>
+- Cyberneticist at the Daystrom Institute who opposed Data's entry to Starfleet Academy. <span class="src">([S02E09](../../data/text/135.txt#L132 "The Measure of a Man: MADDOX: Ever since I first saw Data at the entrance evaluation at the Starfleet Academy, I've wanted to unders"))</span>
 - Seeks to disassemble Data to learn how to build more; Riker is forced to prosecute and Picard to defend. <span class="src">([S02E09](../../data/text/135.txt "The Measure of a Man"))</span>
 - Loses the hearing, and later becomes a correspondent of Data's (*The Measure of a Man*, *Data's Day*). <span class="src">([S02E09](../../data/text/135.txt "The Measure of a Man") · [S04E11](../../data/text/185.txt "Data's Day"))</span>
 

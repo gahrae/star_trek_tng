@@ -9,8 +9,8 @@
 
 ## Key facts
 
-- Head of stellar sciences and a pianist, who plays alongside Picard's Ressikan flute. <span class="src">([S06E19](../../data/text/245.txt "Lessons"))</span>
-- Picard plays the Ressikan flute from his Kataan life with her, and shares what the probe gave him. <span class="src">([S06E19](../../data/text/245.txt "Lessons"))</span>
+- Head of stellar sciences and a pianist, who plays alongside Picard's Ressikan flute. <span class="src">([S06E19](../../data/text/245.txt#L210 "Lessons: NELLA: Yes, he plays a kind of flute. A Ressikan, I think he said."))</span>
+- Picard plays the Ressikan flute from his Kataan life with her, and shares what the probe gave him. <span class="src">([S06E19](../../data/text/245.txt#L210 "Lessons: NELLA: Yes, he plays a kind of flute. A Ressikan, I think he said."))</span>
 - Her deflector plan during the Bersallis III evacuation puts her and the perimeter teams at risk; she survives and asks for a transfer (*Lessons*). <span class="src">([S06E19](../../data/text/245.txt "Lessons"))</span>
 
 ## Relationships

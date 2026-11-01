@@ -15,7 +15,7 @@
 - Ship's counselor; half-Betazoid, half-human, empathic (senses emotions, full telepathy only with other Betazoids).
 - Daughter of Lwaxana Troi and the late Starfleet officer Ian Andrew Troi; a sister Kestra died in childhood (*Dark Page*). <span class="src">([S07E07](../../data/text/259.txt "Dark Page"))</span>
 - Imzadi of Will Riker; later involved with Worf in season 7.
-- Temporarily loses her empathic sense (*The Loss*). <span class="src">([S04E10](../../data/text/184.txt "The Loss"))</span>
+- Temporarily loses her empathic sense (*The Loss*). <span class="src">([S04E10](../../data/text/184.txt#L260 "The Loss: TROI: I've temporarily lost my empathic sense. It's kind of like having one hand tied behind your back."))</span>
 - Passes the bridge officer's test and is promoted to full commander (*Thine Own Self*). <span class="src">([S07E16](../../data/text/268.txt "Thine Own Self"))</span>
 - Surgically altered to impersonate a Romulan Tal Shiar officer (*Face of the Enemy*). <span class="src">([S06E14](../../data/text/240.txt "Face of the Enemy"))</span>
 - Victim of telepathic assault by Jev (*Violations*) and used as an emotional 'receptacle' by Ambassador Alkar (*Man of the People*). <span class="src">([S05E12](../../data/text/212.txt "Violations") · [S06E03](../../data/text/229.txt "Man of the People"))</span>

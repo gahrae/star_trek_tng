@@ -14,6 +14,7 @@ NAV = [("README.md", "Home"), ("episodes.md", "Episodes"), ("character_index.md"
 import sys; sys.path.insert(0, str(ROOT / "scripts"))
 import site_visuals
 from curated_characters import SPLIT
+from sources import SPEAKER, LOG, anchor
 
 CSS = """
 :root{--bg:#050508;--panel:#15151c;--panel2:#1d1d26;--text:#f1ece2;--muted:#b5ad9e;--line:#2d2d3a;
@@ -158,7 +159,7 @@ def render(md_path):
     body = re.sub(r'href="([^"]+?)\.md(#[^"]*)?"', lambda m: f'href="{m.group(1)}.html{m.group(2) or ""}"', body)
     body = body.replace('href="README.html"', 'href="index.html"')
     body = re.sub(r"<code>data/text/(\d+)\.txt</code>", r'<a href="../transcripts/\1.html">read the transcript</a>', body)
-    body = re.sub(r'href="(?:\.\./)+data/text/(\d+)\.txt"', lambda m: f'href="{"../" * depth}transcripts/{m.group(1)}.html"', body)   # source links go to the site's transcript pages
+    body = re.sub(r'href="(?:\.\./)+data/text/(\d+)\.txt(?:#L(\d+))?"', lambda m: f'href="{"../" * depth}transcripts/{m.group(1)}.html' + (f'#l{anchor(m.group(1), int(m.group(2)))}' if m.group(2) else '') + '"', body)   # source links go to the site's transcript pages, to the line if one is quoted
     title = re.search(r"^# (.+)$", text, re.M); title = html.unescape(title.group(1)) if title else rel.stem
     if rel.parent.name == "characters": body = character_extras(body, rel.stem)
     if rel.parent.name == "episodes": body = episode_still(body, rel.stem, title)
@@ -251,8 +252,6 @@ const u=new URLSearchParams(location.search).get('q');if(u){q.value=u;run();}
 </script>
 """
 
-SPEAKER = re.compile(r"^([A-Z][A-Z0-9 .'\-]{0,30}?)(\s\[[^\]]+\])?:\s(.*)$")
-LOG = re.compile(r"^(?:[A-Z][\w']*(?:'s)? )?(?:[A-Z][a-z]+ )*(?:[Oo]fficer's |[Cc]aptain's |[Ss]hip's |[Mm]edical |[Pp]ersonal )?[Ll]og\b")
 def render_transcript(e, meta, slugs, loc_pages, prev_e, next_e):
     """Mark up one cleaned transcript: scene headings (linked to location pages), speaker labels linked to character
     pages, stage directions, logs. Each dialogue line gets an id so search results can link to it. Returns (html, lines)."""

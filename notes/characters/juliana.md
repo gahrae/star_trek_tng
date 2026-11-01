@@ -10,7 +10,7 @@
 ## Key facts
 
 - Noonien Soong's former wife, who raised Data on Omicron Theta and left Soong afterwards. <span class="src">([S07E10](../../data/text/262.txt "Inheritance"))</span>
-- Revealed to be an android Soong built after the real Juliana was injured, so faithful she does not know. <span class="src">([S07E10](../../data/text/262.txt "Inheritance"))</span>
+- Revealed to be an android Soong built after the real Juliana was injured, so faithful she does not know. <span class="src">([S07E10](../../data/text/262.txt#L517 "Inheritance: SOONG: She was injured when the Crystalline Entity attacked. We made it as far as Terlina Three but, she slipp"))</span>
 - Data decides she should go on believing she is human (*Inheritance*). <span class="src">([S07E10](../../data/text/262.txt "Inheritance"))</span>
 
 ## Relationships

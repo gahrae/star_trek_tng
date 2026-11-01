@@ -71,6 +71,9 @@ for label, name, text in claims:
     words = [w.lower() for w in re.findall(r"[A-Za-z']{3,}", name) if w.lower() not in RANKS]
     for g in groups:      # a title naming two parts only needs the character in one of them
         if not any(present(label, words, p) for p in g): absent.append(f"{label} cites {', '.join(sources.CODE[p] + ' ' + sources.TITLE[p] for p in g)}, where the name never appears")
+drift = [p for p in sources.CODE if (ROOT / "site" / "transcripts" / f"{p}.html").exists()
+         and len(re.findall(r'id="l\d+"', (ROOT / "site" / "transcripts" / f"{p}.html").read_text(encoding="utf-8"))) != len(sources.dialogue(p))]
+check(not drift, f"line links would point at the wrong line in {drift[:5]}: sources.dialogue() no longer matches the transcript pages")
 check(not unknown, f"unknown episodes cited: {unknown[:3]}")
 check(not unbacked, f"explicit source markers the transcript does not back: {unbacked[:3]}")
 check(not absent, f"{len(absent)} cited episodes where the character does not appear: {absent[:5]}")

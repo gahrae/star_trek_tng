@@ -8,8 +8,8 @@
 
 ## Key facts
 
-- Civilian strategist and widower, estranged from Will for fifteen years. <span class="src">([S02E14](../../data/text/140.txt "The Icarus Factor"))</span>
-- Survived a Tholian attack on a starbase and fell in love with Pulaski, though he put his career before marriage. <span class="src">([S02E14](../../data/text/140.txt "The Icarus Factor"))</span>
+- Civilian strategist and widower, estranged from Will for fifteen years. <span class="src">([S02E14](../../data/text/140.txt#L378 "The Icarus Factor: PULASKI: I would have, in a cold minute. Twelve years ago, Kyle Riker was a civilian strategist advising Starf"))</span>
+- Survived a Tholian attack on a starbase and fell in love with Pulaski, though he put his career before marriage. <span class="src">([S02E14](../../data/text/140.txt#L378 "The Icarus Factor: PULASKI: I would have, in a cold minute. Twelve years ago, Kyle Riker was a civilian strategist advising Starf"))</span>
 - Father and son settle it with an anbo-jyutsu bout and an admission that he cheated (*The Icarus Factor*). <span class="src">([S02E14](../../data/text/140.txt "The Icarus Factor"))</span>
 
 ## Relationships
