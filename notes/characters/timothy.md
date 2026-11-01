@@ -9,8 +9,8 @@
 
 ## Key facts
 
-- Sole survivor of the research vessel Vico, rescued by Data, and blaming himself for the disaster.
-- Copes by declaring himself an android and imitating Data in every detail.
+- Sole survivor of the research vessel Vico, rescued by Data, and blaming himself for the disaster. <span class="src">([S05E11](../../data/text/211.txt "Hero Worship"))</span>
+- Copes by declaring himself an android and imitating Data in every detail. <span class="src">([S05E11](../../data/text/211.txt "Hero Worship"))</span>
 - Data helps him accept his grief and his humanity; his memory of the ship's last moments saves the Enterprise (*Hero Worship*). <span class="src">([S05E11](../../data/text/211.txt "Hero Worship"))</span>
 
 ## Most scenes shared with

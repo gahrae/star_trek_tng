@@ -12,7 +12,7 @@
 
 ## Key facts
 
-- Klingon, son of Mogh; orphaned at the Khitomer massacre and raised by human parents Sergey and Helena Rozhenko; first Klingon officer in Starfleet.
+- Klingon, son of Mogh; orphaned at the Khitomer massacre and raised by human parents Sergey and Helena Rozhenko; first Klingon officer in Starfleet. <span class="src">([S03E17](../../data/text/165.txt "Sins Of The Father") · [S04E02](../../data/text/178.txt "Family"))</span>
 - Chief of security and tactical officer from season 2 after Tasha Yar's death.
 - Accepts discommendation (loss of honour) to protect the Empire when Duras' family frames Mogh for Khitomer (*Sins of the Father*). <span class="src">([S03E17](../../data/text/165.txt "Sins Of The Father"))</span>
 - Younger brother Kurn, raised by Lorgh (*Sins of the Father*, *Redemption*). <span class="src">([S03E17](../../data/text/165.txt "Sins Of The Father") · [S04E26](../../data/text/200.txt "Redemption") · [S05E01](../../data/text/201.txt "Redemption part 2"))</span>

@@ -9,8 +9,8 @@
 
 ## Key facts
 
-- Admiral who ended a hostage crisis on Mordan IV forty-five years earlier, secretly by arming both sides and prolonging a civil war.
-- Takes a Cerebus II de-ageing drug to lead a new rescue, growing younger by the hour and dying of its effects.
+- Admiral who ended a hostage crisis on Mordan IV forty-five years earlier, secretly by arming both sides and prolonging a civil war. <span class="src">([S01E16](../../data/text/112.txt "Too Short A Season"))</span>
+- Takes a Cerebus II de-ageing drug to lead a new rescue, growing younger by the hour and dying of its effects. <span class="src">([S01E16](../../data/text/112.txt "Too Short A Season"))</span>
 - His wife Anne accompanies him; he is buried on Mordan IV (*Too Short a Season*). <span class="src">([S01E16](../../data/text/112.txt "Too Short A Season"))</span>
 
 ## Most scenes shared with

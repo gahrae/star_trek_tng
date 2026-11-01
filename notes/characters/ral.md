@@ -9,8 +9,8 @@
 
 ## Key facts
 
-- Part-Betazoid negotiator for the Chrysalians, secretly using his empathic sense to manipulate rivals.
-- Seduces Troi and tries to win the Barzan wormhole rights through staged theatrics with the Ferengi.
+- Part-Betazoid negotiator for the Chrysalians, secretly using his empathic sense to manipulate rivals. <span class="src">([S03E08](../../data/text/156.txt "The Price"))</span>
+- Seduces Troi and tries to win the Barzan wormhole rights through staged theatrics with the Ferengi. <span class="src">([S03E08](../../data/text/156.txt "The Price"))</span>
 - Troi exposes his methods in front of the delegates; the wormhole proves worthless anyway (*The Price*). <span class="src">([S03E08](../../data/text/156.txt "The Price"))</span>
 
 ## Relationships

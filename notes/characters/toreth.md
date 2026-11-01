@@ -9,8 +9,8 @@
 
 ## Key facts
 
-- Romulan commander of the warbird Khazara, suspicious of the Tal Shiar officer 'Major Rakal' forced on her.
-- Troi, surgically altered to play Rakal, has to outrank and outbluff her to smuggle defectors through.
+- Romulan commander of the warbird Khazara, suspicious of the Tal Shiar officer 'Major Rakal' forced on her. <span class="src">([S06E14](../../data/text/240.txt "Face of the Enemy"))</span>
+- Troi, surgically altered to play Rakal, has to outrank and outbluff her to smuggle defectors through. <span class="src">([S06E14](../../data/text/240.txt "Face of the Enemy"))</span>
 - Relieved of command when Troi, claiming Tal Shiar authority, has N'Vek disarm and remove her from her station on threat of being shot (*Face of the Enemy*). <span class="src">([S06E14](../../data/text/240.txt "Face of the Enemy"))</span>
 
 ## Most scenes shared with

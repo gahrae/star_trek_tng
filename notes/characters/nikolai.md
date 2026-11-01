@@ -9,8 +9,8 @@
 
 ## Key facts
 
-- Worf's human foster brother, a cultural observer on Boraal II who broke the Prime Directive to live among the villagers.
-- Smuggles a village onto the holodeck when the planet's atmosphere dies and guides them to a new world.
+- Worf's human foster brother, a cultural observer on Boraal II who broke the Prime Directive to live among the villagers. <span class="src">([S07E13](../../data/text/265.txt "Homeward"))</span>
+- Smuggles a village onto the holodeck when the planet's atmosphere dies and guides them to a new world. <span class="src">([S07E13](../../data/text/265.txt "Homeward"))</span>
 - Stays with them, expecting a child with a Boraalan woman (*Homeward*). <span class="src">([S07E13](../../data/text/265.txt "Homeward"))</span>
 
 ## Relationships

@@ -8,8 +8,8 @@
 
 ## Key facts
 
-- Retired admiral and daughter of a famous Federation judge, brought in to investigate sabotage in engineering.
-- Turns the inquiry into a hunt for conspirators, targeting crewman Simon Tarses over his Romulan grandfather and then Picard himself.
+- Retired admiral and daughter of a famous Federation judge, brought in to investigate sabotage in engineering. <span class="src">([S04E21](../../data/text/195.txt "The Drumhead"))</span>
+- Turns the inquiry into a hunt for conspirators, targeting crewman Simon Tarses over his Romulan grandfather and then Picard himself. <span class="src">([S04E21](../../data/text/195.txt "The Drumhead"))</span>
 - Undone when Picard quotes her father's words on liberty back to her and Admiral Henry walks out (*The Drumhead*). <span class="src">([S04E21](../../data/text/195.txt "The Drumhead"))</span>
 
 ## Most scenes shared with

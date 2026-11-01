@@ -9,8 +9,8 @@
 
 ## Key facts
 
-- Klingon councillor from a powerful house; his father Ja'rod betrayed Khitomer to the Romulans.
-- Has Worf's father blamed instead, and K'Ehleyr murdered when she uncovers the truth.
+- Klingon councillor from a powerful house; his father Ja'rod betrayed Khitomer to the Romulans. <span class="src">([S03E17](../../data/text/165.txt "Sins Of The Father"))</span>
+- Has Worf's father blamed instead, and K'Ehleyr murdered when she uncovers the truth. <span class="src">([S03E17](../../data/text/165.txt "Sins Of The Father") · [S04E07](../../data/text/181.txt "Reunion"))</span>
 - Challenged and killed by Worf under the right of vengeance (*Sins of the Father*, *Reunion*). <span class="src">([S03E17](../../data/text/165.txt "Sins Of The Father") · [S04E07](../../data/text/181.txt "Reunion"))</span>
 
 ## Relationships

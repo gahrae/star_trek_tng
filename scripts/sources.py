@@ -58,15 +58,15 @@ def links(prods, prefix):
     """Markdown for a source list. prefix is the relative path from the page to the repository root."""
     return " · ".join(f'[{CODE[p]}]({prefix}data/text/{p}.txt "{TITLE[p].replace(chr(34), chr(39))}")' for p in prods)
 
-def cite(text, prefix, base=(), italics=True):
-    """text without its markers, followed by links to the transcripts it cites (base first)."""
-    prods = list(base) + [p for p in cited_prods(text, italics) if p not in base]
+def cite(text, prefix):
+    """text without its markers, followed by links to the transcripts it cites."""
+    prods = cited_prods(text)
     clean = MARKER.sub("", text)
     return f'{clean} <span class="src">({links(prods, prefix)})</span>' if prods else clean
 
 def keywords(text):
-    """Distinctive words in a claim: quoted phrases, else capitalised words (not at the start of a sentence)."""
+    """Distinctive words in a claim: quoted phrases, capitalised words (not at the start of a sentence), long plain words."""
     plain = MARKER.sub("", re.sub(r"\*[^*]+\*", "", text))
-    quoted = re.findall(r"'([^']{4,})'", plain)
-    if quoted: return quoted
-    return [w for w in re.findall(r"(?<![.;:] )(?<!^)\b([A-Z][a-z]{3,})\b", plain)]
+    quoted = re.findall(r"(?<![A-Za-z])'([^']{4,}?)'(?![A-Za-z])", plain)
+    caps = re.findall(r"(?<![.;:] )(?<!^)\b([A-Z][a-z]{3,})\b", plain)
+    return quoted + caps + re.findall(r"\b([a-z]{8,})\b", plain)

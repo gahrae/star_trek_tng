@@ -9,8 +9,8 @@
 
 ## Key facts
 
-- Riker's first captain, on the USS Pegasus, which was lost twelve years earlier after an apparent mutiny.
-- Now an admiral, he returns to recover the ship and the illegal phasing cloak he was testing in violation of the Treaty of Algeron.
+- Riker's first captain, on the USS Pegasus, which was lost twelve years earlier after an apparent mutiny. <span class="src">([S07E12](../../data/text/264.txt "The Pegasus"))</span>
+- Now an admiral, he returns to recover the ship and the illegal phasing cloak he was testing in violation of the Treaty of Algeron. <span class="src">([S07E12](../../data/text/264.txt "The Pegasus"))</span>
 - Riker finally tells Picard the truth; Pressman is arrested (*The Pegasus*). <span class="src">([S07E12](../../data/text/264.txt "The Pegasus"))</span>
 
 ## Relationships

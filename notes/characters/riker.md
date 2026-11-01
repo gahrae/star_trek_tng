@@ -14,7 +14,7 @@
 
 - First officer ('Number One') for the whole run; from Valdez, Alaska; estranged from his father Kyle Riker until *The Icarus Factor*. <span class="src">([S02E14](../../data/text/140.txt "The Icarus Factor"))</span>
 - Repeatedly declines his own command (Drake, Aries, Melbourne) to stay on the Enterprise; briefly made captain during the Borg crisis (*The Best of Both Worlds*). <span class="src">([S03E26](../../data/text/174.txt "Best Of Both Worlds, part 1") · [S04E01](../../data/text/175.txt "Best of Both Worlds, part 2"))</span>
-- Imzadi (soulmate) of Deanna Troi; their past relationship on Betazed is referenced throughout and rekindled in later seasons.
+- Imzadi (soulmate) of Deanna Troi; their past relationship on Betazed is referenced throughout and rekindled in later seasons. <span class="src">([S01E11](../../data/text/105.txt "Haven") · [S05E12](../../data/text/212.txt "Violations"))</span>
 - A transporter accident on Nervala IV created a duplicate, Thomas Riker (*Second Chances*). <span class="src">([S06E24](../../data/text/250.txt "Second Chances"))</span>
 - Served as first officer on the Klingon ship Pagh in an officer exchange (*A Matter of Honor*). <span class="src">([S02E08](../../data/text/134.txt "A Matter of Honour"))</span>
 - Temporarily hosted the Trill symbiont Odan (*The Host*). <span class="src">([S04E23](../../data/text/197.txt "The Host"))</span>
