@@ -8,7 +8,7 @@ import markdown
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 NOTES, SITE = ROOT / "notes", ROOT / "site"
 NAV = [("README.md", "Home"), ("episodes.md", "Episodes"), ("character_index.md", "Characters"), ("arcs.md", "Arcs"),
-       ("continuity.md", "Continuity"), ("relationships.md", "Relationships"), ("co_appearance.md", "Co-appearance"),
+       ("continuity.md", "Continuity"), ("relationships.md", "Relationships"),
        ("locations.md", "Locations"), ("entities.md", "Entities"), ("stats.md", "Stats"), ("actors.md", "Actors"), ("crew.md", "Crew"),
        ("transcripts/index.md", "Transcripts"), ("search.md", "Search"), ("visuals.md", "Visuals")]
 import sys; sys.path.insert(0, str(ROOT / "scripts"))
@@ -21,7 +21,7 @@ CSS = """
  --peach:#ffb77c;--lilac:#c7a3ff;--tan:#e3c48d;--sky:#9ec9ff;--rose:#ff9d9d;--mint:#9fe3c2;--amber:#f5c96a;
  --accent:var(--peach);--link:var(--sky);
  --seq1:#0d366b;--seq2:#104281;--seq3:#1c5cab;--seq4:#256abf;--seq5:#3987e5;--seq6:#6da7ec;--seq7:#9ec5f4}
-td.hc{text-align:center;font-variant-numeric:tabular-nums}td.hc.deep{color:#fff}td.hc.pale{color:var(--text)}
+
 *{box-sizing:border-box}html{scroll-padding-top:calc(var(--hdr,4.8rem) + .75rem)}
 body{margin:0;background:var(--bg);color:var(--text);font:16px/1.55 "Helvetica Neue",Arial,system-ui,sans-serif}
 h1,h2,h3,h4,[id]{scroll-margin-top:calc(var(--hdr,4.8rem) + .75rem)}
@@ -72,8 +72,6 @@ input[type=range]{accent-color:var(--peach)}select{background:var(--panel);color
 details.toc{background:var(--panel);border-left:.55rem solid var(--lilac);border-radius:.6rem;padding:.4rem .9rem;margin:1rem 0}details.toc summary{cursor:pointer;font-weight:700;padding:.2rem 0;text-transform:uppercase;letter-spacing:.08em;font-size:.8rem;color:var(--lilac)}
 details.sec{margin-top:2rem}details.sec>summary{cursor:pointer;list-style:none;display:flex;align-items:baseline;gap:.5rem}details.sec>summary::-webkit-details-marker{display:none}
 details.sec>summary::before{content:"\\25BE";color:var(--tan);font-size:1.1rem;flex:none}details.sec:not([open])>summary::before{content:"\\25B8"}details.sec>summary h2{margin:0;flex:1}
-table.mx-active td.hc{opacity:.38;transition:opacity .08s}table.mx-active td.hc.hl-row,table.mx-active td.hc.hl-col{opacity:1}table.mx-active td.hc.hl-cell{outline:2px solid var(--peach);outline-offset:-2px}
-table.mx-active td.hl-lab{color:var(--peach)}table.mx-active th.hl-lab{background:#0b0b0b;color:var(--peach)}
 details.toc ul{columns:2;margin:.4rem 0;padding-left:1.2rem}details.toc li{break-inside:avoid;padding:.1rem 0}
 details.nested>ul{columns:4;list-style:none;padding-left:0}details.nested li.grp>a{font-weight:700;color:var(--tan);text-transform:uppercase;font-size:.8rem;letter-spacing:.06em}details.nested li.grp ul{columns:1;margin:.2rem 0 .6rem;padding-left:1rem}
 @media (max-width:900px){details.nested>ul{columns:2}}@media (max-width:700px){details.toc ul{columns:1}}
@@ -100,13 +98,6 @@ document.addEventListener('click',e=>{if(!e.target.closest('.search'))out.style.
 (()=>{const hd=document.querySelector('header'),b=document.getElementById('menu');const set=o=>{hd.classList.toggle('open',o);b.setAttribute('aria-expanded',o);};b.onclick=e=>{e.stopPropagation();set(!hd.classList.contains('open'));};addEventListener('click',e=>{if(hd.classList.contains('open')&&!e.target.closest('nav'))set(false);});addEventListener('keydown',e=>{if(e.key==='Escape')set(false);});})();
 // measure the sticky header so table headings and anchor jumps clear it at any window width
 (()=>{const hd=document.querySelector('header'),set=()=>document.documentElement.style.setProperty('--hdr',hd.offsetHeight+'px');set();addEventListener('resize',set);})();
-// matrix tables (cells with class hc): hovering a cell emphasises its row and column and lights the two labels
-document.querySelectorAll('table').forEach(t=>{if(!t.querySelector('td.hc'))return;
- const clear=()=>{t.classList.remove('mx-active');t.querySelectorAll('.hl-row,.hl-col,.hl-cell,.hl-lab').forEach(x=>x.classList.remove('hl-row','hl-col','hl-cell','hl-lab'));};
- t.addEventListener('mouseover',e=>{const c=e.target.closest('td.hc');if(!c)return;clear();t.classList.add('mx-active');const col=c.cellIndex,tr=c.parentElement;
-  [...t.rows].forEach(r=>[...r.cells].forEach((x,i)=>{if(r===tr)x.classList.add('hl-row');if(i===col)x.classList.add('hl-col');}));
-  c.classList.add('hl-cell');t.rows[0].cells[col].classList.add('hl-lab');tr.cells[0].classList.add('hl-lab');});
- t.addEventListener('mouseleave',clear);});
 // live filter for big tables: one box per page, applied to every large table (so a page split by season filters as a whole)
 (()=>{const tables=[...document.querySelectorAll('table')].filter(t=>t.rows.length>=15);if(!tables.length)return;
  const f=document.createElement('input');f.className='filter';f.placeholder=tables.length>1?'Filter all tables...':'Filter rows...';
@@ -130,19 +121,6 @@ def shell(title, body, rel, depth):
 <script>const ROOTP="{rootp}";{JS}</script>{'<script src="../ego.js"></script>' if rel.startswith("characters/") else ''}</body></html>"""
 
 def slug(label): return re.sub(r"[^a-z0-9]+", "-", label.lower()).strip("-")   # same rule as build_notes, so arc links match
-
-def shade_matrices(body):
-    """Colour numeric cells of each table by magnitude, single hue light-to-dark, scaled per table (co-appearance page)."""
-    import math
-    def one(tbl):
-        cells = [int(v) for v in re.findall(r"<td[^>]*>(\d+)</td>", tbl)]
-        if not cells: return tbl
-        mx = max(cells)
-        def paint(m):
-            v = int(m.group(1)); k = min(6, int(math.sqrt(v / mx) * 7))
-            return f'<td class="hc {"deep" if k >= 4 else "pale"}" style="background:var(--seq{k+1})" title="{v}">{v}</td>'
-        return re.sub(r"<td[^>]*>(\d+)</td>", paint, tbl)
-    return re.sub(r"<table>.*?</table>", lambda m: one(m.group(0)), body, flags=re.S)
 
 def add_contents(body, nest=False, minimum=2):
     """Insert a collapsible table of contents after the intro when a page has at least `minimum` sections.
@@ -179,9 +157,10 @@ def render(md_path):
     text = md_path.read_text(encoding="utf-8")
     body = markdown.markdown(text, extensions=["tables", "fenced_code", "toc"], extension_configs={"toc": {"slugify": lambda v, sep: slug(v)}})
     body = add_contents(body, nest=(rel.name == "arcs.md"), minimum=2)      # a page with two or more sections has a contents box
-    if rel.name == "co_appearance.md": body = shade_matrices(body)
     body = re.sub(r'href="([^"]+?)\.md(#[^"]*)?"', lambda m: f'href="{m.group(1)}.html{m.group(2) or ""}"', body)
     body = body.replace('href="README.html"', 'href="index.html"')
+    body = re.sub(r'href="((?:\.\./)*)co_appearance\.html"', r'href="\1visuals.html#scenes-shared-main-cast"', body)     # the co-appearance page is the Visuals heatmaps
+    body = body.replace('visuals.html#scenes-shared-main-cast">co_appearance.md</a>', 'visuals.html#scenes-shared-main-cast">visuals.html</a>')
     body = re.sub(r"<code>data/text/(\d+)\.txt</code>", r'<a href="../transcripts/\1.html">read the transcript</a>', body)
     body = re.sub(r'href="(?:\.\./)+data/text/(\d+)\.txt(?:#L(\d+))?"', lambda m: f'href="{"../" * depth}transcripts/{m.group(1)}.html' + (f'#l{anchor(m.group(1), int(m.group(2)))}' if m.group(2) else '') + '"', body)   # source links go to the site's transcript pages, to the line if one is quoted
     left = re.findall(r'href="[^"]*data/text/[^"]*"', re.sub(r"<code>.*?</code>", "", body))
@@ -347,6 +326,7 @@ def main():
     n = 0
     for md in NOTES.rglob("*.md"):
         rel = md.relative_to(NOTES); out = SITE / rel.with_suffix(".html")
+        if rel.name == "co_appearance.md": continue          # its matrices are on the Visuals page; the Markdown stays in notes/ as plain tables
         if rel.name == "README.md": out = SITE / "index.html"
         out.parent.mkdir(parents=True, exist_ok=True); out.write_text(render(md), encoding="utf-8"); n += 1
     # transcripts

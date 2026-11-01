@@ -13,10 +13,10 @@ A study companion for all 176 episodes of *Star Trek: The Next Generation*, buil
 - **Transcripts.** All 176 transcripts reformatted with speaker names linked to the character pages, scene headings linked to location pages, and a tool to follow one speaker through an episode.
 - **Search.** A quick search over episodes and characters on every page, and a full-text search of all dialogue with phrase and speaker filters that links straight to the line in the transcript.
 - **Arcs and continuity.** Episodes grouped by storyline (Borg, Klingon politics, Q, Data's humanity and so on) and a map of which episodes pick up threads from earlier ones.
-- **Relationships and co-appearance.** Curated relationships, the most frequent scene pairings and co-appearance matrices for the main cast.
+- **Relationships and co-appearance.** Curated relationships and the most frequent scene pairings. The co-appearance matrices for the main cast are heatmaps on the Visuals page and plain tables in `notes/co_appearance.md`.
 - **Locations, entities, stats.** Most used sets, mention counts for recurring ships, places and factions, dialogue per character per season, catchphrase counts, stardate anomalies.
 - **Actors and crew.** Actors with multiple roles, directors and writers with their episode counts, seasons and pairings.
-- **Visuals.** An interactive relationship graph, a co-appearance heatmap, dialogue per season, a stardate chart and an arc timeline.
+- **Visuals.** An interactive relationship graph, scenes-shared and episodes-shared heatmaps, dialogue per season, a stardate chart and an arc timeline.
 
 | Visuals | Character page |
 |---|---|

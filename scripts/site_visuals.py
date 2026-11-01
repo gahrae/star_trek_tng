@@ -1,4 +1,4 @@
-"""Data and page for the visualisations: relationship graph, co-appearance heatmap, lines per season, arc timeline.
+"""Data and page for the visualisations: relationship graph, co-appearance heatmaps (scenes and episodes), lines per season, arc timeline.
 Used by build_site.py. Colours follow a validated categorical/sequential palette with separate dark-mode steps."""
 import json, collections, itertools, re
 from curated_characters import PROFILES, FACTS, GUESTS
@@ -39,6 +39,8 @@ def build_data(root):
             for a, b in itertools.combinations(named, 2): co[(a, b)] += 1
     co_edges = [{"s": a, "t": b, "w": n} for (a, b), n in co.most_common() if n >= 15 and a in nodes and b in nodes]
     heat = [[co.get((min(a, b), max(a, b)), 0) if a != b else None for b in REGULARS] for a in REGULARS]
+    speaking = {l: {e["prod"] for e in chars[l]["episodes"]} for l in REGULARS}        # episodes where each speaks
+    heat_eps = [[len(speaking[a] & speaking[b]) if a != b else None for b in REGULARS] for a in REGULARS]
     seasons = {SHORT[l]: [chars[l]["by_season"].get(str(s), 0) for s in range(1, 8)] for l in REGULARS[:7]}
     timeline = [{"prod": e["prod"], "code": meta[e["prod"]]["code"], "title": e["title"], "season": meta[e["prod"]]["season"],
                  "arcs": EPISODES[e["prod"]][1], "synopsis": EPISODES[e["prod"]][0], "url": f"episodes/{e['prod']}.html"} for e in eps]
@@ -52,7 +54,7 @@ def build_data(root):
         if v is not None: prev = v
         stardates.append({"i": i, "prod": e["prod"], "code": meta[e["prod"]]["code"], "title": e["title"], "season": meta[e["prod"]]["season"],
                           "sd": v, "airdate": meta[e["prod"]]["airdate_iso"], "back": back, "url": f"episodes/{e['prod']}.html"})
-    return {"stardates": stardates, "nodes": list(nodes.values()), "edges": edges, "co_edges": co_edges, "groups": GROUPS, "heat": {"labels": [SHORT[l] for l in REGULARS], "m": heat},
+    return {"stardates": stardates, "nodes": list(nodes.values()), "edges": edges, "co_edges": co_edges, "groups": GROUPS, "heat": {"labels": [SHORT[l] for l in REGULARS], "m": heat, "m_eps": heat_eps},
             "seasons": seasons, "timeline": timeline, "arcs": ARCS, "arc_groups": ARC_GROUPS}
 
 PAGE_BODY = """
@@ -92,6 +94,12 @@ svg text{fill:var(--text-primary);font-size:12px}svg .axis{stroke:var(--grid)}sv
 <details class="sec" open><summary><h2 id="scenes-shared-main-cast">Scenes shared, main cast</h2></summary>
 <p class="sub">Number of scenes in which both characters speak. Darker is more.</p>
 <div class="heat" id="heat"></div>
+</details></section>
+
+<section class="viz" id="heatmap-episodes">
+<details class="sec" open><summary><h2 id="episodes-shared-main-cast">Episodes shared, main cast</h2></summary>
+<p class="sub">Number of episodes in which both characters speak. Darker is more.</p>
+<div class="heat" id="heat-eps"></div>
 </details></section>
 
 <section class="viz" id="seasons">
@@ -166,13 +174,14 @@ function graph(D){
 }
 
 // ---------- co-appearance heatmap (sequential single hue)
-function heat(D){
- const el=document.getElementById('heat'),L=D.heat.labels,M=D.heat.m,max=Math.max(...M.flat().filter(v=>v!==null));
+function heat(D){drawHeat('heat',D.heat.labels,D.heat.m,'scenes');drawHeat('heat-eps',D.heat.labels,D.heat.m_eps,'episodes');}
+function drawHeat(id,L,M,unit){
+ const el=document.getElementById(id),max=Math.max(...M.flat().filter(v=>v!==null));
  el.style.gridTemplateColumns=`5rem repeat(${L.length},1fr)`;
  const steps=['--seq1','--seq2','--seq3','--seq4','--seq5','--seq6','--seq7'];
  let h='<div class="h"></div>'+L.map((l,j)=>`<div class="ht h" data-c="${j}">${l}</div>`).join('');
  M.forEach((row,i)=>{h+=`<div class="h" data-r="${i}">${L[i]}</div>`;row.forEach((v,j)=>{if(v===null){h+='<div></div>';return;}const k=Math.min(6,Math.floor(Math.sqrt(v/max)*7));
-  h+=`<div class="c ${k>=4?'dark':''}" data-r="${i}" data-c="${j}" style="background:var(${steps[k]})" data-t="<b>${L[i]} and ${L[j]}</b><br>${v} scenes together">${v}</div>`;});});
+  h+=`<div class="c ${k>=4?'dark':''}" data-r="${i}" data-c="${j}" style="background:var(${steps[k]})" data-t="<b>${L[i]} and ${L[j]}</b><br>${v} ${unit} together">${v}</div>`;});});
  el.innerHTML=h;
  const cells=[...el.querySelectorAll('.c')],rh=[...el.querySelectorAll('.h[data-r]')],ch=[...el.querySelectorAll('.h[data-c]')];
  const clear=()=>{el.classList.remove('mx-active');el.querySelectorAll('.hl-row,.hl-col,.hl-cell,.hl-lab').forEach(x=>x.classList.remove('hl-row','hl-col','hl-cell','hl-lab'));};
