@@ -45,7 +45,8 @@
   "page": "Zorn",
   "source": "https://static.wikia.nocookie.net/memoryalpha/images/1/19/Zorn.jpg/revision/latest/scale-to-width-down/320?cb=20140811093551&path-prefix=en",
   "file": "zorn.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Zorn.jpg"
  },
  "riker": {
   "page": "William T. Riker",
@@ -77,34 +78,38 @@
  },
  "argyle": {
   "page": "Argyle",
-  "source": "https://static.wikia.nocookie.net/memoryalpha/images/7/7d/Argyle.jpg/revision/latest/scale-to-width-down/293?cb=20120812131804&path-prefix=en",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/7/7d/Argyle.jpg/revision/latest/scale-to-width-down/320?cb=20120812131804&path-prefix=en",
   "file": "argyle.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Argyle.jpg"
  },
  "rivan": {
   "page": "Rivan",
   "source": "https://static.wikia.nocookie.net/memoryalpha/images/5/54/Rivan.jpg/revision/latest/scale-to-width-down/320?cb=20120822001430&path-prefix=en",
   "file": "rivan.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Rivan.jpg"
  },
  "liator": {
   "page": "Liator",
   "source": "https://static.wikia.nocookie.net/memoryalpha/images/f/f1/Liator.jpg/revision/latest/scale-to-width-down/320?cb=20120822001426&path-prefix=en",
   "file": "liator.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Liator.jpg"
  },
  "bok": {
   "page": "Bok",
   "source": "https://static.wikia.nocookie.net/memoryalpha/images/b/b2/Bok%2C_2370.jpg/revision/latest/scale-to-width-down/320?cb=20120917124453&path-prefix=en",
   "file": "bok.webp",
-  "era": "tng",
+  "era": "infobox",
   "image_title": "File:Bok, 2370.jpg"
  },
  "wyatt": {
   "page": "Wyatt Miller",
-  "source": "https://static.wikia.nocookie.net/memoryalpha/images/b/bb/Wyatt_Miller_paintings.jpg/revision/latest/scale-to-width-down/320?cb=20120819195935&path-prefix=en",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/a/aa/Wyatt_Miller.jpg/revision/latest/scale-to-width-down/320?cb=20120819195939&path-prefix=en",
   "file": "wyatt.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Wyatt Miller.jpg"
  },
  "lwaxana": {
   "page": "Lwaxana Troi",
@@ -115,54 +120,55 @@
  },
  "homn": {
   "page": "Homn",
-  "source": "https://static.wikia.nocookie.net/memoryalpha/images/7/77/Homn.jpg/revision/latest/scale-to-width-down/278?cb=20120819201817&path-prefix=en",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/7/77/Homn.jpg/revision/latest/scale-to-width-down/320?cb=20120819201817&path-prefix=en",
   "file": "homn.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Homn.jpg"
  },
  "beata": {
   "page": "Beata",
   "source": "https://static.wikia.nocookie.net/memoryalpha/images/c/ca/Beata.jpg/revision/latest/scale-to-width-down/320?cb=20150121131150&path-prefix=en",
   "file": "beata.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Beata.jpg"
  },
  "minuet": {
   "page": "Minuet",
   "source": "https://static.wikia.nocookie.net/memoryalpha/images/3/34/Minuet.jpg/revision/latest/scale-to-width-down/320?cb=20120805113552&path-prefix=en",
   "file": "minuet.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Minuet.jpg"
  },
  "radue": {
   "page": "Radue",
-  "source": "https://static.wikia.nocookie.net/memoryalpha/images/f/f4/Radue.jpg/revision/latest/scale-to-width-down/304?cb=20190401081405&path-prefix=en",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/f/f4/Radue.jpg/revision/latest/scale-to-width-down/320?cb=20190401081405&path-prefix=en",
   "file": "radue.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Radue.jpg"
  },
  "quinn": {
   "page": "Gregory Quinn",
-  "source": "https://static.wikia.nocookie.net/memoryalpha/images/7/76/Gregory_Quinn.jpg/revision/latest/scale-to-width-down/223?cb=20120730023309&path-prefix=en",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/7/76/Gregory_Quinn.jpg/revision/latest/scale-to-width-down/320?cb=20120730023309&path-prefix=en",
   "file": "quinn.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Gregory Quinn.jpg"
  },
  "korris": {
   "page": "Korris",
-  "source": "https://static.wikia.nocookie.net/memoryalpha/images/8/88/Korris.jpg/revision/latest/scale-to-width-down/219?cb=20120729215823&path-prefix=en",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/8/88/Korris.jpg/revision/latest/scale-to-width-down/320?cb=20120729215823&path-prefix=en",
   "file": "korris.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Korris.jpg"
  },
  "t-jon": {
   "page": "T'Jon",
-  "source": "https://static.wikia.nocookie.net/memoryalpha/images/9/90/Paralyzed_by_electrocution.jpg/revision/latest/scale-to-width-down/320?cb=20161128030328&path-prefix=en",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/6/63/T%27Jon.jpg/revision/latest/scale-to-width-down/320?cb=20150706085625&path-prefix=en",
   "file": "t-jon.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:T'Jon.jpg"
  },
  "armus": {
   "page": "Armus",
-  "source": "https://static.wikia.nocookie.net/memoryalpha/images/4/44/Armus%2C_2381.jpg/revision/latest/scale-to-width-down/320?cb=20210917142614&path-prefix=en",
-  "file": "armus.webp",
-  "era": "lead"
- },
- "picard-2": {
-  "page": "Picard family",
   "era": "none"
  },
  "guinan": {
@@ -176,13 +182,15 @@
   "page": "Katherine Pulaski",
   "source": "https://static.wikia.nocookie.net/memoryalpha/images/9/96/Katherine_Pulaski.jpg/revision/latest/scale-to-width-down/320?cb=20121204025419&path-prefix=en",
   "file": "pulaski.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Katherine Pulaski.jpg"
  },
  "moriarty": {
   "page": "James Moriarty (hologram)",
   "source": "https://static.wikia.nocookie.net/memoryalpha/images/4/41/James_Moriarty.jpg/revision/latest/scale-to-width-down/320?cb=20121216034417&path-prefix=en",
   "file": "moriarty.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:James Moriarty.jpg"
  },
  "okona": {
   "page": "Thadiun Okona",
@@ -190,27 +198,30 @@
  },
  "kargan": {
   "page": "Kargan",
-  "source": "https://static.wikia.nocookie.net/memoryalpha/images/8/88/Kargan.jpg/revision/latest/scale-to-width-down/267?cb=20161115053843&path-prefix=en",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/8/88/Kargan.jpg/revision/latest/scale-to-width-down/320?cb=20161115053843&path-prefix=en",
   "file": "kargan.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Kargan.jpg"
  },
  "klag": {
   "page": "Klag (Lieutenant)",
-  "source": "https://static.wikia.nocookie.net/memoryalpha/images/1/1c/Klag.jpg/revision/latest/scale-to-width-down/255?cb=20121211045051&path-prefix=en",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/1/1c/Klag.jpg/revision/latest/scale-to-width-down/320?cb=20121211045051&path-prefix=en",
   "file": "klag.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Klag.jpg"
  },
  "phillipa": {
   "page": "Phillipa Louvois",
-  "source": "https://static.wikia.nocookie.net/memoryalpha/images/4/4e/Phillipa_Louvois.jpg/revision/latest/scale-to-width-down/301?cb=20161115080108&path-prefix=en",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/4/4e/Phillipa_Louvois.jpg/revision/latest/scale-to-width-down/320?cb=20161115080108&path-prefix=en",
   "file": "phillipa.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Phillipa Louvois.jpg"
  },
  "nakamura": {
   "page": "Nakamura",
   "source": "https://static.wikia.nocookie.net/memoryalpha/images/d/d2/Nakamura%2C_2370.jpg/revision/latest/scale-to-width-down/320?cb=20200615213336&path-prefix=en",
   "file": "nakamura.webp",
-  "era": "tng",
+  "era": "infobox",
   "image_title": "File:Nakamura, 2370.jpg"
  },
  "maddox": {
@@ -222,15 +233,17 @@
  },
  "anya": {
   "page": "Anya (allasomorph)",
-  "source": "https://static.wikia.nocookie.net/memoryalpha/images/5/52/Anya_Human.jpg/revision/latest/scale-to-width-down/293?cb=20161115171401&path-prefix=en",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/5/52/Anya_Human.jpg/revision/latest/scale-to-width-down/320?cb=20161115171401&path-prefix=en",
   "file": "anya.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Anya Human.jpg"
  },
  "texas": {
   "page": "Texas (character)",
-  "source": "https://static.wikia.nocookie.net/memoryalpha/images/0/0b/Texas.jpg/revision/latest/scale-to-width-down/291?cb=20121210173812&path-prefix=en",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/0/0b/Texas.jpg/revision/latest/scale-to-width-down/320?cb=20121210173812&path-prefix=en",
   "file": "texas.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Texas.jpg"
  },
  "sonya": {
   "page": "Sonya Gomez",
@@ -238,57 +251,66 @@
  },
  "grebnedlog": {
   "page": "Grebnedlog",
-  "source": "https://static.wikia.nocookie.net/memoryalpha/images/b/bf/Grebnedlog.jpg/revision/latest/scale-to-width-down/230?cb=20121208045044&path-prefix=en",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/b/bf/Grebnedlog.jpg/revision/latest/scale-to-width-down/320?cb=20121208045044&path-prefix=en",
   "file": "grebnedlog.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Grebnedlog.jpg"
  },
  "danilo": {
   "page": "Danilo Odell",
-  "source": "https://static.wikia.nocookie.net/memoryalpha/images/9/9b/Danilo_Odell.jpg/revision/latest/scale-to-width-down/268?cb=20121208030934&path-prefix=en",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/9/9b/Danilo_Odell.jpg/revision/latest/scale-to-width-down/320?cb=20121208030934&path-prefix=en",
   "file": "danilo.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Danilo Odell.jpg"
  },
  "brenna": {
   "page": "Brenna Odell",
-  "source": "https://static.wikia.nocookie.net/memoryalpha/images/1/1d/Brenna_Odell.jpg/revision/latest/scale-to-width-down/292?cb=20180705161435&path-prefix=en",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/1/1d/Brenna_Odell.jpg/revision/latest/scale-to-width-down/320?cb=20180705161435&path-prefix=en",
   "file": "brenna.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Brenna Odell.jpg"
  },
  "kolrami": {
   "page": "Sirna Kolrami",
   "source": "https://static.wikia.nocookie.net/memoryalpha/images/3/38/Sirna_Kolrami.jpg/revision/latest/scale-to-width-down/320?cb=20190928020052&path-prefix=en",
   "file": "kolrami.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Sirna Kolrami.jpg"
  },
  "stubbs": {
   "page": "Paul Stubbs",
-  "source": "https://static.wikia.nocookie.net/memoryalpha/images/c/cf/Paul_Stubbs.jpg/revision/latest/scale-to-width-down/294?cb=20130625162832&path-prefix=en",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/c/cf/Paul_Stubbs.jpg/revision/latest/scale-to-width-down/320?cb=20130625162832&path-prefix=en",
   "file": "stubbs.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Paul Stubbs.jpg"
  },
  "ard-rian": {
   "page": "Ard'rian McKenzie",
-  "source": "https://static.wikia.nocookie.net/memoryalpha/images/3/35/Ard%27rian_McKenzie.jpg/revision/latest/scale-to-width-down/270?cb=20130715192508&path-prefix=en",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/3/35/Ard%27rian_McKenzie.jpg/revision/latest/scale-to-width-down/320?cb=20130715192508&path-prefix=en",
   "file": "ard-rian.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Ard'rian McKenzie.jpg"
  },
  "kevin": {
   "page": "Kevin Uxbridge",
-  "source": "https://static.wikia.nocookie.net/memoryalpha/images/7/7a/Kevin_Uxbridge.jpg/revision/latest/scale-to-width-down/305?cb=20161121054637&path-prefix=en",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/7/7a/Kevin_Uxbridge.jpg/revision/latest/scale-to-width-down/320?cb=20161121054637&path-prefix=en",
   "file": "kevin.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Kevin Uxbridge.jpg"
  },
  "liko": {
   "page": "Liko",
-  "source": "https://static.wikia.nocookie.net/memoryalpha/images/d/d9/Liko.jpg/revision/latest/scale-to-width-down/244?cb=20180804022448&path-prefix=en",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/d/d9/Liko.jpg/revision/latest/scale-to-width-down/320?cb=20180804022448&path-prefix=en",
   "file": "liko.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Liko.jpg"
  },
  "nuria": {
   "page": "Nuria",
-  "source": "https://static.wikia.nocookie.net/memoryalpha/images/8/88/Nuria.jpg/revision/latest/scale-to-width-down/224?cb=20180804022311&path-prefix=en",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/8/88/Nuria.jpg/revision/latest/scale-to-width-down/320?cb=20180804022311&path-prefix=en",
   "file": "nuria.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Nuria.jpg"
  },
  "tomalak": {
   "page": "Tomalak",
@@ -299,76 +321,87 @@
  },
  "bochra": {
   "page": "Bochra",
-  "source": "https://static.wikia.nocookie.net/memoryalpha/images/8/88/Bochra.jpg/revision/latest/scale-to-width-down/231?cb=20130709233722&path-prefix=en",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/8/88/Bochra.jpg/revision/latest/scale-to-width-down/320?cb=20130709233722&path-prefix=en",
   "file": "bochra.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Bochra.jpg"
  },
  "ral": {
   "page": "Devinoni Ral",
   "source": "https://static.wikia.nocookie.net/memoryalpha/images/4/41/Devinoni_Ral.jpg/revision/latest/scale-to-width-down/320?cb=20161124021820&path-prefix=en",
   "file": "ral.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Devinoni Ral.jpg"
  },
  "marouk": {
   "page": "Marouk",
-  "source": "https://static.wikia.nocookie.net/memoryalpha/images/a/aa/Marouk.jpg/revision/latest/scale-to-width-down/297?cb=20170612204950&path-prefix=en",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/a/aa/Marouk.jpg/revision/latest/scale-to-width-down/320?cb=20170612204950&path-prefix=en",
   "file": "marouk.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Marouk.jpg"
  },
  "yuta": {
   "page": "Yuta",
   "source": "https://static.wikia.nocookie.net/memoryalpha/images/a/a3/Yuta%2C_2366.jpg/revision/latest/scale-to-width-down/320?cb=20190105091744&path-prefix=en",
   "file": "yuta.webp",
-  "era": "tng",
+  "era": "infobox",
   "image_title": "File:Yuta, 2366.jpg"
  },
  "setal": {
   "page": "Setal",
   "source": "https://static.wikia.nocookie.net/memoryalpha/images/4/4f/Alidar_Jarok.jpg/revision/latest/scale-to-width-down/320?cb=20181208231658&path-prefix=en",
   "file": "setal.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Alidar Jarok.jpg"
  },
  "haden": {
   "page": "Haden",
   "source": "https://static.wikia.nocookie.net/memoryalpha/images/c/cb/Haden.jpg/revision/latest/scale-to-width-down/320?cb=20210208144547&path-prefix=en",
   "file": "haden.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Haden.jpg"
  },
  "roga": {
   "page": "Roga Danar",
-  "source": "https://static.wikia.nocookie.net/memoryalpha/images/d/d3/Roga_Danar.jpg/revision/latest/scale-to-width-down/317?cb=20161203021923&path-prefix=en",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/d/d3/Roga_Danar.jpg/revision/latest/scale-to-width-down/320?cb=20161203021923&path-prefix=en",
   "file": "roga.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Roga Danar.jpg"
  },
  "finn": {
   "page": "Kyril Finn",
-  "source": "https://static.wikia.nocookie.net/memoryalpha/images/c/c5/Kyril_Finn.jpg/revision/latest/scale-to-width-down/252?cb=20190302044204&path-prefix=en",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/c/c5/Kyril_Finn.jpg/revision/latest/scale-to-width-down/320?cb=20190302044204&path-prefix=en",
   "file": "finn.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Kyril Finn.jpg"
  },
  "krag": {
   "page": "Krag",
   "source": "https://static.wikia.nocookie.net/memoryalpha/images/8/8c/Krag.jpg/revision/latest/scale-to-width-down/320?cb=20161204214134&path-prefix=en",
   "file": "krag.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Krag.jpg"
  },
  "manua": {
   "page": "Manua Apgar",
-  "source": "https://static.wikia.nocookie.net/memoryalpha/images/f/fa/Manua_Apgar.jpg/revision/latest/scale-to-width-down/290?cb=20180903092635&path-prefix=en",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/f/fa/Manua_Apgar.jpg/revision/latest/scale-to-width-down/320?cb=20180903092635&path-prefix=en",
   "file": "manua.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Manua Apgar.jpg"
  },
  "castillo": {
   "page": "Richard Castillo",
   "source": "https://static.wikia.nocookie.net/memoryalpha/images/a/ac/Richard_Castillo.jpg/revision/latest/scale-to-width-down/320?cb=20130507025407&path-prefix=en",
   "file": "castillo.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Richard Castillo.jpg"
  },
  "lal": {
   "page": "Lal",
-  "source": "https://static.wikia.nocookie.net/memoryalpha/images/e/ed/Lal_android.jpg/revision/latest/scale-to-width-down/311?cb=20161207174215&path-prefix=en",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/5/5d/Lal_female.jpg/revision/latest/scale-to-width-down/320?cb=20180731143753&path-prefix=en",
   "file": "lal.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Lal female.jpg"
  },
  "kurn": {
   "page": "Kurn",
@@ -381,25 +414,29 @@
   "page": "Duras, son of Ja'rod",
   "source": "https://static.wikia.nocookie.net/memoryalpha/images/5/5b/Duras%2C_son_of_Ja%27rod.jpg/revision/latest/scale-to-width-down/320?cb=20161209202318&path-prefix=en",
   "file": "duras.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Duras, son of Ja'rod.jpg"
  },
  "tholl": {
   "page": "Kova Tholl",
   "source": "https://static.wikia.nocookie.net/memoryalpha/images/4/4c/Kova_Tholl.jpg/revision/latest/scale-to-width-down/320?cb=20161211004027&path-prefix=en",
   "file": "tholl.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Kova Tholl.jpg"
  },
  "vash": {
   "page": "Vash",
   "source": "https://static.wikia.nocookie.net/memoryalpha/images/d/d6/Vash.jpg/revision/latest/scale-to-width-down/320?cb=20161213014624&path-prefix=en",
   "file": "vash.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Vash.jpg"
  },
  "tam": {
   "page": "Tam Elbrun",
   "source": "https://static.wikia.nocookie.net/memoryalpha/images/d/d2/Tam_Elbrun.jpg/revision/latest/scale-to-width-down/320?cb=20161214220526&path-prefix=en",
   "file": "tam.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Tam Elbrun.jpg"
  },
  "barclay": {
   "page": "Reginald Barclay",
@@ -410,7 +447,10 @@
  },
  "fajo": {
   "page": "Kivas Fajo",
-  "era": "none"
+  "era": "infobox",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/0/08/Kivas_Fajo.jpg/revision/latest/scale-to-width-down/320?cb=20170612181151&path-prefix=en",
+  "file": "fajo.webp",
+  "image_title": "File:Kivas_Fajo.jpg"
  },
  "sarek": {
   "page": "Sarek",
@@ -421,21 +461,24 @@
  },
  "tog": {
   "page": "Tog",
-  "source": "https://static.wikia.nocookie.net/memoryalpha/images/2/2c/Tog.jpg/revision/latest/scale-to-width-down/306?cb=20211018184518&path-prefix=en",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/2/2c/Tog.jpg/revision/latest/scale-to-width-down/320?cb=20211018184518&path-prefix=en",
   "file": "tog.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Tog.jpg"
  },
  "john": {
   "page": "John Doe",
-  "source": "https://static.wikia.nocookie.net/memoryalpha/images/e/e2/John_Doe_evolve.jpg/revision/latest/scale-to-width-down/283?cb=20130508014330&path-prefix=en",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/c/c3/John_Doe.jpg/revision/latest/scale-to-width-down/320?cb=20130508014341&path-prefix=en",
   "file": "john.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:John Doe.jpg"
  },
  "hanson": {
   "page": "J.P. Hanson",
   "source": "https://static.wikia.nocookie.net/memoryalpha/images/e/eb/JP_Hanson.jpg/revision/latest/scale-to-width-down/320?cb=20130423000021&path-prefix=en",
   "file": "hanson.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:JP Hanson.jpg"
  },
  "shelby": {
   "page": "Elizabeth Shelby",
@@ -446,13 +489,17 @@
  },
  "helena": {
   "page": "Helena Rozhenko",
-  "source": "https://static.wikia.nocookie.net/memoryalpha/images/0/04/Helena_Rozhenko.jpg/revision/latest/scale-to-width-down/290?cb=20180924035051&path-prefix=en",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/0/04/Helena_Rozhenko.jpg/revision/latest/scale-to-width-down/320?cb=20180924035051&path-prefix=en",
   "file": "helena.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Helena Rozhenko.jpg"
  },
  "jack": {
   "page": "Jack R. Crusher",
-  "era": "none"
+  "era": "infobox",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/5/5d/Jack_R._Crusher_%28hologram%29.jpg/revision/latest/scale-to-width-down/320?cb=20160323221707&path-prefix=en",
+  "file": "jack.webp",
+  "image_title": "File:Jack R. Crusher (hologram).jpg"
  },
  "soong": {
   "page": "Noonien Soong",
@@ -465,13 +512,15 @@
   "page": "Jono",
   "source": "https://static.wikia.nocookie.net/memoryalpha/images/e/e7/Jono.jpg/revision/latest/scale-to-width-down/320?cb=20140207105532&path-prefix=en",
   "file": "jono.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Jono.jpg"
  },
  "ishara": {
   "page": "Ishara Yar",
-  "source": "https://static.wikia.nocookie.net/memoryalpha/images/1/11/Ishara_Yar_in_engineering.jpg/revision/latest/scale-to-width-down/320?cb=20140218204057&path-prefix=en",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/4/45/Ishara_Yar.jpg/revision/latest/scale-to-width-down/320?cb=20140218204004&path-prefix=en",
   "file": "ishara.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Ishara Yar.jpg"
  },
  "gowron": {
   "page": "Gowron",
@@ -482,70 +531,77 @@
  },
  "allenby": {
   "page": "Allenby",
-  "source": "https://static.wikia.nocookie.net/memoryalpha/images/2/2f/Allenby.jpg/revision/latest/scale-to-width-down/307?cb=20211016224113&path-prefix=en",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/2/2f/Allenby.jpg/revision/latest/scale-to-width-down/320?cb=20211016224113&path-prefix=en",
   "file": "allenby.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Allenby.jpg"
  },
  "macet": {
   "page": "Macet",
   "source": "https://static.wikia.nocookie.net/memoryalpha/images/4/4e/Macet.jpg/revision/latest/scale-to-width-down/320?cb=20210208153229&path-prefix=en",
   "file": "macet.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Macet.jpg"
  },
  "maxwell": {
   "page": "Benjamin Maxwell",
-  "source": "https://static.wikia.nocookie.net/memoryalpha/images/c/cc/Benjamin_Maxwell.jpg/revision/latest/scale-to-width-down/272?cb=20210208141950&path-prefix=en",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/c/cc/Benjamin_Maxwell.jpg/revision/latest/scale-to-width-down/320?cb=20210208141950&path-prefix=en",
   "file": "maxwell.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Benjamin Maxwell.jpg"
  },
  "ardra": {
   "page": "Ardra (impostor)",
   "source": "https://static.wikia.nocookie.net/memoryalpha/images/b/ba/Ardra.jpg/revision/latest/scale-to-width-down/320?cb=20180319132808&path-prefix=en",
   "file": "ardra.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Ardra.jpg"
  },
  "mirasta": {
   "page": "Mirasta Yale",
-  "source": "https://static.wikia.nocookie.net/memoryalpha/images/3/3e/Mirasta_Yale.jpg/revision/latest/scale-to-width-down/316?cb=20211017085620&path-prefix=en",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/3/3e/Mirasta_Yale.jpg/revision/latest/scale-to-width-down/320?cb=20211017085620&path-prefix=en",
   "file": "mirasta.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Mirasta Yale.jpg"
  },
  "rager": {
   "page": "Sariel Rager",
-  "source": "https://static.wikia.nocookie.net/memoryalpha/images/9/97/Sariel_Rager%2C_2369.jpg/revision/latest/scale-to-width-down/320?cb=20120510191805&path-prefix=en",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/e/e1/Sariel_Rager.jpg/revision/latest/scale-to-width-down/320?cb=20211016230258&path-prefix=en",
   "file": "rager.webp",
-  "era": "tng",
-  "image_title": "File:Sariel Rager, 2369.jpg"
+  "era": "infobox",
+  "image_title": "File:Sariel Rager.jpg"
  },
  "susanna": {
   "page": "Susanna Leijten",
-  "source": "https://static.wikia.nocookie.net/memoryalpha/images/6/62/Susanna_Leijten%2C_2362.jpg/revision/latest/scale-to-width-down/279?cb=20180508121238&path-prefix=en",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/e/eb/Susanna_Leijten.jpg/revision/latest/scale-to-width-down/320?cb=20180508142312&path-prefix=en",
   "file": "susanna.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Susanna Leijten.jpg"
  },
  "einstein": {
   "page": "Albert Einstein",
-  "source": "https://static.wikia.nocookie.net/memoryalpha/images/6/62/Albert_Einstein.jpg/revision/latest/scale-to-width-down/310?cb=20120630122252&path-prefix=en",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/6/62/Albert_Einstein.jpg/revision/latest/scale-to-width-down/320?cb=20120630122252&path-prefix=en",
   "file": "einstein.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Albert Einstein.jpg"
  },
  "satie": {
   "page": "Norah Satie",
-  "source": "https://static.wikia.nocookie.net/memoryalpha/images/8/83/Norah_Satie.jpg/revision/latest/scale-to-width-down/307?cb=20190323212838&path-prefix=en",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/8/83/Norah_Satie.jpg/revision/latest/scale-to-width-down/320?cb=20190323212838&path-prefix=en",
   "file": "satie.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Norah Satie.jpg"
  },
  "odan": {
   "page": "Odan",
-  "source": "https://static.wikia.nocookie.net/memoryalpha/images/0/02/Odan.jpg/revision/latest/scale-to-width-down/296?cb=20211022093100&path-prefix=en",
-  "file": "odan.webp",
-  "era": "lead"
+  "era": "none"
  },
  "jenna": {
   "page": "Jenna D'Sora",
-  "source": "https://static.wikia.nocookie.net/memoryalpha/images/7/7f/Jenna_D%27Sora.jpg/revision/latest/scale-to-width-down/311?cb=20211017084804&path-prefix=en",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/7/7f/Jenna_D%27Sora.jpg/revision/latest/scale-to-width-down/320?cb=20211017084804&path-prefix=en",
   "file": "jenna.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Jenna D'Sora.jpg"
  },
  "b-etor": {
   "page": "B'Etor",
@@ -556,27 +612,31 @@
  },
  "movar": {
   "page": "Movar",
-  "source": "https://static.wikia.nocookie.net/memoryalpha/images/c/c1/B%27Etor_and_Movar.jpg/revision/latest/scale-to-width-down/320?cb=20170228153210&path-prefix=en",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/a/a0/Movar.jpg/revision/latest/scale-to-width-down/320?cb=20211017093255&path-prefix=en",
   "file": "movar.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Movar.jpg"
  },
  "sela": {
   "page": "Sela",
-  "source": "https://static.wikia.nocookie.net/memoryalpha/images/5/59/Sela_in_the_shadows.jpg/revision/latest/scale-to-width-down/302?cb=20081016041716&path-prefix=en",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/4/49/Sela.jpg/revision/latest/scale-to-width-down/320?cb=20130508195150&path-prefix=en",
   "file": "sela.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Sela.jpg"
  },
  "dathon": {
   "page": "Dathon",
   "source": "https://static.wikia.nocookie.net/memoryalpha/images/2/20/Dathon.jpg/revision/latest/scale-to-width-down/320?cb=20190331221712&path-prefix=en",
   "file": "dathon.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:dathon.jpg"
  },
  "kennelly": {
   "page": "Kennelly",
   "source": "https://static.wikia.nocookie.net/memoryalpha/images/d/d1/Kennelly.jpg/revision/latest/scale-to-width-down/320?cb=20240209125317&path-prefix=en",
   "file": "kennelly.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Kennelly.jpg"
  },
  "ro": {
   "page": "Ro Laren",
@@ -587,15 +647,17 @@
  },
  "marr": {
   "page": "Kila Marr",
-  "source": "https://static.wikia.nocookie.net/memoryalpha/images/4/43/Kila_marr.jpg/revision/latest/scale-to-width-down/309?cb=20141208174853&path-prefix=en",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/4/43/Kila_marr.jpg/revision/latest/scale-to-width-down/320?cb=20141208174853&path-prefix=en",
   "file": "marr.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Kila_marr.jpg"
  },
  "robin": {
   "page": "Robin Lefler",
-  "source": "https://static.wikia.nocookie.net/memoryalpha/images/b/b1/Robin_Lefler.jpg/revision/latest/scale-to-width-down/224?cb=20190827114912&path-prefix=en",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/b/b1/Robin_Lefler.jpg/revision/latest/scale-to-width-down/320?cb=20190827114912&path-prefix=en",
   "file": "robin.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Robin Lefler.jpg"
  },
  "neral": {
   "page": "Neral",
@@ -613,39 +675,45 @@
  },
  "rasmussen": {
   "page": "Berlinghoff Rasmussen",
-  "source": "https://static.wikia.nocookie.net/memoryalpha/images/e/e6/Berlinghoff_Rasmussen.jpg/revision/latest/scale-to-width-down/283?cb=20190522041116&path-prefix=en",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/e/e6/Berlinghoff_Rasmussen.jpg/revision/latest/scale-to-width-down/320?cb=20190522041116&path-prefix=en",
   "file": "rasmussen.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Berlinghoff Rasmussen.jpg"
  },
  "felton": {
   "page": "Felton",
-  "source": "https://static.wikia.nocookie.net/memoryalpha/images/4/44/Felton.jpg/revision/latest/scale-to-width-down/288?cb=20180705160243&path-prefix=en",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/4/44/Felton.jpg/revision/latest/scale-to-width-down/320?cb=20180705160243&path-prefix=en",
   "file": "felton.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Felton.jpg"
  },
  "timothy": {
   "page": "Timothy (Vico)",
-  "source": "https://static.wikia.nocookie.net/memoryalpha/images/3/3a/Timothy_vico_alone.jpg/revision/latest/scale-to-width-down/320?cb=20170126213809&path-prefix=en",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/f/fa/Timothy.jpg/revision/latest/scale-to-width-down/320?cb=20120108191755&path-prefix=en",
   "file": "timothy.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Timothy.jpg"
  },
  "jev": {
   "page": "Jev",
   "source": "https://static.wikia.nocookie.net/memoryalpha/images/3/3d/Jev.jpg/revision/latest/scale-to-width-down/320?cb=20190403034815&path-prefix=en",
   "file": "jev.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Jev.jpg"
  },
  "conor": {
   "page": "Aaron Conor",
-  "source": "https://static.wikia.nocookie.net/memoryalpha/images/8/8b/Aaron_Conor.jpg/revision/latest/scale-to-width-down/303?cb=20211016201047&path-prefix=en",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/8/8b/Aaron_Conor.jpg/revision/latest/scale-to-width-down/320?cb=20211016201047&path-prefix=en",
   "file": "conor.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Aaron Conor.jpg"
  },
  "hannah": {
   "page": "Hannah Bates",
-  "source": "https://static.wikia.nocookie.net/memoryalpha/images/6/65/Hannah_Bates.jpg/revision/latest/scale-to-width-down/279?cb=20211016202211&path-prefix=en",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/6/65/Hannah_Bates.jpg/revision/latest/scale-to-width-down/320?cb=20211016202211&path-prefix=en",
   "file": "hannah.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Hannah Bates.jpg"
  },
  "macduff": {
   "page": "Les MacDuff",
@@ -659,38 +727,43 @@
   "page": "Sito Jaxa",
   "source": "https://static.wikia.nocookie.net/memoryalpha/images/d/d0/Sito_Jaxa%2C_2370.jpg/revision/latest/scale-to-width-down/320?cb=20141207024353&path-prefix=en",
   "file": "sito.webp",
-  "era": "tng",
+  "era": "infobox",
   "image_title": "File:Sito Jaxa, 2370.jpg"
  },
  "clara": {
   "page": "Clara Sutter",
   "source": "https://static.wikia.nocookie.net/memoryalpha/images/6/63/Clara_Sutter.jpg/revision/latest/scale-to-width-down/320?cb=20211020205251&path-prefix=en",
   "file": "clara.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Clara Sutter.jpg"
  },
  "isabella": {
   "page": "Isabella",
-  "source": "https://static.wikia.nocookie.net/memoryalpha/images/8/8b/Isabella.jpg/revision/latest/scale-to-width-down/317?cb=20190318113944&path-prefix=en",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/8/8b/Isabella.jpg/revision/latest/scale-to-width-down/320?cb=20190318113944&path-prefix=en",
   "file": "isabella.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Isabella.jpg"
  },
  "eline": {
   "page": "Eline",
-  "source": "https://static.wikia.nocookie.net/memoryalpha/images/8/85/Eline_aged.jpg/revision/latest/scale-to-width-down/320?cb=20121105173044&path-prefix=en",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/b/b1/Eline.jpg/revision/latest/scale-to-width-down/320?cb=20120205180553&path-prefix=en",
   "file": "eline.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Eline.jpg"
  },
  "clemens": {
   "page": "Samuel Clemens",
   "source": "https://static.wikia.nocookie.net/memoryalpha/images/0/09/Samuel_Clemens.jpg/revision/latest/scale-to-width-down/320?cb=20190401231606&path-prefix=en",
   "file": "clemens.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Samuel Clemens.jpg"
  },
  "alkar": {
   "page": "Ves Alkar",
   "source": "https://static.wikia.nocookie.net/memoryalpha/images/0/02/Ves_Alkar.jpg/revision/latest/scale-to-width-down/320?cb=20140707011553&path-prefix=en",
   "file": "alkar.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Ves Alkar.jpg"
  },
  "scott": {
   "page": "Montgomery Scott",
@@ -701,9 +774,10 @@
  },
  "amanda": {
   "page": "Amanda Rogers",
-  "source": "https://static.wikia.nocookie.net/memoryalpha/images/e/e8/Amanda_Rogers%27_parents.jpg/revision/latest/scale-to-width-down/320?cb=20140707222049&path-prefix=en",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/f/f6/Amanda_Rogers.jpg/revision/latest/scale-to-width-down/320?cb=20140707221704&path-prefix=en",
   "file": "amanda.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Amanda Rogers.jpg"
  },
  "picard-jr": {
   "page": "Jean-Luc Picard",
@@ -711,9 +785,10 @@
  },
  "farallon": {
   "page": "Farallon",
-  "source": "https://static.wikia.nocookie.net/memoryalpha/images/3/36/Farallon.jpg/revision/latest/scale-to-width-down/303?cb=20211017094352&path-prefix=en",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/3/36/Farallon.jpg/revision/latest/scale-to-width-down/320?cb=20211017094352&path-prefix=en",
   "file": "farallon.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Farallon.jpg"
  },
  "jellico": {
   "page": "Edward Jellico",
@@ -726,43 +801,50 @@
   "page": "Madred",
   "source": "https://static.wikia.nocookie.net/memoryalpha/images/6/60/Madred.jpg/revision/latest/scale-to-width-down/320?cb=20140805213346&path-prefix=en",
   "file": "madred.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Madred.jpg"
  },
  "aquiel": {
   "page": "Aquiel Uhnari",
-  "source": "https://static.wikia.nocookie.net/memoryalpha/images/b/b6/Aquiel_Uhnari.jpg/revision/latest/scale-to-width-down/267?cb=20170111115411&path-prefix=en",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/b/b6/Aquiel_Uhnari.jpg/revision/latest/scale-to-width-down/320?cb=20170111115411&path-prefix=en",
   "file": "aquiel.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Aquiel Uhnari.jpg"
  },
  "n-vek": {
   "page": "N'Vek",
-  "source": "https://static.wikia.nocookie.net/memoryalpha/images/e/ee/N%27Vek.jpg/revision/latest/scale-to-width-down/237?cb=20140713231427&path-prefix=en",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/e/ee/N%27Vek.jpg/revision/latest/scale-to-width-down/320?cb=20140713231427&path-prefix=en",
   "file": "n-vek.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:N'Vek.jpg"
  },
  "shrek": {
   "page": "Jaglom Shrek",
-  "source": "https://static.wikia.nocookie.net/memoryalpha/images/e/e1/Jaglom_Shrek.jpg/revision/latest/scale-to-width-down/313?cb=20140806222325&path-prefix=en",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/e/e1/Jaglom_Shrek.jpg/revision/latest/scale-to-width-down/320?cb=20140806222325&path-prefix=en",
   "file": "shrek.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Jaglom Shrek.jpg"
  },
  "ba-el": {
   "page": "Ba'el",
-  "source": "https://static.wikia.nocookie.net/memoryalpha/images/2/2e/Ba%27el.jpg/revision/latest/scale-to-width-down/309?cb=20211020145321&path-prefix=en",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/2/2e/Ba%27el.jpg/revision/latest/scale-to-width-down/320?cb=20211020145321&path-prefix=en",
   "file": "ba-el.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Ba'el.jpg"
  },
  "l-kor": {
   "page": "L'Kor",
-  "source": "https://static.wikia.nocookie.net/memoryalpha/images/2/2a/LKor.jpg/revision/latest/scale-to-width-down/305?cb=20211020144436&path-prefix=en",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/2/2a/LKor.jpg/revision/latest/scale-to-width-down/320?cb=20211020144436&path-prefix=en",
   "file": "l-kor.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:LKor.jpg"
  },
  "tokath": {
   "page": "Tokath",
   "source": "https://static.wikia.nocookie.net/memoryalpha/images/f/f8/Tokath.jpg/revision/latest/scale-to-width-down/320?cb=20211020145056&path-prefix=en",
   "file": "tokath.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Tokath.jpg"
  },
  "riker-2": {
   "page": "Thomas Riker",
@@ -782,131 +864,148 @@
   "page": "Crosis",
   "source": "https://static.wikia.nocookie.net/memoryalpha/images/6/6d/Crosis.jpg/revision/latest/scale-to-width-down/320?cb=20141207193636&path-prefix=en",
   "file": "crosis.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Crosis.jpg"
  },
  "taitt": {
   "page": "Taitt",
-  "source": "https://static.wikia.nocookie.net/memoryalpha/images/6/6f/Taitt.jpg/revision/latest/scale-to-width-down/269?cb=20141207193857&path-prefix=en",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/6/6f/Taitt.jpg/revision/latest/scale-to-width-down/320?cb=20141207193857&path-prefix=en",
   "file": "taitt.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Taitt.jpg"
  },
  "anna": {
   "page": "Anna (alias)",
-  "source": "https://static.wikia.nocookie.net/memoryalpha/images/e/e2/Anna.jpg/revision/latest/scale-to-width-down/277?cb=20141208010351&path-prefix=en",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/e/e2/Anna.jpg/revision/latest/scale-to-width-down/320?cb=20141208010351&path-prefix=en",
   "file": "anna.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Anna.jpg"
  },
  "silva": {
   "page": "Silva La Forge",
   "source": "https://static.wikia.nocookie.net/memoryalpha/images/7/72/Silva_La_Forge.jpg/revision/latest/scale-to-width-down/320?cb=20141213223912&path-prefix=en",
   "file": "silva.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Silva La Forge.jpg"
  },
  "giusti": {
   "page": "Giusti",
   "source": "https://static.wikia.nocookie.net/memoryalpha/images/9/9a/Giusti.jpg/revision/latest/scale-to-width-down/320?cb=20141214013157&path-prefix=en",
   "file": "giusti.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Giusti.jpg"
  },
  "baran": {
   "page": "Arctus Baran",
-  "source": "https://static.wikia.nocookie.net/memoryalpha/images/1/1c/Arctus_Baran.jpg/revision/latest/scale-to-width-down/260?cb=20141214013348&path-prefix=en",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/1/1c/Arctus_Baran.jpg/revision/latest/scale-to-width-down/320?cb=20141214013348&path-prefix=en",
   "file": "baran.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Arctus Baran.jpg"
  },
  "narik": {
   "page": "Narik",
-  "source": "https://static.wikia.nocookie.net/memoryalpha/images/9/9e/Narik.jpg/revision/latest/scale-to-width-down/258?cb=20141214013113&path-prefix=en",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/9/9e/Narik.jpg/revision/latest/scale-to-width-down/320?cb=20141214013113&path-prefix=en",
   "file": "narik.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Narik.jpg"
  },
  "tallera": {
   "page": "Tallera",
-  "source": "https://static.wikia.nocookie.net/memoryalpha/images/d/d1/Tallera.jpg/revision/latest/scale-to-width-down/288?cb=20141214022928&path-prefix=en",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/d/d1/Tallera.jpg/revision/latest/scale-to-width-down/320?cb=20141214022928&path-prefix=en",
   "file": "tallera.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Tallera.jpg"
  },
  "juliana": {
   "page": "Juliana Tainer",
-  "source": "https://static.wikia.nocookie.net/memoryalpha/images/e/eb/Juliana_Tainer%2C_android.jpg/revision/latest/scale-to-width-down/320?cb=20141225185910&path-prefix=en",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/c/c6/Juliana_Tainer.jpg/revision/latest/scale-to-width-down/320?cb=20141225182139&path-prefix=en",
   "file": "juliana.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Juliana Tainer.jpg"
  },
  "gates": {
   "page": "Gates",
-  "source": "https://static.wikia.nocookie.net/memoryalpha/images/6/69/Gates%2C_early_2369.jpg/revision/latest/scale-to-width-down/320?cb=20190330212847&path-prefix=en",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/2/26/Gates.jpg/revision/latest/scale-to-width-down/320?cb=20190331220625&path-prefix=en",
   "file": "gates.webp",
-  "era": "tng",
-  "image_title": "File:Gates, early 2369.jpg"
+  "era": "infobox",
+  "image_title": "File:Gates.jpg"
  },
  "pressman": {
   "page": "Erik Pressman",
-  "source": "https://static.wikia.nocookie.net/memoryalpha/images/e/e4/Erik_Pressman.jpg/revision/latest/scale-to-width-down/242?cb=20141207020000&path-prefix=en",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/e/e4/Erik_Pressman.jpg/revision/latest/scale-to-width-down/320?cb=20141207020000&path-prefix=en",
   "file": "pressman.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Erik Pressman.jpg"
  },
  "nikolai": {
   "page": "Nikolai Rozhenko",
   "source": "https://static.wikia.nocookie.net/memoryalpha/images/d/de/Nikolai_Rozhenko.jpg/revision/latest/scale-to-width-down/320?cb=20150217221424&path-prefix=en",
   "file": "nikolai.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Nikolai Rozhenko.jpg"
  },
  "quint": {
-  "page": "Quint Strack",
-  "era": "none"
+  "page": "Ned Quint",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/0/0b/Ned_Quint.jpg/revision/latest/scale-to-width-down/320?cb=20211019183526&path-prefix=en",
+  "file": "quint.webp",
+  "era": "infobox",
+  "image_title": "File:Ned Quint.jpg"
  },
  "ronin": {
   "page": "Ronin",
-  "source": "https://static.wikia.nocookie.net/memoryalpha/images/b/be/Anaphasic_lifeform.jpg/revision/latest/scale-to-width-down/320?cb=20120911104148&path-prefix=en",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/f/f6/Ronin.jpg/revision/latest/scale-to-width-down/320?cb=20150221220131&path-prefix=en",
   "file": "ronin.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Ronin.jpg"
  },
  "lavelle": {
   "page": "Sam Lavelle",
-  "source": "https://static.wikia.nocookie.net/memoryalpha/images/1/1b/Sam_Lavelle_at_helm.jpg/revision/latest/scale-to-width-down/261?cb=20141207024637&path-prefix=en",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/9/9a/Sam_lavelle.jpg/revision/latest/scale-to-width-down/320?cb=20141207024653&path-prefix=en",
   "file": "lavelle.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Sam lavelle.jpg"
  },
  "taurik": {
   "page": "Taurik",
-  "source": "https://static.wikia.nocookie.net/memoryalpha/images/2/28/Taurik.jpg/revision/latest/scale-to-width-down/290?cb=20141207025417&path-prefix=en",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/2/28/Taurik.jpg/revision/latest/scale-to-width-down/320?cb=20141207025417&path-prefix=en",
   "file": "taurik.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Taurik.jpg"
  },
  "garvin": {
   "page": "Garvin",
-  "source": "https://static.wikia.nocookie.net/memoryalpha/images/2/27/Garvin.jpg/revision/latest/scale-to-width-down/295?cb=20211019181314&path-prefix=en",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/2/27/Garvin.jpg/revision/latest/scale-to-width-down/320?cb=20211019181314&path-prefix=en",
   "file": "garvin.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Garvin.jpg"
  },
  "gia": {
   "page": "Gia (Barkonian)",
-  "source": "https://static.wikia.nocookie.net/memoryalpha/images/b/b3/Gia.jpg/revision/latest/scale-to-width-down/291?cb=20211019181712&path-prefix=en",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/b/b3/Gia.jpg/revision/latest/scale-to-width-down/320?cb=20211019181712&path-prefix=en",
   "file": "gia.webp",
-  "era": "lead"
- },
- "eric": {
-  "page": "Eric",
-  "era": "none"
+  "era": "infobox",
+  "image_title": "File:Gia.jpg"
  },
  "gul-evek": {
   "page": "Evek",
   "source": "https://static.wikia.nocookie.net/memoryalpha/images/3/3e/Evek%2C_2370.jpg/revision/latest/scale-to-width-down/320?cb=20211022164241&path-prefix=en",
   "file": "gul-evek.webp",
-  "era": "tng",
+  "era": "infobox",
   "image_title": "File:Evek, 2370.jpg"
  },
  "k-mtar": {
   "page": "K'mtar",
   "source": "https://static.wikia.nocookie.net/memoryalpha/images/c/c8/Kmtar.jpg/revision/latest/scale-to-width-down/320?cb=20190413070305&path-prefix=en",
   "file": "k-mtar.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Kmtar.jpg"
  },
  "jason": {
   "page": "Jason Vigo",
-  "source": "https://static.wikia.nocookie.net/memoryalpha/images/8/85/Young_Jason_Vigo.jpg/revision/latest?cb=20210223183603&path-prefix=en",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/4/4d/Jason_Vigo.jpg/revision/latest/scale-to-width-down/320?cb=20181001040055&path-prefix=en",
   "file": "jason.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Jason Vigo.jpg"
  },
  "troi": {
   "page": "Deanna Troi",
@@ -919,19 +1018,21 @@
   "page": "Lutan",
   "source": "https://static.wikia.nocookie.net/memoryalpha/images/4/49/Lutan.jpg/revision/latest/scale-to-width-down/320?cb=20180705161354&path-prefix=en",
   "file": "lutan.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Lutan.jpg"
  },
  "kosinski": {
   "page": "Kosinski",
-  "source": "https://static.wikia.nocookie.net/memoryalpha/images/8/8a/Kosinski.jpg/revision/latest/scale-to-width-down/289?cb=20120812132026&path-prefix=en",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/8/8a/Kosinski.jpg/revision/latest/scale-to-width-down/320?cb=20120812132026&path-prefix=en",
   "file": "kosinski.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Kosinski.jpg"
  },
  "traveller": {
   "page": "The Traveler",
   "source": "https://static.wikia.nocookie.net/memoryalpha/images/d/d8/The_Traveler%2C_2370.jpg/revision/latest/scale-to-width-down/320?cb=20211020210343&path-prefix=en",
   "file": "traveller.webp",
-  "era": "tng",
+  "era": "infobox",
   "image_title": "File:The Traveler, 2370.jpg"
  },
  "lore": {
@@ -943,15 +1044,17 @@
  },
  "jameson": {
   "page": "Mark Jameson",
-  "source": "https://static.wikia.nocookie.net/memoryalpha/images/b/bb/Jameson_in_pain.jpg/revision/latest/scale-to-width-down/320?cb=20120804215012&path-prefix=en",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/f/f5/Mark_Jameson%2C_85.jpg/revision/latest/scale-to-width-down/320?cb=20120804000256&path-prefix=en",
   "file": "jameson.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Mark Jameson, 85.jpg"
  },
  "jenice": {
   "page": "Jenice Manheim",
   "source": "https://static.wikia.nocookie.net/memoryalpha/images/3/3c/Jenice_Manheim.jpg/revision/latest/scale-to-width-down/320?cb=20120727025154&path-prefix=en",
   "file": "jenice.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Jenice Manheim.jpg"
  },
  "k-ehleyr": {
   "page": "K'Ehleyr",
@@ -978,78 +1081,89 @@
   "page": "Nel Apgar",
   "source": "https://static.wikia.nocookie.net/memoryalpha/images/8/88/Nel_Apgar.jpg/revision/latest/scale-to-width-down/320?cb=20161204213535&path-prefix=en",
   "file": "apgar.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Nel Apgar.jpg"
  },
  "haftel": {
   "page": "Haftel",
   "source": "https://static.wikia.nocookie.net/memoryalpha/images/4/41/Haftel.jpg/revision/latest/scale-to-width-down/320?cb=20230627152336&path-prefix=en",
   "file": "haftel.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Haftel.jpg"
  },
  "perrin": {
   "page": "Perrin",
-  "source": "https://static.wikia.nocookie.net/memoryalpha/images/6/68/Perrin.jpg/revision/latest/scale-to-width-down/283?cb=20180705155907&path-prefix=en",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/6/68/Perrin.jpg/revision/latest/scale-to-width-down/320?cb=20180705155907&path-prefix=en",
   "file": "perrin.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Perrin.jpg"
  },
  "sergey": {
   "page": "Sergey Rozhenko",
-  "source": "https://static.wikia.nocookie.net/memoryalpha/images/4/40/Sergey_Rozhenko.jpg/revision/latest/scale-to-width-down/319?cb=20211021175207&path-prefix=en",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/4/40/Sergey_Rozhenko.jpg/revision/latest/scale-to-width-down/320?cb=20211021175207&path-prefix=en",
   "file": "sergey.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Sergey Rozhenko.jpg"
  },
  "robert": {
   "page": "Robert Picard",
-  "source": "https://static.wikia.nocookie.net/memoryalpha/images/a/af/Robert_Picard.jpg/revision/latest/scale-to-width-down/291?cb=20211021174909&path-prefix=en",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/a/af/Robert_Picard.jpg/revision/latest/scale-to-width-down/320?cb=20211021174909&path-prefix=en",
   "file": "robert.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Robert Picard.jpg"
  },
  "dirgo": {
   "page": "Dirgo",
-  "era": "none"
+  "era": "infobox",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/c/c6/Dirgo.jpg/revision/latest/scale-to-width-down/320?cb=20180314153517&path-prefix=en",
+  "file": "dirgo.webp",
+  "image_title": "File:Dirgo.jpg"
  },
  "mcknight": {
   "page": "McKnight",
   "source": "https://static.wikia.nocookie.net/memoryalpha/images/8/8d/McKnight%2C_2367.jpg/revision/latest/scale-to-width-down/320?cb=20170129224837&path-prefix=en",
   "file": "mcknight.webp",
-  "era": "tng",
+  "era": "infobox",
   "image_title": "File:McKnight, 2367.jpg"
  },
  "durken": {
   "page": "Avel Durken",
-  "source": "https://static.wikia.nocookie.net/memoryalpha/images/9/9a/Avel_Durken.jpg/revision/latest/scale-to-width-down/307?cb=20180316024140&path-prefix=en",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/9/9a/Avel_Durken.jpg/revision/latest/scale-to-width-down/320?cb=20180316024140&path-prefix=en",
   "file": "durken.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Avel Durken.jpg"
  },
  "lursa": {
   "page": "Lursa",
-  "source": "https://static.wikia.nocookie.net/memoryalpha/images/8/84/Lursa%2C_2371.jpg/revision/latest/scale-to-width-down/320?cb=20111117215101&path-prefix=en",
-  "file": "lursa.webp",
-  "era": "lead"
+  "era": "none"
  },
  "mot": {
   "page": "Mot",
   "source": "https://static.wikia.nocookie.net/memoryalpha/images/e/eb/Mot.jpg/revision/latest/scale-to-width-down/320?cb=20240209124642&path-prefix=en",
   "file": "mot.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Mot.jpg"
  },
  "k-vada": {
   "page": "K'Vada",
   "source": "https://static.wikia.nocookie.net/memoryalpha/images/1/1b/K%27Vada.jpg/revision/latest/scale-to-width-down/320?cb=20190915064632&path-prefix=en",
   "file": "k-vada.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:K'Vada.jpg"
  },
  "soren": {
   "page": "Soren",
   "source": "https://static.wikia.nocookie.net/memoryalpha/images/a/a9/Soren.jpg/revision/latest/scale-to-width-down/320?cb=20190323015439&path-prefix=en",
   "file": "soren.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Soren.jpg"
  },
  "kamala": {
   "page": "Kamala",
   "source": "https://static.wikia.nocookie.net/memoryalpha/images/2/21/Kamala.jpg/revision/latest/scale-to-width-down/320?cb=20180319183248&path-prefix=en",
   "file": "kamala.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Kamala.jpg"
  },
  "nechayev": {
   "page": "Alynna Nechayev",
@@ -1060,47 +1174,66 @@
  },
  "gi-ral": {
   "page": "Gi'ral",
-  "source": "https://static.wikia.nocookie.net/memoryalpha/images/6/65/Giral.jpg/revision/latest/scale-to-width-down/254?cb=20160302192653&path-prefix=en",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/6/65/Giral.jpg/revision/latest/scale-to-width-down/320?cb=20160302192653&path-prefix=en",
   "file": "gi-ral.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:giral.jpg"
  },
  "kelsey": {
   "page": "Kelsey",
-  "source": "https://static.wikia.nocookie.net/memoryalpha/images/c/c6/Kelsey.jpg/revision/latest/scale-to-width-down/297?cb=20140914210325&path-prefix=en",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/c/c6/Kelsey.jpg/revision/latest/scale-to-width-down/320?cb=20140914210325&path-prefix=en",
   "file": "kelsey.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Kelsey.jpg"
  },
  "nella": {
   "page": "Nella Daren",
-  "source": "https://static.wikia.nocookie.net/memoryalpha/images/2/20/Nella_Daren.jpg/revision/latest/scale-to-width-down/258?cb=20140914221110&path-prefix=en",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/2/20/Nella_Daren.jpg/revision/latest/scale-to-width-down/320?cb=20140914221110&path-prefix=en",
   "file": "nella.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Nella Daren.jpg"
  },
  "mauric": {
   "page": "Mauric",
-  "source": "https://static.wikia.nocookie.net/memoryalpha/images/3/30/Mauric.jpg/revision/latest/scale-to-width-down/274?cb=20141217025056&path-prefix=en",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/3/30/Mauric.jpg/revision/latest/scale-to-width-down/320?cb=20141217025056&path-prefix=en",
   "file": "mauric.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Mauric.jpg"
  },
  "remmick": {
   "page": "Dexter Remmick",
-  "era": "none"
+  "era": "infobox",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/e/e8/Dexter_Remmick.jpg/revision/latest/scale-to-width-down/320?cb=20120726022843&path-prefix=en",
+  "file": "remmick.webp",
+  "image_title": "File:Dexter Remmick.jpg"
  },
  "ralph": {
   "page": "Ralph Offenhouse",
-  "era": "none"
+  "era": "infobox",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/0/0e/Ralph_Offenhouse.jpg/revision/latest/scale-to-width-down/320?cb=20120726002512&path-prefix=en",
+  "file": "ralph.webp",
+  "image_title": "File:Ralph Offenhouse.jpg"
  },
  "salia": {
   "page": "Salia",
-  "era": "none"
+  "era": "infobox",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/1/13/Salia.jpg/revision/latest/scale-to-width-down/320?cb=20121210010407&path-prefix=en",
+  "file": "salia.webp",
+  "image_title": "File:Salia.jpg"
  },
  "madeline": {
-  "page": "Madeline",
-  "era": "none"
+  "page": "Madeline (Dixon Hill)",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/9/97/Madeline.jpg/revision/latest/scale-to-width-down/320?cb=20161119233035&path-prefix=en",
+  "file": "madeline.webp",
+  "era": "infobox",
+  "image_title": "File:Madeline.jpg"
  },
  "k-mpec": {
   "page": "K'mpec",
-  "era": "none"
+  "era": "infobox",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/0/0c/Kmpec.jpg/revision/latest/scale-to-width-down/320?cb=20161209202418&path-prefix=en",
+  "file": "k-mpec.webp",
+  "image_title": "File:Kmpec.jpg"
  },
  "alexander": {
   "page": "Alexander Rozhenko",
@@ -1115,72 +1248,111 @@
  },
  "timicin": {
   "page": "Timicin",
-  "era": "none"
+  "era": "infobox",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/d/d0/Timicin.jpg/revision/latest/scale-to-width-down/320?cb=20180307005223&path-prefix=en",
+  "file": "timicin.webp",
+  "image_title": "File:Timicin.jpg"
  },
  "toral": {
-  "page": "Toral",
+  "page": "Toral, son of Duras",
   "era": "none"
  },
  "pardek": {
   "page": "Pardek",
-  "era": "none"
+  "era": "infobox",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/6/64/Pardek.jpg/revision/latest/scale-to-width-down/320?cb=20180705081249&path-prefix=en",
+  "file": "pardek.webp",
+  "image_title": "File:Pardek.jpg"
  },
  "russell": {
   "page": "Toby Russell",
-  "era": "none"
+  "era": "infobox",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/b/be/Toby_Russell.jpg/revision/latest/scale-to-width-down/320?cb=20211016200534&path-prefix=en",
+  "file": "russell.webp",
+  "image_title": "File:Toby Russell.jpg"
  },
  "hayes": {
-  "page": "Hayes",
-  "era": "none"
+  "page": "Hayes (Female Admiral)",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/a/a3/Hayes%2C_female_admiral.jpg/revision/latest/scale-to-width-down/320?cb=20190101012059&path-prefix=en",
+  "file": "hayes.webp",
+  "era": "infobox",
+  "image_title": "File:Hayes, female admiral.jpg"
  },
  "lemec": {
   "page": "Lemec",
-  "era": "none"
+  "era": "infobox",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/c/cb/Lemec.jpg/revision/latest/scale-to-width-down/320?cb=20140805213734&path-prefix=en",
+  "file": "lemec.webp",
+  "image_title": "File:Lemec.jpg"
  },
  "toreth": {
   "page": "Toreth",
-  "era": "none"
+  "era": "infobox",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/2/25/Toreth.jpg/revision/latest/scale-to-width-down/320?cb=20140713231352&path-prefix=en",
+  "file": "toreth.webp",
+  "image_title": "File:Toreth.jpg"
  },
  "jake-kurland": {
   "page": "Jake Kurland",
-  "era": "none"
+  "era": "infobox",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/6/6e/Jake_Kurland.jpg/revision/latest/scale-to-width-down/320?cb=20120730022336&path-prefix=en",
+  "file": "jake-kurland.webp",
+  "image_title": "File:Jake Kurland.jpg"
  },
  "ian-the-child": {
   "page": "Ian Troi",
-  "era": "none"
- },
- "williams-bridge": {
-  "page": "Williams (Commander)",
-  "era": "none"
+  "era": "infobox",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/2/21/Ian_Troi.jpg/revision/latest/scale-to-width-down/320?cb=20121204230922&path-prefix=en",
+  "file": "ian-the-child.webp",
+  "image_title": "File:Ian Troi.jpg"
  },
  "kyle-riker": {
   "page": "Kyle Riker",
-  "era": "none"
+  "era": "infobox",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/b/b6/Kyle_Riker.jpg/revision/latest/scale-to-width-down/320?cb=20121209040045&path-prefix=en",
+  "file": "kyle-riker.webp",
+  "image_title": "File:Kyle Riker.jpg"
  },
  "michael-williams": {
   "page": "Michael Williams",
-  "era": "none"
+  "era": "infobox",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/9/93/Michael_Williams.jpg/revision/latest/scale-to-width-down/320?cb=20110624170927&path-prefix=en",
+  "file": "michael-williams.webp",
+  "image_title": "File:Michael Williams.jpg"
  },
  "jake-potts": {
   "page": "Jake Potts",
-  "era": "none"
+  "era": "infobox",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/5/54/Jake_Potts.jpg/revision/latest/scale-to-width-down/320?cb=20140205103130&path-prefix=en",
+  "file": "jake-potts.webp",
+  "image_title": "File:Jake Potts.jpg"
  },
  "mrs-kyle": {
   "page": "Kyle (teacher)",
-  "era": "none"
+  "era": "infobox",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/b/b6/Kyle%2C_teacher.jpg/revision/latest/scale-to-width-down/320?cb=20211016203403&path-prefix=en",
+  "file": "mrs-kyle.webp",
+  "image_title": "File:Kyle, teacher.jpg"
  },
  "martin-violations": {
-  "page": "Michael A. Martin",
-  "era": "none"
+  "page": "Martin (Doctor)",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/3/3a/Martin%2C_doctor.jpg/revision/latest/scale-to-width-down/320?cb=20190413063745&path-prefix=en",
+  "file": "martin-violations.webp",
+  "era": "infobox",
+  "image_title": "File:Martin, doctor.jpg"
  },
  "ian-andrew-troi": {
-  "page": "Ian Troi",
-  "era": "none"
+  "page": "Ian Andrew Troi",
+  "source": "https://static.wikia.nocookie.net/memoryalpha/images/7/7e/Ian_Troi_photo.jpg/revision/latest/scale-to-width-down/320?cb=20141216011737&path-prefix=en",
+  "file": "ian-andrew-troi.webp",
+  "era": "infobox",
+  "image_title": "File:Ian Troi photo.jpg"
  },
  "brackett": {
   "page": "Ruah Brackett",
   "source": "https://static.wikia.nocookie.net/memoryalpha/images/b/b5/Brackett_%28Fleet_Admiral%29.jpg/revision/latest/scale-to-width-down/320?cb=20211019145903&path-prefix=en",
   "file": "brackett.webp",
-  "era": "lead"
+  "era": "infobox",
+  "image_title": "File:Brackett (Fleet Admiral).jpg"
  }
 }
