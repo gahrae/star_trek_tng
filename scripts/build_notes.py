@@ -367,7 +367,7 @@ with open(NOTES / "relationships.md", "w", encoding="utf-8") as f:
     for (a, b), n in [x for x in coapp.most_common() if x[0][0] not in REGULARS and x[0][1] not in REGULARS][:40]: f.write(f"| {char_link(a)} and {char_link(b)} | {n} |\n")
 
 with open(NOTES / "co_appearance.md", "w", encoding="utf-8") as f:
-    f.write("# Co-appearance matrix\n\nNumber of scenes in which both characters speak (main and recurring cast).\n\n")
+    f.write("# Co-appearance matrix\n\nHow often the main and recurring cast speak together, counted two ways. Hover a cell to follow its row and column.\n\n## Scenes shared\n\nNumber of scenes in which both characters speak.\n\n")
     f.write("| | " + " | ".join(SHORT[l] for l in REGULARS) + " |\n|---|" + "---:|" * len(REGULARS) + "\n")
     for a in REGULARS:
         f.write(f"| **{SHORT[a]}** | " + " | ".join("" if a == b else str(coapp.get((min(a, b), max(a, b)), 0)) for b in REGULARS) + " |\n")

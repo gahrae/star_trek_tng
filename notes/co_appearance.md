@@ -1,6 +1,10 @@
 # Co-appearance matrix
 
-Number of scenes in which both characters speak (main and recurring cast).
+How often the main and recurring cast speak together, counted two ways. Hover a cell to follow its row and column.
+
+## Scenes shared
+
+Number of scenes in which both characters speak.
 
 | | Picard | Riker | Data | La Forge | Worf | Crusher | Troi | Wesley | Yar | Pulaski | Guinan | O'Brien |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
