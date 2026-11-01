@@ -46,6 +46,10 @@ def locate(prod, phrase):
         if want in _flat(line[3]): return line
     raise ValueError(f"{CODE[prod]} has no dialogue line containing '{phrase}'")
 
+def _has_line(prod, phrase):
+    try: locate(prod, phrase); return True
+    except ValueError: return False
+
 def anchor(prod, raw):
     """Site anchor number of the dialogue line at a raw line number."""
     for l in dialogue(prod):
@@ -100,6 +104,10 @@ def _token(m, italics=True):
     else:
         title, _, phrase = m.group(1).partition("|")
         found = title_prods(title) if italics else []
+        if phrase and len(found) > 1:       # a story in several parts: the quoted line says which part it is in
+            hits = [p for p in found if _has_line(p, phrase)]
+            if len(hits) != 1: raise ValueError(f"'{phrase}' is in {len(hits)} parts of '{title}', not exactly one")
+            found = hits
     return found, phrase
 
 def cited_groups(text, italics=True):

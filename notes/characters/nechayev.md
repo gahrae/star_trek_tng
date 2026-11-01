@@ -12,7 +12,7 @@
 
 ## Key facts
 
-- Picard's frequent superior in later seasons; reprimands him for not using Hugh to destroy the Borg (*Descent* <span class="src">[S06E26](../../data/text/252.txt "Descent, part 1") · [S07E01](../../data/text/253.txt "Descent, part 2")</span>); oversees the Cardassian border and Maquis situation (*Journey's End* <span class="src">[S07E20](../../data/text/272.txt#L69 "Journey's End: NECHEYEV: I'll come right to the point, Captain. There is a situation that's developed on the Cardassian borde")</span>, *Preemptive Strike* <span class="src">[S07E24](../../data/text/276.txt "Preemptive Strike")</span>).
+- Picard's frequent superior in later seasons; reprimands him for not using Hugh to destroy the Borg (*Descent* <span class="src">[S06E26](../../data/text/252.txt#L194 "Descent, part 1: NECHAYEV: Captain, I've read the report that you submitted to Admiral Brooks last year regarding the Borg you ")</span>); oversees the Cardassian border and Maquis situation (*Journey's End* <span class="src">[S07E20](../../data/text/272.txt#L69 "Journey's End: NECHEYEV: I'll come right to the point, Captain. There is a situation that's developed on the Cardassian borde")</span>, *Preemptive Strike* <span class="src">[S07E24](../../data/text/276.txt "Preemptive Strike")</span>).
 
 ## Rank and role timeline
 

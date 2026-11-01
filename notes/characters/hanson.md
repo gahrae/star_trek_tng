@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Admiral leading the Borg task force, killed at Wolf 359 (*The Best of Both Worlds* <span class="src">[S03E26](../../data/text/174.txt "Best Of Both Worlds, part 1") · [S04E01](../../data/text/175.txt "Best of Both Worlds, part 2")</span>).
+- Admiral leading the Borg task force, killed at Wolf 359 (*The Best of Both Worlds* <span class="src">[S04E01](../../data/text/175.txt#L148 "Best of Both Worlds, part 2: DATA: It has engaged the Borg at Wolf three fifty nine, sir.")</span>).
 
 ## Most scenes shared with
 

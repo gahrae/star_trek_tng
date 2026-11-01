@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Sarek's human wife (*Sarek* <span class="src">[S03E23](../../data/text/171.txt "Sarek")</span>, *Unification* <span class="src">[S05E07](../../data/text/208.txt "Unification, part 1") · [S05E08](../../data/text/207.txt "Unification, part 2")</span>).
+- Sarek's human wife (*Sarek* <span class="src">[S03E23](../../data/text/171.txt "Sarek")</span>, *Unification* <span class="src">[S05E07](../../data/text/208.txt#L41 "Unification, part 1: PICARD: We should tell Sarek's wife of our plans.")</span>).
 
 ## Relationships
 

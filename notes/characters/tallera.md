@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Vulcan isolationist posing as a mercenary (*Gambit* <span class="src">[S07E04](../../data/text/256.txt "Gambit, part 1") · [S07E05](../../data/text/257.txt "Gambit, part 2")</span>).
+- Vulcan isolationist posing as a mercenary (*Gambit* <span class="src">[S07E05](../../data/text/257.txt#L279 "Gambit, part 2: TALLERA: That is correct. I infiltrated this ship a year ago posing as a Romulan mercenary. I'm here to invest")</span>).
 
 ## Most scenes shared with
 

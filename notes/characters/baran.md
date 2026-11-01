@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Mercenary captain seeking Vulcan artefacts (*Gambit* <span class="src">[S07E04](../../data/text/256.txt "Gambit, part 1") · [S07E05](../../data/text/257.txt "Gambit, part 2")</span>).
+- Mercenary captain seeking Vulcan artefacts (*Gambit* <span class="src">[S07E05](../../data/text/257.txt#L238 "Gambit, part 2: PICARD: A second artefact? Oh, by the way, that first artefacts is not Romulan. It's Vulcan.")</span>).
 
 ## Most scenes shared with
 

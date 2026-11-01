@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Klingon woman married to Tokath (*Birthright* <span class="src">[S06E16](../../data/text/242.txt "Birthright, part 1") · [S06E17](../../data/text/243.txt "Birthright, part 2")</span>).
+- Klingon woman married to Tokath (*Birthright* <span class="src">[S06E17](../../data/text/243.txt#L117 "Birthright, part 2: TOKATH: That's not what I see when I look in my wife's eyes. I married a Klingon. So you see, when I warn you ")</span>).
 
 ## Most scenes shared with
 
