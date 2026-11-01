@@ -79,7 +79,7 @@ svg text{fill:var(--text-primary);font-size:12px}svg .axis{stroke:var(--grid)}sv
 <div class="tip" id="tip"></div>
 
 <section class="viz" id="graph">
-<h2>Relationship graph</h2>
+<h2 id="relationship-graph">Relationship graph</h2>
 <p class="sub">Relationships (family, romance, rivalry, mentorship) recorded in the curated data between the main and recurring cast and the people they are tied to. Node size follows dialogue lines; colour follows affiliation. Drag to move, scroll to zoom.</p>
 <div class="controls"><label><input type="checkbox" id="rel" checked> Relationship edges</label><label><input type="checkbox" id="coapp"> Co-appearance edges (15+ shared scenes)</label><label>Charge <input type="range" id="charge" min="500" max="6000" value="2600"></label><label>Height <input type="range" id="gh" min="300" max="1600" step="20"></label><span style="color:var(--text-secondary)">(or drag the panel's bottom-right corner)</span></div>
 <div class="legend" id="glegend"></div>
@@ -87,27 +87,27 @@ svg text{fill:var(--text-primary);font-size:12px}svg .axis{stroke:var(--grid)}sv
 </section>
 
 <section class="viz" id="heatmap">
-<h2>Scenes shared, main cast</h2>
+<h2 id="scenes-shared-main-cast">Scenes shared, main cast</h2>
 <p class="sub">Number of scenes in which both characters speak. Darker is more.</p>
 <div class="heat" id="heat"></div>
 </section>
 
 <section class="viz" id="seasons">
-<h2>Dialogue lines per season</h2>
+<h2 id="dialogue-lines-per-season">Dialogue lines per season</h2>
 <p class="sub">The seven regulars across the run. Move across the chart to read exact values.</p>
 <div class="legend" id="slegend"></div>
 <svg id="sv" viewBox="0 0 900 380" style="width:100%;height:auto"></svg>
 </section>
 
 <section class="viz" id="stardates">
-<h2>Stardates across the run</h2>
+<h2 id="stardates-across-the-run">Stardates across the run</h2>
 <p class="sub">Each episode's stated stardate against its broadcast position. Stardates advance about a thousand units per season; hollow orange points are episodes whose stardate is earlier than the previous episode's. Four episodes give no stardate and are omitted.</p>
 <div class="legend"><span style="--c:var(--s1)">stardate</span><span style="--c:var(--s2)">earlier than the previous episode</span></div>
 <svg id="sdv" viewBox="0 0 1000 420" style="width:100%;height:auto"></svg>
 </section>
 
 <section class="viz" id="timeline">
-<h2>Arc timeline</h2>
+<h2 id="arc-timeline">Arc timeline</h2>
 <p class="sub">One cell per transcript entry, in broadcast order by season. Pick an arc to highlight its episodes.</p>
 <div class="controls"><label>Arc <select id="arc"></select></label><span id="arccount" style="color:var(--text-secondary)"></span></div>
 <div class="tl" id="tl"></div>

@@ -353,7 +353,7 @@ def main():
     (SITE / "transcripts" / "index.html").write_text(shell("Transcripts", "<h1>Transcripts</h1><p>All 176 transcripts, reformatted with linked speaker names. Titles open the episode note. To find a line, use <a href=\"../search.html\">Search</a>.</p>"
         "<table><thead><tr><th>Code</th><th>Episode</th><th>Aired</th><th>Transcript</th></tr></thead><tbody>" + "".join(rows) + "</tbody></table>", "transcripts/index.md", 1), encoding="utf-8")
     # visuals
-    (SITE / "visuals.html").write_text(shell("Visualisations", site_visuals.PAGE_BODY, "visuals.md", 0), encoding="utf-8")
+    (SITE / "visuals.html").write_text(shell("Visualisations", add_contents(site_visuals.PAGE_BODY), "visuals.md", 0), encoding="utf-8")
     # search index: episodes (title, code, synopsis) and characters (name, description)
     from curated_episodes import EPISODES
     from curated_characters import FACTS, GUESTS
