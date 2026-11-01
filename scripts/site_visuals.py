@@ -57,27 +57,82 @@ def build_data(root):
     return {"stardates": stardates, "nodes": list(nodes.values()), "edges": edges, "co_edges": co_edges, "groups": GROUPS, "heat": {"labels": [SHORT[l] for l in REGULARS], "m": heat, "m_eps": heat_eps},
             "seasons": seasons, "timeline": timeline, "arcs": ARCS, "arc_groups": ARC_GROUPS}
 
-PAGE_BODY = """
-<h1>Visualisations</h1>
-<p>Interactive views of the same data as the notes. Hover for details; click a node, cell or episode to open its page. All views are also available as tables in the notes.</p>
-<style>
-main{max-width:none}.gwrap{height:max(560px,72vh);min-height:300px;resize:vertical;overflow:hidden;border-radius:8px}
+CHART_CSS = """
 .viz{--surface-1:#fcfcfb;--text-primary:#0b0b0b;--text-secondary:#52514e;--grid:#e4e3df;--s1:#2a78d6;--s2:#eb6834;--s3:#1baf7a;--s4:#eda100;--s5:#e87ba4;--s6:#008300;--s7:#6250d6;--s8:#e34948;
  --seq1:#cde2fb;--seq2:#9ec5f4;--seq3:#6da7ec;--seq4:#3987e5;--seq5:#256abf;--seq6:#184f95;--seq7:#0d366b;color-scheme:light;background:var(--surface-1);color:var(--text-primary);border:1px solid var(--grid);border-radius:10px;padding:1rem;margin:1.5rem 0}
 @media (prefers-color-scheme: dark){:root:where(:not([data-theme="light"])) .viz{color-scheme:dark;--surface-1:#1a1a19;--text-primary:#f0efec;--text-secondary:#c3c2b7;--grid:#383835;--s1:#3987e5;--s2:#d95926;--s3:#199e70;--s4:#c98500;--s5:#d55181;--s6:#008300;--s7:#9085e9;--s8:#e66767;--seq1:#0d366b;--seq2:#104281;--seq3:#1c5cab;--seq4:#256abf;--seq5:#3987e5;--seq6:#6da7ec;--seq7:#9ec5f4}}
 :root[data-theme="dark"] .viz{color-scheme:dark;--surface-1:#1a1a19;--text-primary:#f0efec;--text-secondary:#c3c2b7;--grid:#383835;--s1:#3987e5;--s2:#d95926;--s3:#199e70;--s4:#c98500;--s5:#d55181;--s6:#008300;--s7:#9085e9;--s8:#e66767;--seq1:#0d366b;--seq2:#104281;--seq3:#1c5cab;--seq4:#256abf;--seq5:#3987e5;--seq6:#6da7ec;--seq7:#9ec5f4}
 .viz h2{margin:.2rem 0 .3rem;font-size:1.15rem;border:0;padding:0;color:var(--text-primary)}
 .viz details.sec{margin-top:0}.viz details.sec>summary h2{margin:.2rem 0 .3rem}      /* the cards have their own spacing; the generic fold-able section adds more */.viz p.sub{color:var(--text-secondary);margin:0 0 .8rem;font-size:.9rem}
-.viz .controls{display:flex;flex-wrap:wrap;gap:.5rem 1rem;align-items:center;margin-bottom:.6rem;font-size:.9rem}
-.viz select,.viz input[type=range]{background:var(--surface-1);color:var(--text-primary);border:1px solid var(--grid);border-radius:6px;padding:.25rem .4rem}
 .legend{display:flex;flex-wrap:wrap;gap:.4rem 1rem;font-size:.85rem;color:var(--text-secondary);margin:.4rem 0}.legend span::before{content:"";display:inline-block;width:10px;height:10px;border-radius:50%;background:var(--c);margin-right:.35rem;vertical-align:middle}
 .legend span.line::before{height:2px;width:16px;border-radius:0}
+svg text{fill:var(--text-primary);font-size:12px}svg .axis{stroke:var(--grid)}svg .lab{fill:var(--text-secondary)}
+"""
+
+SHARED_JS = r"""
+// shared by the Visuals page and the Stats page: tooltip, and the lines-per-season and stardate charts
+const tip=document.getElementById('tip');
+function showTip(e,html){tip.innerHTML=html;tip.style.display='block';const x=Math.min(e.clientX+14,innerWidth-tip.offsetWidth-8);tip.style.left=x+'px';tip.style.top=(e.clientY+14)+'px';}
+function hideTip(){tip.style.display='none';}
+const css=n=>getComputedStyle(document.querySelector('.viz')).getPropertyValue(n).trim();
+// ---------- lines per season (SVG line chart with crosshair)
+function seasons(D){
+ const svg=document.getElementById('sv'),names=Object.keys(D.seasons),cols=['--s1','--s2','--s3','--s4','--s5','--s6','--s7'];
+ const W=900,H=380,m={l:50,r:90,t:16,b:34},max=Math.ceil(Math.max(...names.flatMap(n=>D.seasons[n]))/500)*500;
+ const x=s=>m.l+(s-1)*(W-m.l-m.r)/6,y=v=>H-m.b-v*(H-m.t-m.b)/max;
+ let g='';for(let v=0;v<=max;v+=500)g+=`<line class="axis" x1="${m.l}" x2="${W-m.r}" y1="${y(v)}" y2="${y(v)}"/><text class="lab" x="${m.l-6}" y="${y(v)+4}" text-anchor="end">${v}</text>`;
+ for(let s=1;s<=7;s++)g+=`<text class="lab" x="${x(s)}" y="${H-m.b+18}" text-anchor="middle">S${s}</text>`;
+ names.forEach((n,i)=>{const d=D.seasons[n].map((v,k)=>`${k?'L':'M'}${x(k+1)},${y(v)}`).join(' ');g+=`<path d="${d}" fill="none" stroke="var(${cols[i]})" stroke-width="2" stroke-linejoin="round"/>`;
+  D.seasons[n].forEach((v,k)=>{if(v)g+=`<circle cx="${x(k+1)}" cy="${y(v)}" r="4" fill="var(${cols[i]})" stroke="var(--surface-1)" stroke-width="2"/>`;});
+  });
+ // direct labels at the right edge, nudged apart so they never overlap
+ const labs=names.map((n,i)=>({n,i,y:y(D.seasons[n][6])})).sort((a,b)=>a.y-b.y);
+ for(let k=1;k<labs.length;k++)if(labs[k].y-labs[k-1].y<14)labs[k].y=labs[k-1].y+14;
+ for(let k=labs.length-2;k>=0;k--)if(labs[k+1].y-labs[k].y<14)labs[k].y=labs[k+1].y-14;
+ labs.forEach(l=>{const ly=y(D.seasons[l.n][6]);g+=`<line class="axis" x1="${x(7)+4}" y1="${ly}" x2="${x(7)+10}" y2="${l.y}"/><text x="${x(7)+12}" y="${l.y+4}">${l.n}</text>`;});
+ g+=`<line id="xh" class="axis" y1="${m.t}" y2="${H-m.b}" x1="0" x2="0" style="display:none" stroke-dasharray="3 3"/>`;svg.innerHTML=g;
+ document.getElementById('slegend').innerHTML=names.map((n,i)=>`<span class="line" style="--c:var(${cols[i]})">${n}</span>`).join('');
+ const xh=document.getElementById('xh');
+ svg.onmousemove=e=>{const b=svg.getBoundingClientRect(),px=(e.clientX-b.left)*W/b.width,s=Math.max(1,Math.min(7,Math.round((px-m.l)/((W-m.l-m.r)/6))+1));xh.setAttribute('x1',x(s));xh.setAttribute('x2',x(s));xh.style.display='';
+  showTip(e,`<b>Season ${s}</b><br>`+names.map(n=>`${n}: ${D.seasons[n][s-1]}`).join('<br>'));};
+ svg.onmouseleave=()=>{xh.style.display='none';hideTip();};
+}
+
+// ---------- stardates in broadcast order (scatter + line, season bands)
+function stardates(D){
+ const svg=document.getElementById('sdv'),P=D.stardates,W=1000,H=420,m={l:62,r:16,t:14,b:36};
+ const pts=P.filter(p=>p.sd!==null),lo=Math.floor(Math.min(...pts.map(p=>p.sd))/1000)*1000,hi=Math.ceil(Math.max(...pts.map(p=>p.sd))/1000)*1000;
+ const x=i=>m.l+(i-1)*(W-m.l-m.r)/(P.length-1),y=v=>H-m.b-(v-lo)*(H-m.t-m.b)/(hi-lo);
+ let g='';
+ const seasons={};P.forEach(p=>{(seasons[p.season]=seasons[p.season]||[]).push(p.i);});
+ Object.entries(seasons).forEach(([s,is],k)=>{const a=x(Math.min(...is)),b=x(Math.max(...is));if(k%2)g+=`<rect x="${a}" y="${m.t}" width="${b-a}" height="${H-m.t-m.b}" fill="var(--grid)" opacity=".35"/>`;g+=`<text class="lab" x="${(a+b)/2}" y="${H-m.b+18}" text-anchor="middle">Season ${s}</text>`;});
+ for(let v=lo;v<=hi;v+=1000)g+=`<line class="axis" x1="${m.l}" x2="${W-m.r}" y1="${y(v)}" y2="${y(v)}"/><text class="lab" x="${m.l-6}" y="${y(v)+4}" text-anchor="end">${v}</text>`;
+ g+=`<path d="${pts.map((p,k)=>`${k?'L':'M'}${x(p.i)},${y(p.sd)}`).join(' ')}" fill="none" stroke="var(--s1)" stroke-width="1.5" opacity=".6"/>`;
+ pts.forEach(p=>{g+=p.back?`<circle class="pt" data-i="${p.i}" cx="${x(p.i)}" cy="${y(p.sd)}" r="4.5" fill="var(--surface-1)" stroke="var(--s2)" stroke-width="2"/>`:`<circle class="pt" data-i="${p.i}" cx="${x(p.i)}" cy="${y(p.sd)}" r="3.5" fill="var(--s1)" stroke="var(--surface-1)" stroke-width="1.5"/>`;});
+ svg.innerHTML=g;const byI={};P.forEach(p=>byI[p.i]=p);
+ svg.querySelectorAll('.pt').forEach(c=>{const p=byI[c.dataset.i];c.style.cursor='pointer';c.onmousemove=e=>showTip(e,`<b>${p.code} ${p.title}</b><br>Stardate ${p.sd}<br>Aired ${p.airdate}${p.back?'<br><i>earlier than the previous episode</i>':''}`);c.onmouseleave=hideTip;c.onclick=()=>location.href=VROOT+p.url;});
+}
+
+"""
+
+STATS_CHARTS = {
+ "dialogue-lines-per-season-main-and-recurring-cast": '''<div class="viz"><p class="sub">The seven regulars across the run. Move across the chart to read exact values; the table below has the whole cast.</p><div class="legend" id="slegend"></div><svg id="sv" viewBox="0 0 900 380" style="width:100%;height:auto"></svg></div>''',
+ "stardate-anomalies": '''<div class="viz"><p class="sub">Each episode's stated stardate against its broadcast position. Hollow orange points are episodes whose stardate is earlier than the previous episode's, the ones in the table below.</p><div class="legend"><span style="--c:var(--s1)">stardate</span><span style="--c:var(--s2)">earlier than the previous episode</span></div><svg id="sdv" viewBox="0 0 1000 420" style="width:100%;height:auto"></svg></div>''',
+}
+STATS_BOOT = '<script src="viz.js"></script><script>fetch("data/visuals.json").then(r=>r.json()).then(D=>{seasons(D);stardates(D);});</script>'
+
+PAGE_BODY = """
+<h1>Visualisations</h1>
+<p>Interactive views of the same data as the notes. Hover for details; click a node, cell or episode to open its page. All views are also available as tables in the notes.</p>
+<style>
+main{max-width:none}.gwrap{height:max(560px,72vh);min-height:300px;resize:vertical;overflow:hidden;border-radius:8px}
+.viz .controls{display:flex;flex-wrap:wrap;gap:.5rem 1rem;align-items:center;margin-bottom:.6rem;font-size:.9rem}
+.viz select,.viz input[type=range]{background:var(--surface-1);color:var(--text-primary);border:1px solid var(--grid);border-radius:6px;padding:.25rem .4rem}
 canvas{width:100%;height:100%;display:block;border-radius:8px;cursor:grab}
 .tip{position:fixed;pointer-events:none;background:var(--panel,#fff);color:var(--text,#111);border:1px solid var(--line,#ccc);border-radius:6px;padding:.35rem .55rem;font-size:.85rem;max-width:22rem;z-index:9;display:none;box-shadow:0 2px 8px rgba(0,0,0,.2)}
 .heat{display:grid;gap:2px;font-size:.78rem;max-width:760px}.heat div{aspect-ratio:1;display:flex;align-items:center;justify-content:center;border-radius:3px;min-width:0}.heat .h{background:none;color:var(--text-secondary);aspect-ratio:auto;padding:.2rem;justify-content:flex-end}.heat .ht{aspect-ratio:auto;justify-content:center;writing-mode:vertical-rl;transform:rotate(180deg);padding:.2rem}
 .heat .c{color:var(--text-primary);cursor:default}
 .heat.mx-active .c{opacity:.38;transition:opacity .08s}.heat.mx-active .c.hl-row,.heat.mx-active .c.hl-col{opacity:1}.heat.mx-active .c.hl-cell{outline:2px solid var(--text-primary);outline-offset:-2px}.heat .h.hl-lab{font-weight:700;color:var(--text-primary)}.heat .c.dark{color:#fff}
-svg text{fill:var(--text-primary);font-size:12px}svg .axis{stroke:var(--grid)}svg .lab{fill:var(--text-secondary)}
 .tl{display:grid;grid-template-columns:3rem repeat(28,1fr);gap:3px;align-items:center}.tl .cell{aspect-ratio:1;border-radius:3px;background:var(--grid);cursor:pointer}.tl .cell.on{background:var(--s1)}.tl .cell:hover{outline:2px solid var(--text-primary)}.tl .sl{color:var(--text-secondary);font-size:.8rem}
 </style>
 <div class="tip" id="tip"></div>
@@ -102,20 +157,6 @@ svg text{fill:var(--text-primary);font-size:12px}svg .axis{stroke:var(--grid)}sv
 <div class="heat" id="heat-eps"></div>
 </details></section>
 
-<section class="viz" id="seasons">
-<details class="sec" open><summary><h2 id="dialogue-lines-per-season">Dialogue lines per season</h2></summary>
-<p class="sub">The seven regulars across the run. Move across the chart to read exact values.</p>
-<div class="legend" id="slegend"></div>
-<svg id="sv" viewBox="0 0 900 380" style="width:100%;height:auto"></svg>
-</details></section>
-
-<section class="viz" id="stardates">
-<details class="sec" open><summary><h2 id="stardates-across-the-run">Stardates across the run</h2></summary>
-<p class="sub">Each episode's stated stardate against its broadcast position. Stardates advance about a thousand units per season; hollow orange points are episodes whose stardate is earlier than the previous episode's. Four episodes give no stardate and are omitted.</p>
-<div class="legend"><span style="--c:var(--s1)">stardate</span><span style="--c:var(--s2)">earlier than the previous episode</span></div>
-<svg id="sdv" viewBox="0 0 1000 420" style="width:100%;height:auto"></svg>
-</details></section>
-
 <section class="viz" id="timeline">
 <details class="sec" open><summary><h2 id="arc-timeline">Arc timeline</h2></summary>
 <p class="sub">One cell per transcript entry, in broadcast order by season. Pick an arc to highlight its episodes.</p>
@@ -123,12 +164,10 @@ svg text{fill:var(--text-primary);font-size:12px}svg .axis{stroke:var(--grid)}sv
 <div class="tl" id="tl"></div>
 </details></section>
 
+<script src="viz.js"></script>
 <script>
-const VROOT='';const tip=document.getElementById('tip');
-function showTip(e,html){tip.innerHTML=html;tip.style.display='block';const x=Math.min(e.clientX+14,innerWidth-tip.offsetWidth-8);tip.style.left=x+'px';tip.style.top=(e.clientY+14)+'px';}
-function hideTip(){tip.style.display='none';}
-const css=n=>getComputedStyle(document.querySelector('.viz')).getPropertyValue(n).trim();
-fetch(VROOT+'data/visuals.json').then(r=>r.json()).then(D=>{graph(D);heat(D);seasons(D);stardates(D);timeline(D);});
+const VROOT='';
+fetch(VROOT+'data/visuals.json').then(r=>r.json()).then(D=>{graph(D);heat(D);timeline(D);});
 
 // ---------- force-directed relationship graph (canvas, no dependencies)
 function graph(D){
@@ -188,44 +227,6 @@ function drawHeat(id,L,M,unit){
  cells.forEach(c=>{c.onmousemove=e=>showTip(e,c.dataset.t);
   c.onmouseenter=()=>{clear();el.classList.add('mx-active');const r=c.dataset.r,k=c.dataset.c;cells.forEach(x=>{if(x.dataset.r===r)x.classList.add('hl-row');if(x.dataset.c===k)x.classList.add('hl-col');});c.classList.add('hl-cell');rh[+r].classList.add('hl-lab');ch[+k].classList.add('hl-lab');};
   c.onmouseleave=()=>{hideTip();clear();};});
-}
-
-// ---------- lines per season (SVG line chart with crosshair)
-function seasons(D){
- const svg=document.getElementById('sv'),names=Object.keys(D.seasons),cols=['--s1','--s2','--s3','--s4','--s5','--s6','--s7'];
- const W=900,H=380,m={l:50,r:90,t:16,b:34},max=Math.ceil(Math.max(...names.flatMap(n=>D.seasons[n]))/500)*500;
- const x=s=>m.l+(s-1)*(W-m.l-m.r)/6,y=v=>H-m.b-v*(H-m.t-m.b)/max;
- let g='';for(let v=0;v<=max;v+=500)g+=`<line class="axis" x1="${m.l}" x2="${W-m.r}" y1="${y(v)}" y2="${y(v)}"/><text class="lab" x="${m.l-6}" y="${y(v)+4}" text-anchor="end">${v}</text>`;
- for(let s=1;s<=7;s++)g+=`<text class="lab" x="${x(s)}" y="${H-m.b+18}" text-anchor="middle">S${s}</text>`;
- names.forEach((n,i)=>{const d=D.seasons[n].map((v,k)=>`${k?'L':'M'}${x(k+1)},${y(v)}`).join(' ');g+=`<path d="${d}" fill="none" stroke="var(${cols[i]})" stroke-width="2" stroke-linejoin="round"/>`;
-  D.seasons[n].forEach((v,k)=>{if(v)g+=`<circle cx="${x(k+1)}" cy="${y(v)}" r="4" fill="var(${cols[i]})" stroke="var(--surface-1)" stroke-width="2"/>`;});
-  });
- // direct labels at the right edge, nudged apart so they never overlap
- const labs=names.map((n,i)=>({n,i,y:y(D.seasons[n][6])})).sort((a,b)=>a.y-b.y);
- for(let k=1;k<labs.length;k++)if(labs[k].y-labs[k-1].y<14)labs[k].y=labs[k-1].y+14;
- for(let k=labs.length-2;k>=0;k--)if(labs[k+1].y-labs[k].y<14)labs[k].y=labs[k+1].y-14;
- labs.forEach(l=>{const ly=y(D.seasons[l.n][6]);g+=`<line class="axis" x1="${x(7)+4}" y1="${ly}" x2="${x(7)+10}" y2="${l.y}"/><text x="${x(7)+12}" y="${l.y+4}">${l.n}</text>`;});
- g+=`<line id="xh" class="axis" y1="${m.t}" y2="${H-m.b}" x1="0" x2="0" style="display:none" stroke-dasharray="3 3"/>`;svg.innerHTML=g;
- document.getElementById('slegend').innerHTML=names.map((n,i)=>`<span class="line" style="--c:var(${cols[i]})">${n}</span>`).join('');
- const xh=document.getElementById('xh');
- svg.onmousemove=e=>{const b=svg.getBoundingClientRect(),px=(e.clientX-b.left)*W/b.width,s=Math.max(1,Math.min(7,Math.round((px-m.l)/((W-m.l-m.r)/6))+1));xh.setAttribute('x1',x(s));xh.setAttribute('x2',x(s));xh.style.display='';
-  showTip(e,`<b>Season ${s}</b><br>`+names.map(n=>`${n}: ${D.seasons[n][s-1]}`).join('<br>'));};
- svg.onmouseleave=()=>{xh.style.display='none';hideTip();};
-}
-
-// ---------- stardates in broadcast order (scatter + line, season bands)
-function stardates(D){
- const svg=document.getElementById('sdv'),P=D.stardates,W=1000,H=420,m={l:62,r:16,t:14,b:36};
- const pts=P.filter(p=>p.sd!==null),lo=Math.floor(Math.min(...pts.map(p=>p.sd))/1000)*1000,hi=Math.ceil(Math.max(...pts.map(p=>p.sd))/1000)*1000;
- const x=i=>m.l+(i-1)*(W-m.l-m.r)/(P.length-1),y=v=>H-m.b-(v-lo)*(H-m.t-m.b)/(hi-lo);
- let g='';
- const seasons={};P.forEach(p=>{(seasons[p.season]=seasons[p.season]||[]).push(p.i);});
- Object.entries(seasons).forEach(([s,is],k)=>{const a=x(Math.min(...is)),b=x(Math.max(...is));if(k%2)g+=`<rect x="${a}" y="${m.t}" width="${b-a}" height="${H-m.t-m.b}" fill="var(--grid)" opacity=".35"/>`;g+=`<text class="lab" x="${(a+b)/2}" y="${H-m.b+18}" text-anchor="middle">Season ${s}</text>`;});
- for(let v=lo;v<=hi;v+=1000)g+=`<line class="axis" x1="${m.l}" x2="${W-m.r}" y1="${y(v)}" y2="${y(v)}"/><text class="lab" x="${m.l-6}" y="${y(v)+4}" text-anchor="end">${v}</text>`;
- g+=`<path d="${pts.map((p,k)=>`${k?'L':'M'}${x(p.i)},${y(p.sd)}`).join(' ')}" fill="none" stroke="var(--s1)" stroke-width="1.5" opacity=".6"/>`;
- pts.forEach(p=>{g+=p.back?`<circle class="pt" data-i="${p.i}" cx="${x(p.i)}" cy="${y(p.sd)}" r="4.5" fill="var(--surface-1)" stroke="var(--s2)" stroke-width="2"/>`:`<circle class="pt" data-i="${p.i}" cx="${x(p.i)}" cy="${y(p.sd)}" r="3.5" fill="var(--s1)" stroke="var(--surface-1)" stroke-width="1.5"/>`;});
- svg.innerHTML=g;const byI={};P.forEach(p=>byI[p.i]=p);
- svg.querySelectorAll('.pt').forEach(c=>{const p=byI[c.dataset.i];c.style.cursor='pointer';c.onmousemove=e=>showTip(e,`<b>${p.code} ${p.title}</b><br>Stardate ${p.sd}<br>Aired ${p.airdate}${p.back?'<br><i>earlier than the previous episode</i>':''}`);c.onmouseleave=hideTip;c.onclick=()=>location.href=VROOT+p.url;});
 }
 
 // ---------- arc timeline

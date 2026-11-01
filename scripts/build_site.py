@@ -82,6 +82,8 @@ footer a{color:inherit;text-decoration:underline}footer{color:var(--muted);font-
 header .menu{display:none}
 @media (max-width:700px){header{padding:.5rem .8rem}header::before{display:none}header .brand{font-size:.95rem;margin-right:.3rem}header .menu{display:inline-block;background:var(--peach);color:#0b0b0f;border:0;border-radius:1rem;padding:.3rem .7rem;font:inherit;font-size:.8rem;font-weight:700;text-transform:uppercase;letter-spacing:.06em;cursor:pointer;white-space:nowrap}header .search{flex:1;min-width:7rem;margin-left:.4rem}header input{width:100%;max-width:none}#results{width:90vw}header nav{display:none;position:absolute;left:0;right:0;top:100%;background:var(--bg);padding:.6rem .8rem .8rem;border-bottom:3px solid var(--tan);box-shadow:0 8px 16px rgba(0,0,0,.5)}header.open nav{display:flex}}
 """
+CSS += site_visuals.CHART_CSS          # chart colours and styles, used on the Visuals and Stats pages
+
 JS = """
 // a link to a folded section (the contents box, or a copied URL) opens it first
 function openSection(){const t=location.hash&&document.getElementById(decodeURIComponent(location.hash.slice(1)));if(!t)return;for(let d=t.closest('details.sec');d;d=d.parentElement&&d.parentElement.closest('details.sec'))d.open=true;t.scrollIntoView();}
@@ -172,6 +174,13 @@ def collapsible(body):
         out += f'<details class="sec" open><summary>{m.group(1)}</summary>{m.group(2)}</details>'
     return out
 
+def add_stats_charts(body):
+    """Put the lines-per-season and stardate charts in the sections of the Stats tables they pair with."""
+    for hid, chart in site_visuals.STATS_CHARTS.items():
+        body, n = re.subn(rf'(<h2 id="{hid}">.*?</h2>)', lambda m: m.group(1) + chart, body, count=1, flags=re.S)
+        assert n == 1, f"Stats has no section {hid} to put a chart in"
+    return body + site_visuals.STATS_BOOT
+
 def render(md_path):
     rel = md_path.relative_to(NOTES); depth = len(rel.parts) - 1
     text = md_path.read_text(encoding="utf-8")
@@ -186,6 +195,7 @@ def render(md_path):
     left = re.findall(r'href="[^"]*data/text/[^"]*"', re.sub(r"<code>.*?</code>", "", body))
     if left: raise ValueError(f"a source link to a raw transcript was not rewritten: {left[:2]}")
     title = re.search(r"^# (.+)$", text, re.M); title = html.unescape(title.group(1)) if title else rel.stem
+    if rel.name == "stats.md": body = add_stats_charts(body)
     if rel.parent.name == "characters": body = character_extras(body, rel.stem)
     if rel.parent.name == "episodes": body = episode_still(body, rel.stem, title)
     return shell(title, collapsible(body), str(rel), depth)
@@ -339,6 +349,7 @@ def main():
     if SITE.exists(): shutil.rmtree(SITE)
     SITE.mkdir(); (SITE / "data").mkdir(); (SITE / ".nojekyll").write_text("")   # GitHub Pages: serve as plain files
     vis = site_visuals.build_data(ROOT); (SITE / "data" / "visuals.json").write_text(json.dumps(vis, ensure_ascii=False), encoding="utf-8")
+    (SITE / "viz.js").write_text(site_visuals.SHARED_JS, encoding="utf-8")
     GRAPH_LABELS.update(n["id"] for n in vis["nodes"])
     shutil.copy(ROOT / "scripts" / "site_ego.js", SITE / "ego.js")
     if (ROOT / "data" / "images").exists(): shutil.copytree(ROOT / "data" / "images", SITE / "images")
