@@ -154,9 +154,10 @@ def match_role(role, prod):
     full = role.split("(")[0].strip()
     if full in FULL_ROLES: return FULL_ROLES[full]
     toks = [t for t in (re.sub(r"[^A-Z'\-]", "", t.upper()) for t in full.replace(".", " ").split()) if t]
-    for labels in (set(lines_by_ep[prod]) | set(presence[prod]), set(PROFILES)):   # this episode's speakers, then the regular cast
-        for i, t in enumerate(toks):
-            t2 = ROLE_ALIASES.get(t, t)
+    sets = (set(lines_by_ep[prod]) | set(presence[prod]), set(PROFILES))      # this episode's speakers, then the regular cast
+    for i, t in enumerate(toks):       # each word of the role in the order it is written, so a first name beats a surname: "Wesley Crusher" is Wesley, not Beverly
+        t2 = ROLE_ALIASES.get(t, t)
+        for labels in sets:
             if t2 in labels: return t2
             if i + 1 < len(toks):
                 for joined in (t + toks[i + 1], t + " " + toks[i + 1]):

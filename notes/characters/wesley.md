@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | Transcript label | `WESLEY` |
-| Episodes | 68 of 176 speaking |
+| Episodes | 68 of 176 speaking, plus 1 non-speaking |
 | Dialogue lines | 1398 |
 | Played by | Wil Wheaton |
 | Species | Human |
@@ -128,6 +128,14 @@
 | S05E19 | [The First Duty](../episodes/219.md) | 56 |
 | S07E11 | [Parallels](../episodes/263.md) | 15 |
 | S07E20 | [Journey's End](../episodes/272.md) | 70 |
+
+## Non-speaking appearances
+
+Episodes where the character appears without dialogue, and how we know.
+
+| Code | Episode | Source |
+|---|---|---|
+| S01E05 | [The Last Outpost](../episodes/107.md) | cast list |
 
 ## Heaviest episodes
 
