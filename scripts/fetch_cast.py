@@ -37,7 +37,7 @@ for n in range(1, 8):
         a = cells[1].find("a", title=re.compile(r"\(episode\)$"))
         m = re.search(r"-(\d{3})$", cells[3].get_text(strip=True))
         if a and m:
-            prod = "101" if m.group(1) == "941" else m.group(1)     # the pilot has a special number
+            prod = {"941": "101", "747": "277"}.get(m.group(1), m.group(1))     # the pilot and the finale have special numbers
             pages[prod] = a["title"]
 missing = sorted(eps - set(pages))
 print(f"{len(pages)} episode pages mapped; missing: {missing}")

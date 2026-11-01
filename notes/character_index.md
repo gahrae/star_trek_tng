@@ -33,7 +33,7 @@ Every named speaking character in two or more episodes, plus notable single-epis
 | [Ambassador Sarek](characters/sarek.md) | 3 |  | 77 | Mark Lenard | Vulcan | Federation ambassador | Dies of Bendii Syndrome | Sarek | Unification, part 2 |
 | [Dr Noonien Soong](characters/soong.md) | 3 |  | 71 | Brent Spiner | Human | Independent cyberneticist | Died after Lore attacked him | Brothers | Inheritance |
 | [Admiral Gregory Quinn](characters/quinn.md) | 3 |  | 64 | Ward Costello |  |  |  | Coming of Age | Shades Of Gray |
-| [Tomalak](characters/tomalak.md) | 3 |  | 63 | Andreas Katsulas | Romulan | Romulan military | Active | The Enemy | Future Imperfect |
+| [Tomalak](characters/tomalak.md) | 3 | 1 | 63 | Andreas Katsulas | Romulan | Romulan military | Active | The Enemy | Future Imperfect |
 | [Dexter Remmick](characters/remmick.md) | 3 |  | 58 | Robert Schenkkan |  |  |  | Coming of Age | Shades Of Gray |
 | [The Traveler](characters/traveller.md) | 3 |  | 57 |  |  |  |  | Where No One Has Gone Before | Journey's End |
 | [B'Etor](characters/b-etor.md) | 3 |  | 37 | Gwynyth Walsh |  |  |  | Redemption | Firstborn |
