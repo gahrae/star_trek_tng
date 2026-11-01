@@ -275,6 +275,7 @@ async function run(){const raw=q.value.trim();if(raw.length<2){sr.innerHTML='';s
  if(!allw.length){ss.textContent='Type at least one word.';return;}
  if(!words.length){ss.textContent='Those are all very common words; add a less common one or use a quoted phrase with it.';return;}
  const lists=words.map(w=>IDX.words[w]||[]);
+ const hl=new RegExp('(^|[^a-z0-9])('+[...phrases.map(p=>rx(esc(p))),...words.map(rx)].sort((a,b)=>b.length-a.length).join('|')+')','gi');      // a quoted phrase is highlighted whole, stop words included
  let ids=lists.reduce((a,b)=>{const st=new Set(b);return a.filter(x=>st.has(x));},lists[0]);
  const byEp={};ids.forEach(id=>{const i=Math.floor(id/4000);(byEp[i]=byEp[i]||[]).push(id%4000);});
  const eps=Object.keys(byEp).map(Number).sort((a,b)=>a-b);let shown=0,total=0,html='';
@@ -282,7 +283,7 @@ async function run(){const raw=q.value.trim();if(raw.length<2){sr.innerHTML='';s
   for(const n of byEp[i]){const r=L[n-1];if(!r)continue;if(spk&&r[1]!==spk)continue;const low=r[2].toLowerCase();if(phrases.some(p=>!low.includes(p)))continue;rows.push(r);}
   if(!rows.length)continue;total+=rows.length;shown++;
   html+=`<div class="hitep"><h3><a href="transcripts/${IDX.prods[i]}.html">${IDX.codes[i]} ${esc(IDX.titles[i])}</a> <span class="sub">(${rows.length})</span></h3>`;
-  html+=rows.slice(0,8).map(r=>{let t=esc(r[2]);for(const w of words)t=t.replace(new RegExp('(^|[^a-z0-9])('+rx(w)+')','gi'),'$1<mark>$2</mark>');
+  html+=rows.slice(0,8).map(r=>{let t=esc(r[2]).replace(hl,'$1<mark>$2</mark>');
    const who=r[1].toLowerCase().replace(/(^|[\s'-])\w/g,c=>c.toUpperCase());
    return `<p class="hitl"><b>${esc(who)}</b>: ${t} <a href="transcripts/${IDX.prods[i]}.html#l${r[0]}">&rarr;</a></p>`;}).join('')+(rows.length>8?`<p class="hitl sub">and ${rows.length-8} more in this episode</p>`:'')+'</div>';}
  ss.textContent=total?`${total} lines in ${shown} episode${shown>1?'s':''}${shown>=40?' (first 40 episodes shown)':''}`:'No matches.';sr.innerHTML=html;}
