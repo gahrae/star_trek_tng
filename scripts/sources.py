@@ -110,7 +110,7 @@ def cited_groups(text, italics=True):
         found, phrase = _token(m, italics)
         for p in found:
             if p not in CODE: raise ValueError(f"unknown episode {p} cited in: {text[:60]}")
-        if phrase:
+        if phrase and found:
             if len(found) != 1: raise ValueError(f"a quoted line needs one episode: {text[:60]}")
             locate(found[0], phrase)
         if found: groups.append(sorted(found, key=_order.get) if m.group(1) else found)

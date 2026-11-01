@@ -14,14 +14,14 @@
 
 - Chief medical officer in seasons 1 and 3-7; absent in season 2 while heading Starfleet Medical (replaced by Dr Pulaski) <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Beverly_Crusher "Memory Alpha: Beverly Crusher: She was replaced by Dr. Katherine Pulaski"))</span>.
 - Widow of Jack Crusher <span class="src">([S01E25](../../data/text/125.txt#L192 "Conspiracy: PICARD: Friends, close friends, are few and far between. Two of the oldest and closest are Jack Crusher, may h"))</span>, who died under Picard's command on the Stargazer; mother of Wesley.
-- Runs the ship's theatre company and is a former award-winning dancer, embarrassed by the nickname 'the Dancing Doctor' (*Data's Day* <span class="src">[S04E11](../../data/text/185.txt "Data's Day")</span>).
+- Runs the ship's theatre company and is a former award-winning dancer, embarrassed by the nickname 'the Dancing Doctor' (*Data's Day* <span class="src">[S04E11](../../data/text/185.txt#L176 "Data's Day: CRUSHER: It's just that, that was a long time ago, and I don't want to be known as the dancing doctor. Again.")</span>).
 - Trapped in a collapsing warp bubble of her own making (*Remember Me* <span class="src">[S04E05](../../data/text/179.txt "Remember Me")</span>).
-- Falls for the Trill ambassador Odan, who moves from host to host (*The Host* <span class="src">[S04E23](../../data/text/197.txt "The Host")</span>).
-- Clashes with Dr Toby Russell over experimental treatment of Worf (*Ethics* <span class="src">[S05E16](../../data/text/216.txt "Ethics")</span>).
-- Investigates a Ferengi scientist's death and performs an autopsy against orders (*Suspicions* <span class="src">[S06E22](../../data/text/248.txt "Suspicions")</span>).
+- Falls for the Trill ambassador Odan, who moves from host to host (*The Host* <span class="src">[S04E23](../../data/text/197.txt#L270 "The Host: ODAN: This body is just a host. I am that parasite. That is what must survive. It has always been this way. Th")</span>).
+- Clashes with Dr Toby Russell over experimental treatment of Worf (*Ethics* <span class="src">[S05E16](../../data/text/216.txt#L132 "Ethics: RUSSELL: The early results have been very encouraging. Beverly, the genetronic replicator can create a complet")</span>).
+- Investigates a Ferengi scientist's death and performs an autopsy against orders (*Suspicions* <span class="src">[S06E22](../../data/text/248.txt#L347 "Suspicions: PICARD: Beverly. I'm afraid there will be no autopsy. The family has already been contacted. They insist that ")</span>).
 - Visits her grandmother's home on Caldos and is seduced by an anaphasic entity (*Sub Rosa* <span class="src">[S07E14](../../data/text/266.txt "Sub Rosa")</span>).
 - Takes command of the Enterprise while the senior staff are away searching for Data on the renegade Borg planet (*Descent* <span class="src">[S06E26](../../data/text/252.txt "Descent, part 1") · [S07E01](../../data/text/253.txt "Descent, part 2")</span>).
-- Telepathically linked to Picard, confirming their mutual feelings (*Attached* <span class="src">[S07E08](../../data/text/260.txt "Attached")</span>).
+- Telepathically linked to Picard, confirming their mutual feelings (*Attached* <span class="src">[S07E08](../../data/text/260.txt#L503 "Attached: PICARD: I felt guilty before he died> Having feelings like that for my best friend's wife. And then later, aft")</span>).
 
 ## Rank and role timeline
 

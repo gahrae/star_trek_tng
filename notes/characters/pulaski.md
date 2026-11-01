@@ -15,8 +15,8 @@
 - Chief medical officer for season 2 only, while Crusher is at Starfleet Medical <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Katherine_Pulaski "Memory Alpha: Katherine Pulaski: chief medical officer aboard the USS Enterprise-D in 2365"))</span>.
 - Initially dismissive of Data as a machine <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Katherine_Pulaski "Memory Alpha: Katherine Pulaski: She saw him as no more than a machine"))</span>; gradually comes to respect him.
 - Married three times <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Katherine_Pulaski "Memory Alpha: Katherine Pulaski: married and divorced three times"))</span>; old friend of Kyle Riker <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Katherine_Pulaski "Memory Alpha: Katherine Pulaski: romantic relationship with Kyle Riker"))</span>; dislikes transporters <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Katherine_Pulaski "Memory Alpha: Katherine Pulaski: had a transporter phobia"))</span>.
-- Contracts a rapid-ageing disease and is cured via the transporter (*Unnatural Selection* <span class="src">[S02E07](../../data/text/133.txt "Unnatural Selection")</span>).
-- Appreciates Klingon tea ceremony (*Up the Long Ladder* <span class="src">[S02E18](../../data/text/144.txt "Up The Long Ladder")</span>).
+- Contracts a rapid-ageing disease and is cured via the transporter (*Unnatural Selection* <span class="src">[S02E07](../../data/text/133.txt#L623 "Unnatural Selection: PICARD: Doctor, we may have a solution. We have a sample of your normal DNA to use as a filter in the transpor")</span>).
+- Appreciates Klingon tea ceremony (*Up the Long Ladder* <span class="src">[S02E18](../../data/text/144.txt#L132 "Up The Long Ladder: PULASKI: Your secret is safe with me. Worf, I'm honoured. No one has ever performed the Klingon tea ceremony f")</span>).
 
 ## Rank and role timeline
 

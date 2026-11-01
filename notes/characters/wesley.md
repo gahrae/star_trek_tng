@@ -12,7 +12,7 @@
 
 ## Key facts
 
-- Beverly's teenage son; made acting ensign by Picard (*Where No One Has Gone Before* <span class="src">[S01E06](../../data/text/106.txt "Where No One Has Gone Before")</span>) and a full ensign in *Menage a Troi* <span class="src">[S03E24](../../data/text/172.txt "Ménage à Troi")</span>.
+- Beverly's teenage son; made acting ensign by Picard (*Where No One Has Gone Before* <span class="src">[S01E06](../../data/text/106.txt#L651 "Where No One Has Gone Before: PICARD: Well, then, I'll have to make him an acting ensign. Captain's")</span>) and a full ensign in *Menage a Troi* <span class="src">[S03E24](../../data/text/172.txt#L661 "Ménage à Troi: PICARD: The Academy must make you wait, that's true. But, when I review your service to this ship, your crewma")</span>.
 - The Traveler tells Picard that Wesley is a genius with the intricacies of time, energy and propulsion (*Where No One Has Gone Before* <span class="src">[S01E06](../../data/text/106.txt "Where No One Has Gone Before")</span>).
 - Leaves for Starfleet Academy in season 4 (*Final Mission* <span class="src">[S04E09](../../data/text/183.txt "Final Mission")</span>).
 - As a cadet, is part of the Nova Squadron cover-up after a fatal accident (*The First Duty* <span class="src">[S05E19](../../data/text/219.txt "The First Duty")</span>).
