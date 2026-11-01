@@ -15,9 +15,9 @@
 
 ## Relationships
 
-- [Lieutenant Worf](worf.md) lists this character as: enemy, killed by Worf <span class="src">([Memory Alpha: Duras, son of Ja'rod](https://memory-alpha.fandom.com/wiki/Duras,_son_of_Ja%27rod "Memory Alpha: Duras, son of Ja'rod: was quickly killed, impaled on Worf's bat'leth") · [Memory Alpha: Worf](https://memory-alpha.fandom.com/wiki/Worf "Memory Alpha: Worf: he killed Duras in an honor duel"))</span>
-- [Gowron](gowron.md) lists this character as: rival <span class="src">([Memory Alpha: Duras, son of Ja'rod](https://memory-alpha.fandom.com/wiki/Duras,_son_of_Ja%27rod "Memory Alpha: Duras, son of Ja'rod: Duras came aboard Picard's ship, the USS Enterprise-D, from the IKS Vorn to compete in the Rite of Succession, as did Gowron") · [Memory Alpha: Gowron](https://memory-alpha.fandom.com/wiki/Gowron "Memory Alpha: Gowron: Gowron and Duras, son of Ja'rod, became the two leading candidates for leadership of the council"))</span>
-- [K'Ehleyr](k-ehleyr.md) lists this character as: killer <span class="src">([Memory Alpha: K'Ehleyr](https://memory-alpha.fandom.com/wiki/K%27Ehleyr "Memory Alpha: K'Ehleyr: Duras attacked K'Ehleyr in her quarters and killed her"))</span>
+- [Lieutenant Worf](worf.md): enemy who killed him <span class="src">([Memory Alpha: Duras, son of Ja'rod](https://memory-alpha.fandom.com/wiki/Duras,_son_of_Ja%27rod "Memory Alpha: Duras, son of Ja'rod: was quickly killed, impaled on Worf's bat'leth") · [Memory Alpha: Worf](https://memory-alpha.fandom.com/wiki/Worf "Memory Alpha: Worf: he killed Duras in an honor duel"))</span>
+- [Gowron](gowron.md): rival <span class="src">([Memory Alpha: Duras, son of Ja'rod](https://memory-alpha.fandom.com/wiki/Duras,_son_of_Ja%27rod "Memory Alpha: Duras, son of Ja'rod: Duras came aboard Picard's ship, the USS Enterprise-D, from the IKS Vorn to compete in the Rite of Succession, as did Gowron") · [Memory Alpha: Gowron](https://memory-alpha.fandom.com/wiki/Gowron "Memory Alpha: Gowron: Gowron and Duras, son of Ja'rod, became the two leading candidates for leadership of the council"))</span>
+- [K'Ehleyr](k-ehleyr.md): victim, murdered when she uncovered the truth <span class="src">([Memory Alpha: K'Ehleyr](https://memory-alpha.fandom.com/wiki/K%27Ehleyr "Memory Alpha: K'Ehleyr: Duras attacked K'Ehleyr in her quarters and killed her"))</span>
 
 ## Most scenes shared with
 

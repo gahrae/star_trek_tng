@@ -12,7 +12,7 @@
 
 ## Relationships
 
-- [Dr Beverly Crusher](crusher.md) lists this character as: entity that seduced her <span class="src">([Memory Alpha: Ronin](https://memory-alpha.fandom.com/wiki/Ronin "Memory Alpha: Ronin: Ronin moved on to her granddaughter, Beverly Crusher") · [Memory Alpha: Beverly Crusher](https://memory-alpha.fandom.com/wiki/Beverly_Crusher "Memory Alpha: Beverly Crusher: due to the influence of Ronin"))</span>
+- [Dr Beverly Crusher](crusher.md): host he seduced <span class="src">([Memory Alpha: Ronin](https://memory-alpha.fandom.com/wiki/Ronin "Memory Alpha: Ronin: Ronin moved on to her granddaughter, Beverly Crusher") · [Memory Alpha: Beverly Crusher](https://memory-alpha.fandom.com/wiki/Beverly_Crusher "Memory Alpha: Beverly Crusher: due to the influence of Ronin"))</span>
 
 ## Most scenes shared with
 

@@ -13,7 +13,7 @@
 
 ## Relationships
 
-- [Wesley Crusher](wesley.md) lists this character as: early crush <span class="src">([Memory Alpha: Salia](https://memory-alpha.fandom.com/wiki/Salia "Memory Alpha: Salia: Salia became romantically involved with Wesley Crusher") · [Memory Alpha: Wesley Crusher](https://memory-alpha.fandom.com/wiki/Wesley_Crusher "Memory Alpha: Wesley Crusher: she, too, was smitten with Wesley"))</span>
+- [Wesley Crusher](wesley.md): young admirer <span class="src">([Memory Alpha: Salia](https://memory-alpha.fandom.com/wiki/Salia "Memory Alpha: Salia: Salia became romantically involved with Wesley Crusher") · [Memory Alpha: Wesley Crusher](https://memory-alpha.fandom.com/wiki/Wesley_Crusher "Memory Alpha: Wesley Crusher: she, too, was smitten with Wesley"))</span>
 
 ## Most scenes shared with
 

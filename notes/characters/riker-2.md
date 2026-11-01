@@ -14,7 +14,7 @@
 
 ## Relationships
 
-- [Commander William T. Riker](riker.md) lists this character as: transporter duplicate Thomas <span class="src">([Memory Alpha: Thomas Riker](https://memory-alpha.fandom.com/wiki/Thomas_Riker "Memory Alpha: Thomas Riker: a transporter accident in 2361 that created two William Thomas Rikers") · [Memory Alpha: William T. Riker](https://memory-alpha.fandom.com/wiki/William_T._Riker "Memory Alpha: William T. Riker: a transporter accident on Nervala IV creates a duplicate of Riker, later known as Thomas Riker"))</span>
+- [Commander William T. Riker](riker.md): original, whose duplicate he is <span class="src">([Memory Alpha: Thomas Riker](https://memory-alpha.fandom.com/wiki/Thomas_Riker "Memory Alpha: Thomas Riker: a transporter accident in 2361 that created two William Thomas Rikers") · [Memory Alpha: William T. Riker](https://memory-alpha.fandom.com/wiki/William_T._Riker "Memory Alpha: William T. Riker: a transporter accident on Nervala IV creates a duplicate of Riker, later known as Thomas Riker"))</span>
 
 ## Most scenes shared with
 

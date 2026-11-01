@@ -13,7 +13,7 @@
 
 ## Relationships
 
-- [Lieutenant Worf](worf.md) lists this character as: adoptive father <span class="src">([Memory Alpha: Sergey Rozhenko](https://memory-alpha.fandom.com/wiki/Sergey_Rozhenko "Memory Alpha: Sergey Rozhenko: the Rozhenko family was residing on the farming colony of Gault where Worf and Nikolai grew up") · [Memory Alpha: Worf](https://memory-alpha.fandom.com/wiki/Worf "Memory Alpha: Worf: Sergey Rozhenko, found Worf buried in the rubble"))</span>
+- [Lieutenant Worf](worf.md): adoptive son <span class="src">([Memory Alpha: Sergey Rozhenko](https://memory-alpha.fandom.com/wiki/Sergey_Rozhenko "Memory Alpha: Sergey Rozhenko: the Rozhenko family was residing on the farming colony of Gault where Worf and Nikolai grew up") · [Memory Alpha: Worf](https://memory-alpha.fandom.com/wiki/Worf "Memory Alpha: Worf: Sergey Rozhenko, found Worf buried in the rubble"))</span>
 
 ## Most scenes shared with
 

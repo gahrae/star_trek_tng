@@ -41,7 +41,7 @@
 - [Counselor Deanna Troi](troi.md): romance in season 7 <span class="src">([Memory Alpha: Deanna Troi](https://memory-alpha.fandom.com/wiki/Deanna_Troi "Memory Alpha: Deanna Troi: the two enjoyed a romantic relationship through 2370") · [Memory Alpha: Worf](https://memory-alpha.fandom.com/wiki/Worf "Memory Alpha: Worf: begins a romance with the counselor"))</span>
 - [Gowron](gowron.md): political ally <span class="src">([Memory Alpha: Gowron](https://memory-alpha.fandom.com/wiki/Gowron "Memory Alpha: Gowron: Gowron's election as chancellor was complete") · [Memory Alpha: Worf](https://memory-alpha.fandom.com/wiki/Worf "Memory Alpha: Worf: Chancellor Gowron restored honor to the House of Mogh"))</span>
 - [Duras](duras.md): enemy, killed by Worf <span class="src">([Memory Alpha: Duras, son of Ja'rod](https://memory-alpha.fandom.com/wiki/Duras,_son_of_Ja%27rod "Memory Alpha: Duras, son of Ja'rod: was quickly killed, impaled on Worf's bat'leth") · [Memory Alpha: Worf](https://memory-alpha.fandom.com/wiki/Worf "Memory Alpha: Worf: he killed Duras in an honor duel"))</span>
-- [Lieutenant Natasha 'Tasha' Yar](tasha.md) lists this character as: colleague who succeeded her <span class="src">([Memory Alpha: Worf](https://memory-alpha.fandom.com/wiki/Worf "Memory Alpha: Worf: Appointed acting security chief after the death of Lieutenant Natasha Yar"))</span>
+- [Lieutenant Natasha 'Tasha' Yar](tasha.md): predecessor as security chief <span class="src">([Memory Alpha: Worf](https://memory-alpha.fandom.com/wiki/Worf "Memory Alpha: Worf: Appointed acting security chief after the death of Lieutenant Natasha Yar"))</span>
 
 ## Most scenes shared with
 

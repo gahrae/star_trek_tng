@@ -15,7 +15,7 @@
 
 ## Relationships
 
-- [Counselor Deanna Troi](troi.md) lists this character as: lover briefly <span class="src">([Memory Alpha: Devinoni Ral](https://memory-alpha.fandom.com/wiki/Devinoni_Ral "Memory Alpha: Devinoni Ral: Ral became involved with Deanna Troi") · [Memory Alpha: Deanna Troi](https://memory-alpha.fandom.com/wiki/Deanna_Troi "Memory Alpha: Deanna Troi: Troi fell for a delegate, Devinoni Ral"))</span>
+- [Counselor Deanna Troi](troi.md): lover briefly <span class="src">([Memory Alpha: Devinoni Ral](https://memory-alpha.fandom.com/wiki/Devinoni_Ral "Memory Alpha: Devinoni Ral: Ral became involved with Deanna Troi") · [Memory Alpha: Deanna Troi](https://memory-alpha.fandom.com/wiki/Deanna_Troi "Memory Alpha: Deanna Troi: Troi fell for a delegate, Devinoni Ral"))</span>
 
 ## Most scenes shared with
 

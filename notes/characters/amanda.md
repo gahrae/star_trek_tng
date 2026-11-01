@@ -15,7 +15,7 @@
 
 ## Relationships
 
-- [Q](q.md) lists this character as: young Q he evaluated <span class="src">([Memory Alpha: Q](https://memory-alpha.fandom.com/wiki/Q "Memory Alpha: Q: to instruct Amanda Rogers"))</span>
+- [Q](q.md): Q who came to evaluate her <span class="src">([Memory Alpha: Q](https://memory-alpha.fandom.com/wiki/Q "Memory Alpha: Q: to instruct Amanda Rogers"))</span>
 
 ## Most scenes shared with
 

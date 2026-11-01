@@ -8,7 +8,7 @@ import json, re, collections, pathlib, sys, itertools
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / "scripts"))
 from curated_episodes import EPISODES, ARCS, ARC_GROUPS, LINK_NOTES
-from curated_characters import FACTS, PROFILES, GUESTS, ENTITIES, CATCHPHRASES, SPLIT, GUEST_FACTS
+from curated_characters import FACTS, PROFILES, GUESTS, INVERSE, ENTITIES, CATCHPHRASES, SPLIT, GUEST_FACTS
 from sources import cite, airdate_links, credit_links
 
 NOTES = ROOT / "notes"
@@ -284,11 +284,11 @@ for lbl in rows:
         if p and p["relationships"]:
             f.write("\n## Relationships\n\n")
             for other, kind, *src in p["relationships"]: f.write(f"- {char_link(other, '')}: {cite(' '.join([kind, *src]), '../../', True)}\n")
-        inbound = [(o, " ".join(k)) for o, q in PROFILES.items() if o != lbl for r, *k in q["relationships"] if r == lbl and not (p and any(r2 == o for r2, *_ in p["relationships"]))]
+        inbound = [(o, " ".join([INVERSE[(o, lbl)], *k[1:]])) for o, q in PROFILES.items() if o != lbl for r, *k in q["relationships"] if r == lbl and not (p and any(r2 == o for r2, *_ in p["relationships"]))]
         if inbound:
             f.write("\n" if not (p and p["relationships"]) else "")
             if not (p and p["relationships"]): f.write("## Relationships\n\n")
-            for o, k in inbound: f.write(f"- {char_link(o, '')} lists this character as: {cite(k, '../../', True)}\n")
+            for o, k in inbound: f.write(f"- {char_link(o, '')}: {cite(k, '../../', True)}\n")
         pt = partners(lbl)
         if pt:
             f.write("\n## Most scenes shared with\n\n| Character | Scenes |\n|---|---:|\n")

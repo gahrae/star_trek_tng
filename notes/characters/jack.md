@@ -13,7 +13,7 @@
 
 ## Relationships
 
-- [Dr Beverly Crusher](crusher.md) lists this character as: late husband <span class="src">([Memory Alpha: Jack R. Crusher](https://memory-alpha.fandom.com/wiki/Jack_R._Crusher "Memory Alpha: Jack R. Crusher: He was husband to Beverly Crusher and father to Wesley Crusher") · [Memory Alpha: Beverly Crusher](https://memory-alpha.fandom.com/wiki/Beverly_Crusher "Memory Alpha: Beverly Crusher: whom she named Jack after her deceased husband"))</span>
+- [Dr Beverly Crusher](crusher.md): widow <span class="src">([Memory Alpha: Jack R. Crusher](https://memory-alpha.fandom.com/wiki/Jack_R._Crusher "Memory Alpha: Jack R. Crusher: He was husband to Beverly Crusher and father to Wesley Crusher") · [Memory Alpha: Beverly Crusher](https://memory-alpha.fandom.com/wiki/Beverly_Crusher "Memory Alpha: Beverly Crusher: whom she named Jack after her deceased husband"))</span>
 
 ## Most scenes shared with
 

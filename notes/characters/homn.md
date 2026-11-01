@@ -12,7 +12,7 @@
 
 ## Relationships
 
-- [Lwaxana Troi](lwaxana.md) lists this character as: valet <span class="src">([Memory Alpha: Homn](https://memory-alpha.fandom.com/wiki/Homn "Memory Alpha: Homn: was the valet"))</span>
+- [Lwaxana Troi](lwaxana.md): employer <span class="src">([Memory Alpha: Homn](https://memory-alpha.fandom.com/wiki/Homn "Memory Alpha: Homn: was the valet"))</span>
 
 ## Most scenes shared with
 

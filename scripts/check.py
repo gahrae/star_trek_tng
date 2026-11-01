@@ -111,6 +111,9 @@ credit_bad = [f"{p} has no episode page to link" for p, v in credits.items() if 
 credit_bad += [f"{p} {sources.TITLE[p]}: airdate {meta_[p]['airdate_iso']}, Memory Alpha {v['memory_alpha']['airdate']}" for p, v in credits.items()
                if v["memory_alpha"]["airdate"] != meta_[p]["airdate_iso"] and p not in SOURCES_DISAGREE]
 check(not credit_bad, f"{len(credit_bad)} episodes whose airdate or credit links are not backed by Memory Alpha: {credit_bad[:3]}")
+_pairs = {(a, o) for a, pr in cc.PROFILES.items() for o, *_ in pr["relationships"]}
+inverse_bad = [k for k in cc.INVERSE if k not in _pairs]       # a reverse label for a relationship that no longer exists
+check(not inverse_bad, f"reverse relationship labels with no relationship: {inverse_bad[:4]}")
 check(not rel_bad, f"{len(rel_bad)} relationships without a good source: {rel_bad[:4]}")
 check(not drift, f"line links would point at the wrong line in {drift[:5]}: sources.dialogue() no longer matches the transcript pages")
 check(not unknown, f"unknown episodes cited: {unknown[:3]}")

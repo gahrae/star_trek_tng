@@ -15,7 +15,7 @@
 
 ## Relationships
 
-- [Lieutenant Worf](worf.md) lists this character as: adoptive brother <span class="src">([Memory Alpha: Nikolai Rozhenko](https://memory-alpha.fandom.com/wiki/Nikolai_Rozhenko "Memory Alpha: Nikolai Rozhenko: he became the foster brother of a Klingon child named Worf") · [Memory Alpha: Worf](https://memory-alpha.fandom.com/wiki/Worf "Memory Alpha: Worf: Worf had a contentious relationship with his elder foster-brother, Nikolai"))</span>
+- [Lieutenant Worf](worf.md): adoptive brother <span class="src">([Memory Alpha: Nikolai Rozhenko](https://memory-alpha.fandom.com/wiki/Nikolai_Rozhenko "Memory Alpha: Nikolai Rozhenko: he became the foster brother of a Klingon child named Worf") · [Memory Alpha: Worf](https://memory-alpha.fandom.com/wiki/Worf "Memory Alpha: Worf: Worf had a contentious relationship with his elder foster-brother, Nikolai"))</span>
 
 ## Most scenes shared with
 

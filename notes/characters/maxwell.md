@@ -15,7 +15,7 @@
 
 ## Relationships
 
-- [Chief Miles O'Brien](o-brien.md) lists this character as: former captain <span class="src">([Memory Alpha: Benjamin Maxwell](https://memory-alpha.fandom.com/wiki/Benjamin_Maxwell "Memory Alpha: Benjamin Maxwell: Maxwell's tactical officer at the time, Miles O'Brien") · [S04E12](../../data/text/186.txt#L177 "The Wounded: PICARD: Transporter Chief O'Brien, has served with Benjamin Maxwell. I thought that he might be able to provid"))</span>
+- [Chief Miles O'Brien](o-brien.md): former tactical officer <span class="src">([Memory Alpha: Benjamin Maxwell](https://memory-alpha.fandom.com/wiki/Benjamin_Maxwell "Memory Alpha: Benjamin Maxwell: Maxwell's tactical officer at the time, Miles O'Brien") · [S04E12](../../data/text/186.txt#L177 "The Wounded: PICARD: Transporter Chief O'Brien, has served with Benjamin Maxwell. I thought that he might be able to provid"))</span>
 
 ## Most scenes shared with
 
