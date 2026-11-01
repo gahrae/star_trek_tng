@@ -19,7 +19,7 @@
 - Served as first officer on the Klingon ship Pagh in an officer exchange (*A Matter of Honor* <span class="src">[S02E08](../../data/text/134.txt "A Matter of Honour")</span>).
 - Temporarily hosted the Trill symbiont Odan (*The Host* <span class="src">[S04E23](../../data/text/197.txt "The Host")</span>). <span class="src">([S04E23](../../data/text/197.txt#L270 "The Host: ODAN: This body is just a host. I am that parasite. That is what must survive. It has always been this way. Th"))</span>
 - Served on the USS Pegasus under Captain Pressman and helped cover up an illegal Federation cloaking device (*The Pegasus* <span class="src">[S07E12](../../data/text/264.txt "The Pegasus")</span>).
-- Plays jazz trombone, hosts the senior staff poker game, and grows the beard from season 2 onward.
+- Plays jazz trombone <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/William_T._Riker "Memory Alpha: William T. Riker"))</span>, hosts the senior staff poker game <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/William_T._Riker "Memory Alpha: William T. Riker"))</span>, and grows the beard from season 2 onward <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/William_T._Riker "Memory Alpha: William T. Riker"))</span>.
 - Offered the powers of the Q (*Hide and Q* <span class="src">[S01E10](../../data/text/111.txt "Hide & Q")</span>); trapped in an asylum reality (*Frame of Mind* <span class="src">[S06E21](../../data/text/247.txt "Frame of Mind")</span>); led the 'Future Imperfect' false timeline.
 
 ## Rank and role timeline

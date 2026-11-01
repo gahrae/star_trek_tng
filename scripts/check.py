@@ -84,6 +84,8 @@ for label, name, text in claims:       # each link is tested against the clause 
         before = text[:m.start()]; kws = strong(sources.TOKEN.sub("", before[max(before.rfind(";"), before.rfind(". "), 0):]))
         if found and kws and not any(any(spell(k) in spell(transcript(p)) for k in kws) for p in found):
             clause_bad.append(f"{label}: {', '.join(sources.CODE[p] for p in found)} does not contain any of {kws[:3]}")
+        if m.group(4) and kws and not any(spell(k) in spell(sources.ma_page(m.group(4))) for k in kws):
+            clause_bad.append(f"{label}: Memory Alpha page {m.group(4)} does not contain any of {kws[:3]}")
 check(not clause_bad, f"{len(clause_bad)} links where the clause before them is not in the episode: {clause_bad[:4]}")
 check(not drift, f"line links would point at the wrong line in {drift[:5]}: sources.dialogue() no longer matches the transcript pages")
 check(not unknown, f"unknown episodes cited: {unknown[:3]}")

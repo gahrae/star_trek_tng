@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Flight controller in season 5.
+- Flight controller in season 5 <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Felton "Memory Alpha: Felton"))</span>.
 
 ## Most scenes shared with
 

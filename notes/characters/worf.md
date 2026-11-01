@@ -13,7 +13,7 @@
 ## Key facts
 
 - Klingon, son of Mogh <span class="src">([S03E17](../../data/text/165.txt#L243 "Sins Of The Father: WORF: I am Worf, son of Mogh. I have come to challenge the lies that have been spoken of my father."))</span>; orphaned at the Khitomer massacre and raised by human parents Sergey and Helena Rozhenko <span class="src">([S04E02](../../data/text/178.txt#L91 "Family: SERGEY: Always good to meet another Chief Petty Officer. Sergey Rozhenko, formerly of the USS Intrepid."))</span>; first Klingon officer in Starfleet.
-- Chief of security and tactical officer from season 2 after Tasha Yar's death.
+- Chief of security and tactical officer from season 2 after Tasha Yar's death <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Worf "Memory Alpha: Worf"))</span>.
 - Accepts discommendation (loss of honour) to protect the Empire when Duras' family frames Mogh for Khitomer (*Sins of the Father* <span class="src">[S03E17](../../data/text/165.txt "Sins Of The Father")</span>).
 - Younger brother Kurn, raised by Lorgh (*Sins of the Father* <span class="src">[S03E17](../../data/text/165.txt "Sins Of The Father")</span>, *Redemption* <span class="src">[S04E26](../../data/text/200.txt "Redemption") · [S05E01](../../data/text/201.txt "Redemption part 2")</span>).
 - Fathered Alexander with K'Ehleyr, a half-human Federation emissary; after Duras murders her, Worf kills Duras (*The Emissary* <span class="src">[S02E20](../../data/text/146.txt "The Emissary")</span>, *Reunion* <span class="src">[S04E07](../../data/text/181.txt "Reunion")</span>).

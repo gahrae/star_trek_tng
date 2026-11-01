@@ -8,7 +8,7 @@
 
 ## Key facts
 
-- Lwaxana's valet, who barely speaks.
+- Lwaxana's valet <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Homn "Memory Alpha: Homn"))</span>, who barely speaks <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Homn "Memory Alpha: Homn"))</span>.
 
 ## Relationships
 

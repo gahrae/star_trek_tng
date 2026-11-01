@@ -1,8 +1,9 @@
 """Source links for the curated text: which transcripts a claim rests on.
 
-A claim cites an episode in two ways: by naming it in italics (*The Battle*), or with an explicit
+A claim cites a source in three ways: by naming it in italics (*The Battle*), or with an explicit
 marker after the claim ({102}, or {102,103} for several). A marker can also quote the line it rests on,
-{102|just too damned efficient}, and the link then goes to that line. cite() strips the markers and
+{102|just too damned efficient}, and the link then goes to that line. A fact no transcript shows cites a Memory
+Alpha page instead, {ma:Worf|chief of security}; the build checks the phrase is on the page (data/ma_pages/). cite() strips the markers and
 appends the transcript links, e.g. "(S04E02 · S03E15)".
 """
 import json, re, pathlib, unicodedata
@@ -12,8 +13,9 @@ _meta = json.load(open(ROOT / "data" / "metadata.json"))
 CODE = {e["prod"]: _meta[e["prod"]]["code"] for e in _eps}
 TITLE = {e["prod"]: e["title"] for e in _eps}
 
-TOKEN = re.compile(r"\*([^*]+)\*|\{(\d{3}(?:,\d{3})*)(?:\|([^}]+))?\}")
-MARKER = re.compile(r"\s*\{\d{3}(?:,\d{3})*(?:\|[^}]+)?\}")
+TOKEN = re.compile(r"\*([^*]+)\*|\{(\d{3}(?:,\d{3})*)(?:\|([^}]+))?\}|\{ma:([^|}]+)(?:\|([^}]+))?\}")
+MARKER = re.compile(r"\s*\{(?:\d{3}(?:,\d{3})*|ma:[^|}]+)(?:\|[^}]+)?\}")
+MA_TOKEN = re.compile(r"\{ma:([^|}]+)(?:\|([^}]+))?\}")
 
 # Transcript structure; build_site.py renders the same lines, numbering each dialogue line as id="l<n>".
 SPEAKER = re.compile(r"^([A-Z][A-Z0-9 .'\-]{0,30}?)(\s\[[^\]]+\])?:\s(.*)$")
@@ -71,8 +73,22 @@ def title_prods(title):
 
 _order = {e["prod"]: i for i, e in enumerate(_eps)}         # broadcast order
 
+def ma_slug(title): return re.sub(r"[^a-z0-9]+", "-", title.lower()).strip("-")
+
+def ma_page(title, phrase=None):
+    """Text of a fetched Memory Alpha page; with a phrase, raises ValueError if the page lacks it (ignoring case and punctuation)."""
+    f = ROOT / "data" / "ma_pages" / f"{ma_slug(title)}.txt"
+    if not f.exists(): raise ValueError(f"Memory Alpha page '{title}' not fetched (run scripts/fetch_ma_pages.py)")
+    text = f.read_text(encoding="utf-8")
+    if phrase and _flat(phrase) not in _flat(text): raise ValueError(f"Memory Alpha page '{title}' does not contain '{phrase}'")
+    return text
+
+def ma_link(title):
+    return f'[Memory Alpha](https://memory-alpha.fandom.com/wiki/{title.replace(" ", "_")} "Memory Alpha: {title}")'
+
 def _token(m, italics=True):
     """Episodes and quoted phrase of one token: a marker {102|phrase} or an italic title *The Battle|phrase*."""
+    if m.group(4): return [], None
     if m.group(2): found, phrase = m.group(2).split(","), m.group(3)
     else:
         title, _, phrase = m.group(1).partition("|")
@@ -83,6 +99,7 @@ def cited_groups(text, italics=True):
     """One list of episodes per citation in a claim (an italic title can name several parts), in order of appearance."""
     groups = []
     for m in TOKEN.finditer(text):
+        if m.group(4): ma_page(m.group(4), m.group(5))
         found, phrase = _token(m, italics)
         for p in found:
             if p not in CODE: raise ValueError(f"unknown episode {p} cited in: {text[:60]}")
@@ -110,12 +127,13 @@ def links(prods, prefix, line=None):
 def cite(text, prefix):
     """text with each citation turned into a link where it stands: after an italic title, or in brackets where a marker was."""
     def sub(m):
+        if m.group(4): return f' <span class="src">({ma_link(m.group(4))})</span>'
         found, phrase = _token(m)
         if not found: return m.group(0)
         line = locate(found[0], phrase)[1] if phrase else None
         if m.group(1): return f'*{m.group(1).partition("|")[0]}* <span class="src">{links(found, prefix, line)}</span>'
         return f' <span class="src">({links(found, prefix, line)})</span>'
-    return TOKEN.sub(sub, re.sub(r"\s+(?=\{\d{3})", "", text))
+    return TOKEN.sub(sub, re.sub(r"\s+(?=\{(?:\d{3}|ma:))", "", text))
 
 def keywords(text):
     """Distinctive words in a claim: quoted phrases, capitalised words (not at the start of a sentence), long plain words."""

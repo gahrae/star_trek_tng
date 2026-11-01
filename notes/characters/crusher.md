@@ -12,7 +12,7 @@
 
 ## Key facts
 
-- Chief medical officer in seasons 1 and 3-7; absent in season 2 while heading Starfleet Medical (replaced by Dr Pulaski).
+- Chief medical officer in seasons 1 and 3-7; absent in season 2 while heading Starfleet Medical (replaced by Dr Pulaski) <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Beverly_Crusher "Memory Alpha: Beverly Crusher"))</span>.
 - Widow of Jack Crusher <span class="src">([S01E25](../../data/text/125.txt#L192 "Conspiracy: PICARD: Friends, close friends, are few and far between. Two of the oldest and closest are Jack Crusher, may h"))</span>, who died under Picard's command on the Stargazer; mother of Wesley.
 - Runs the ship's theatre company and is a former award-winning dancer, embarrassed by the nickname 'the Dancing Doctor' (*Data's Day* <span class="src">[S04E11](../../data/text/185.txt "Data's Day")</span>).
 - Trapped in a collapsing warp bubble of her own making (*Remember Me* <span class="src">[S04E05](../../data/text/179.txt "Remember Me")</span>).

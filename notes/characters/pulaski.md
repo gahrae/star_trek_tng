@@ -12,9 +12,9 @@
 
 ## Key facts
 
-- Chief medical officer for season 2 only, while Crusher is at Starfleet Medical.
-- Initially dismissive of Data as a machine; gradually comes to respect him.
-- Married three times; old friend of Kyle Riker; dislikes transporters.
+- Chief medical officer for season 2 only, while Crusher is at Starfleet Medical <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Katherine_Pulaski "Memory Alpha: Katherine Pulaski"))</span>.
+- Initially dismissive of Data as a machine <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Katherine_Pulaski "Memory Alpha: Katherine Pulaski"))</span>; gradually comes to respect him.
+- Married three times <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Katherine_Pulaski "Memory Alpha: Katherine Pulaski"))</span>; old friend of Kyle Riker <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Katherine_Pulaski "Memory Alpha: Katherine Pulaski"))</span>; dislikes transporters <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Katherine_Pulaski "Memory Alpha: Katherine Pulaski"))</span>.
 - Contracts a rapid-ageing disease and is cured via the transporter (*Unnatural Selection* <span class="src">[S02E07](../../data/text/133.txt "Unnatural Selection")</span>).
 - Appreciates Klingon tea ceremony (*Up the Long Ladder* <span class="src">[S02E18](../../data/text/144.txt "Up The Long Ladder")</span>).
 

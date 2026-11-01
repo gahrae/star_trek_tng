@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Flight controller in seasons 4 to 6.
+- Flight controller in seasons 4 to 6 <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/McKnight "Memory Alpha: McKnight"))</span>.
 
 ## Most scenes shared with
 

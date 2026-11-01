@@ -12,7 +12,7 @@
 
 ## Key facts
 
-- Security chief in season 1; raised on the failed colony Turkana IV, escaping its gangs at fifteen.
+- Security chief in season 1; raised on the failed colony Turkana IV <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Natasha_Yar "Memory Alpha: Natasha Yar"))</span>, escaping its gangs at fifteen <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Natasha_Yar "Memory Alpha: Natasha Yar"))</span>.
 - Killed by the entity Armus on Vagra II (*Skin of Evil* <span class="src">[S01E23](../../data/text/122.txt "Skin Of Evil")</span>); leaves a holographic farewell for the crew.
 - An alternate-timeline Tasha goes back in time aboard the Enterprise-C (*Yesterday's Enterprise* <span class="src">[S03E15](../../data/text/163.txt "Yesterday's Enterprise")</span>); her half-Romulan daughter Sela appears in *Redemption II* <span class="src">[S05E01](../../data/text/201.txt "Redemption part 2")</span> and *Unification II* <span class="src">[S05E08](../../data/text/207.txt "Unification, part 2")</span>.
 - Younger sister Ishara Yar comes aboard and betrays the crew (*Legacy* <span class="src">[S04E06](../../data/text/180.txt "Legacy")</span>).

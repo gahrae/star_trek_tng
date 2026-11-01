@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Recurring flight controller.
+- Recurring flight controller <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Gates "Memory Alpha: Gates"))</span>.
 
 ## Most scenes shared with
 

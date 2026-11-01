@@ -12,9 +12,9 @@
 
 ## Key facts
 
-- Ship's counselor; half-Betazoid, half-human, empathic (senses emotions, full telepathy only with other Betazoids).
+- Ship's counselor <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Deanna_Troi "Memory Alpha: Deanna Troi"))</span>; half-Betazoid, half-human, empathic (senses emotions, full telepathy only with other Betazoids) <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Deanna_Troi "Memory Alpha: Deanna Troi"))</span>.
 - Daughter of Lwaxana Troi and the late Starfleet officer Ian Andrew Troi; a sister Kestra died in childhood (*Dark Page* <span class="src">[S07E07](../../data/text/259.txt "Dark Page")</span>).
-- Imzadi of Will Riker; later involved with Worf in season 7.
+- Imzadi of Will Riker <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Deanna_Troi "Memory Alpha: Deanna Troi"))</span>; later involved with Worf in season 7 <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Deanna_Troi "Memory Alpha: Deanna Troi"))</span>.
 - Temporarily loses her empathic sense (*The Loss* <span class="src">[S04E10](../../data/text/184.txt "The Loss")</span>). <span class="src">([S04E10](../../data/text/184.txt#L260 "The Loss: TROI: I've temporarily lost my empathic sense. It's kind of like having one hand tied behind your back."))</span>
 - Passes the bridge officer's test and is promoted to full commander (*Thine Own Self* <span class="src">[S07E16](../../data/text/268.txt "Thine Own Self")</span>).
 - Surgically altered to impersonate a Romulan Tal Shiar officer (*Face of the Enemy* <span class="src">[S06E14](../../data/text/240.txt "Face of the Enemy")</span>).

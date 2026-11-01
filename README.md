@@ -46,7 +46,7 @@ pip install -r requirements.txt
 python3 -m http.server -d site 8000   # then open http://localhost:8000
 ```
 
-The individual steps are `scripts/fetch_transcripts.py`, `fetch_metadata.py`, `fetch_cast.py`, `fetch_images.py`, `build_notes.py`, `build_site.py` and `check.py`. `data/provenance.json` records when and from where each data set was fetched.
+The individual steps are `scripts/fetch_transcripts.py`, `fetch_metadata.py`, `fetch_cast.py`, `fetch_images.py`, `build_notes.py`, `build_site.py` and `check.py`. `fetch_ma_pages.py` stores the Memory Alpha character pages that facts cite. `data/provenance.json` records when and from where each data set was fetched.
 
 The site uses only relative links, so it works from any folder or sub-path. The workflow in `.github/workflows/pages.yml` rebuilds and deploys it to GitHub Pages on every push to `main`.
 
@@ -64,7 +64,7 @@ The site uses only relative links, so it works from any folder or sub-path. The 
 - **From the transcripts:** each episode's synopsis and arc tags were written by reading the full transcript.
 - **Written from general knowledge, then checked:** character key facts, profiles, relationships and guest descriptions were checked against Memory Alpha and the episode transcripts, and corrected where they didn't match.
 - **Continuity links:** each link between episodes was checked against both transcripts, and links with no explicit connection in the text were removed.
-- **Source links:** character facts and guest descriptions that name an episode link to the transcript it rests on. The link is a small episode code such as S04E02 placed right after the claim it supports, so a fact with several claims has several links. Some go to the exact line in the transcript, which is highlighted when you arrive. `./build.sh` checks that the cited episodes exist, that a character's facts only cite episodes the character is in, and that the names and quoted phrases in the clause before each link appear in that episode. 387 of the 404 character facts and descriptions have a source. The other 17 are series-wide facts, such as "chief engineer from season 2", that no single episode shows.
+- **Source links:** character facts and guest descriptions that name an episode link to the transcript it rests on. The link is a small episode code such as S04E02 placed right after the claim it supports, so a fact with several claims has several links. Some go to the exact line in the transcript, which is highlighted when you arrive. `./build.sh` checks that the cited episodes exist, that a character's facts only cite episodes the character is in, and that the names and quoted phrases in the clause before each link appear in that episode. Every character fact and description has at least one source. Series-wide facts that no single episode shows, such as "chief engineer from season 2", cite the Memory Alpha page instead (shown as a "Memory Alpha" link). The build checks that the phrase is on that page. A few clauses that neither a transcript nor Memory Alpha shows, such as Worf being "the first Klingon officer in Starfleet", have no link.
 - **Not checked:** the choice of which entities and catchphrases to count. Portraits are picked by an automated search, so a few may be wrong. Check anything you rely on.
 
 Appearance counts are based on dialogue. Speaker labels follow the transcriber's spelling, with a few aliases merged.
