@@ -13,7 +13,7 @@
 
 ## Relationships
 
-- [Lieutenant Commander Geordi La Forge](laforge.md) lists this character as: mother
+- [Lieutenant Commander Geordi La Forge](laforge.md) lists this character as: mother <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Geordi_La_Forge "Memory Alpha: Geordi La Forge: to parents Captain Silva La Forge"))</span>
 
 ## Most scenes shared with
 

@@ -14,7 +14,7 @@
 
 ## Relationships
 
-- [Lieutenant Commander Data](data.md) lists this character as: girlfriend briefly
+- [Lieutenant Commander Data](data.md) lists this character as: girlfriend briefly <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Data "Memory Alpha: Data: He maintained a relationship with Jenna D'Sora, but it did not last long"))</span>
 
 ## Most scenes shared with
 

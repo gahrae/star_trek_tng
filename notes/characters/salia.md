@@ -13,7 +13,7 @@
 
 ## Relationships
 
-- [Wesley Crusher](wesley.md) lists this character as: early crush
+- [Wesley Crusher](wesley.md) lists this character as: early crush <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Wesley_Crusher "Memory Alpha: Wesley Crusher: she, too, was smitten with Wesley"))</span>
 
 ## Most scenes shared with
 

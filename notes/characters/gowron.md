@@ -25,9 +25,9 @@
 
 ## Relationships
 
-- [Lieutenant Worf](worf.md): ally whose honour he restored
-- [Duras](duras.md): rival
-- [Captain Jean-Luc Picard](picard.md): Arbiter who chose him
+- [Lieutenant Worf](worf.md): ally whose honour he restored <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Worf "Memory Alpha: Worf: Chancellor Gowron restored honor to the House of Mogh"))</span>
+- [Duras](duras.md): rival <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Gowron "Memory Alpha: Gowron: Gowron and Duras, son of Ja'rod, became the two leading candidates for leadership of the council"))</span>
+- [Captain Jean-Luc Picard](picard.md): Arbiter who chose him <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Gowron "Memory Alpha: Gowron: rendezvous with Captain Jean-Luc Picard"))</span>
 
 ## Most scenes shared with
 

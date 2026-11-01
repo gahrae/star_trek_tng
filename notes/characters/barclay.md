@@ -25,9 +25,9 @@
 
 ## Relationships
 
-- [Lieutenant Commander Geordi La Forge](laforge.md): supervisor and mentor
-- [Counselor Deanna Troi](troi.md): counselor and holodeck fantasy
-- [Chief Miles O'Brien](o-brien.md) lists this character as: colleague he helped through transporter phobia
+- [Lieutenant Commander Geordi La Forge](laforge.md): supervisor and mentor <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Reginald_Barclay "Memory Alpha: Reginald Barclay: Geordi La Forge's encouragement"))</span>
+- [Counselor Deanna Troi](troi.md): counselor and holodeck fantasy <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Reginald_Barclay "Memory Alpha: Reginald Barclay: enlisted the aid of Counselor Deanna Troi"))</span>
+- [Chief Miles O'Brien](o-brien.md) lists this character as: colleague he helped through transporter phobia <span class="src">([S06E02](../../data/text/228.txt#L139 "Realm of Fear: O'BRIEN: I know how you feel about this, sir."))</span>
 
 ## Most scenes shared with
 

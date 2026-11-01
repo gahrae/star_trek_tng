@@ -24,7 +24,7 @@ def build_data(root):
     # graph: curated relationships among profiled characters and the guests they name
     nodes = {}; edges = []
     for l, p in PROFILES.items():
-        for other, kind in p["relationships"]:
+        for other, kind, *_ in p["relationships"]:
             for x in (l, other):
                 if x not in nodes:
                     d = chars.get(x, {"episodes": [], "lines": 0})

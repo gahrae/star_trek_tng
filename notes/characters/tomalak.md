@@ -16,7 +16,7 @@
 
 ## Relationships
 
-- [Captain Jean-Luc Picard](picard.md): adversary
+- [Captain Jean-Luc Picard](picard.md): adversary <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Tomalak "Memory Alpha: Tomalak: Tomalak confronted Jean-Luc Picard concerning their mutual fleet movements"))</span>
 
 ## Most scenes shared with
 

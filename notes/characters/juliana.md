@@ -15,8 +15,8 @@
 
 ## Relationships
 
-- [Lieutenant Commander Data](data.md) lists this character as: 'mother'
-- [Dr Noonien Soong](soong.md) lists this character as: former wife
+- [Lieutenant Commander Data](data.md) lists this character as: 'mother' <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Data "Memory Alpha: Data: Juliana had come to view Data as her beloved son"))</span>
+- [Dr Noonien Soong](soong.md) lists this character as: former wife <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Noonien_Soong "Memory Alpha: Noonien Soong: Soong met and fell in love with Juliana O'Donnell and the pair married"))</span>
 
 ## Most scenes shared with
 

@@ -13,7 +13,7 @@
 
 ## Relationships
 
-- [Counselor Deanna Troi](troi.md) lists this character as: assailant, by telepathic memory invasion
+- [Counselor Deanna Troi](troi.md) lists this character as: assailant, by telepathic memory invasion <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Deanna_Troi "Memory Alpha: Deanna Troi: Jev, a Ullian with the ability to probe and manipulate people's memories"))</span>
 
 ## Most scenes shared with
 

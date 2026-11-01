@@ -13,7 +13,7 @@
 
 ## Relationships
 
-- [Dr Beverly Crusher](crusher.md) lists this character as: late husband
+- [Dr Beverly Crusher](crusher.md) lists this character as: late husband <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Beverly_Crusher "Memory Alpha: Beverly Crusher: whom she named Jack after her deceased husband"))</span>
 
 ## Most scenes shared with
 

@@ -12,9 +12,9 @@
 
 ## Key facts
 
-- Chief medical officer for season 2 only, while Crusher is at Starfleet Medical <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Katherine_Pulaski "Memory Alpha: Katherine Pulaski"))</span>.
-- Initially dismissive of Data as a machine <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Katherine_Pulaski "Memory Alpha: Katherine Pulaski"))</span>; gradually comes to respect him.
-- Married three times <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Katherine_Pulaski "Memory Alpha: Katherine Pulaski"))</span>; old friend of Kyle Riker <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Katherine_Pulaski "Memory Alpha: Katherine Pulaski"))</span>; dislikes transporters <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Katherine_Pulaski "Memory Alpha: Katherine Pulaski"))</span>.
+- Chief medical officer for season 2 only, while Crusher is at Starfleet Medical <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Katherine_Pulaski "Memory Alpha: Katherine Pulaski: chief medical officer aboard the USS Enterprise-D in 2365"))</span>.
+- Initially dismissive of Data as a machine <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Katherine_Pulaski "Memory Alpha: Katherine Pulaski: She saw him as no more than a machine"))</span>; gradually comes to respect him.
+- Married three times <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Katherine_Pulaski "Memory Alpha: Katherine Pulaski: married and divorced three times"))</span>; old friend of Kyle Riker <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Katherine_Pulaski "Memory Alpha: Katherine Pulaski: romantic relationship with Kyle Riker"))</span>; dislikes transporters <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Katherine_Pulaski "Memory Alpha: Katherine Pulaski: had a transporter phobia"))</span>.
 - Contracts a rapid-ageing disease and is cured via the transporter (*Unnatural Selection* <span class="src">[S02E07](../../data/text/133.txt "Unnatural Selection")</span>).
 - Appreciates Klingon tea ceremony (*Up the Long Ladder* <span class="src">[S02E18](../../data/text/144.txt "Up The Long Ladder")</span>).
 
@@ -26,8 +26,8 @@
 
 ## Relationships
 
-- [Lieutenant Commander Data](data.md): android she dismissed at first, then respected
-- [Kyle Riker](kyle-riker.md): old friend
+- [Lieutenant Commander Data](data.md): android she dismissed at first, then respected <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Katherine_Pulaski "Memory Alpha: Katherine Pulaski: was not very kind towards Lieutenant Commander Data when she first boarded the ship"))</span>
+- [Kyle Riker](kyle-riker.md): old friend <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Katherine_Pulaski "Memory Alpha: Katherine Pulaski: There was only one survivor, Kyle Riker, and it was at this time the two met"))</span>
 
 ## Most scenes shared with
 

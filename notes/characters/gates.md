@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Recurring flight controller <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Gates "Memory Alpha: Gates"))</span>.
+- Recurring flight controller <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Gates "Memory Alpha: Gates: flight control officer aboard the USS Enterprise-D"))</span>.
 
 ## Most scenes shared with
 

@@ -13,7 +13,7 @@
 
 ## Relationships
 
-- [Wesley Crusher](wesley.md) lists this character as: girlfriend
+- [Wesley Crusher](wesley.md) lists this character as: girlfriend <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Wesley_Crusher "Memory Alpha: Wesley Crusher: he developed an attraction to Ensign Robin Lefler"))</span>
 
 ## Most scenes shared with
 

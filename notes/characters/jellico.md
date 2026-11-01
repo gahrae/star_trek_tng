@@ -22,7 +22,7 @@
 
 ## Relationships
 
-- [Commander William T. Riker](riker.md): first officer he clashed with
+- [Commander William T. Riker](riker.md): first officer he clashed with <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Edward_Jellico "Memory Alpha: Edward Jellico: Jellico ran into numerous confrontations with Enterprise-D's first officer"))</span>
 
 ## Most scenes shared with
 

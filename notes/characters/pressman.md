@@ -15,7 +15,7 @@
 
 ## Relationships
 
-- [Commander William T. Riker](riker.md) lists this character as: former captain
+- [Commander William T. Riker](riker.md) lists this character as: former captain <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/William_T._Riker "Memory Alpha: William T. Riker: Erik Pressman, now an admiral, came aboard the Enterprise"))</span>
 
 ## Most scenes shared with
 

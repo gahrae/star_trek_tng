@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Flight controller in season 5 <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Felton "Memory Alpha: Felton"))</span>.
+- Flight controller in season 5 <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Felton "Memory Alpha: Felton: conn officer aboard the USS Enterprise-D"))</span>.
 
 ## Most scenes shared with
 

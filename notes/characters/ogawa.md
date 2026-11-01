@@ -22,7 +22,7 @@
 
 ## Relationships
 
-- [Dr Beverly Crusher](crusher.md): superior
+- [Dr Beverly Crusher](crusher.md): superior and friend <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Alyssa_Ogawa "Memory Alpha: Alyssa Ogawa: Beverly Crusher also considered Ogawa a friend"))</span>
 
 ## Most scenes shared with
 

@@ -19,7 +19,7 @@
 - Served as first officer on the Klingon ship Pagh in an officer exchange (*A Matter of Honor* <span class="src">[S02E08](../../data/text/134.txt "A Matter of Honour")</span>).
 - Temporarily hosted the Trill symbiont Odan (*The Host* <span class="src">[S04E23](../../data/text/197.txt "The Host")</span>). <span class="src">([S04E23](../../data/text/197.txt#L270 "The Host: ODAN: This body is just a host. I am that parasite. That is what must survive. It has always been this way. Th"))</span>
 - Served on the USS Pegasus under Captain Pressman and helped cover up an illegal Federation cloaking device (*The Pegasus* <span class="src">[S07E12](../../data/text/264.txt "The Pegasus")</span>).
-- Plays jazz trombone <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/William_T._Riker "Memory Alpha: William T. Riker"))</span>, hosts the senior staff poker game <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/William_T._Riker "Memory Alpha: William T. Riker"))</span>, and grows the beard from season 2 onward <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/William_T._Riker "Memory Alpha: William T. Riker"))</span>.
+- Plays jazz trombone <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/William_T._Riker "Memory Alpha: William T. Riker: his favorite musical instrument was the trombone"))</span>, hosts the senior staff poker game <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/William_T._Riker "Memory Alpha: William T. Riker: Riker first began playing poker"))</span>, and grows the beard from season 2 onward <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/William_T._Riker "Memory Alpha: William T. Riker: permanently grown out his beard"))</span>.
 - Offered the powers of the Q (*Hide and Q* <span class="src">[S01E10](../../data/text/111.txt "Hide & Q")</span>); trapped in an asylum reality (*Frame of Mind* <span class="src">[S06E21](../../data/text/247.txt "Frame of Mind")</span>); led the 'Future Imperfect' false timeline.
 
 ## Rank and role timeline
@@ -32,14 +32,14 @@
 
 ## Relationships
 
-- [Counselor Deanna Troi](troi.md): Imzadi, former and future partner
-- [Captain Jean-Luc Picard](picard.md): captain and mentor
-- [Kyle Riker](kyle-riker.md): father
-- [Thomas Riker](riker-2.md): transporter duplicate Thomas
-- [Lieutenant Commander Elizabeth Shelby](shelby.md): rival then first officer
-- [Admiral Erik Pressman](pressman.md): former captain
-- [Q](q.md) lists this character as: human he tempted with Q powers
-- [Captain Edward Jellico](jellico.md) lists this character as: first officer he clashed with
+- [Counselor Deanna Troi](troi.md): Imzadi, former and future partner <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Deanna_Troi "Memory Alpha: Deanna Troi: occasionally referring to him as imzadi"))</span>
+- [Captain Jean-Luc Picard](picard.md): captain and mentor <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/William_T._Riker "Memory Alpha: William T. Riker: Riker served as first officer for Captain Jean-Luc Picard for 15 years"))</span>
+- [Kyle Riker](kyle-riker.md): father <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/William_T._Riker "Memory Alpha: William T. Riker: born on August 19th, 2335 to Kyle and Betty Riker in Alaska"))</span>
+- [Thomas Riker](riker-2.md): transporter duplicate Thomas <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/William_T._Riker "Memory Alpha: William T. Riker: a transporter accident on Nervala IV creates a duplicate of Riker, later known as Thomas Riker"))</span>
+- [Lieutenant Commander Elizabeth Shelby](shelby.md): rival then first officer <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Elizabeth_Shelby "Memory Alpha: Elizabeth Shelby: he appointed Shelby to be his first officer and promoted her to commander despite their differences"))</span>
+- [Admiral Erik Pressman](pressman.md): former captain <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/William_T._Riker "Memory Alpha: William T. Riker: Erik Pressman, now an admiral, came aboard the Enterprise"))</span>
+- [Q](q.md) lists this character as: human he tempted with Q powers <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Q "Memory Alpha: Q: had given Commander William T. Riker Q-like abilities"))</span>
+- [Captain Edward Jellico](jellico.md) lists this character as: first officer he clashed with <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Edward_Jellico "Memory Alpha: Edward Jellico: Jellico ran into numerous confrontations with Enterprise-D's first officer"))</span>
 
 ## Most scenes shared with
 

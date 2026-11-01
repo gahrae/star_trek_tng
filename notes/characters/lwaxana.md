@@ -20,11 +20,11 @@
 
 ## Relationships
 
-- [Counselor Deanna Troi](troi.md): daughter
-- [Captain Jean-Luc Picard](picard.md): object of pursuit
-- [Dr Timicin](timicin.md): lover
-- [Alexander Rozhenko](alexander.md): friend
-- [Mr Homn](homn.md): valet
+- [Counselor Deanna Troi](troi.md): daughter <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Lwaxana_Troi "Memory Alpha: Lwaxana Troi: Deanna was Lwaxana's second daughter"))</span>
+- [Captain Jean-Luc Picard](picard.md): object of pursuit <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Jean-Luc_Picard "Memory Alpha: Jean-Luc Picard: she set her sights on several male crewmembers as potential mates, including Picard"))</span>
+- [Dr Timicin](timicin.md): lover <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Lwaxana_Troi "Memory Alpha: Lwaxana Troi: Lwaxana fell in love with the Kaelon scientist Timicin"))</span>
+- [Alexander Rozhenko](alexander.md): friend <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Lwaxana_Troi "Memory Alpha: Lwaxana Troi: Lwaxana befriended Alexander Rozhenko, Worf's son"))</span>
+- [Mr Homn](homn.md): valet <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Homn "Memory Alpha: Homn: was the valet"))</span>
 
 ## Most scenes shared with
 

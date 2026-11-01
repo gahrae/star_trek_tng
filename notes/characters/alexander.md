@@ -18,10 +18,10 @@
 
 ## Relationships
 
-- [Lieutenant Worf](worf.md): father
-- [K'Ehleyr](k-ehleyr.md): mother
-- [Lwaxana Troi](lwaxana.md): friend
-- [K'mtar](k-mtar.md): his own future self
+- [Lieutenant Worf](worf.md): father <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Alexander_Rozhenko "Memory Alpha: Alexander Rozhenko: resentful and bitter at being abandoned by his father"))</span>
+- [K'Ehleyr](k-ehleyr.md): mother <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Alexander_Rozhenko "Memory Alpha: Alexander Rozhenko: Alexander only knew his mother briefly"))</span>
+- [Lwaxana Troi](lwaxana.md): friend <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Alexander_Rozhenko "Memory Alpha: Alexander Rozhenko: Alexander was also friendly with Counselor Troi's mother, Lwaxana Troi"))</span>
+- [K'mtar](k-mtar.md): his own future self <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Alexander_Rozhenko "Memory Alpha: Alexander Rozhenko: an adult Alexander, who had traveled back in time from forty years in the future"))</span>
 
 ## Most scenes shared with
 

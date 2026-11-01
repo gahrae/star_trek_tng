@@ -15,7 +15,7 @@
 
 ## Relationships
 
-- [Captain Jean-Luc Picard](picard.md) lists this character as: lover
+- [Captain Jean-Luc Picard](picard.md) lists this character as: lover <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Jean-Luc_Picard "Memory Alpha: Jean-Luc Picard: Picard with Jenice Manheim and Nella Daren"))</span>
 
 ## Most scenes shared with
 

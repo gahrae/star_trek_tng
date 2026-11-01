@@ -56,7 +56,7 @@ _text = {}
 def transcript(prod):
     if prod not in _text: _text[prod] = (ROOT / "data" / "text" / f"{prod}.txt").read_text(encoding="utf-8").lower()
     return _text[prod]
-RANKS = {"captain", "commander", "lieutenant", "counselor", "doctor", "chief", "ensign", "admiral", "lord", "the"}
+RANKS = {"captain", "commander", "lieutenant", "counselor", "doctor", "chief", "ensign", "admiral", "lord", "the", "ambassador", "nurse", "professor", "chancellor", "senator", "general", "vice", "gul", "daimon", "proconsul", "lady", "sir", "madame", "mister", "miss"}
 claims = ([(k, n, x) for k, (n, fs) in cc.FACTS.items() for x in fs] + [(k, cc.GUESTS[k][0], x) for k, fs in cc.GUEST_FACTS.items() for x in fs if k in cc.GUESTS]
           + [(k, n, d) for k, (n, d) in cc.GUESTS.items()])
 unknown, unbacked, absent = [], [], []
@@ -87,6 +87,23 @@ for label, name, text in claims:       # each link is tested against the clause 
         if m.group(4) and kws and not any(spell(k) in spell(sources.ma_page(m.group(4))) for k in kws):
             clause_bad.append(f"{label}: Memory Alpha page {m.group(4)} does not contain any of {kws[:3]}")
 check(not clause_bad, f"{len(clause_bad)} links where the clause before them is not in the episode: {clause_bad[:4]}")
+def name_words(label):
+    n = cc.FACTS[label][0] if label in cc.FACTS else cc.GUESTS[label][0] if label in cc.GUESTS else label.title()
+    return [w.lower() for w in re.findall(r"[A-Za-z']+", re.sub(r"\s*\(.*?\)", "", n)) if w.lower() not in RANKS and (len(w) >= 3 or n == w)]
+rel_bad = []
+for a, prof in cc.PROFILES.items():     # every relationship has a source that names both people
+    for other, kind, *src in prof["relationships"]:
+        if not src: rel_bad.append(f"{a} -> {other} has no source"); continue
+        try: sources.cited_groups(src[0])
+        except ValueError as ex: rel_bad.append(f"{a} -> {other}: {ex}"); continue
+        m = sources.TOKEN.search(src[0])
+        if m.group(4):
+            page = set(spell(sources.ma_page(m.group(4))).split())
+            if not all(any(spell(w).split()[0] in page for w in name_words(x) if spell(w)) for x in (a, other)): rel_bad.append(f"{a} -> {other}: Memory Alpha page {m.group(4)} does not name both")
+        else:
+            p = m.group(2)
+            if not all(present(x, name_words(x), p) for x in (a, other)): rel_bad.append(f"{a} -> {other}: {sources.CODE[p]} does not have both characters")
+check(not rel_bad, f"{len(rel_bad)} relationships without a good source: {rel_bad[:4]}")
 check(not drift, f"line links would point at the wrong line in {drift[:5]}: sources.dialogue() no longer matches the transcript pages")
 check(not unknown, f"unknown episodes cited: {unknown[:3]}")
 check(not unbacked, f"explicit source markers the transcript does not back: {unbacked[:3]}")

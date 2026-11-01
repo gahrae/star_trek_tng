@@ -12,7 +12,7 @@
 
 ## Relationships
 
-- [Dr Beverly Crusher](crusher.md) lists this character as: entity that seduced her
+- [Dr Beverly Crusher](crusher.md) lists this character as: entity that seduced her <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Beverly_Crusher "Memory Alpha: Beverly Crusher: due to the influence of Ronin"))</span>
 
 ## Most scenes shared with
 

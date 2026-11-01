@@ -16,8 +16,8 @@
 
 ## Relationships
 
-- [Ambassador Sarek](sarek.md): father
-- [Captain Jean-Luc Picard](picard.md): shares a mind-meld with his father's memories
+- [Ambassador Sarek](sarek.md): father <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Spock "Memory Alpha: Spock: his father, Sarek, was a Vulcan scientist and diplomat"))</span>
+- [Captain Jean-Luc Picard](picard.md): shares a mind-meld with his father's memories <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Spock "Memory Alpha: Spock: Jean-Luc Picard offered Spock the chance to meld with him"))</span>
 
 ## Most scenes shared with
 

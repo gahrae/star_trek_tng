@@ -24,7 +24,7 @@
 
 ## Relationships
 
-- [Captain Jean-Luc Picard](picard.md): captain under her command
+- [Captain Jean-Luc Picard](picard.md): captain under her command <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Alynna_Nechayev "Memory Alpha: Alynna Nechayev: She was Captain Jean-Luc Picard's direct superior"))</span>
 
 ## Most scenes shared with
 

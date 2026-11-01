@@ -15,7 +15,7 @@
 
 ## Relationships
 
-- [Lieutenant Natasha 'Tasha' Yar](tasha.md) lists this character as: sister
+- [Lieutenant Natasha 'Tasha' Yar](tasha.md) lists this character as: sister <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Natasha_Yar "Memory Alpha: Natasha Yar: Her sister, Ishara, was born five years later"))</span>
 
 ## Most scenes shared with
 

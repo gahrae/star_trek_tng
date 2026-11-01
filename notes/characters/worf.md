@@ -13,7 +13,7 @@
 ## Key facts
 
 - Klingon, son of Mogh <span class="src">([S03E17](../../data/text/165.txt#L243 "Sins Of The Father: WORF: I am Worf, son of Mogh. I have come to challenge the lies that have been spoken of my father."))</span>; orphaned at the Khitomer massacre and raised by human parents Sergey and Helena Rozhenko <span class="src">([S04E02](../../data/text/178.txt#L91 "Family: SERGEY: Always good to meet another Chief Petty Officer. Sergey Rozhenko, formerly of the USS Intrepid."))</span>; first Klingon officer in Starfleet.
-- Chief of security and tactical officer from season 2 after Tasha Yar's death <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Worf "Memory Alpha: Worf"))</span>.
+- Chief of security and tactical officer from season 2 after Tasha Yar's death <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Worf "Memory Alpha: Worf: Appointed acting security chief after the death of Lieutenant Natasha Yar"))</span>.
 - Accepts discommendation (loss of honour) to protect the Empire when Duras' family frames Mogh for Khitomer (*Sins of the Father* <span class="src">[S03E17](../../data/text/165.txt "Sins Of The Father")</span>).
 - Younger brother Kurn, raised by Lorgh (*Sins of the Father* <span class="src">[S03E17](../../data/text/165.txt "Sins Of The Father")</span>, *Redemption* <span class="src">[S04E26](../../data/text/200.txt "Redemption") · [S05E01](../../data/text/201.txt "Redemption part 2")</span>).
 - Fathered Alexander with K'Ehleyr, a half-human Federation emissary; after Duras murders her, Worf kills Duras (*The Emissary* <span class="src">[S02E20](../../data/text/146.txt "The Emissary")</span>, *Reunion* <span class="src">[S04E07](../../data/text/181.txt "Reunion")</span>).
@@ -32,16 +32,16 @@
 
 ## Relationships
 
-- [Alexander Rozhenko](alexander.md): son
-- [K'Ehleyr](k-ehleyr.md): mate, mother of Alexander
-- [Kurn](kurn.md): brother
-- [Helena Rozhenko](helena.md): adoptive mother
-- [Sergey Rozhenko](sergey.md): adoptive father
-- [Nikolai Rozhenko](nikolai.md): adoptive brother
-- [Counselor Deanna Troi](troi.md): romance in season 7
-- [Gowron](gowron.md): political ally
-- [Duras](duras.md): enemy, killed by Worf
-- [Lieutenant Natasha 'Tasha' Yar](tasha.md) lists this character as: colleague who succeeded her
+- [Alexander Rozhenko](alexander.md): son <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Worf "Memory Alpha: Worf: father to Alexander Rozhenko"))</span>
+- [K'Ehleyr](k-ehleyr.md): mate, mother of Alexander <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Worf "Memory Alpha: Worf: mate to K'Ehleyr"))</span>
+- [Kurn](kurn.md): brother <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Worf "Memory Alpha: Worf: Worf's brother, Kurn, brought the news"))</span>
+- [Helena Rozhenko](helena.md): adoptive mother <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Worf "Memory Alpha: Worf: He and his wife, Helena, raised the Klingon child alongside their own son, Nikolai"))</span>
+- [Sergey Rozhenko](sergey.md): adoptive father <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Worf "Memory Alpha: Worf: Sergey Rozhenko, found Worf buried in the rubble"))</span>
+- [Nikolai Rozhenko](nikolai.md): adoptive brother <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Worf "Memory Alpha: Worf: Worf had a contentious relationship with his elder foster-brother, Nikolai"))</span>
+- [Counselor Deanna Troi](troi.md): romance in season 7 <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Worf "Memory Alpha: Worf: begins a romance with the counselor"))</span>
+- [Gowron](gowron.md): political ally <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Worf "Memory Alpha: Worf: Chancellor Gowron restored honor to the House of Mogh"))</span>
+- [Duras](duras.md): enemy, killed by Worf <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Worf "Memory Alpha: Worf: he killed Duras in an honor duel"))</span>
+- [Lieutenant Natasha 'Tasha' Yar](tasha.md) lists this character as: colleague who succeeded her <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Worf "Memory Alpha: Worf: Appointed acting security chief after the death of Lieutenant Natasha Yar"))</span>
 
 ## Most scenes shared with
 

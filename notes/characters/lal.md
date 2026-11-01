@@ -15,7 +15,7 @@
 
 ## Relationships
 
-- [Lieutenant Commander Data](data.md) lists this character as: daughter
+- [Lieutenant Commander Data](data.md) lists this character as: daughter <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Data "Memory Alpha: Data: Data designed and built his daughter, whom Data named Lal"))</span>
 
 ## Most scenes shared with
 

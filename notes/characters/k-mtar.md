@@ -15,7 +15,7 @@
 
 ## Relationships
 
-- [Alexander Rozhenko](alexander.md) lists this character as: his own future self
+- [Alexander Rozhenko](alexander.md) lists this character as: his own future self <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Alexander_Rozhenko "Memory Alpha: Alexander Rozhenko: an adult Alexander, who had traveled back in time from forty years in the future"))</span>
 
 ## Most scenes shared with
 

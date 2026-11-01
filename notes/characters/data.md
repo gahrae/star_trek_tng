@@ -31,15 +31,15 @@
 
 ## Relationships
 
-- [Lieutenant Commander Geordi La Forge](laforge.md): best friend
-- [Lore](lore.md): brother
-- [Dr Noonien Soong](soong.md): creator and 'father'
-- [Juliana Tainer](juliana.md): 'mother'
-- [Lal](lal.md): daughter
-- [Lieutenant Natasha 'Tasha' Yar](tasha.md): intimate encounter, kept her holo-image
-- [Ensign Jenna D'Sora](jenna.md): girlfriend briefly
-- [Dr Katherine Pulaski](pulaski.md) lists this character as: android she dismissed at first, then respected
-- [Professor James Moriarty](moriarty.md) lists this character as: adversary
+- [Lieutenant Commander Geordi La Forge](laforge.md): best friend <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Data "Memory Alpha: Data: Data's closest friend during his time aboard the Enterprise was Geordi La Forge"))</span>
+- [Lore](lore.md): brother <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Data "Memory Alpha: Data: Discovered his first brother, Lore, on Omicron Theta"))</span>
+- [Dr Noonien Soong](soong.md): creator and 'father' <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Lore "Memory Alpha: Lore: Soong set about constructing Lore's brother, Data"))</span>
+- [Juliana Tainer](juliana.md): 'mother' <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Data "Memory Alpha: Data: Juliana had come to view Data as her beloved son"))</span>
+- [Lal](lal.md): daughter <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Data "Memory Alpha: Data: Data designed and built his daughter, whom Data named Lal"))</span>
+- [Lieutenant Natasha 'Tasha' Yar](tasha.md): intimate encounter, kept her holo-image <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Natasha_Yar "Memory Alpha: Natasha Yar: later mentioned that he and Tasha were intimate"))</span>
+- [Ensign Jenna D'Sora](jenna.md): girlfriend briefly <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Data "Memory Alpha: Data: He maintained a relationship with Jenna D'Sora, but it did not last long"))</span>
+- [Dr Katherine Pulaski](pulaski.md) lists this character as: android she dismissed at first, then respected <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Katherine_Pulaski "Memory Alpha: Katherine Pulaski: was not very kind towards Lieutenant Commander Data when she first boarded the ship"))</span>
+- [Professor James Moriarty](moriarty.md) lists this character as: adversary <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/James_Moriarty_(hologram) "Memory Alpha: James Moriarty (hologram): an adversary capable of outwitting Data"))</span>
 
 ## Most scenes shared with
 

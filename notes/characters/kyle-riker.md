@@ -14,8 +14,8 @@
 
 ## Relationships
 
-- [Commander William T. Riker](riker.md) lists this character as: father
-- [Dr Katherine Pulaski](pulaski.md) lists this character as: old friend
+- [Commander William T. Riker](riker.md) lists this character as: father <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/William_T._Riker "Memory Alpha: William T. Riker: born on August 19th, 2335 to Kyle and Betty Riker in Alaska"))</span>
+- [Dr Katherine Pulaski](pulaski.md) lists this character as: old friend <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Katherine_Pulaski "Memory Alpha: Katherine Pulaski: There was only one survivor, Kyle Riker, and it was at this time the two met"))</span>
 
 ## Most scenes shared with
 

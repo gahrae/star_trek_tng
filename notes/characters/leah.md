@@ -16,7 +16,7 @@
 
 ## Relationships
 
-- [Lieutenant Commander Geordi La Forge](laforge.md): admirer, who built a holodeck version of her
+- [Lieutenant Commander Geordi La Forge](laforge.md): admirer, who built a holodeck version of her <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Leah_Brahms "Memory Alpha: Leah Brahms: he admits his love for Brahms"))</span>
 
 ## Most scenes shared with
 

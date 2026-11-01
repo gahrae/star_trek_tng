@@ -13,7 +13,7 @@
 
 ## Relationships
 
-- [Lieutenant Worf](worf.md) lists this character as: adoptive father
+- [Lieutenant Worf](worf.md) lists this character as: adoptive father <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Worf "Memory Alpha: Worf: Sergey Rozhenko, found Worf buried in the rubble"))</span>
 
 ## Most scenes shared with
 

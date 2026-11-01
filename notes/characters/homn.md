@@ -8,11 +8,11 @@
 
 ## Key facts
 
-- Lwaxana's valet <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Homn "Memory Alpha: Homn"))</span>, who barely speaks <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Homn "Memory Alpha: Homn"))</span>.
+- Lwaxana's valet <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Homn "Memory Alpha: Homn: the valet"))</span>, who barely speaks <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Homn "Memory Alpha: Homn: only speak to their employers"))</span>.
 
 ## Relationships
 
-- [Lwaxana Troi](lwaxana.md) lists this character as: valet
+- [Lwaxana Troi](lwaxana.md) lists this character as: valet <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Homn "Memory Alpha: Homn: was the valet"))</span>
 
 ## Most scenes shared with
 

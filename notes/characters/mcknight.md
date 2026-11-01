@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Flight controller in seasons 4 to 6 <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/McKnight "Memory Alpha: McKnight"))</span>.
+- Flight controller in seasons 4 to 6 <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/McKnight "Memory Alpha: McKnight: Starfleet conn officer serving aboard the USS Enterprise-D"))</span>.
 
 ## Most scenes shared with
 

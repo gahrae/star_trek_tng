@@ -16,8 +16,8 @@
 
 ## Relationships
 
-- [Lieutenant Commander Data](data.md): adversary
-- [Captain Jean-Luc Picard](picard.md): negotiator and adversary; held the ship hostage
+- [Lieutenant Commander Data](data.md): adversary <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/James_Moriarty_(hologram) "Memory Alpha: James Moriarty (hologram): an adversary capable of outwitting Data"))</span>
+- [Captain Jean-Luc Picard](picard.md): negotiator and adversary; held the ship hostage <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/James_Moriarty_(hologram) "Memory Alpha: James Moriarty (hologram): He showed this same machinery to Picard"))</span>
 
 ## Most scenes shared with
 

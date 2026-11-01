@@ -13,7 +13,7 @@
 
 ## Relationships
 
-- [Lieutenant Worf](worf.md) lists this character as: adoptive mother
+- [Lieutenant Worf](worf.md) lists this character as: adoptive mother <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Worf "Memory Alpha: Worf: He and his wife, Helena, raised the Klingon child alongside their own son, Nikolai"))</span>
 
 ## Most scenes shared with
 

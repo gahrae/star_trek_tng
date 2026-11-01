@@ -13,7 +13,7 @@
 
 ## Relationships
 
-- [Captain Jean-Luc Picard](picard.md) lists this character as: brother
+- [Captain Jean-Luc Picard](picard.md) lists this character as: brother <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Jean-Luc_Picard "Memory Alpha: Jean-Luc Picard: his brother Robert and his nephew René"))</span>
 
 ## Most scenes shared with
 

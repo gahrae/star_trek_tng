@@ -12,7 +12,7 @@
 
 ## Key facts
 
-- Chief medical officer in seasons 1 and 3-7; absent in season 2 while heading Starfleet Medical (replaced by Dr Pulaski) <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Beverly_Crusher "Memory Alpha: Beverly Crusher"))</span>.
+- Chief medical officer in seasons 1 and 3-7; absent in season 2 while heading Starfleet Medical (replaced by Dr Pulaski) <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Beverly_Crusher "Memory Alpha: Beverly Crusher: She was replaced by Dr. Katherine Pulaski"))</span>.
 - Widow of Jack Crusher <span class="src">([S01E25](../../data/text/125.txt#L192 "Conspiracy: PICARD: Friends, close friends, are few and far between. Two of the oldest and closest are Jack Crusher, may h"))</span>, who died under Picard's command on the Stargazer; mother of Wesley.
 - Runs the ship's theatre company and is a former award-winning dancer, embarrassed by the nickname 'the Dancing Doctor' (*Data's Day* <span class="src">[S04E11](../../data/text/185.txt "Data's Day")</span>).
 - Trapped in a collapsing warp bubble of her own making (*Remember Me* <span class="src">[S04E05](../../data/text/179.txt "Remember Me")</span>).
@@ -33,12 +33,12 @@
 
 ## Relationships
 
-- [Wesley Crusher](wesley.md): son
-- [Jack Crusher](jack.md): late husband
-- [Captain Jean-Luc Picard](picard.md): close friend, mutual attraction
-- [Ambassador Odan](odan.md): lover
-- [Nurse Alyssa Ogawa](ogawa.md): nurse and colleague
-- [Ronin](ronin.md): entity that seduced her
+- [Wesley Crusher](wesley.md): son <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Beverly_Crusher "Memory Alpha: Beverly Crusher: the Crushers welcomed a son, Wesley Crusher, in 2348"))</span>
+- [Jack Crusher](jack.md): late husband <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Beverly_Crusher "Memory Alpha: Beverly Crusher: whom she named Jack after her deceased husband"))</span>
+- [Captain Jean-Luc Picard](picard.md): close friend, mutual attraction <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Beverly_Crusher "Memory Alpha: Beverly Crusher: Beverly and Jean-Luc maintained a close friendship while serving on the Enterprise-D"))</span>
+- [Ambassador Odan](odan.md): lover <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Beverly_Crusher "Memory Alpha: Beverly Crusher: she began a relationship with Odan"))</span>
+- [Nurse Alyssa Ogawa](ogawa.md): nurse and colleague <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Beverly_Crusher "Memory Alpha: Beverly Crusher: especially close to Nurse Alyssa Ogawa"))</span>
+- [Ronin](ronin.md): entity that seduced her <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Beverly_Crusher "Memory Alpha: Beverly Crusher: due to the influence of Ronin"))</span>
 
 ## Most scenes shared with
 

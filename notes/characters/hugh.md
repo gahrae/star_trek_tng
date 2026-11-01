@@ -16,9 +16,9 @@
 
 ## Relationships
 
-- [Lieutenant Commander Geordi La Forge](laforge.md): friend
-- [Lore](lore.md): former master
-- [Guinan](guinan.md) lists this character as: Borg she was hostile to, then accepted
+- [Lieutenant Commander Geordi La Forge](laforge.md): friend <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Geordi_La_Forge "Memory Alpha: Geordi La Forge: those he felt towards his friend Geordi"))</span>
+- [Lore](lore.md): former master <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Hugh "Memory Alpha: Hugh: Lore took advantage of the confused drones and assumed leadership of the group"))</span>
+- [Guinan](guinan.md) lists this character as: Borg she was hostile to, then accepted <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Guinan "Memory Alpha: Guinan: Guinan initially questioned Picard's decision in that matter"))</span>
 
 ## Most scenes shared with
 

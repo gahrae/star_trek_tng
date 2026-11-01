@@ -15,7 +15,7 @@
 
 ## Relationships
 
-- [Lieutenant Worf](worf.md) lists this character as: adoptive brother
+- [Lieutenant Worf](worf.md) lists this character as: adoptive brother <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Worf "Memory Alpha: Worf: Worf had a contentious relationship with his elder foster-brother, Nikolai"))</span>
 
 ## Most scenes shared with
 

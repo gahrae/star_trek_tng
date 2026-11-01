@@ -18,9 +18,9 @@
 
 ## Relationships
 
-- [Lieutenant Commander Data](data.md): brother
-- [Dr Noonien Soong](soong.md): creator, whom he killed
-- [Hugh](hugh.md): Borg follower who turned on him
+- [Lieutenant Commander Data](data.md): brother <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Lore "Memory Alpha: Lore: constructing Lore's brother, Data"))</span>
+- [Dr Noonien Soong](soong.md): creator, whom he attacked as he lay dying <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Noonien_Soong "Memory Alpha: Noonien Soong: attacked Soong, hastening his death"))</span>
+- [Hugh](hugh.md): Borg follower who turned on him <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Lore "Memory Alpha: Lore: integrating Hugh's sense of individuality into the hive"))</span>
 
 ## Most scenes shared with
 

@@ -13,7 +13,7 @@
 
 ## Relationships
 
-- [Ambassador Sarek](sarek.md) lists this character as: wife
+- [Ambassador Sarek](sarek.md) lists this character as: wife <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Sarek "Memory Alpha: Sarek: at the suggestion of his wife, Perrin"))</span>
 
 ## Most scenes shared with
 

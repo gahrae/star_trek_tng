@@ -83,8 +83,9 @@ def ma_page(title, phrase=None):
     if phrase and _flat(phrase) not in _flat(text): raise ValueError(f"Memory Alpha page '{title}' does not contain '{phrase}'")
     return text
 
-def ma_link(title):
-    return f'[Memory Alpha](https://memory-alpha.fandom.com/wiki/{title.replace(" ", "_")} "Memory Alpha: {title}")'
+def ma_link(title, phrase=None):
+    tip = f"Memory Alpha: {title}" + (f": {phrase}" if phrase else "")
+    return f'[Memory Alpha](https://memory-alpha.fandom.com/wiki/{title.replace(" ", "_")} "{tip.replace(chr(34), chr(39))}")'
 
 def _token(m, italics=True):
     """Episodes and quoted phrase of one token: a marker {102|phrase} or an italic title *The Battle|phrase*."""
@@ -127,7 +128,7 @@ def links(prods, prefix, line=None):
 def cite(text, prefix):
     """text with each citation turned into a link where it stands: after an italic title, or in brackets where a marker was."""
     def sub(m):
-        if m.group(4): return f' <span class="src">({ma_link(m.group(4))})</span>'
+        if m.group(4): return f' <span class="src">({ma_link(m.group(4), m.group(5))})</span>'
         found, phrase = _token(m)
         if not found: return m.group(0)
         line = locate(found[0], phrase)[1] if phrase else None
