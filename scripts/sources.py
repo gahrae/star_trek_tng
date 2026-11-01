@@ -167,6 +167,25 @@ def credit_links(prod, text):
     for key, val in stash.items(): text = text.replace(key, val)
     return text
 
+_actor_cache = {}
+def actor_page(name):
+    """The Memory Alpha page title for a performer, or None. A one-word name is a fragment of a credit, and a redirect must share a first or last name."""
+    if not _actor_cache: _actor_cache.update(json.load(open(ROOT / "data" / "actor_pages.json")))
+    if name not in _actor_cache: raise KeyError(f"{name} was not looked up: run scripts/fetch_actor_pages.py")
+    page = _actor_cache[name]["page"]
+    if not page or len(name.split()) < 2: return None
+    words, pwords = set(name.lower().split()), page.lower().replace(",", "").split()
+    return page if name.split()[0].lower() in pwords or name.split()[-1].lower() in pwords else None
+
+def actor_links(name):
+    """An actor's name with a link to their Memory Alpha page on the line below, where there is one."""
+    page = actor_page(name)
+    return f'{name}<br><span class="src">([Memory Alpha]({_url("https://memory-alpha.fandom.com/wiki/" + page.replace(" ", "_"))}))</span>' if page else name
+
+def cast_list_link(prod):
+    """Link to the Memory Alpha page of an episode, where its cast list is."""
+    return f"[cast list]({_url(_credits()[prod]['memory_alpha']['episode'])})"
+
 def keywords(text):
     """Distinctive words in a claim: quoted phrases, capitalised words (not at the start of a sentence), long plain words."""
     plain = MARKER.sub("", re.sub(r"\*[^*]+\*", "", text))

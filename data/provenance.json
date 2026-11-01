@@ -205,5 +205,11 @@
    "276": null,
    "277": null
   }
+ },
+ "actor_pages": {
+  "fetched": "2026-11-01T04:02:41+00:00",
+  "source": "https://memory-alpha.fandom.com/api.php",
+  "actors": 387,
+  "with_page": 378
  }
 }
