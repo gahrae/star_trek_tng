@@ -60,6 +60,8 @@ code{background:var(--panel);padding:.1rem .3rem;border-radius:4px;font-size:.9e
 figure.portrait{float:right;margin:0 0 1rem 1.5rem;max-width:220px;text-align:center;font-size:.75rem;color:var(--muted);text-transform:uppercase;letter-spacing:.05em}
 figure.portrait.still{max-width:320px}
 a.report{color:var(--muted);text-decoration:underline dotted}
+.colbar{display:flex;flex-wrap:wrap;gap:.4rem 1rem;align-items:center;margin:.7rem 0;font-size:.9rem;color:var(--muted)}.colbar label{display:inline-flex;align-items:center;gap:.3rem;color:var(--text);cursor:pointer}.colbar input{accent-color:var(--peach)}
+.colbar button{background:var(--panel);color:var(--text);border:2px solid var(--tan);border-radius:1rem;padding:.2rem .8rem;font:inherit;cursor:pointer}.colbar button:hover{border-color:var(--peach)}
 .tr{font-size:.82em}.tr a{color:var(--muted);text-decoration:underline dotted}.tr a:hover{color:var(--text)}
 .src{font-size:.8em;color:var(--muted);}.src a{color:var(--muted);text-decoration:underline dotted}.src a:hover{color:var(--text)}
 figure.portrait img{width:100%;border-radius:12px;border:3px solid var(--tan);display:block}
@@ -105,6 +107,23 @@ document.addEventListener('click',e=>{if(!e.target.closest('.search'))out.style.
  const toc=document.querySelector('main details.toc');const anchor=tables.length>1?toc||document.querySelector('main h1').nextElementSibling||tables[0]:tables[0];anchor.parentNode.insertBefore(f,tables.length>1?anchor.nextSibling:anchor);
  f.addEventListener('input',()=>{const q=f.value.toLowerCase();tables.forEach(t=>{let shown=0;[...t.tBodies[0].rows].forEach(r=>{const on=r.textContent.toLowerCase().includes(q);r.style.display=on?'':'none';if(on)shown++;});
   const h=t.previousElementSibling;if(h&&(/^H[2-4]$/.test(h.tagName)||h.tagName==='SUMMARY'))h.style.display=shown?'':'none';t.style.display=shown?'':'none';});});})();
+// episode list: choose which columns to show (remembered in the browser); small screens start without Aired, Director and Writer
+(()=>{const tabs=[...document.querySelectorAll('main table')].filter(t=>t.tHead&&[...t.tHead.rows[0].cells].some(c=>c.textContent.trim()==='Synopsis'));if(!tabs.length)return;
+ const names=[...tabs[0].tHead.rows[0].cells].map(c=>c.textContent.trim()),opt=names.filter(n=>n!=='Code'&&n!=='Episode'),KEY='tng-episode-columns';
+ let hidden;try{hidden=JSON.parse(localStorage.getItem(KEY));}catch(e){hidden=null;}
+ if(!Array.isArray(hidden))hidden=matchMedia('(max-width:700px)').matches?['Aired','Director','Writer']:[];
+ const save=()=>{try{localStorage.setItem(KEY,JSON.stringify(hidden));}catch(e){}};
+ const bar=document.createElement('div');bar.className='colbar';
+ bar.innerHTML='<span>Columns:</span>'+opt.map(n=>`<label><input type="checkbox" data-col="${n}"> ${n}</label>`).join('')+'<button type="button"></button>';
+ const btn=bar.querySelector('button');
+ const apply=()=>{tabs.forEach(t=>[...t.rows].forEach(r=>[...r.cells].forEach((c,i)=>{c.style.display=hidden.includes(names[i])?'none':'';})));
+  bar.querySelectorAll('input').forEach(b=>b.checked=!hidden.includes(b.dataset.col));
+  const focus=!hidden.includes('Synopsis')&&opt.filter(n=>n!=='Synopsis').every(n=>hidden.includes(n));
+  btn.textContent=focus?'Show all columns':'Focus on synopsis';btn.setAttribute('aria-pressed',focus);};
+ bar.addEventListener('change',e=>{const n=e.target.dataset.col;if(!n)return;hidden=e.target.checked?hidden.filter(x=>x!==n):[...hidden,n];save();apply();});
+ btn.onclick=()=>{hidden=btn.getAttribute('aria-pressed')==='true'?[]:opt.filter(n=>n!=='Synopsis');save();apply();};
+ const anchor=document.querySelector('main input.filter')||document.querySelector('main details.toc');
+ if(anchor)anchor.insertAdjacentElement('afterend',bar);else tabs[0].parentNode.insertBefore(bar,tabs[0]);apply();})();
 """
 
 def shell(title, body, rel, depth):
