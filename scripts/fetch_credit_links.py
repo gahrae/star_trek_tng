@@ -57,7 +57,8 @@ for e in eps:
         row = el.find_parent(["div", "tr"])
         if row: people.update(links(row, "https://memory-alpha.fandom.com"))
     el = page.find(string=re.compile(r"First aired"))
-    box = el and (el.find_parent(class_="pi-item") or el.find_parent("div").find_parent("div"))
+    div = el and el.find_parent("div")
+    box = el and (el.find_parent(class_="pi-item") or (div and div.find_parent("div")))
     m2 = box and re.search(r"(\d{1,2} [A-Z][a-z]+ \d{4})", box.get_text(" ", strip=True))
     date = datetime.datetime.strptime(m2.group(1), "%d %B %Y").date().isoformat() if m2 else None
     if date and date != m["airdate_iso"]: disagree.append(f"{p} {e['title']}: Wikipedia {m['airdate_iso']}, Memory Alpha {date}")

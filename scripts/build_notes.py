@@ -150,6 +150,11 @@ json.dump(presence, open(ROOT / "data" / "presence.json", "w"), indent=1)
 
 cast_path = ROOT / "data" / "cast.json"
 cast = json.load(open(cast_path)) if cast_path.exists() else {}
+def inverse_label(o, lbl):
+    """What profile o is to lbl, for a relationship written only under o (see INVERSE in curated_characters.py)."""
+    if (o, lbl) not in INVERSE: raise KeyError(f"relationship {o} -> {lbl} is written only under {o}: add INVERSE[({o!r}, {lbl!r})], what {o} is to {lbl}")
+    return INVERSE[(o, lbl)]
+
 def match_role(role, prod):
     full = role.split("(")[0].strip()
     if full in FULL_ROLES: return FULL_ROLES[full]
@@ -285,7 +290,7 @@ for lbl in rows:
         if p and p["relationships"]:
             f.write("\n## Relationships\n\n")
             for other, kind, *src in p["relationships"]: f.write(f"- {char_link(other, '')}: {cite(' '.join([kind, *src]), '../../', True)}\n")
-        inbound = [(o, " ".join([INVERSE[(o, lbl)], *k[1:]])) for o, q in PROFILES.items() if o != lbl for r, *k in q["relationships"] if r == lbl and not (p and any(r2 == o for r2, *_ in p["relationships"]))]
+        inbound = [(o, " ".join([inverse_label(o, lbl), *k[1:]])) for o, q in PROFILES.items() if o != lbl for r, *k in q["relationships"] if r == lbl and not (p and any(r2 == o for r2, *_ in p["relationships"]))]
         if inbound:
             f.write("\n" if not (p and p["relationships"]) else "")
             if not (p and p["relationships"]): f.write("## Relationships\n\n")

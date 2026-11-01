@@ -61,7 +61,7 @@ claims = ([(k, n, x) for k, (n, fs) in cc.FACTS.items() for x in fs] + [(k, cc.G
           + [(k, n, d) for k, (n, d) in cc.GUESTS.items()])
 unknown, unbacked, absent = [], [], []
 def present(label, words, p):
-    return label in appear and p in appear[label] or label in presence.get(p, {}) or any(w in transcript(p) for w in words)
+    return label in appear and p in appear[label] or label in presence.get(p, {}) or any(re.search(rf"(?<![a-z]){re.escape(w)}(?![a-z])", transcript(p)) for w in words)
 for label, name, text in claims:
     try: groups = sources.cited_groups(text)
     except ValueError as ex: unknown.append(str(ex)); continue
@@ -100,8 +100,8 @@ for a, prof in cc.PROFILES.items():     # every relationship has a source that n
         if not toks: rel_bad.append(f"{a} -> {other}: the source is not an episode or Memory Alpha marker"); continue
         for m in toks:
             if m.group(4):
-                page = set(spell(sources.ma_page(m.group(4))).split())
-                if not all(any(spell(w).split()[0] in page for w in name_words(x) if spell(w)) for x in (a, other)): rel_bad.append(f"{a} -> {other}: Memory Alpha page {m.group(4)} does not name both")
+                page = " " + spell(sources.ma_page(m.group(4))) + " "      # whole words, so O'Brien is "o brien", not "o"
+                if not all(any(f" {spell(w)} " in page for w in name_words(x) if spell(w)) for x in (a, other)): rel_bad.append(f"{a} -> {other}: Memory Alpha page {m.group(4)} does not name both")
             else:
                 for p in m.group(2).split(","):
                     if not all(present(x, name_words(x), p) for x in (a, other)): rel_bad.append(f"{a} -> {other}: {sources.CODE[p]} does not have both characters")

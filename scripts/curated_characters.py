@@ -97,7 +97,7 @@ FACTS = {
 "TASHA": ("Lieutenant Natasha 'Tasha' Yar", [
  "Security chief in season 1; raised on the failed colony Turkana IV {ma:Natasha Yar|failed Federation colony world of Turkana IV}, escaping its gangs at fifteen {ma:Natasha Yar|by the age of fifteen}.",
  "Killed by the entity Armus on Vagra II (*Skin of Evil|Do you want to know why I killed her*); leaves a holographic farewell for the crew.",
- "An alternate-timeline Tasha goes back in time aboard the Enterprise-C (*Yesterday's Enterprise|NCC one seven oh one C. USS Enterprise*); her half-Romulan daughter Sela appears in *Redemption II|She bundled me up and she told me to stay quiet* and *Unification II|Senator Pardek, your service to the Romulan people is noted and appreciated*.",
+ "An alternate-timeline Tasha goes back in time aboard the Enterprise-C (*Yesterday's Enterprise|NCC one seven oh one C. USS Enterprise*); her half-Romulan daughter Sela appears in *Redemption II|She bundled me up and she told me to stay quiet*.",
  "Younger sister Ishara Yar comes aboard and betrays the crew (*Legacy|Tasha was my sister*).",
 ]),
 "PULASKI": ("Dr Katherine Pulaski", [

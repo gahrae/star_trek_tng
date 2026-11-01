@@ -145,21 +145,25 @@ def cite(text, prefix, titled=False):
     out = TOKEN.sub(sub, re.sub(r"\s+(?=\{(?:\d{3}|ma:))", "", text))
     return out.replace(')</span> <span class="src">(', " · ")        # neighbouring sources share one bracket
 
-_credits = json.load(open(ROOT / "data" / "credit_links.json"))
+_credit_cache = {}
+def _credits():
+    """data/credit_links.json, read when first needed (the fetchers import this module before it is rebuilt)."""
+    if not _credit_cache: _credit_cache.update(json.load(open(ROOT / "data" / "credit_links.json")))
+    return _credit_cache
 
 def airdate_links(prod, date):
     """The airdate followed by links to where it comes from: Wikipedia's page for the episode (else its season in the list) and Memory Alpha's."""
-    c = _credits[prod]; w = c["wikipedia"]
-    return f'{date} <span class="src">([Wikipedia]({_url(w["episode"] or w["list"])}) · [Memory Alpha]({_url(c["memory_alpha"]["episode"])}))</span>'
+    c = _credits()[prod]; w = c["wikipedia"]; other = c["memory_alpha"]["airdate"]
+    note = f" · Memory Alpha gives {other}" if other and other != date else ""        # where the two sources disagree, say so
+    return f'{date} <span class="src">([Wikipedia]({_url(w["episode"] or w["list"])}) · [Memory Alpha]({_url(c["memory_alpha"]["episode"])}){note})</span>'
 
 def credit_links(prod, text):
     """A director or writer credit with each person's Wikipedia and Memory Alpha pages after their name (only those that exist)."""
-    c = _credits[prod]; wp, ma = c["wikipedia"]["people"], c["memory_alpha"]["people"]
-    names = sorted((set(wp) | set(ma)) & {n for n in set(wp) | set(ma) if n in text}, key=len, reverse=True)
+    c = _credits()[prod]; wp, ma = c["wikipedia"]["people"], c["memory_alpha"]["people"]
     stash = {}
-    for i, n in enumerate(names):
+    for i, n in enumerate(sorted((set(wp) | set(ma)) & {n for n in set(wp) | set(ma) if n in text}, key=len, reverse=True)):   # longest first, so a name inside another is left alone
         ls = ([f"[Wikipedia]({_url(wp[n])})"] if n in wp else []) + ([f"[Memory Alpha]({_url(ma[n])})"] if n in ma else [])
-        if n in text: key = f"\0{i}\0"; stash[key] = f'{n} <span class="src">({" · ".join(ls)})</span>'; text = text.replace(n, key, 1)
+        key = f"\0{i}\0"; stash[key] = f'{n} <span class="src">({" · ".join(ls)})</span>'; text = text.replace(n, key, 1)
     for key, val in stash.items(): text = text.replace(key, val)
     return text
 

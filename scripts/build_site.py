@@ -160,7 +160,8 @@ def render(md_path):
     body = body.replace('href="README.html"', 'href="index.html"')
     body = re.sub(r"<code>data/text/(\d+)\.txt</code>", r'<a href="../transcripts/\1.html">read the transcript</a>', body)
     body = re.sub(r'href="(?:\.\./)+data/text/(\d+)\.txt(?:#L(\d+))?"', lambda m: f'href="{"../" * depth}transcripts/{m.group(1)}.html' + (f'#l{anchor(m.group(1), int(m.group(2)))}' if m.group(2) else '') + '"', body)   # source links go to the site's transcript pages, to the line if one is quoted
-    assert "data/text/" not in re.sub(r"<code>.*?</code>", "", body), f"a source link to a raw transcript is left in {depth} deep page"
+    left = re.findall(r'href="[^"]*data/text/[^"]*"', re.sub(r"<code>.*?</code>", "", body))
+    if left: raise ValueError(f"a source link to a raw transcript was not rewritten: {left[:2]}")
     title = re.search(r"^# (.+)$", text, re.M); title = html.unescape(title.group(1)) if title else rel.stem
     if rel.parent.name == "characters": body = character_extras(body, rel.stem)
     if rel.parent.name == "episodes": body = episode_still(body, rel.stem, title)

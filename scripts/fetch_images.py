@@ -106,7 +106,8 @@ for i in range(0, len(need), 15):
     for sl, t in batch:
         pg = bytitle.get(redirects.get(t, t)); rec = out[sl]
         text = pg["revisions"][0]["slots"]["main"]["*"] if pg and "revisions" in pg else ""
-        m = re.search(r"\|\s*image\s*=\s*([^\n|]+)", text); name = m.group(1).strip() if m else None
+        m = re.search(r"\|\s*image\s*=\s*([^\n|]+)", re.sub(r"<!--.*?-->", "", text, flags=re.S))
+        name = re.sub(r"^(?:\[\[)?(?:File|Image):", "", m.group(1).strip(), flags=re.I).rstrip("]") if m else None     # a bare file name, without File: or [[ ]]
         if not name or (LATER.search(name) and not TNG_YEAR.search(name)):    # no infobox portrait, or one from a later era
             if rec.get("era") == "tng": continue          # keep the TNG-era file
             for old in IMG.glob(f"{sl}.*"): old.unlink()
