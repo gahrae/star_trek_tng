@@ -130,12 +130,12 @@ def shade_matrices(body):
         return re.sub(r"<td[^>]*>(\d+)</td>", paint, tbl)
     return re.sub(r"<table>.*?</table>", lambda m: one(m.group(0)), body, flags=re.S)
 
-def add_contents(body, nest=False):
-    """Insert a collapsible table of contents after the intro when a page has several sections.
+def add_contents(body, nest=False, minimum=5):
+    """Insert a collapsible table of contents after the intro when a page has at least `minimum` sections.
     With nest=True the h3 headings are listed under their h2 group."""
     heads = re.findall(r'<h([23]) id="([^"]+)">(.*?)</h[23]>', body)
     if not nest: heads = [h for h in heads if h[0] == "2"]
-    if len(heads) < 5: return body
+    if len(heads) < minimum: return body
     strip = lambda t: re.sub("<[^>]+>", "", t)
     if nest:
         groups = []
@@ -154,7 +154,7 @@ def render(md_path):
     rel = md_path.relative_to(NOTES); depth = len(rel.parts) - 1
     text = md_path.read_text(encoding="utf-8")
     body = markdown.markdown(text, extensions=["tables", "fenced_code", "toc"], extension_configs={"toc": {"slugify": lambda v, sep: slug(v)}})
-    body = add_contents(body, nest=(rel.name == "arcs.md"))
+    body = add_contents(body, nest=(rel.name == "arcs.md"), minimum=1 if rel.parts[0] == "characters" else 5)      # every character page has one, so they look alike
     if rel.name == "co_appearance.md": body = shade_matrices(body)
     body = re.sub(r'href="([^"]+?)\.md(#[^"]*)?"', lambda m: f'href="{m.group(1)}.html{m.group(2) or ""}"', body)
     body = body.replace('href="README.html"', 'href="index.html"')
