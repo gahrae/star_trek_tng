@@ -76,24 +76,24 @@ Counted in dialogue lines; where a speaker is named, only that character's lines
 
 ## Stardate anomalies
 
-Episodes whose stardate is earlier than the previous episode's, in broadcast order. Stardates are Memory Alpha's where the fan transcript misreads one. Episodes without a stated stardate are skipped.
+Episodes whose stardate is earlier than the previous episode's, in broadcast order. The last column gives the likely reason: the episode was made before the previous one, the previous episode's stardate is the one that jumps ahead, or the scripts' stardates were simply not kept in sequence. Stardates are Memory Alpha's where the fan transcript misreads one. Episodes without a stated stardate are skipped.
 
 | Episode | Stardate | Previous episode | Its stardate | What explains it |
 |---|---:|---|---:|---|
-| S01E06 [Where No One Has Gone Before](episodes/106.md) | 41263.1 | S01E05 [The Last Outpost](episodes/107.md) | 41386.4 | aired out of production order: this episode was made before the previous one |
-| S01E07 [Lonely Among Us](episodes/108.md) | 41249.3 | S01E06 [Where No One Has Gone Before](episodes/106.md) | 41263.1 | none: the script's stardates were not kept in sequence (Memory Alpha lists the same two values) |
-| S01E10 [Hide & Q](episodes/111.md) | 41590.5 | S01E09 [The Battle](episodes/110.md) | 41723.9 | the previous episode's stardate is the one out of sequence: it jumps ahead of the episodes on either side of it |
-| S01E11 [Haven](episodes/105.md) | 41294.5 | S01E10 [Hide & Q](episodes/111.md) | 41590.5 | aired out of production order: this episode was made before the previous one |
-| S01E13 [Datalore](episodes/114.md) | 41242.4 | S01E12 [The Big Goodbye](episodes/113.md) | 41997.7 | none: the script's stardates were not kept in sequence (Memory Alpha lists the same two values) |
-| S01E15 [11001001](episodes/116.md) | 41365.9 | S01E14 [Angel One](episodes/115.md) | 41636.9 | the previous episode's stardate is the one out of sequence: it jumps ahead of the episodes on either side of it |
-| S01E16 [Too Short A Season](episodes/112.md) | 41309.5 | S01E15 [11001001](episodes/116.md) | 41365.9 | aired out of production order: this episode was made before the previous one |
-| S01E18 [Home Soil](episodes/117.md) | 41463.9 | S01E17 [When The Bough Breaks](episodes/118.md) | 41509.1 | aired out of production order: this episode was made before the previous one |
-| S01E19 [Coming of Age](episodes/119.md) | 41416.2 | S01E18 [Home Soil](episodes/117.md) | 41463.9 | none: the script's stardates were not kept in sequence (Memory Alpha lists the same two values); the transcript reads 41461.2 |
-| S01E23 [Skin Of Evil](episodes/122.md) | 41601.3 | S01E21 [The Arsenal Of Freedom](episodes/121.md) | 41798.2 | the previous episode's stardate is the one out of sequence: it jumps ahead of the episodes on either side of it |
-| S02E06 [The Schizoid Man](episodes/131.md) | 42437.5 | S02E05 [Loud as a Whisper](episodes/132.md) | 42477.2 | aired out of production order: this episode was made before the previous one |
-| S07E04 [Gambit, part 1](episodes/256.md) | 47135.2 | S07E03 [Interface](episodes/255.md) | 47215.5 | the previous episode's stardate is the one out of sequence: it jumps ahead of the episodes on either side of it |
-| S07E11 [Parallels](episodes/263.md) | 47391.2 | S07E10 [Inheritance](episodes/262.md) | 47410.2 | none: the script's stardates were not kept in sequence (Memory Alpha lists the same two values) |
-| S07E13 [Homeward](episodes/265.md) | 47423.9 | S07E12 [The Pegasus](episodes/264.md) | 47457.1 | the previous episode's stardate is the one out of sequence: it jumps ahead of the episodes on either side of it |
+| S01E06 [Where No One Has Gone Before](episodes/106.md) | 41263.1 | S01E05 [The Last Outpost](episodes/107.md) | 41386.4 | Made earlier than the previous episode |
+| S01E07 [Lonely Among Us](episodes/108.md) | 41249.3 | S01E06 [Where No One Has Gone Before](episodes/106.md) | 41263.1 | Script stardates out of sequence; Memory Alpha agrees |
+| S01E10 [Hide & Q](episodes/111.md) | 41590.5 | S01E09 [The Battle](episodes/110.md) | 41723.9 | Previous episode is the outlier |
+| S01E11 [Haven](episodes/105.md) | 41294.5 | S01E10 [Hide & Q](episodes/111.md) | 41590.5 | Made earlier than the previous episode |
+| S01E13 [Datalore](episodes/114.md) | 41242.4 | S01E12 [The Big Goodbye](episodes/113.md) | 41997.7 | Script stardates out of sequence; Memory Alpha agrees |
+| S01E15 [11001001](episodes/116.md) | 41365.9 | S01E14 [Angel One](episodes/115.md) | 41636.9 | Previous episode is the outlier |
+| S01E16 [Too Short A Season](episodes/112.md) | 41309.5 | S01E15 [11001001](episodes/116.md) | 41365.9 | Made earlier than the previous episode |
+| S01E18 [Home Soil](episodes/117.md) | 41463.9 | S01E17 [When The Bough Breaks](episodes/118.md) | 41509.1 | Made earlier than the previous episode |
+| S01E19 [Coming of Age](episodes/119.md) | 41416.2 | S01E18 [Home Soil](episodes/117.md) | 41463.9 | Script stardates out of sequence; Memory Alpha agrees; transcript reads 41461.2 |
+| S01E23 [Skin Of Evil](episodes/122.md) | 41601.3 | S01E21 [The Arsenal Of Freedom](episodes/121.md) | 41798.2 | Previous episode is the outlier |
+| S02E06 [The Schizoid Man](episodes/131.md) | 42437.5 | S02E05 [Loud as a Whisper](episodes/132.md) | 42477.2 | Made earlier than the previous episode |
+| S07E04 [Gambit, part 1](episodes/256.md) | 47135.2 | S07E03 [Interface](episodes/255.md) | 47215.5 | Previous episode is the outlier |
+| S07E11 [Parallels](episodes/263.md) | 47391.2 | S07E10 [Inheritance](episodes/262.md) | 47410.2 | Script stardates out of sequence; Memory Alpha agrees |
+| S07E13 [Homeward](episodes/265.md) | 47423.9 | S07E12 [The Pegasus](episodes/264.md) | 47457.1 | Previous episode is the outlier |
 
 ## Most speaking characters in one episode
 

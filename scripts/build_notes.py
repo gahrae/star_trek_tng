@@ -440,18 +440,19 @@ with open(NOTES / "stats.md", "w", encoding="utf-8") as f:
     ranked = sorted(eps, key=lambda e: -sum(lines_by_ep[e["prod"]].values()))
     for tag, e in [("Longest", ranked[0]), ("2nd", ranked[1]), ("3rd", ranked[2]), ("Shortest", ranked[-1]), ("2nd shortest", ranked[-2])]:
         f.write(f"| {tag} | [{e['title']}](episodes/{e['prod']}.md) | {sum(lines_by_ep[e['prod']].values())} |\n")
-    f.write("\n## Stardate anomalies\n\nEpisodes whose stardate is earlier than the previous episode's, in broadcast order. Stardates are Memory Alpha's where the fan transcript misreads one. "
-            "Episodes without a stated stardate are skipped.\n\n| Episode | Stardate | Previous episode | Its stardate | What explains it |\n|---|---:|---|---:|---|\n")
+    f.write("\n## Stardate anomalies\n\nEpisodes whose stardate is earlier than the previous episode's, in broadcast order. The last column gives the likely reason: the episode was made before the previous one, "
+            "the previous episode's stardate is the one that jumps ahead, or the scripts' stardates were simply not kept in sequence. "
+            "Stardates are Memory Alpha's where the fan transcript misreads one. Episodes without a stated stardate are skipped.\n\n| Episode | Stardate | Previous episode | Its stardate | What explains it |\n|---|---:|---|---:|---|\n")
     seq = [(e, float(e["stardate"])) for e in eps if re.fullmatch(r"[\d.]+", e["stardate"] or "")]
     for k in range(1, len(seq)):
         e, sd = seq[k]; pe, psd = seq[k - 1]
         if sd >= psd: continue
-        if int(e["prod"]) < int(pe["prod"]): reason = "aired out of production order: this episode was made before the previous one"
-        elif k + 1 < len(seq) and seq[k + 1][1] < psd and k >= 2 and psd - seq[k - 2][1] > psd - sd: reason = f"the previous episode's stardate is the one out of sequence: it jumps ahead of the episodes on either side of it"
+        if int(e["prod"]) < int(pe["prod"]): reason = "Made earlier than the previous episode"
+        elif k + 1 < len(seq) and seq[k + 1][1] < psd and k >= 2 and psd - seq[k - 2][1] > psd - sd: reason = "Previous episode is the outlier"
         else:
             agree = all(ma_stardate.get(x["prod"]) and abs(float(ma_stardate[x["prod"]]) - v) < 0.05 for x, v in ((e, sd), (pe, psd)))
-            reason = "none: the script's stardates were not kept in sequence" + (" (Memory Alpha lists the same two values)" if agree else "")
-        if e["stardate_transcript"] != e["stardate"]: reason += f"; the transcript reads {e['stardate_transcript']}"
+            reason = "Script stardates out of sequence" + ("; Memory Alpha agrees" if agree else "")
+        if e["stardate_transcript"] != e["stardate"]: reason += f"; transcript reads {e['stardate_transcript']}"
         f.write(f"| {e['code']} [{e['title']}](episodes/{e['prod']}.md) | {sd} | {pe['code']} [{pe['title']}](episodes/{pe['prod']}.md) | {psd} | {reason} |\n")
     f.write("\n## Most speaking characters in one episode\n\n| Episode | Speaking characters |\n|---|---:|\n")
     for e in sorted(eps, key=lambda e: -len(lines_by_ep[e["prod"]]))[:10]: f.write(f"| [{e['title']}](episodes/{e['prod']}.md) | {len(lines_by_ep[e['prod']])} |\n")
