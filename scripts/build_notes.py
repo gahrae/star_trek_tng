@@ -235,7 +235,7 @@ with open(NOTES / "episodes.md", "w", encoding="utf-8") as f:
         if e["season"] != cur:
             cur = e["season"]; f.write(f"\n## Season {cur}\n\n| Code | Title | Aired | Director | Writer | Arcs | Synopsis |\n|---|---|---|---|---|---|---|\n")
         syn, arcs, links = EPISODES[e["prod"]]
-        f.write(f"| {e['code']} | [{e['title']}](episodes/{e['prod']}.md) | {e['airdate_iso']} | {e['director']} | {e['writer']} | {', '.join(arcs)} | {syn} |\n")
+        f.write(f"| {e['code']} | [{e['title']}](episodes/{e['prod']}.md) | {e['airdate_iso']} | {e['director']} | {e['writer']} | {', '.join(f'[{a}](arcs.md#{slug(a)})' for a in arcs)} | {syn} |\n")
 
 for e in eps:
     prod = e["prod"]; syn, arcs, links = EPISODES[prod]
