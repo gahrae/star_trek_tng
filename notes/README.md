@@ -1,6 +1,6 @@
 # Star Trek: The Next Generation notes
 
-Built from 176 episode transcripts (fan transcriptions from Chrissie's Transcripts Site, chakoteya.net, downloaded for personal study), episode credits from Wikipedia, and curated synopses, arc tags, continuity links and character profiles from the data modules in `scripts/`.
+Built from 176 episode transcripts (fan transcriptions from Chrissie's Transcripts Site, chakoteya.net, downloaded for personal study), episode credits from Wikipedia, and curated synopses, arc tags, continuity links and character profiles from the data modules in `scripts/`. The synopses, profiles and other curated text were written with Claude, an AI assistant; see [Where AI was used](#where-ai-was-used).
 
 ## Start here
 
@@ -30,8 +30,18 @@ Episodes are identified on the pages by their code (S03E15, broadcast order) and
 - Appearance counts are based on dialogue. For the main and recurring cast, episodes where the character is only named in stage directions are listed separately as silent appearances; this is a heuristic and can miss or over-count.
 - Cast lists come from Memory Alpha (CC BY-NC) and are matched to transcript labels by name, which fails for some credits.
 - Speaker labels follow the transcriber's spelling. A few aliases are merged (Geordi, Beverly, Alyssa, and Data's personas in *Masks*).
-- Synopses, arc tags, continuity links, key facts, profiles, relationships and guest descriptions were written with Claude, an AI assistant. Each episode's synopsis and arc tags were written from its full transcript. Key facts, profiles, relationships and guest descriptions were written from general knowledge of the show and then checked against Memory Alpha and the transcripts. Each continuity link was checked against both episodes' transcripts. Portraits are picked by an automated search, so a few may be wrong. Check anything you rely on.
-- Source links: each claim in a character fact, guest description or relationship is followed by a link to what it rests on: the episode transcript (a small code such as S04E02, sometimes to the exact line) or, for things no episode shows, a Memory Alpha page. The build checks that the cited episode or page contains the names and phrases in the claim.
+
+## Where AI was used
+
+The project was built with Claude, an AI assistant, working from my direction and review.
+
+- **Code:** the scripts, the site and the build were written with Claude's help.
+- **Written from the transcripts:** each episode's synopsis and arc tags were written by reading its full transcript.
+- **Written from general knowledge, then sourced:** key facts, profiles, relationships and guest descriptions were first written from general knowledge of the show, not extracted from the text. Each was then checked against Memory Alpha and the episode transcripts, and corrected where they didn't match.
+- **Continuity links:** each link between episodes was checked against both transcripts, and links with no explicit connection in the text were removed.
+- **Source links:** a claim is followed by a link to what it rests on. That is an episode transcript (a small code such as S04E02, sometimes going to the exact line, which is highlighted when you arrive) or, for things no episode shows, such as "chief engineer from season 2", a Memory Alpha page. Airdates, directors and writers link to Wikipedia and Memory Alpha, and actors to their Memory Alpha pages. Every character fact, description and relationship has at least one source. A few clauses that neither a transcript nor Memory Alpha shows, such as Worf being "the first Klingon officer in Starfleet", have no link.
+- **What the build checks:** that each cited episode or Memory Alpha page exists and contains the names and quoted phrases in the claim, that a quoted line is in the transcript, that a character's facts cite only episodes the character is in, and that a relationship's source names both people. This catches wrong citations. It does not prove that every sentence is true, and many of the quoted lines were chosen by Claude.
+- **Not checked:** the choice of which entities and catchphrases to count. Character pages and portraits were audited by comparing each page's opening text with the description and by eye, so a lookalike page can still slip through. Check anything you rely on.
 
 ## Rebuilding
 

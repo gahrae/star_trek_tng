@@ -123,6 +123,10 @@ for prod, rows in cast_data.items():
     page = _flat(_html.unescape(re.sub(r"<[^>]+>", " ", json.load(open(f))["parse"]["text"]["*"]))) if f.exists() else None
     credit_missing += [f"{sources.CODE[prod]} {r['actor']}" for r in rows if page is None or _flat(r["actor"]) not in page]
 check(not credit_missing, f"{len(credit_missing)} cast credits whose actor is not on the episode's Memory Alpha page: {credit_missing[:3]}")
+# the "Where AI was used" text is written once, in the README, and reused on the site's home page: the two must match
+_m = re.search(r"<!-- ai-disclosure:start -->\n(.*?)\n<!-- ai-disclosure:end -->", (ROOT / "README.md").read_text(encoding="utf-8"), re.S)
+check(bool(_m) and _m.group(1).replace("**Where AI was used:** the project", "The project", 1) in (ROOT / "notes" / "README.md").read_text(encoding="utf-8"),
+      "the site's home page (notes/README.md) does not carry the README's \"Where AI was used\" text; run ./build.sh")
 check(not rel_bad, f"{len(rel_bad)} relationships without a good source: {rel_bad[:4]}")
 check(not drift, f"line links would point at the wrong line in {drift[:5]}: sources.dialogue() no longer matches the transcript pages")
 check(not unknown, f"unknown episodes cited: {unknown[:3]}")

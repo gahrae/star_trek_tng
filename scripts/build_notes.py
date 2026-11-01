@@ -531,9 +531,12 @@ with open(NOTES / "crew.md", "w", encoding="utf-8") as f:
         f.write(f"| {sn} | {len(se)} | {len(dc)} | {len(wc)} | {', '.join(f'{d} ({k})' for d, k in top2(dc))} | {', '.join(f'{n} ({k})' for n, k in top2(wc))} |\n")
 
 # ---------------------------------------------------------------- README
+# The "Where AI was used" text lives in the repository README (between the ai-disclosure markers) and is reused here, so the two cannot disagree.
+_ai = re.search(r"<!-- ai-disclosure:start -->\n(.*?)\n<!-- ai-disclosure:end -->", (ROOT / "README.md").read_text(encoding="utf-8"), re.S)
+AI_DISCLOSURE = _ai.group(1).replace("**Where AI was used:** the project", "The project", 1)        # the section heading takes the label
 (NOTES / "README.md").write_text(f"""# Star Trek: The Next Generation notes
 
-Built from {len(eps)} episode transcripts (fan transcriptions from Chrissie's Transcripts Site, chakoteya.net, downloaded for personal study), episode credits from Wikipedia, and curated synopses, arc tags, continuity links and character profiles from the data modules in `scripts/`.
+Built from {len(eps)} episode transcripts (fan transcriptions from Chrissie's Transcripts Site, chakoteya.net, downloaded for personal study), episode credits from Wikipedia, and curated synopses, arc tags, continuity links and character profiles from the data modules in `scripts/`. The synopses, profiles and other curated text were written with Claude, an AI assistant; see [Where AI was used](#where-ai-was-used).
 
 ## Start here
 
@@ -563,8 +566,10 @@ Episodes are identified on the pages by their code (S03E15, broadcast order) and
 - Appearance counts are based on dialogue. For the main and recurring cast, episodes where the character is only named in stage directions are listed separately as silent appearances; this is a heuristic and can miss or over-count.
 - Cast lists come from Memory Alpha (CC BY-NC) and are matched to transcript labels by name, which fails for some credits.
 - Speaker labels follow the transcriber's spelling. A few aliases are merged (Geordi, Beverly, Alyssa, and Data's personas in *Masks*).
-- Synopses, arc tags, continuity links, key facts, profiles, relationships and guest descriptions were written with Claude, an AI assistant. Each episode's synopsis and arc tags were written from its full transcript. Key facts, profiles, relationships and guest descriptions were written from general knowledge of the show and then checked against Memory Alpha and the transcripts. Each continuity link was checked against both episodes' transcripts. Portraits are picked by an automated search, so a few may be wrong. Check anything you rely on.
-- Source links: each claim in a character fact, guest description or relationship is followed by a link to what it rests on: the episode transcript (a small code such as S04E02, sometimes to the exact line) or, for things no episode shows, a Memory Alpha page. The build checks that the cited episode or page contains the names and phrases in the claim.
+
+## Where AI was used
+
+{AI_DISCLOSURE}
 
 ## Rebuilding
 
