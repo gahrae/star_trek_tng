@@ -8,7 +8,7 @@
 
 ## Key facts
 
-- Troi's rapidly ageing alien child, named after her father; a lifeform that chose to be born to learn about humanity and leaves when its radiation endangers the ship (*The Child* <span class="src">[S02E01](../../data/text/127.txt "The Child")</span>).
+- Troi's rapidly ageing alien child, named after her father; a lifeform that chose to be born to learn about humanity and leaves when its radiation endangers the ship (*The Child* <span class="src">[S02E01](../../data/text/127.txt#L603 "The Child: TROI: He is a life force entity. When we passed each other in space, he was curious about us, so he decided th")</span>).
 
 ## Most scenes shared with
 

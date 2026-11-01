@@ -12,8 +12,8 @@
 
 ## Key facts
 
-- Bajoran officer with a court-martial record from the Garon II incident; brought aboard by Admiral Kennelly (*Ensign Ro* <span class="src">[S05E03](../../data/text/203.txt "Ensign Ro")</span>). <span class="src">([S05E03](../../data/text/203.txt#L162 "Ensign Ro: PICARD: I'm fully aware of your Starfleet record, your problems on other ships, and the incident on Garon Two "))</span>
-- Trapped out of phase with Geordi after a transporter accident (*The Next Phase* <span class="src">[S05E24](../../data/text/224.txt "The Next Phase")</span>); de-aged to a child (*Rascals* <span class="src">[S06E07](../../data/text/233.txt "Rascals")</span>).
+- Bajoran officer with a court-martial record from the Garon II incident; brought aboard by Admiral Kennelly (*Ensign Ro* <span class="src">[S05E03](../../data/text/203.txt#L466 "Ensign Ro: RO: Admiral Kennelly came to me in prison and told me he'd arrange to get me out if I'd go on a mission.")</span>). <span class="src">([S05E03](../../data/text/203.txt#L162 "Ensign Ro: PICARD: I'm fully aware of your Starfleet record, your problems on other ships, and the incident on Garon Two "))</span>
+- Trapped out of phase with Geordi after a transporter accident (*The Next Phase* <span class="src">[S05E24](../../data/text/224.txt#L252 "The Next Phase: RO: According to Doctor Crusher, we died in a transporter malfunction at fourteen thirty hours. Geordi, I saw ")</span>); de-aged to a child (*Rascals* <span class="src">[S06E07](../../data/text/233.txt "Rascals")</span>).
 - After advanced tactical training, defects to the Maquis, betraying Picard's trust (*Preemptive Strike* <span class="src">[S07E24](../../data/text/276.txt "Preemptive Strike")</span>).
 
 ## Rank and role timeline

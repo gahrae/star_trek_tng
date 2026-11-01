@@ -11,7 +11,7 @@
 
 - Android built by Data using a new submicron matrix transfer; chooses to be a human female. <span class="src">([S03E16](../../data/text/164.txt#L49 "The Offspring: DATA: True, but here was a new submicron matrix transfer technology introduced at the conference which I disco"))</span>
 - Attends school, works in Ten Forward, and begins to feel emotions, starting with fear. <span class="src">([S03E16](../../data/text/164.txt "The Offspring"))</span>
-- Admiral Haftel's attempt to take her triggers a cascade failure; Data keeps her memories (*The Offspring* <span class="src">[S03E16](../../data/text/164.txt "The Offspring")</span>).
+- Admiral Haftel's attempt to take her triggers a cascade failure; Data keeps her memories (*The Offspring* <span class="src">[S03E16](../../data/text/164.txt#L616 "The Offspring: DATA: I thank you for your sympathy, but she is here. Her presence so enriched my life that I could not allow ")</span>).
 
 ## Relationships
 

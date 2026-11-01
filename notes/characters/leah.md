@@ -12,7 +12,7 @@
 
 ## Key facts
 
-- Designer of the Enterprise's warp engines; Geordi builds a holodeck version of her and is embarrassed when the real, married Brahms visits (*Booby Trap* <span class="src">[S03E06](../../data/text/154.txt "Booby Trap")</span>, *Galaxy's Child* <span class="src">[S04E16](../../data/text/190.txt "Galaxy's Child")</span>).
+- Designer of the Enterprise's warp engines; Geordi builds a holodeck version of her and is embarrassed when the real, married Brahms visits (*Booby Trap* <span class="src">[S03E06](../../data/text/154.txt#L254 "Booby Trap: LAFORGE: Computer, who is this L. Brahms?")</span>, *Galaxy's Child* <span class="src">[S04E16](../../data/text/190.txt#L36 "Galaxy's Child: LAFORGE: You remember about a year ago when we were caught in that booby trap the Menthars set? Okay. While we")</span>).
 
 ## Relationships
 

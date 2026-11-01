@@ -12,7 +12,7 @@
 
 ## Key facts
 
-- Data's earlier prototype, built with emotions, which made him unstable; betrayed the Omicron Theta colonists to the Crystalline Entity (*Datalore* <span class="src">[S01E13](../../data/text/114.txt "Datalore")</span>).
+- Data's earlier prototype, built with emotions, which made him unstable; betrayed the Omicron Theta colonists to the Crystalline Entity (*Datalore* <span class="src">[S01E13](../../data/text/114.txt#L400 "Datalore: LORE: And let us toast also the great Crystal Entity with whom I learned to communicate. Before Doctor Soong d")</span>).
 - Murders Dr Soong and steals Data's emotion chip (*Brothers* <span class="src">[S04E03](../../data/text/177.txt "Brothers")</span>).
 - Leads a faction of rogue Borg and uses the chip to control Data (*Descent* <span class="src">[S06E26](../../data/text/252.txt "Descent, part 1") · [S07E01](../../data/text/253.txt "Descent, part 2")</span>); finally deactivated by Data.
 

@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Engineer and Wesley's girlfriend, known for her personal rules, 'Robin's Laws' (*The Game* <span class="src">[S05E06](../../data/text/206.txt "The Game")</span>).
+- Engineer and Wesley's girlfriend, known for her personal rules, 'Robin's Laws' (*The Game* <span class="src">[S05E06](../../data/text/206.txt#L321 "The Game: ROBIN: They're my personal laws. Every time I learn something essential, I make up a law about it so I never f")</span>).
 
 ## Relationships
 

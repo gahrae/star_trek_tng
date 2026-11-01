@@ -13,7 +13,7 @@
 ## Key facts
 
 - Son of Worf and K'Ehleyr. After her death (*Reunion* <span class="src">[S04E07](../../data/text/181.txt "Reunion")</span>) he is sent to live with Worf's adoptive parents, the Rozhenkos, on Earth; a year later Helena Rozhenko brings him to live on the Enterprise with his father (*New Ground* <span class="src">[S05E10](../../data/text/210.txt "New Ground")</span>).
-- Struggles with Klingon honour and his father's expectations (*A Fistful of Datas* <span class="src">[S06E08](../../data/text/234.txt "A Fistful of Datas")</span>, *Firstborn* <span class="src">[S07E21](../../data/text/273.txt "Firstborn")</span>).
+- Struggles with Klingon honour and his father's expectations (*A Fistful of Datas* <span class="src">[S06E08](../../data/text/234.txt "A Fistful of Datas")</span>, *Firstborn* <span class="src">[S07E21](../../data/text/273.txt#L46 "Firstborn: WORF: If you do not participate in the rite before the age of thirteen years, you will never be able to become")</span>).
 - An adult Alexander travels back in time as 'K'mtar' to change his own past (*Firstborn* <span class="src">[S07E21](../../data/text/273.txt "Firstborn")</span>).
 
 ## Relationships

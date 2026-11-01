@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Enterprise-C helmsman who goes back through the rift with alternate Tasha aboard (*Yesterday's Enterprise* <span class="src">[S03E15](../../data/text/163.txt "Yesterday's Enterprise")</span>).
+- Enterprise-C helmsman who goes back through the rift with alternate Tasha aboard (*Yesterday's Enterprise* <span class="src">[S03E15](../../data/text/163.txt#L583 "Yesterday's Enterprise: CASTILLO: This isn't a joke, Tasha. We're going back in the rift, into battle. We're not coming back.")</span>).
 
 ## Most scenes shared with
 

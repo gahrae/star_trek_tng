@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Worf's adoptive human father, a retired Starfleet chief petty officer (*Family* <span class="src">[S04E02](../../data/text/178.txt "Family")</span>). <span class="src">([S04E02](../../data/text/178.txt#L91 "Family: SERGEY: Always good to meet another Chief Petty Officer. Sergey Rozhenko, formerly of the USS Intrepid."))</span>
+- Worf's adoptive human father, a retired Starfleet chief petty officer (*Family* <span class="src">[S04E02](../../data/text/178.txt#L91 "Family: SERGEY: Always good to meet another Chief Petty Officer. Sergey Rozhenko, formerly of the USS Intrepid.")</span>). <span class="src">([S04E02](../../data/text/178.txt#L91 "Family: SERGEY: Always good to meet another Chief Petty Officer. Sergey Rozhenko, formerly of the USS Intrepid."))</span>
 
 ## Relationships
 

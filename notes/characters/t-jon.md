@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Ornaran freighter captain dependent on felicium (*Symbiosis* <span class="src">[S01E22](../../data/text/123.txt "Symbiosis")</span>).
+- Ornaran freighter captain dependent on felicium (*Symbiosis* <span class="src">[S01E22](../../data/text/123.txt#L56 "Symbiosis: T'JON: This is T'Jon. I am on the Ornaran freighter (garbled). We have a serious problem here. Can't seem to f")</span>).
 
 ## Most scenes shared with
 

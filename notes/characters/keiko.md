@@ -12,7 +12,7 @@
 
 ## Key facts
 
-- Botanist; marries Miles O'Brien (*Data's Day* <span class="src">[S04E11](../../data/text/185.txt "Data's Day")</span>); gives birth during *Disaster* <span class="src">[S05E05](../../data/text/205.txt "Disaster")</span> to a daughter named Molly in *The Game* <span class="src">[S05E06](../../data/text/206.txt "The Game")</span>; de-aged in *Rascals* <span class="src">[S06E07](../../data/text/233.txt "Rascals")</span>.
+- Botanist; marries Miles O'Brien (*Data's Day* <span class="src">[S04E11](../../data/text/185.txt#L662 "Data's Day: PICARD: Since the days of the first wooden sailing ships, all captains have enjoyed the happy privilege of joi")</span>); gives birth during *Disaster* <span class="src">[S05E05](../../data/text/205.txt "Disaster")</span> to a daughter named Molly in *The Game* <span class="src">[S05E06](../../data/text/206.txt#L128 "The Game: WESLEY: Congratulations on little Molly.")</span>; de-aged in *Rascals* <span class="src">[S06E07](../../data/text/233.txt "Rascals")</span>.
 
 ## Relationships
 

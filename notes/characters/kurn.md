@@ -12,7 +12,7 @@
 
 ## Key facts
 
-- Worf's younger brother, raised by Lorgh and hidden after Khitomer (*Sins of the Father* <span class="src">[S03E17](../../data/text/165.txt "Sins Of The Father")</span>).
+- Worf's younger brother, raised by Lorgh and hidden after Khitomer (*Sins of the Father* <span class="src">[S03E17](../../data/text/165.txt#L184 "Sins Of The Father: KURN: They assumed that I was killed with the family at Khitomer. Lorgh had no sons. He took me into his famil")</span>).
 - Captains a Klingon ship and sides with Gowron during the civil war (*Redemption* <span class="src">[S04E26](../../data/text/200.txt "Redemption") · [S05E01](../../data/text/201.txt "Redemption part 2")</span>).
 
 ## Relationships

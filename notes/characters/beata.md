@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Elected One of Angel One (*Angel One* <span class="src">[S01E14](../../data/text/115.txt "Angel One")</span>).
+- Elected One of Angel One (*Angel One* <span class="src">[S01E14](../../data/text/115.txt#L77 "Angel One: BEATA: I am Beata, The Elected One of Angel One. Representatives of the Starfleet Enterprise, do you wish to p")</span>).
 
 ## Most scenes shared with
 

@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Beverly's late husband, seen in a recorded message to Wesley (*Family* <span class="src">[S04E02](../../data/text/178.txt "Family")</span>), in Beverly's memories (*Violations* <span class="src">[S05E12](../../data/text/212.txt "Violations")</span>) and as a vision to Wesley (*Journey's End* <span class="src">[S07E20](../../data/text/272.txt "Journey's End")</span>).
+- Beverly's late husband, seen in a recorded message to Wesley (*Family* <span class="src">[S04E02](../../data/text/178.txt#L205 "Family: CRUSHER: Jack recorded a holographic message to Wesley just after he was born. It was a gift for when he grew ")</span>), in Beverly's memories (*Violations* <span class="src">[S05E12](../../data/text/212.txt "Violations")</span>) and as a vision to Wesley (*Journey's End* <span class="src">[S07E20](../../data/text/272.txt "Journey's End")</span>).
 
 ## Relationships
 

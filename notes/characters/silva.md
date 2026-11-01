@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Geordi's mother, lost with the USS Hera (*Interface* <span class="src">[S07E03](../../data/text/255.txt "Interface")</span>).
+- Geordi's mother, lost with the USS Hera (*Interface* <span class="src">[S07E03](../../data/text/255.txt#L262 "Interface: DR LA FORGE: Starfleet is considering the Hera lost. The search isn't much more than a formality at this point")</span>).
 
 ## Relationships
 

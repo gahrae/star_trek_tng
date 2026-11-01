@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Alien who imitates a crashed survivor to study love (*Liaisons* <span class="src">[S07E02](../../data/text/254.txt "Liaisons")</span>).
+- Alien who imitates a crashed survivor to study love (*Liaisons* <span class="src">[S07E02](../../data/text/254.txt#L485 "Liaisons: VOVAL: My mission was to study human intimacy, specifically the concept you call love. In our study of your cu")</span>).
 
 ## Most scenes shared with
 

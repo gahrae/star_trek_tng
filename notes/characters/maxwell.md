@@ -11,7 +11,7 @@
 
 - Captain of the USS Phoenix and O'Brien's former commander on the Rutledge, whose family died at Setlik III. <span class="src">([S04E12](../../data/text/186.txt "The Wounded"))</span>
 - Destroys Cardassian ships he believes are rearming for war, in defiance of the treaty. <span class="src">([S04E12](../../data/text/186.txt "The Wounded"))</span>
-- O'Brien talks him into surrendering; Picard tells the Cardassian Macet that Maxwell was right (*The Wounded* <span class="src">[S04E12](../../data/text/186.txt "The Wounded")</span>).
+- O'Brien talks him into surrendering; Picard tells the Cardassian Macet that Maxwell was right (*The Wounded* <span class="src">[S04E12](../../data/text/186.txt#L638 "The Wounded: PICARD: One more thing, Macet. Maxwell was right. Those ships were not carrying scientific equipment, were the")</span>).
 
 ## Relationships
 

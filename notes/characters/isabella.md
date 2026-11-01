@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Clara's imaginary friend, an alien energy being (*Imaginary Friend* <span class="src">[S05E22](../../data/text/222.txt "Imaginary Friend")</span>). <span class="src">([S05E22](../../data/text/222.txt#L668 "Imaginary Friend: PICARD: We know you've been on this ship for some time now, and that you're posing as Clara's friend, and that"))</span>
+- Clara's imaginary friend, an alien energy being (*Imaginary Friend* <span class="src">[S05E22](../../data/text/222.txt#L668 "Imaginary Friend: PICARD: We know you've been on this ship for some time now, and that you're posing as Clara's friend, and that")</span>). <span class="src">([S05E22](../../data/text/222.txt#L668 "Imaginary Friend: PICARD: We know you've been on this ship for some time now, and that you're posing as Clara's friend, and that"))</span>
 
 ## Most scenes shared with
 

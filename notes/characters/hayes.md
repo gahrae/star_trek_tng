@@ -8,7 +8,7 @@
 
 ## Key facts
 
-- Starfleet officer who briefs Picard by monitor about Ferengi and Cardassian ships (*Realm of Fear* <span class="src">[S06E02](../../data/text/228.txt "Realm of Fear")</span>); an Ensign Hayes also appears in *Parallels* <span class="src">[S07E11](../../data/text/263.txt "Parallels")</span>.
+- Starfleet officer who briefs Picard by monitor about Ferengi and Cardassian ships (*Realm of Fear* <span class="src">[S06E02](../../data/text/228.txt#L171 "Realm of Fear: HAYES: The Ferengi are claiming two of their freighters were destroyed by a Cardassian warship in your sector.")</span>); an Ensign Hayes also appears in *Parallels* <span class="src">[S07E11](../../data/text/263.txt#L293 "Parallels: HAYES: This is Ensign Hayes, sir. Commander La Forge has been taken to Sickbay with plasma burns. There's seri")</span>.
 
 ## Most scenes shared with
 
