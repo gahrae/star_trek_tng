@@ -85,9 +85,13 @@ def ma_page(title, phrase=None):
     if phrase and _flat(phrase) not in _flat(text): raise ValueError(f"Memory Alpha page '{title}' does not contain '{phrase}'")
     return text
 
+def _url(u):
+    """A URL safe inside a Markdown link: brackets and apostrophes encoded."""
+    return u.replace("(", "%28").replace(")", "%29").replace("'", "%27")
+
 def ma_link(title, phrase=None):
     tip = f"Memory Alpha: {title}" + (f": {phrase}" if phrase else "")
-    return f'[Memory Alpha](https://memory-alpha.fandom.com/wiki/{urllib.parse.quote(title.replace(" ", "_"), safe="_(),\'.-:")} "{tip.replace(chr(34), chr(39))}")'
+    return f'[Memory Alpha](https://memory-alpha.fandom.com/wiki/{urllib.parse.quote(title.replace(" ", "_"), safe="_,.-:")} "{tip.replace(chr(34), chr(39))}")'
 
 def _token(m, italics=True):
     """Episodes and quoted phrase of one token: a marker {102|phrase} or an italic title *The Battle|phrase*."""
@@ -138,6 +142,24 @@ def cite(text, prefix):
         if m.group(1): return f'*{m.group(1).partition("|")[0]}* <span class="src">{links(found, prefix, line)}</span>'
         return f' <span class="src">({links(found, prefix, line)})</span>'
     return TOKEN.sub(sub, re.sub(r"\s+(?=\{(?:\d{3}|ma:))", "", text))
+
+_credits = json.load(open(ROOT / "data" / "credit_links.json"))
+
+def airdate_links(prod, date):
+    """The airdate followed by links to where it comes from: Wikipedia's page for the episode (else its season in the list) and Memory Alpha's."""
+    c = _credits[prod]; w = c["wikipedia"]
+    return f'{date} <span class="src">([Wikipedia]({_url(w["episode"] or w["list"])}) · [Memory Alpha]({_url(c["memory_alpha"]["episode"])}))</span>'
+
+def credit_links(prod, text):
+    """A director or writer credit with each person's Wikipedia and Memory Alpha pages after their name (only those that exist)."""
+    c = _credits[prod]; wp, ma = c["wikipedia"]["people"], c["memory_alpha"]["people"]
+    names = sorted((set(wp) | set(ma)) & {n for n in set(wp) | set(ma) if n in text}, key=len, reverse=True)
+    stash = {}
+    for i, n in enumerate(names):
+        ls = ([f"[Wikipedia]({_url(wp[n])})"] if n in wp else []) + ([f"[Memory Alpha]({_url(ma[n])})"] if n in ma else [])
+        if n in text: key = f"\0{i}\0"; stash[key] = f'{n} <span class="src">({" · ".join(ls)})</span>'; text = text.replace(n, key, 1)
+    for key, val in stash.items(): text = text.replace(key, val)
+    return text
 
 def keywords(text):
     """Distinctive words in a claim: quoted phrases, capitalised words (not at the start of a sentence), long plain words."""

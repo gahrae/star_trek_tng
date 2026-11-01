@@ -47,6 +47,10 @@ for prod, (p1, director, writer, date) in PART2.items():
                   "code": f"S{a['season']:02d}E{a['episode_in_season'][0]+1:02d}", "title_wiki": a["title_wiki"] + ", Part II",
                   "director": director, "writer": writer, "airdate_iso": date, "viewers_millions": ""}
     meta[p1] = {**a, "title_wiki": a["title_wiki"] + ", Part I"}
+# Wikipedia's list is a week or two early for these nine; Memory Alpha and the transcript site give the same date as each other.
+AIRDATE_FIXES = {"159": "1990-01-08", "160": "1990-01-29", "210": "1992-01-06", "211": "1992-01-27", "212": "1992-02-03",
+                 "213": "1992-02-10", "214": "1992-02-17", "215": "1992-02-24", "216": "1992-03-02"}
+for prod, date in AIRDATE_FIXES.items(): meta[prod]["airdate_iso"] = date
 # The finale is a double-length episode counted as 177-178 but listed under one production number.
 meta["277"].update({"overall": [177, 178], "episode_in_season": [25, 26], "code": "S07E25-E26"})
 import sys; sys.path.insert(0, str(ROOT / "scripts")); from provenance import record; record("metadata", source=URL, episodes=len(meta))

@@ -17,7 +17,7 @@
 
 - [Lieutenant Worf](worf.md) lists this character as: enemy, killed by Worf <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Worf "Memory Alpha: Worf: he killed Duras in an honor duel"))</span>
 - [Gowron](gowron.md) lists this character as: rival <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Gowron "Memory Alpha: Gowron: Gowron and Duras, son of Ja'rod, became the two leading candidates for leadership of the council"))</span>
-- [K'Ehleyr](k-ehleyr.md) lists this character as: killer <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/K'Ehleyr "Memory Alpha: K'Ehleyr: Duras attacked K'Ehleyr in her quarters and killed her"))</span>
+- [K'Ehleyr](k-ehleyr.md) lists this character as: killer <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/K%27Ehleyr "Memory Alpha: K'Ehleyr: Duras attacked K'Ehleyr in her quarters and killed her"))</span>
 
 ## Most scenes shared with
 

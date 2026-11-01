@@ -105,6 +105,12 @@ for a, prof in cc.PROFILES.items():     # every relationship has a source that n
             else:
                 for p in m.group(2).split(","):
                     if not all(present(x, name_words(x), p) for x in (a, other)): rel_bad.append(f"{a} -> {other}: {sources.CODE[p]} does not have both characters")
+credits = json.load(open(ROOT / "data" / "credit_links.json")); meta_ = json.load(open(ROOT / "data" / "metadata.json"))
+SOURCES_DISAGREE = {"234", "235"}      # Memory Alpha is two days earlier than Wikipedia and the transcript site
+credit_bad = [f"{p} has no episode page to link" for p, v in credits.items() if not v["memory_alpha"]["episode"] or not v["wikipedia"]["list"]]
+credit_bad += [f"{p} {sources.TITLE[p]}: airdate {meta_[p]['airdate_iso']}, Memory Alpha {v['memory_alpha']['airdate']}" for p, v in credits.items()
+               if v["memory_alpha"]["airdate"] != meta_[p]["airdate_iso"] and p not in SOURCES_DISAGREE]
+check(not credit_bad, f"{len(credit_bad)} episodes whose airdate or credit links are not backed by Memory Alpha: {credit_bad[:3]}")
 check(not rel_bad, f"{len(rel_bad)} relationships without a good source: {rel_bad[:4]}")
 check(not drift, f"line links would point at the wrong line in {drift[:5]}: sources.dialogue() no longer matches the transcript pages")
 check(not unknown, f"unknown episodes cited: {unknown[:3]}")

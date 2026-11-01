@@ -39,7 +39,7 @@
 - [Lieutenant Natasha 'Tasha' Yar](tasha.md): intimate encounter, kept her holo-image <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Natasha_Yar "Memory Alpha: Natasha Yar: later mentioned that he and Tasha were intimate"))</span>
 - [Ensign Jenna D'Sora](jenna.md): girlfriend briefly <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Data "Memory Alpha: Data: He maintained a relationship with Jenna D'Sora, but it did not last long"))</span>
 - [Dr Katherine Pulaski](pulaski.md) lists this character as: android she dismissed at first, then respected <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Katherine_Pulaski "Memory Alpha: Katherine Pulaski: was not very kind towards Lieutenant Commander Data when she first boarded the ship"))</span>
-- [Professor James Moriarty](moriarty.md) lists this character as: adversary <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/James_Moriarty_(hologram) "Memory Alpha: James Moriarty (hologram): an adversary capable of outwitting Data"))</span>
+- [Professor James Moriarty](moriarty.md) lists this character as: adversary <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/James_Moriarty_%28hologram%29 "Memory Alpha: James Moriarty (hologram): an adversary capable of outwitting Data"))</span>
 
 ## Most scenes shared with
 

@@ -46,7 +46,7 @@ pip install -r requirements.txt
 python3 -m http.server -d site 8000   # then open http://localhost:8000
 ```
 
-The individual steps are `scripts/fetch_transcripts.py`, `fetch_metadata.py`, `fetch_cast.py`, `fetch_images.py`, `build_notes.py`, `build_site.py` and `check.py`. `fetch_ma_pages.py` stores the Memory Alpha character pages that facts cite. `data/provenance.json` records when and from where each data set was fetched.
+The individual steps are `scripts/fetch_transcripts.py`, `fetch_metadata.py`, `fetch_cast.py`, `fetch_images.py`, `build_notes.py`, `build_site.py` and `check.py`. `fetch_credit_links.py` finds the Wikipedia and Memory Alpha pages behind each airdate, director and writer. `fetch_ma_pages.py` stores the Memory Alpha character pages that facts cite. `data/provenance.json` records when and from where each data set was fetched.
 
 The site uses only relative links, so it works from any folder or sub-path. The workflow in `.github/workflows/pages.yml` rebuilds and deploys it to GitHub Pages on every push to `main`.
 
@@ -56,7 +56,7 @@ The site uses only relative links, so it works from any folder or sub-path. The 
 
 **Taken from other sources:**
 - Transcripts come from [Chrissie's Transcripts Site](http://www.chakoteya.net/NextGen/episodes.htm) (chakoteya.net), downloaded for personal study.
-- Episode numbering, airdates, directors and writers come from Wikipedia.
+- Episode numbering, airdates, directors and writers come from Wikipedia's episode list and are cross-checked against each Memory Alpha episode page. The episode pages link the airdate, director and writer to the exact Wikipedia and Memory Alpha pages. Wikipedia's list was a week or two off for nine episodes (*The Hunted*, *The High Ground* and *New Ground* to *Ethics*), where Memory Alpha and the transcript site agree, so those use their date. For two (*A Fistful of Datas*, *The Quality of Life*) Memory Alpha is two days earlier than Wikipedia and the transcript site, so Wikipedia's date is kept.
 - Cast lists, portraits and episode screenshots come from [Memory Alpha](https://memory-alpha.fandom.com/) (CC BY-NC). Cast credits are matched to speakers by name. About half don't match, mostly because they are extras with generic roles ("operations ensign") who often don't speak, and a transcript can't say which of several such actors delivered a line. Portraits are picked by an automated search, so a few may show the wrong person. Episode screenshots are the lead image of each episode's Memory Alpha page, checked by eye.
 
 **Where AI was used:** the project was built with Claude, an AI assistant, working from my direction and review.

@@ -21,6 +21,7 @@ None of this is relicensed. It is included for study and commentary, with credit
 |---|---|---|---|
 | Episode transcripts | `data/raw/`, `data/text/`, `site/transcripts/`, and the dialogue quoted in `notes/` and `search.json` | [Chrissie's Transcripts Site](http://www.chakoteya.net/NextGen/episodes.htm) (chakoteya.net) | The words belong to the rights holders of the show. The site owner has been told about this project and has agreed to it keeping the pages, with credit. That is permission to keep them, not a licence to reuse them. |
 | Cast lists and character details | `data/ma/`, `data/cast.json` | [Memory Alpha](https://memory-alpha.fandom.com/) | CC BY-NC. Reuse needs attribution and must be non-commercial. |
+| Links to credit pages | `data/credit_links.json` | URLs of Wikipedia and Memory Alpha pages, with the airdate Memory Alpha gives | Facts and links only; no page text is copied. |
 | Source pages for character facts | `data/ma_pages/` | [Memory Alpha](https://memory-alpha.fandom.com/) character pages, as plain text | CC BY-NC. Kept so the build can check that a fact's cited phrase is on the page. |
 | Portraits | `data/images/`, `data/images.json`, `site/images/` | Memory Alpha (the images are Paramount's) | Shown as fair use for commentary, the same way Memory Alpha does. Not relicensed. |
 | Episode screenshots | `data/episode_images/`, `data/episode_images.json`, `site/episode_images/` | Memory Alpha (the images are Paramount's) | As above. |

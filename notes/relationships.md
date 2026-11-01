@@ -112,7 +112,7 @@ Links between characters (family, romance, rivalry, mentorship) recorded in the 
 
 ### [Chief Miles O'Brien](characters/o-brien.md)
 
-- [Keiko O'Brien](characters/keiko.md): wife <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Keiko_O'Brien "Memory Alpha: Keiko O'Brien: introduced to Miles O'Brien by their mutual friend"))</span>
+- [Keiko O'Brien](characters/keiko.md): wife <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Keiko_O%27Brien "Memory Alpha: Keiko O'Brien: introduced to Miles O'Brien by their mutual friend"))</span>
 - [Captain Benjamin Maxwell](characters/maxwell.md): former captain <span class="src">([S04E12](../data/text/186.txt#L177 "The Wounded: PICARD: Transporter Chief O'Brien, has served with Benjamin Maxwell. I thought that he might be able to provid"))</span>
 - [Lieutenant Reginald Barclay](characters/barclay.md): colleague he helped through transporter phobia <span class="src">([S06E02](../data/text/228.txt#L139 "Realm of Fear: O'BRIEN: I know how you feel about this, sir."))</span>
 
@@ -156,9 +156,9 @@ Links between characters (family, romance, rivalry, mentorship) recorded in the 
 
 ### [K'Ehleyr](characters/k-ehleyr.md)
 
-- [Lieutenant Worf](characters/worf.md): mate <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/K'Ehleyr "Memory Alpha: K'Ehleyr: K'Ehleyr expressed her desire to become Worf's mate"))</span>
-- [Alexander Rozhenko](characters/alexander.md): son <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/K'Ehleyr "Memory Alpha: K'Ehleyr: would later deliver a child that had been conceived from this relationship, Alexander"))</span>
-- [Duras](characters/duras.md): killer <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/K'Ehleyr "Memory Alpha: K'Ehleyr: Duras attacked K'Ehleyr in her quarters and killed her"))</span>
+- [Lieutenant Worf](characters/worf.md): mate <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/K%27Ehleyr "Memory Alpha: K'Ehleyr: K'Ehleyr expressed her desire to become Worf's mate"))</span>
+- [Alexander Rozhenko](characters/alexander.md): son <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/K%27Ehleyr "Memory Alpha: K'Ehleyr: would later deliver a child that had been conceived from this relationship, Alexander"))</span>
+- [Duras](characters/duras.md): killer <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/K%27Ehleyr "Memory Alpha: K'Ehleyr: Duras attacked K'Ehleyr in her quarters and killed her"))</span>
 
 ### [Kurn](characters/kurn.md)
 
@@ -166,7 +166,7 @@ Links between characters (family, romance, rivalry, mentorship) recorded in the 
 
 ### [Keiko O'Brien](characters/keiko.md)
 
-- [Chief Miles O'Brien](characters/o-brien.md): husband <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Keiko_O'Brien "Memory Alpha: Keiko O'Brien: introduced to Miles O'Brien by their mutual friend"))</span>
+- [Chief Miles O'Brien](characters/o-brien.md): husband <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Keiko_O%27Brien "Memory Alpha: Keiko O'Brien: introduced to Miles O'Brien by their mutual friend"))</span>
 
 ### [Nurse Alyssa Ogawa](characters/ogawa.md)
 
@@ -193,8 +193,8 @@ Links between characters (family, romance, rivalry, mentorship) recorded in the 
 
 ### [Professor James Moriarty](characters/moriarty.md)
 
-- [Lieutenant Commander Data](characters/data.md): adversary <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/James_Moriarty_(hologram) "Memory Alpha: James Moriarty (hologram): an adversary capable of outwitting Data"))</span>
-- [Captain Jean-Luc Picard](characters/picard.md): negotiator and adversary; held the ship hostage <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/James_Moriarty_(hologram) "Memory Alpha: James Moriarty (hologram): He showed this same machinery to Picard"))</span>
+- [Lieutenant Commander Data](characters/data.md): adversary <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/James_Moriarty_%28hologram%29 "Memory Alpha: James Moriarty (hologram): an adversary capable of outwitting Data"))</span>
+- [Captain Jean-Luc Picard](characters/picard.md): negotiator and adversary; held the ship hostage <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/James_Moriarty_%28hologram%29 "Memory Alpha: James Moriarty (hologram): He showed this same machinery to Picard"))</span>
 
 ### [Dr Leah Brahms](characters/leah.md)
 

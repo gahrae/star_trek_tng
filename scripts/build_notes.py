@@ -9,7 +9,7 @@ ROOT = pathlib.Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / "scripts"))
 from curated_episodes import EPISODES, ARCS, ARC_GROUPS, LINK_NOTES
 from curated_characters import FACTS, PROFILES, GUESTS, ENTITIES, CATCHPHRASES, SPLIT, GUEST_FACTS
-from sources import cite
+from sources import cite, airdate_links, credit_links
 
 NOTES = ROOT / "notes"
 for d in ("characters", "episodes", "locations"): (NOTES / d).mkdir(parents=True, exist_ok=True)
@@ -222,7 +222,7 @@ for e in eps:
         i = order[prod]; pv = eps[i - 1] if i else None; nx = eps[i + 1] if i + 1 < len(eps) else None
         f.write((f"Previous: [{pv['title']}]({pv['prod']}.md) ({pv['code']})" if pv else "First episode") + " · " + (f"Next: [{nx['title']}]({nx['prod']}.md) ({nx['code']})" if nx else "Last episode") + "\n\n")
         f.write(f"| | |\n|---|---|\n| Code | {e['code']} (episode {', '.join(map(str, e['overall']))} overall) |\n"
-                f"| Aired | {e['airdate_iso']} |\n| Stardate | {e['stardate'] or 'none given'}" + (f" (the transcript reads {e['stardate_transcript']}; Memory Alpha's value is used)" if e['stardate_transcript'] and e['stardate_transcript'] != e['stardate'] else "") + f" |\n| Director | {e['director']} |\n| Writer | {e['writer']} |\n"
+                f"| Aired | {airdate_links(prod, e['airdate_iso'])} |\n| Stardate | {e['stardate'] or 'none given'}" + (f" (the transcript reads {e['stardate_transcript']}; Memory Alpha's value is used)" if e['stardate_transcript'] and e['stardate_transcript'] != e['stardate'] else "") + f" |\n| Director | {credit_links(prod, e['director'])} |\n| Writer | {credit_links(prod, e['writer'])} |\n"
                 f"| Arcs | {', '.join(f'[{a}](../arcs.md#{slug(a)})' for a in arcs)} |\n| Transcript | `data/text/{prod}.txt` |\n\n")
         f.write(f"## Synopsis\n\n{syn}\n\n")
         if links or back:

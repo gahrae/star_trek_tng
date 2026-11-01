@@ -16,5 +16,10 @@
   "fetched": "2026-11-01T02:30:09+00:00",
   "source": "https://memory-alpha.fandom.com/api.php",
   "pages": 41
+ },
+ "credit_links": {
+  "fetched": "2026-11-01T02:45:32+00:00",
+  "source": "https://en.wikipedia.org/wiki/List_of_Star_Trek:_The_Next_Generation_episodes",
+  "episodes": 176
  }
 }
