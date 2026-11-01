@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Illegitimate son of Duras put forward as chancellor by his aunts; spared by Worf (*Redemption* <span class="src">[S04E26](../../data/text/200.txt "Redemption") · [S05E01](../../data/text/201.txt "Redemption part 2")</span>).
+- Illegitimate son of Duras put forward as chancellor by his aunts; spared by Worf (*Redemption* <span class="src">[S05E01](../../data/text/201.txt#L634 "Redemption part 2: WORF: No. No, you gave me his life, and I have spared it.")</span>).
 
 ## Most scenes shared with
 

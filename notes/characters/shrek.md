@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Yridian information dealer (*Birthright* <span class="src">[S06E16](../../data/text/242.txt "Birthright, part 1") · [S06E17](../../data/text/243.txt "Birthright, part 2")</span>).
+- Yridian information dealer (*Birthright* <span class="src">[S06E16](../../data/text/242.txt#L118 "Birthright, part 1: WORF: Today on the Promenade, a Yridian approached me. He knew who I was and tried to sell me information abou")</span>).
 
 ## Most scenes shared with
 
