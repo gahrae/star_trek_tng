@@ -7,10 +7,12 @@ import json, re, pathlib, html, shutil, collections
 import markdown
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 NOTES, SITE = ROOT / "notes", ROOT / "site"
-NAV = [("README.md", "Home"), ("episodes.md", "Episodes"), ("character_index.md", "Characters"), ("arcs.md", "Arcs"),
-       ("continuity.md", "Continuity"), ("relationships.md", "Relationships"),
-       ("locations.md", "Locations"), ("entities.md", "Entities"), ("stats.md", "Stats"), ("actors.md", "Actors"), ("crew.md", "Crew"),
-       ("search.md", "Search"), ("visuals.md", "Visuals")]
+NAV = [("README.md", "Home"),
+       ("episodes.md", "Episodes"), ("arcs.md", "Arcs"), ("continuity.md", "Continuity"),                       # the story
+       ("character_index.md", "Characters"), ("relationships.md", "Relationships"), ("actors.md", "Actors"), ("crew.md", "Crew"),   # the people
+       ("locations.md", "Locations"), ("entities.md", "Entities"),                                              # the world
+       ("stats.md", "Stats"), ("visuals.md", "Visuals"),                                                        # numbers and pictures
+       ("search.md", "Search")]                                                                                  # the tool
 import sys; sys.path.insert(0, str(ROOT / "scripts"))
 import site_visuals
 from curated_characters import SPLIT
