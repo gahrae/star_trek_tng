@@ -9,7 +9,7 @@ ROOT = pathlib.Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / "scripts"))
 from curated_episodes import EPISODES, ARCS, ARC_GROUPS, LINK_NOTES
 from curated_characters import FACTS, PROFILES, GUESTS, INVERSE, ENTITIES, CATCHPHRASES, SPLIT, GUEST_FACTS
-from sources import cite, airdate_links, credit_links
+from sources import cite, airdate_links, credit_links, actor_links, cast_list_link
 
 NOTES = ROOT / "notes"
 for d in ("characters", "episodes", "locations"): (NOTES / d).mkdir(parents=True, exist_ok=True)
@@ -435,7 +435,7 @@ with open(NOTES / "stats.md", "w", encoding="utf-8") as f:
 if cast:
     with open(NOTES / "actors.md", "w", encoding="utf-8") as f:
         f.write("# Actors\n\nFrom Memory Alpha cast lists (credited and uncredited). Actors with two or more roles, or five or more episodes. "
-                "Roles are linked where they were matched to a transcript label.\n\n| Actor | Episodes | Roles |\n|---|---:|---|\n")
+                "Roles are linked where they were matched to a transcript label. Each actor links to their own Memory Alpha page, and each role in a single episode to that episode's cast list there. A name of one word is a fragment of a credit, not a full name, and has no link.\n\n| Actor | Episodes | Roles |\n|---|---:|---|\n")
         rows_a = [(a, v) for a, v in actor_roles.items() if (len(v["roles"]) >= 2 or len(v["episodes"]) >= 5) and not a.lower().startswith("unknown")]
         for a, v in sorted(rows_a, key=lambda x: (-len(x[1]["episodes"]), x[0])):
             roles = sorted(v["roles"].items(), key=lambda r: -len(r[1]))[:8]
@@ -445,11 +445,11 @@ if cast:
                 if r in chars and cred and cred.split("(")[0].strip().lower() != name_of(r).lower(): name += f" (credited as {cred})"
                 tags = []
                 if len(ps) > 1: tags.append(f"{len(ps)} episodes")
-                else: tags.append(f"[{by_prod[next(iter(ps))]['title']}](episodes/{next(iter(ps))}.md)")
+                else: tags.append(f"[{by_prod[next(iter(ps))]['title']}](episodes/{next(iter(ps))}.md), {cast_list_link(next(iter(ps)))}")
                 if not v["credited"].get(r): tags.append("uncredited")
                 return f"{name} ({', '.join(tags)})"
             txt = "; ".join(role_txt(r, ps) for r, ps in roles)
-            f.write(f"| {a} | {len(v['episodes'])} | {txt} |\n")
+            f.write(f"| {actor_links(a)} | {len(v['episodes'])} | {txt} |\n")
 
 # ---------------------------------------------------------------- notes: crew (directors and writers)
 def split_names(txt):

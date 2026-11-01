@@ -114,6 +114,16 @@ check(not credit_bad, f"{len(credit_bad)} episodes whose airdate or credit links
 _pairs = {(a, o) for a, pr in cc.PROFILES.items() for o, *_ in pr["relationships"]}
 inverse_bad = [k for k in cc.INVERSE if k not in _pairs]       # a reverse label for a relationship that no longer exists
 check(not inverse_bad, f"reverse relationship labels with no relationship: {inverse_bad[:4]}")
+# every cast credit is on the Memory Alpha episode page it came from (the actors page cites those pages)
+from bs4 import BeautifulSoup
+import unicodedata
+def _flat(t): return " ".join(re.sub(r"[^a-z0-9]+", " ", unicodedata.normalize("NFKD", t).encode("ascii", "ignore").decode().lower()).split())
+cast_data = json.load(open(ROOT / "data" / "cast.json")); credit_missing = []
+for prod, rows in cast_data.items():
+    f = ROOT / "data" / "ma" / f"{prod}.json"
+    page = _flat(BeautifulSoup(json.load(open(f))["parse"]["text"]["*"], "html.parser").get_text(" ")) if f.exists() else None
+    credit_missing += [f"{sources.CODE[prod]} {r['actor']}" for r in rows if page is None or _flat(r["actor"]) not in page]
+check(not credit_missing, f"{len(credit_missing)} cast credits whose actor is not on the episode's Memory Alpha page: {credit_missing[:3]}")
 check(not rel_bad, f"{len(rel_bad)} relationships without a good source: {rel_bad[:4]}")
 check(not drift, f"line links would point at the wrong line in {drift[:5]}: sources.dialogue() no longer matches the transcript pages")
 check(not unknown, f"unknown episodes cited: {unknown[:3]}")
