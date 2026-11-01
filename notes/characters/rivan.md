@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Edo leader (*Justice*). <span class="src">([S01E08](../../data/text/109.txt "Justice"))</span>
+- Edo leader (*Justice* <span class="src">[S01E08](../../data/text/109.txt "Justice")</span>).
 
 ## Most scenes shared with
 

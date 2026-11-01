@@ -12,14 +12,14 @@
 
 ## Key facts
 
-- Born blind; sees through a VISOR that feeds data to his brain (*Encounter at Farpoint* onward; the VISOR is exploited by Romulans in *The Mind's Eye*). <span class="src">([S01E01-E02](../../data/text/101.txt "Encounter at Farpoint") · [S04E24](../../data/text/198.txt "The Mind's Eye"))</span>
+- Born blind; sees through a VISOR that feeds data to his brain (*Encounter at Farpoint* <span class="src">[S01E01-E02](../../data/text/101.txt "Encounter at Farpoint")</span> onward; the VISOR is exploited by Romulans in *The Mind's Eye* <span class="src">[S04E24](../../data/text/198.txt "The Mind's Eye")</span>).
 - Season 1 helmsman (flight controller); chief engineer from season 2.
-- Closest friend to Data; Sherlock Holmes holodeck partner (*Elementary, Dear Data*, *Ship in a Bottle*). <span class="src">([S02E03](../../data/text/129.txt "Elementary, Dear Data") · [S06E12](../../data/text/238.txt "Ship in a Bottle"))</span>
-- Mother, Captain Silva La Forge, is lost with the USS Hera (*Interface*); father is an exozoologist. <span class="src">([S07E03](../../data/text/255.txt "Interface"))</span>
-- Created a holodeck version of engine designer Dr Leah Brahms (*Booby Trap*) and later met the real one (*Galaxy's Child*). <span class="src">([S03E06](../../data/text/154.txt "Booby Trap") · [S04E16](../../data/text/190.txt "Galaxy's Child"))</span>
-- Brainwashed by the Romulans into attempting an assassination (*The Mind's Eye*). <span class="src">([S04E24](../../data/text/198.txt "The Mind's Eye"))</span>
-- Trapped out of phase with Ro Laren (*The Next Phase*); mentors Reginald Barclay (*Hollow Pursuits*). <span class="src">([S05E24](../../data/text/224.txt "The Next Phase") · [S03E21](../../data/text/169.txt "Hollow Pursuits"))</span>
-- Stranded with a Romulan on Galorndon Core and forced to cooperate (*The Enemy*). <span class="src">([S03E07](../../data/text/155.txt "The Enemy"))</span>
+- Closest friend to Data; Sherlock Holmes holodeck partner (*Elementary, Dear Data* <span class="src">[S02E03](../../data/text/129.txt "Elementary, Dear Data")</span>, *Ship in a Bottle* <span class="src">[S06E12](../../data/text/238.txt "Ship in a Bottle")</span>).
+- Mother, Captain Silva La Forge, is lost with the USS Hera (*Interface* <span class="src">[S07E03](../../data/text/255.txt "Interface")</span>); father is an exozoologist.
+- Created a holodeck version of engine designer Dr Leah Brahms (*Booby Trap* <span class="src">[S03E06](../../data/text/154.txt "Booby Trap")</span>) and later met the real one (*Galaxy's Child* <span class="src">[S04E16](../../data/text/190.txt "Galaxy's Child")</span>).
+- Brainwashed by the Romulans into attempting an assassination (*The Mind's Eye* <span class="src">[S04E24](../../data/text/198.txt "The Mind's Eye")</span>).
+- Trapped out of phase with Ro Laren (*The Next Phase* <span class="src">[S05E24](../../data/text/224.txt "The Next Phase")</span>); mentors Reginald Barclay (*Hollow Pursuits* <span class="src">[S03E21](../../data/text/169.txt "Hollow Pursuits")</span>).
+- Stranded with a Romulan on Galorndon Core and forced to cooperate (*The Enemy* <span class="src">[S03E07](../../data/text/155.txt "The Enemy")</span>).
 
 ## Rank and role timeline
 

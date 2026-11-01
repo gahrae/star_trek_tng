@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Mizarian prisoner in the alien leadership study (*Allegiance*). <span class="src">([S03E18](../../data/text/166.txt "Allegiance"))</span>
+- Mizarian prisoner in the alien leadership study (*Allegiance* <span class="src">[S03E18](../../data/text/166.txt "Allegiance")</span>).
 
 ## Most scenes shared with
 

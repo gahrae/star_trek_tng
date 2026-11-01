@@ -13,15 +13,15 @@
 ## Key facts
 
 - Chief medical officer in seasons 1 and 3-7; absent in season 2 while heading Starfleet Medical (replaced by Dr Pulaski).
-- Widow of Jack Crusher, who died under Picard's command on the Stargazer; mother of Wesley. <span class="src">([S01E25](../../data/text/125.txt "Conspiracy") · [S04E02](../../data/text/178.txt "Family") · [S05E12](../../data/text/212.txt "Violations"))</span>
-- Runs the ship's theatre company and is a former award-winning dancer, embarrassed by the nickname 'the Dancing Doctor' (*Data's Day*). <span class="src">([S04E11](../../data/text/185.txt "Data's Day"))</span>
-- Trapped in a collapsing warp bubble of her own making (*Remember Me*). <span class="src">([S04E05](../../data/text/179.txt "Remember Me"))</span>
-- Falls for the Trill ambassador Odan, who moves from host to host (*The Host*). <span class="src">([S04E23](../../data/text/197.txt "The Host"))</span>
-- Clashes with Dr Toby Russell over experimental treatment of Worf (*Ethics*). <span class="src">([S05E16](../../data/text/216.txt "Ethics"))</span>
-- Investigates a Ferengi scientist's death and performs an autopsy against orders (*Suspicions*). <span class="src">([S06E22](../../data/text/248.txt "Suspicions"))</span>
-- Visits her grandmother's home on Caldos and is seduced by an anaphasic entity (*Sub Rosa*). <span class="src">([S07E14](../../data/text/266.txt "Sub Rosa"))</span>
-- Takes command of the Enterprise while the senior staff are away searching for Data on the renegade Borg planet (*Descent*). <span class="src">([S06E26](../../data/text/252.txt "Descent, part 1") · [S07E01](../../data/text/253.txt "Descent, part 2"))</span>
-- Telepathically linked to Picard, confirming their mutual feelings (*Attached*). <span class="src">([S07E08](../../data/text/260.txt "Attached"))</span>
+- Widow of Jack Crusher <span class="src">([S01E25](../../data/text/125.txt#L192 "Conspiracy: PICARD: Friends, close friends, are few and far between. Two of the oldest and closest are Jack Crusher, may h"))</span>, who died under Picard's command on the Stargazer; mother of Wesley.
+- Runs the ship's theatre company and is a former award-winning dancer, embarrassed by the nickname 'the Dancing Doctor' (*Data's Day* <span class="src">[S04E11](../../data/text/185.txt "Data's Day")</span>).
+- Trapped in a collapsing warp bubble of her own making (*Remember Me* <span class="src">[S04E05](../../data/text/179.txt "Remember Me")</span>).
+- Falls for the Trill ambassador Odan, who moves from host to host (*The Host* <span class="src">[S04E23](../../data/text/197.txt "The Host")</span>).
+- Clashes with Dr Toby Russell over experimental treatment of Worf (*Ethics* <span class="src">[S05E16](../../data/text/216.txt "Ethics")</span>).
+- Investigates a Ferengi scientist's death and performs an autopsy against orders (*Suspicions* <span class="src">[S06E22](../../data/text/248.txt "Suspicions")</span>).
+- Visits her grandmother's home on Caldos and is seduced by an anaphasic entity (*Sub Rosa* <span class="src">[S07E14](../../data/text/266.txt "Sub Rosa")</span>).
+- Takes command of the Enterprise while the senior staff are away searching for Data on the renegade Borg planet (*Descent* <span class="src">[S06E26](../../data/text/252.txt "Descent, part 1") · [S07E01](../../data/text/253.txt "Descent, part 2")</span>).
+- Telepathically linked to Picard, confirming their mutual feelings (*Attached* <span class="src">[S07E08](../../data/text/260.txt "Attached")</span>).
 
 ## Rank and role timeline
 

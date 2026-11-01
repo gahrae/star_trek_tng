@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Aldean leader who kidnaps the children (*When the Bough Breaks*). <span class="src">([S01E17](../../data/text/118.txt "When The Bough Breaks"))</span>
+- Aldean leader who kidnaps the children (*When the Bough Breaks* <span class="src">[S01E17](../../data/text/118.txt "When The Bough Breaks")</span>).
 
 ## Most scenes shared with
 

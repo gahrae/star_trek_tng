@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Elected One of Angel One (*Angel One*). <span class="src">([S01E14](../../data/text/115.txt "Angel One"))</span>
+- Elected One of Angel One (*Angel One* <span class="src">[S01E14](../../data/text/115.txt "Angel One")</span>).
 
 ## Most scenes shared with
 

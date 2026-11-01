@@ -12,8 +12,8 @@
 
 ## Key facts
 
-- Half-Klingon, half-human Federation emissary; Worf's former lover (*The Emissary*). <span class="src">([S02E20](../../data/text/146.txt "The Emissary"))</span>
-- Returns with their son Alexander; murdered by Duras when she uncovers his family's treachery (*Reunion*). <span class="src">([S04E07](../../data/text/181.txt "Reunion"))</span>
+- Half-Klingon, half-human Federation emissary; Worf's former lover (*The Emissary* <span class="src">[S02E20](../../data/text/146.txt "The Emissary")</span>).
+- Returns with their son Alexander; murdered by Duras when she uncovers his family's treachery (*Reunion* <span class="src">[S04E07](../../data/text/181.txt "Reunion")</span>).
 
 ## Relationships
 

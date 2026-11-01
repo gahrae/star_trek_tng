@@ -8,7 +8,7 @@
 
 ## Key facts
 
-- Romulan defector whose intelligence was planted (*The Defector*). <span class="src">([S03E10](../../data/text/158.txt "The Defector"))</span>
+- Romulan defector whose intelligence was planted (*The Defector* <span class="src">[S03E10](../../data/text/158.txt "The Defector")</span>).
 
 ## Most scenes shared with
 

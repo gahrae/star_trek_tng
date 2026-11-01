@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Admiral who warns Picard of something wrong at Starfleet Command (*Coming of Age*) and is revealed to be host to a parasite (*Conspiracy*). <span class="src">([S01E19](../../data/text/119.txt "Coming of Age") · [S01E25](../../data/text/125.txt "Conspiracy"))</span>
+- Admiral who warns Picard of something wrong at Starfleet Command (*Coming of Age* <span class="src">[S01E19](../../data/text/119.txt "Coming of Age")</span>) and is revealed to be host to a parasite (*Conspiracy* <span class="src">[S01E25](../../data/text/125.txt "Conspiracy")</span>).
 
 ## Most scenes shared with
 

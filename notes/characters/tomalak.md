@@ -12,7 +12,7 @@
 
 ## Key facts
 
-- Recurring Romulan commander and Picard's adversary (*The Enemy*, *The Defector*, *Future Imperfect*). <span class="src">([S03E07](../../data/text/155.txt "The Enemy") · [S03E10](../../data/text/158.txt "The Defector") · [S04E08](../../data/text/182.txt "Future Imperfect"))</span>
+- Recurring Romulan commander and Picard's adversary (*The Enemy* <span class="src">[S03E07](../../data/text/155.txt "The Enemy")</span>, *The Defector* <span class="src">[S03E10](../../data/text/158.txt "The Defector")</span>, *Future Imperfect* <span class="src">[S04E08](../../data/text/182.txt "Future Imperfect")</span>).
 
 ## Relationships
 

@@ -12,7 +12,7 @@
 
 ## Key facts
 
-- Recurring sickbay nurse under Dr Crusher; engaged and then pregnant by Lieutenant Andrew Powell (*Lower Decks*, *Genesis*). <span class="src">([S07E15](../../data/text/267.txt "Lower Decks") · [S07E19](../../data/text/271.txt "Genesis"))</span>
+- Recurring sickbay nurse under Dr Crusher; engaged and then pregnant by Lieutenant Andrew Powell (*Lower Decks* <span class="src">[S07E15](../../data/text/267.txt "Lower Decks")</span>, *Genesis* <span class="src">[S07E19](../../data/text/271.txt "Genesis")</span>).
 
 ## Rank and role timeline
 

@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- The elder Duras sister, ambitious power broker of the House of Duras (*Redemption*, *Firstborn*). <span class="src">([S04E26](../../data/text/200.txt "Redemption") · [S05E01](../../data/text/201.txt "Redemption part 2") · [S07E21](../../data/text/273.txt "Firstborn"))</span>
+- The elder Duras sister, ambitious power broker of the House of Duras (*Redemption* <span class="src">[S04E26](../../data/text/200.txt "Redemption") · [S05E01](../../data/text/201.txt "Redemption part 2")</span>, *Firstborn* <span class="src">[S07E21](../../data/text/273.txt "Firstborn")</span>).
 
 ## Most scenes shared with
 

@@ -12,7 +12,7 @@
 
 ## Key facts
 
-- Borg drone rescued and taught individuality by Geordi and the crew (*I, Borg*); later leads Borg freed from Lore's control (*Descent*). <span class="src">([S05E23](../../data/text/223.txt "I, Borg") · [S06E26](../../data/text/252.txt "Descent, part 1") · [S07E01](../../data/text/253.txt "Descent, part 2"))</span>
+- Borg drone rescued and taught individuality by Geordi and the crew (*I, Borg* <span class="src">[S05E23](../../data/text/223.txt "I, Borg")</span>); later leads Borg freed from Lore's control (*Descent* <span class="src">[S06E26](../../data/text/252.txt "Descent, part 1") · [S07E01](../../data/text/253.txt "Descent, part 2")</span>).
 
 ## Relationships
 

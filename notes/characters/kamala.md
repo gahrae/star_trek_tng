@@ -11,7 +11,7 @@
 
 - Kriosian empathic metamorph bred to become whatever her partner desires, intended as a peace gift to Chancellor Alrik of Valt. <span class="src">([S05E21](../../data/text/221.txt "The Perfect Mate"))</span>
 - Freed early from stasis by the Ferengi, she bonds with Picard rather than her intended husband. <span class="src">([S05E21](../../data/text/221.txt "The Perfect Mate"))</span>
-- Goes through with the marriage anyway, carrying Picard's sense of duty with her (*The Perfect Mate*). <span class="src">([S05E21](../../data/text/221.txt "The Perfect Mate"))</span>
+- Goes through with the marriage anyway, carrying Picard's sense of duty with her (*The Perfect Mate* <span class="src">[S05E21](../../data/text/221.txt "The Perfect Mate")</span>).
 
 ## Most scenes shared with
 

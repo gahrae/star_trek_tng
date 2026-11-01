@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Kamin's wife in Picard's Kataan life (*The Inner Light*). <span class="src">([S05E25](../../data/text/225.txt "The Inner Light"))</span>
+- Kamin's wife in Picard's Kataan life (*The Inner Light* <span class="src">[S05E25](../../data/text/225.txt "The Inner Light")</span>).
 
 ## Most scenes shared with
 

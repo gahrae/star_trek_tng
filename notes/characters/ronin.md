@@ -8,7 +8,7 @@
 
 ## Key facts
 
-- Anaphasic entity that has possessed the Howard women (*Sub Rosa*). <span class="src">([S07E14](../../data/text/266.txt "Sub Rosa"))</span>
+- Anaphasic entity that has possessed the Howard women (*Sub Rosa* <span class="src">[S07E14](../../data/text/266.txt "Sub Rosa")</span>).
 
 ## Relationships
 

@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Mintakan who believes Picard is a god (*Who Watches the Watchers*). <span class="src">([S03E04](../../data/text/152.txt "Who Watches The Watchers"))</span>
+- Mintakan who believes Picard is a god (*Who Watches the Watchers* <span class="src">[S03E04](../../data/text/152.txt "Who Watches The Watchers")</span>).
 
 ## Most scenes shared with
 

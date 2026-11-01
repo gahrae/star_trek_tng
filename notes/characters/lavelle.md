@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Junior officer competing for promotion (*Lower Decks*). <span class="src">([S07E15](../../data/text/267.txt "Lower Decks"))</span>
+- Junior officer competing for promotion (*Lower Decks* <span class="src">[S07E15](../../data/text/267.txt "Lower Decks")</span>).
 
 ## Most scenes shared with
 

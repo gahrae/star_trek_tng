@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Jean-Luc's older brother, a vintner who resents his success (*Family*). <span class="src">([S04E02](../../data/text/178.txt "Family"))</span>
+- Jean-Luc's older brother, a vintner who resents his success (*Family* <span class="src">[S04E02](../../data/text/178.txt "Family")</span>).
 
 ## Relationships
 

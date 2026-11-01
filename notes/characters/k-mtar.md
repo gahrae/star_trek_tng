@@ -11,7 +11,7 @@
 
 - Arrives claiming to be gin'tak, a trusted adviser to the House of Mogh sent by Kurn, saying the Duras sisters were behind the attack on Worf's family. <span class="src">([S07E21](../../data/text/273.txt#L169 "Firstborn: WORF: He is gin'tak to the house of Mogh."))</span>
 - Actually Alexander himself, forty years older, come back to make the boy a warrior and prevent Worf's future death. <span class="src">([S07E21](../../data/text/273.txt#L570 "Firstborn: K'MTAR: I am your son Alexander. I have come to this time from forty years in the future."))</span>
-- Worf refuses to change his son, and K'mtar leaves (*Firstborn*). <span class="src">([S07E21](../../data/text/273.txt "Firstborn"))</span>
+- Worf refuses to change his son, and K'mtar leaves (*Firstborn* <span class="src">[S07E21](../../data/text/273.txt "Firstborn")</span>).
 
 ## Relationships
 

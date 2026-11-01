@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Missing officer Geordi falls for (*Aquiel*). <span class="src">([S06E13](../../data/text/239.txt "Aquiel"))</span>
+- Missing officer Geordi falls for (*Aquiel* <span class="src">[S06E13](../../data/text/239.txt "Aquiel")</span>).
 
 ## Most scenes shared with
 

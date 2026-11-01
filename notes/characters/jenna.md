@@ -10,7 +10,7 @@
 ## Key facts
 
 - Security officer who plays in Data's musical quintet and, after a break-up with Jeff Arton, starts a relationship with him. <span class="src">([S04E25](../../data/text/199.txt "In Theory"))</span>
-- Data writes a programme for the romance; she ends it on realising nothing she does can make him happy or sad (*In Theory*). <span class="src">([S04E25](../../data/text/199.txt "In Theory"))</span>
+- Data writes a programme for the romance; she ends it on realising nothing she does can make him happy or sad (*In Theory* <span class="src">[S04E25](../../data/text/199.txt "In Theory")</span>).
 
 ## Relationships
 

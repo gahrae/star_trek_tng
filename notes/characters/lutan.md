@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Ligonian ruler who abducts Tasha (*Code of Honour*). <span class="src">([S01E04](../../data/text/104.txt "Code of Honour"))</span>
+- Ligonian ruler who abducts Tasha (*Code of Honour* <span class="src">[S01E04](../../data/text/104.txt "Code of Honour")</span>).
 
 ## Most scenes shared with
 

@@ -12,12 +12,12 @@
 
 ## Key facts
 
-- Beverly's teenage son; made acting ensign by Picard (*Where No One Has Gone Before*) and a full ensign in *Menage a Troi*. <span class="src">([S01E06](../../data/text/106.txt "Where No One Has Gone Before") · [S03E24](../../data/text/172.txt "Ménage à Troi"))</span>
-- The Traveler tells Picard that Wesley is a genius with the intricacies of time, energy and propulsion (*Where No One Has Gone Before*). <span class="src">([S01E06](../../data/text/106.txt "Where No One Has Gone Before"))</span>
-- Leaves for Starfleet Academy in season 4 (*Final Mission*). <span class="src">([S04E09](../../data/text/183.txt "Final Mission"))</span>
-- As a cadet, is part of the Nova Squadron cover-up after a fatal accident (*The First Duty*). <span class="src">([S05E19](../../data/text/219.txt "The First Duty"))</span>
-- Resigns from Starfleet and departs with the Traveler (*Journey's End*). <span class="src">([S07E20](../../data/text/272.txt "Journey's End"))</span>
-- Often saves the ship with engineering insight; accidentally releases nanites that evolve (*Evolution*). <span class="src">([S03E01](../../data/text/150.txt "Evolution"))</span>
+- Beverly's teenage son; made acting ensign by Picard (*Where No One Has Gone Before* <span class="src">[S01E06](../../data/text/106.txt "Where No One Has Gone Before")</span>) and a full ensign in *Menage a Troi* <span class="src">[S03E24](../../data/text/172.txt "Ménage à Troi")</span>.
+- The Traveler tells Picard that Wesley is a genius with the intricacies of time, energy and propulsion (*Where No One Has Gone Before* <span class="src">[S01E06](../../data/text/106.txt "Where No One Has Gone Before")</span>).
+- Leaves for Starfleet Academy in season 4 (*Final Mission* <span class="src">[S04E09](../../data/text/183.txt "Final Mission")</span>).
+- As a cadet, is part of the Nova Squadron cover-up after a fatal accident (*The First Duty* <span class="src">[S05E19](../../data/text/219.txt "The First Duty")</span>).
+- Resigns from Starfleet and departs with the Traveler (*Journey's End* <span class="src">[S07E20](../../data/text/272.txt "Journey's End")</span>).
+- Often saves the ship with engineering insight; accidentally releases nanites that evolve (*Evolution* <span class="src">[S03E01](../../data/text/150.txt "Evolution")</span>).
 
 ## Rank and role timeline
 

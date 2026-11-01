@@ -12,7 +12,7 @@
 
 ## Key facts
 
-- Original-series chief engineer recovered from a transporter pattern buffer after 75 years (*Relics*). <span class="src">([S06E04](../../data/text/230.txt#L76 "Relics: RIKER: Could someone survive inside a transporter buffer for seventy five years?"))</span>
+- Original-series chief engineer recovered from a transporter pattern buffer after 75 years (*Relics* <span class="src">[S06E04](../../data/text/230.txt "Relics")</span>). <span class="src">([S06E04](../../data/text/230.txt#L76 "Relics: RIKER: Could someone survive inside a transporter buffer for seventy five years?"))</span>
 
 ## Rank and role timeline
 

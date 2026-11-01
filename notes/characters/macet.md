@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Cardassian captain who cooperates with Picard against Maxwell (*The Wounded*). <span class="src">([S04E12](../../data/text/186.txt "The Wounded"))</span>
+- Cardassian captain who cooperates with Picard against Maxwell (*The Wounded* <span class="src">[S04E12](../../data/text/186.txt "The Wounded")</span>).
 
 ## Most scenes shared with
 

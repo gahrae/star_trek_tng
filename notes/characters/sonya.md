@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Eager young engineer who spills hot chocolate on Picard (*Q Who?*, *Samaritan Snare*). <span class="src">([S02E16](../../data/text/142.txt "Q Who?") · [S02E17](../../data/text/143.txt "Samaritan Snare"))</span>
+- Eager young engineer who spills hot chocolate on Picard (*Q Who?* <span class="src">[S02E16](../../data/text/142.txt "Q Who?")</span>, *Samaritan Snare* <span class="src">[S02E17](../../data/text/143.txt "Samaritan Snare")</span>).
 
 ## Most scenes shared with
 

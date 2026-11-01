@@ -12,9 +12,9 @@
 
 ## Key facts
 
-- Klingon politician who becomes Chancellor of the High Council with Picard as Arbiter of Succession after Worf kills Duras; Duras' sisters then challenge him (*Reunion*, *Redemption*). <span class="src">([S04E07](../../data/text/181.txt "Reunion") · [S04E26](../../data/text/200.txt "Redemption") · [S05E01](../../data/text/201.txt "Redemption part 2"))</span>
-- Restores Worf's family honour after winning the civil war against the Duras sisters (*Redemption II*). <span class="src">([S05E01](../../data/text/201.txt "Redemption part 2"))</span>
-- Later tries to rewrite history to downplay the Federation's help (*Unification I*). <span class="src">([S05E07](../../data/text/208.txt "Unification, part 1"))</span>
+- Klingon politician who becomes Chancellor of the High Council with Picard as Arbiter of Succession after Worf kills Duras; Duras' sisters then challenge him (*Reunion* <span class="src">[S04E07](../../data/text/181.txt "Reunion")</span>, *Redemption* <span class="src">[S04E26](../../data/text/200.txt "Redemption") · [S05E01](../../data/text/201.txt "Redemption part 2")</span>).
+- Restores Worf's family honour after winning the civil war against the Duras sisters (*Redemption II* <span class="src">[S05E01](../../data/text/201.txt "Redemption part 2")</span>).
+- Later tries to rewrite history to downplay the Federation's help (*Unification I* <span class="src">[S05E07](../../data/text/208.txt "Unification, part 1")</span>).
 
 ## Rank and role timeline
 

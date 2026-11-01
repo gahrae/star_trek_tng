@@ -8,7 +8,7 @@
 
 ## Key facts
 
-- 20th-century financier revived from cryogenic sleep (*The Neutral Zone*). <span class="src">([S01E26](../../data/text/126.txt "The Neutral Zone"))</span>
+- 20th-century financier revived from cryogenic sleep (*The Neutral Zone* <span class="src">[S01E26](../../data/text/126.txt "The Neutral Zone")</span>).
 
 ## Most scenes shared with
 

@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Acamarian assassin loved by Riker (*The Vengeance Factor*). <span class="src">([S03E09](../../data/text/157.txt "The Vengeance Factor"))</span>
+- Acamarian assassin loved by Riker (*The Vengeance Factor* <span class="src">[S03E09](../../data/text/157.txt "The Vengeance Factor")</span>).
 
 ## Most scenes shared with
 

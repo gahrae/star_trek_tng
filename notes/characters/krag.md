@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Tanugan investigator accusing Riker of murder (*A Matter of Perspective*). <span class="src">([S03E14](../../data/text/162.txt "A Matter Of Perspective"))</span>
+- Tanugan investigator accusing Riker of murder (*A Matter of Perspective* <span class="src">[S03E14](../../data/text/162.txt "A Matter Of Perspective")</span>).
 
 ## Most scenes shared with
 

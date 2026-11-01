@@ -9,9 +9,9 @@
 
 ## Key facts
 
-- Klingon councillor from a powerful house; his father Ja'rod betrayed Khitomer to the Romulans. <span class="src">([S03E17](../../data/text/165.txt "Sins Of The Father"))</span>
-- Has Worf's father blamed instead, and K'Ehleyr murdered when she uncovers the truth. <span class="src">([S03E17](../../data/text/165.txt "Sins Of The Father") · [S04E07](../../data/text/181.txt "Reunion"))</span>
-- Challenged and killed by Worf under the right of vengeance (*Sins of the Father*, *Reunion*). <span class="src">([S03E17](../../data/text/165.txt "Sins Of The Father") · [S04E07](../../data/text/181.txt "Reunion"))</span>
+- Klingon councillor from a powerful house; his father Ja'rod betrayed Khitomer to the Romulans <span class="src">([S03E17](../../data/text/165.txt#L204 "Sins Of The Father: WORF: I do not know, Captain. I will hear the evidence when I arrive. The charge has been made by Duras, the s"))</span>.
+- Has Worf's father blamed instead <span class="src">([S03E17](../../data/text/165.txt#L433 "Sins Of The Father: DURAS: Another witness has testified that Mogh often spoke of his admiration for the Romulans. Their culture. "))</span>, and K'Ehleyr murdered when she uncovers the truth <span class="src">([S04E07](../../data/text/181.txt "Reunion"))</span>.
+- Challenged and killed by Worf under the right of vengeance (*Sins of the Father* <span class="src">[S03E17](../../data/text/165.txt "Sins Of The Father")</span>, *Reunion* <span class="src">[S04E07](../../data/text/181.txt "Reunion")</span>).
 
 ## Relationships
 

@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Admiral who briefs Picard on Spock's apparent defection to Romulus (*Unification*). <span class="src">([S05E07](../../data/text/208.txt "Unification, part 1") · [S05E08](../../data/text/207.txt "Unification, part 2"))</span>
+- Admiral who briefs Picard on Spock's apparent defection to Romulus (*Unification* <span class="src">[S05E07](../../data/text/208.txt "Unification, part 1") · [S05E08](../../data/text/207.txt "Unification, part 2")</span>).
 
 ## Most scenes shared with
 

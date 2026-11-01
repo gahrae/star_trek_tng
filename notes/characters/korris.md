@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Renegade Klingon who tempts Worf (*Heart of Glory*). <span class="src">([S01E20](../../data/text/120.txt "Heart Of Glory"))</span>
+- Renegade Klingon who tempts Worf (*Heart of Glory* <span class="src">[S01E20](../../data/text/120.txt "Heart Of Glory")</span>).
 
 ## Most scenes shared with
 

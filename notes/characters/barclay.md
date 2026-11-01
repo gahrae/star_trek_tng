@@ -12,10 +12,10 @@
 
 ## Key facts
 
-- Shy engineer who hides in holodeck fantasies of the crew (*Hollow Pursuits*). <span class="src">([S03E21](../../data/text/169.txt "Hollow Pursuits"))</span>
-- Given super-intelligence by a Cytherian probe (*The Nth Degree*). <span class="src">([S04E19](../../data/text/193.txt "The Nth Degree"))</span>
-- Severe transporter phobia (*Realm of Fear*); a dormant gene in him triggers the de-evolution outbreak (*Genesis*). <span class="src">([S06E02](../../data/text/228.txt "Realm of Fear") · [S07E19](../../data/text/271.txt "Genesis"))</span>
-- Accidentally releases Moriarty from the computer, then helps Picard and Data trick him into a simulation and stores his program in a module (*Ship in a Bottle*). <span class="src">([S06E12](../../data/text/238.txt "Ship in a Bottle"))</span>
+- Shy engineer who hides in holodeck fantasies of the crew (*Hollow Pursuits* <span class="src">[S03E21](../../data/text/169.txt "Hollow Pursuits")</span>).
+- Given super-intelligence by a Cytherian probe (*The Nth Degree* <span class="src">[S04E19](../../data/text/193.txt "The Nth Degree")</span>).
+- Severe transporter phobia (*Realm of Fear* <span class="src">[S06E02](../../data/text/228.txt "Realm of Fear")</span>); a dormant gene in him triggers the de-evolution outbreak (*Genesis* <span class="src">[S07E19](../../data/text/271.txt "Genesis")</span>).
+- Accidentally releases Moriarty from the computer, then helps Picard and Data trick him into a simulation and stores his program in a module (*Ship in a Bottle* <span class="src">[S06E12](../../data/text/238.txt "Ship in a Bottle")</span>).
 
 ## Rank and role timeline
 

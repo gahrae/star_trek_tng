@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Bandi administrator of Farpoint (*Encounter at Farpoint*). <span class="src">([S01E01-E02](../../data/text/101.txt "Encounter at Farpoint"))</span>
+- Bandi administrator of Farpoint (*Encounter at Farpoint* <span class="src">[S01E01-E02](../../data/text/101.txt "Encounter at Farpoint")</span>).
 
 ## Most scenes shared with
 

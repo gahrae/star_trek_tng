@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Lore's Borg lieutenant (*Descent*). <span class="src">([S06E26](../../data/text/252.txt "Descent, part 1") · [S07E01](../../data/text/253.txt "Descent, part 2"))</span>
+- Lore's Borg lieutenant (*Descent* <span class="src">[S06E26](../../data/text/252.txt "Descent, part 1") · [S07E01](../../data/text/253.txt "Descent, part 2")</span>).
 
 ## Most scenes shared with
 

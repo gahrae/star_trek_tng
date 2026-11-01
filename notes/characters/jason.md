@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Young man Bok passes off as Picard's son (*Bloodlines*). <span class="src">([S07E22](../../data/text/274.txt "Bloodlines"))</span>
+- Young man Bok passes off as Picard's son (*Bloodlines* <span class="src">[S07E22](../../data/text/274.txt "Bloodlines")</span>).
 
 ## Most scenes shared with
 

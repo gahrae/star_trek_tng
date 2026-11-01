@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Leader of the trilithium thieves (*Starship Mine*). <span class="src">([S06E18](../../data/text/244.txt "Starship Mine"))</span>
+- Leader of the trilithium thieves (*Starship Mine* <span class="src">[S06E18](../../data/text/244.txt "Starship Mine")</span>).
 
 ## Most scenes shared with
 

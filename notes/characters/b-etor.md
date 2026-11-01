@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- The younger Duras sister; with Lursa she backs Toral's claim to the chancellorship (*Redemption*) and takes Romulan help in the civil war (*Redemption, Part II*). <span class="src">([S04E26](../../data/text/200.txt "Redemption") · [S05E01](../../data/text/201.txt "Redemption part 2"))</span>
+- The younger Duras sister; with Lursa she backs Toral's claim to the chancellorship (*Redemption* <span class="src">[S04E26](../../data/text/200.txt "Redemption") · [S05E01](../../data/text/201.txt "Redemption part 2")</span>) and takes Romulan help in the civil war (*Redemption, Part II* <span class="src">[S05E01](../../data/text/201.txt "Redemption part 2")</span>).
 
 ## Most scenes shared with
 

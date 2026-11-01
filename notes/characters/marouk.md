@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Acamarian ruler Yuta serves (*The Vengeance Factor*). <span class="src">([S03E09](../../data/text/157.txt "The Vengeance Factor"))</span>
+- Acamarian ruler Yuta serves (*The Vengeance Factor* <span class="src">[S03E09](../../data/text/157.txt "The Vengeance Factor")</span>).
 
 ## Most scenes shared with
 

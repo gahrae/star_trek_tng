@@ -8,7 +8,7 @@
 
 ## Key facts
 
-- Trill symbiont whom Crusher loves (*The Host*). <span class="src">([S04E23](../../data/text/197.txt "The Host"))</span>
+- Trill symbiont whom Crusher loves (*The Host* <span class="src">[S04E23](../../data/text/197.txt "The Host")</span>).
 
 ## Relationships
 

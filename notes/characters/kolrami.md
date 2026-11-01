@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Zakdorn strategist who beats Data at Strategema (*Peak Performance*). <span class="src">([S02E21](../../data/text/147.txt "Peak Performance"))</span>
+- Zakdorn strategist who beats Data at Strategema (*Peak Performance* <span class="src">[S02E21](../../data/text/147.txt "Peak Performance")</span>).
 
 ## Most scenes shared with
 

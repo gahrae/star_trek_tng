@@ -73,6 +73,18 @@ for label, name, text in claims:
         if not any(present(label, words, p) for p in g): absent.append(f"{label} cites {', '.join(sources.CODE[p] + ' ' + sources.TITLE[p] for p in g)}, where the name never appears")
 drift = [p for p in sources.CODE if (ROOT / "site" / "transcripts" / f"{p}.html").exists()
          and len(re.findall(r'id="l\d+"', (ROOT / "site" / "transcripts" / f"{p}.html").read_text(encoding="utf-8"))) != len(sources.dialogue(p))]
+def spell(t): return " ".join(re.sub(r"[^a-z0-9]+", " ", t.lower().replace("traveler", "traveller")).split())
+def strong(clause):     # names and quoted phrases: the words a transcript has to contain for the clause to be true
+    plain = re.sub(r"\*[^*]+\*", "", clause)
+    return re.findall(r"(?<![A-Za-z])'([^']{4,}?)'(?![A-Za-z])", plain) + re.findall(r"(?<!^)(?<![.;:] )\b([A-Z][a-z]{3,})\b", plain)
+clause_bad = []
+for label, name, text in claims:       # each link is tested against the clause it follows, not the whole fact
+    for m in sources.TOKEN.finditer(text):
+        found, _ = sources._token(m)
+        before = text[:m.start()]; kws = strong(sources.TOKEN.sub("", before[max(before.rfind(";"), before.rfind(". "), 0):]))
+        if found and kws and not any(any(spell(k) in spell(transcript(p)) for k in kws) for p in found):
+            clause_bad.append(f"{label}: {', '.join(sources.CODE[p] for p in found)} does not contain any of {kws[:3]}")
+check(not clause_bad, f"{len(clause_bad)} links where the clause before them is not in the episode: {clause_bad[:4]}")
 check(not drift, f"line links would point at the wrong line in {drift[:5]}: sources.dialogue() no longer matches the transcript pages")
 check(not unknown, f"unknown episodes cited: {unknown[:3]}")
 check(not unbacked, f"explicit source markers the transcript does not back: {unbacked[:3]}")

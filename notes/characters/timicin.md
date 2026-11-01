@@ -10,7 +10,7 @@
 
 - Kaelon scientist whose life's work is reigniting his world's dying sun. <span class="src">([S04E22](../../data/text/196.txt "Half a Life"))</span>
 - Approaching sixty, when Kaelon custom requires the 'Resolution', a ritual death; Lwaxana falls in love with him and begs him to refuse. <span class="src">([S04E22](../../data/text/196.txt "Half a Life"))</span>
-- Seeks asylum, then returns home to die with his daughter at his side (*Half a Life*). <span class="src">([S04E22](../../data/text/196.txt "Half a Life"))</span>
+- Seeks asylum, then returns home to die with his daughter at his side (*Half a Life* <span class="src">[S04E22](../../data/text/196.txt "Half a Life")</span>).
 
 ## Relationships
 

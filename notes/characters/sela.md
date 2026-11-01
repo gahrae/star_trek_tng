@@ -12,7 +12,7 @@
 
 ## Key facts
 
-- Romulan officer, daughter of the alternate-timeline Tasha Yar and a Romulan general; backs the Duras family in the civil war (*Redemption*) and the Vulcan invasion plot (*Unification*). <span class="src">([S04E26](../../data/text/200.txt "Redemption") · [S05E01](../../data/text/201.txt "Redemption part 2") · [S05E07](../../data/text/208.txt "Unification, part 1") · [S05E08](../../data/text/207.txt "Unification, part 2"))</span>
+- Romulan officer, daughter of the alternate-timeline Tasha Yar and a Romulan general; backs the Duras family in the civil war (*Redemption* <span class="src">[S04E26](../../data/text/200.txt "Redemption") · [S05E01](../../data/text/201.txt "Redemption part 2")</span>) and the Vulcan invasion plot (*Unification* <span class="src">[S05E07](../../data/text/208.txt "Unification, part 1") · [S05E08](../../data/text/207.txt "Unification, part 2")</span>).
 
 ## Relationships
 

@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Shuttle pilot who crashes with Picard and Wesley (*Final Mission*). <span class="src">([S04E09](../../data/text/183.txt "Final Mission"))</span>
+- Shuttle pilot who crashes with Picard and Wesley (*Final Mission* <span class="src">[S04E09](../../data/text/183.txt "Final Mission")</span>).
 
 ## Most scenes shared with
 

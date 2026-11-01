@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Romulan dissident who helps Troi (*Face of the Enemy*). <span class="src">([S06E14](../../data/text/240.txt "Face of the Enemy"))</span>
+- Romulan dissident who helps Troi (*Face of the Enemy* <span class="src">[S06E14](../../data/text/240.txt "Face of the Enemy")</span>).
 
 ## Most scenes shared with
 

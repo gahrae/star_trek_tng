@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Dixon Hill's secretary in the holonovel (*Manhunt*, *Clues*). <span class="src">([S02E19](../../data/text/145.txt "Manhunt") · [S04E14](../../data/text/188.txt "Clues"))</span>
+- Dixon Hill's secretary in the holonovel (*Manhunt* <span class="src">[S02E19](../../data/text/145.txt "Manhunt")</span>, *Clues* <span class="src">[S04E14](../../data/text/188.txt "Clues")</span>).
 
 ## Most scenes shared with
 

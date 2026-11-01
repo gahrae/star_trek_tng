@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- The Bolian barber, whose opinions are given freely (*Ensign Ro*, *Schisms*). <span class="src">([S05E03](../../data/text/203.txt "Ensign Ro") · [S06E05](../../data/text/231.txt "Schisms"))</span>
+- The barber, whose opinions are given freely (*Ensign Ro* <span class="src">[S05E03](../../data/text/203.txt "Ensign Ro")</span>, *Schisms* <span class="src">[S06E05](../../data/text/231.txt "Schisms")</span>); a Bolian.
 
 ## Most scenes shared with
 

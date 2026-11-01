@@ -71,16 +71,24 @@ def title_prods(title):
 
 _order = {e["prod"]: i for i, e in enumerate(_eps)}         # broadcast order
 
+def _token(m, italics=True):
+    """Episodes and quoted phrase of one token: a marker {102|phrase} or an italic title *The Battle|phrase*."""
+    if m.group(2): found, phrase = m.group(2).split(","), m.group(3)
+    else:
+        title, _, phrase = m.group(1).partition("|")
+        found = title_prods(title) if italics else []
+    return found, phrase
+
 def cited_groups(text, italics=True):
     """One list of episodes per citation in a claim (an italic title can name several parts), in order of appearance."""
     groups = []
     for m in TOKEN.finditer(text):
-        found = m.group(2).split(",") if m.group(2) else (title_prods(m.group(1)) if italics else [])
+        found, phrase = _token(m, italics)
         for p in found:
             if p not in CODE: raise ValueError(f"unknown episode {p} cited in: {text[:60]}")
-        if m.group(3):
+        if phrase:
             if len(found) != 1: raise ValueError(f"a quoted line needs one episode: {text[:60]}")
-            locate(found[0], m.group(3))
+            locate(found[0], phrase)
         if found: groups.append(sorted(found, key=_order.get) if m.group(1) else found)
     return groups
 
@@ -91,23 +99,23 @@ def cited_prods(text, italics=True):
         prods += [p for p in g if p not in prods]
     return prods
 
-def cited_lines(text):
-    """Episode -> raw line number of the quoted line, for the markers that quote one."""
-    return {m.group(2): locate(m.group(2), m.group(3))[1] for m in TOKEN.finditer(text) if m.group(3)}
-
-def links(prods, prefix, lines={}):
-    """Markdown for a source list. prefix is the relative path from the page to the repository root; lines maps
-    an episode to the raw line number to link to (GitHub's #L anchor; build_site.py turns it into the site's)."""
+def links(prods, prefix, line=None):
+    """Markdown for a source list. prefix is the relative path from the page to the repository root; line is the
+    raw line number to link to when there is one (GitHub's #L anchor; build_site.py turns it into the site's)."""
     def one(p):
-        tip = TITLE[p] if p not in lines else f"{TITLE[p]}: " + next(f"{l[2]}: {l[3]}"[:110] for l in dialogue(p) if l[1] == lines[p])
-        return f'[{CODE[p]}]({prefix}data/text/{p}.txt{f"#L{lines[p]}" if p in lines else ""} "{tip.replace(chr(34), chr(39))}")'
+        tip = TITLE[p] if not line else f"{TITLE[p]}: " + next(f"{l[2]}: {l[3]}"[:110] for l in dialogue(p) if l[1] == line)
+        return f'[{CODE[p]}]({prefix}data/text/{p}.txt{f"#L{line}" if line else ""} "{tip.replace(chr(34), chr(39))}")'
     return " · ".join(one(p) for p in prods)
 
 def cite(text, prefix):
-    """text without its markers, followed by links to the transcripts it cites."""
-    prods = cited_prods(text)
-    clean = MARKER.sub("", text)
-    return f'{clean} <span class="src">({links(prods, prefix, cited_lines(text))})</span>' if prods else clean
+    """text with each citation turned into a link where it stands: after an italic title, or in brackets where a marker was."""
+    def sub(m):
+        found, phrase = _token(m)
+        if not found: return m.group(0)
+        line = locate(found[0], phrase)[1] if phrase else None
+        if m.group(1): return f'*{m.group(1).partition("|")[0]}* <span class="src">{links(found, prefix, line)}</span>'
+        return f' <span class="src">({links(found, prefix, line)})</span>'
+    return TOKEN.sub(sub, re.sub(r"\s+(?=\{\d{3})", "", text))
 
 def keywords(text):
     """Distinctive words in a claim: quoted phrases, capitalised words (not at the start of a sentence), long plain words."""

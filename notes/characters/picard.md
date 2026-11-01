@@ -12,16 +12,16 @@
 
 ## Key facts
 
-- Commanding officer of the USS Enterprise-D (NCC-1701-D) for all seven seasons; human, born in La Barre, France, to a wine-making family (brother Robert, nephew René, seen in *Family*). <span class="src">([S04E02](../../data/text/178.txt "Family"))</span>
-- Previously commanded the USS Stargazer for over twenty years; invented the 'Picard Maneuver' at the Battle of Maxia (*The Battle*). <span class="src">([S01E09](../../data/text/110.txt "The Battle"))</span>
-- Has an artificial heart after being stabbed through the chest by a Nausicaan as a young ensign (*Samaritan Snare*, *Tapestry*). <span class="src">([S02E17](../../data/text/143.txt "Samaritan Snare") · [S06E15](../../data/text/241.txt "Tapestry"))</span>
-- Assimilated by the Borg and renamed Locutus (*The Best of Both Worlds*); the trauma recurs in *Family*, *I, Borg* and the Borg arc generally. <span class="src">([S03E26](../../data/text/174.txt "Best Of Both Worlds, part 1") · [S04E01](../../data/text/175.txt "Best of Both Worlds, part 2") · [S04E02](../../data/text/178.txt "Family") · [S05E23](../../data/text/223.txt "I, Borg"))</span>
-- Lived an entire simulated lifetime as 'Kamin' on the dead planet Kataan (*The Inner Light*) and keeps the Ressikan flute afterwards. <span class="src">([S05E25](../../data/text/225.txt "The Inner Light"))</span>
-- Tortured by Gul Madred of the Cardassians (*Chain of Command*); refuses to say there are five lights. <span class="src">([S06E10](../../data/text/236.txt "Chain of Command, part 1") · [S06E11](../../data/text/237.txt "Chain of Command, part 2"))</span>
-- Chosen as Arbiter of Succession for the Klingon High Council (*Reunion*, *Redemption*). <span class="src">([S04E07](../../data/text/181.txt "Reunion") · [S04E26](../../data/text/200.txt "Redemption") · [S05E01](../../data/text/201.txt "Redemption part 2"))</span>
-- Interests: archaeology (studied under Galen, *The Chase*), Shakespeare, horse riding, Dixon Hill detective holonovels; drinks 'Tea, Earl Grey, hot'. <span class="src">([S06E20](../../data/text/246.txt "The Chase") · [S02E15](../../data/text/141.txt "Pen Pals"))</span>
-- Long unspoken attachment to Beverly Crusher (*Attached*); his friend Jack Crusher died under his command on the Stargazer. <span class="src">([S07E08](../../data/text/260.txt "Attached"))</span>
-- Q puts humanity on trial through him in the pilot and the finale (*Encounter at Farpoint*, *All Good Things...*). <span class="src">([S01E01-E02](../../data/text/101.txt "Encounter at Farpoint") · [S07E25-E26](../../data/text/277.txt "All Good Things..."))</span>
+- Commanding officer of the USS Enterprise-D (NCC-1701-D) for all seven seasons; human, born in La Barre, France, to a wine-making family (brother Robert, nephew René, seen in *Family* <span class="src">[S04E02](../../data/text/178.txt "Family")</span>).
+- Previously commanded the USS Stargazer for over twenty years; invented the 'Picard Maneuver' at the Battle of Maxia (*The Battle* <span class="src">[S01E09](../../data/text/110.txt "The Battle")</span>).
+- Has an artificial heart after being stabbed through the chest by a Nausicaan as a young ensign (*Samaritan Snare* <span class="src">[S02E17](../../data/text/143.txt "Samaritan Snare")</span>, *Tapestry* <span class="src">[S06E15](../../data/text/241.txt "Tapestry")</span>).
+- Assimilated by the Borg and renamed Locutus (*The Best of Both Worlds* <span class="src">[S03E26](../../data/text/174.txt "Best Of Both Worlds, part 1") · [S04E01](../../data/text/175.txt "Best of Both Worlds, part 2")</span>); the trauma recurs in *Family* <span class="src">[S04E02](../../data/text/178.txt "Family")</span>, *I, Borg* <span class="src">[S05E23](../../data/text/223.txt "I, Borg")</span> and the Borg arc generally.
+- Lived an entire simulated lifetime as 'Kamin' on the dead planet Kataan (*The Inner Light* <span class="src">[S05E25](../../data/text/225.txt "The Inner Light")</span>) and keeps the Ressikan flute afterwards.
+- Tortured by Gul Madred of the Cardassians (*Chain of Command* <span class="src">[S06E10](../../data/text/236.txt "Chain of Command, part 1") · [S06E11](../../data/text/237.txt "Chain of Command, part 2")</span>); refuses to say there are five lights.
+- Chosen as Arbiter of Succession for the Klingon High Council (*Reunion* <span class="src">[S04E07](../../data/text/181.txt "Reunion")</span>, *Redemption* <span class="src">[S04E26](../../data/text/200.txt "Redemption") · [S05E01](../../data/text/201.txt "Redemption part 2")</span>).
+- Interests: archaeology (studied under Galen, *The Chase* <span class="src">[S06E20](../../data/text/246.txt "The Chase")</span>), Shakespeare, horse riding, Dixon Hill detective holonovels; drinks 'Tea, Earl Grey, hot' <span class="src">([S02E15](../../data/text/141.txt "Pen Pals"))</span>.
+- Long unspoken attachment to Beverly Crusher (*Attached* <span class="src">[S07E08](../../data/text/260.txt "Attached")</span>); his friend Jack Crusher died under his command on the Stargazer.
+- Q puts humanity on trial through him in the pilot and the finale (*Encounter at Farpoint* <span class="src">[S01E01-E02](../../data/text/101.txt "Encounter at Farpoint")</span>, *All Good Things...* <span class="src">[S07E25-E26](../../data/text/277.txt "All Good Things...")</span>).
 
 ## Rank and role timeline
 

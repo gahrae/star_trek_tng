@@ -11,7 +11,7 @@
 
 - Zibalian trader and collector of unique objects who kidnaps Data by faking his death in a shuttle explosion. <span class="src">([S03E22](../../data/text/170.txt#L511 "The Most Toys: COMPUTER: Accessing file Kivas Fajo. A Zibalian trader of the Stacius trade guild, educated on Iraaten Five. A"))</span>
 - Owns an illegal Varon-T disruptor and murders his assistant Varria when she helps Data. <span class="src">([S03E22](../../data/text/170.txt "The Most Toys"))</span>
-- Data is beamed away as he levels the weapon at him, and it discharges in transit; Fajo ends up in custody with his collection confiscated (*The Most Toys*). <span class="src">([S03E22](../../data/text/170.txt "The Most Toys"))</span>
+- Data is beamed away as he levels the weapon at him, and it discharges in transit; Fajo ends up in custody with his collection confiscated (*The Most Toys* <span class="src">[S03E22](../../data/text/170.txt "The Most Toys")</span>).
 
 ## Most scenes shared with
 
