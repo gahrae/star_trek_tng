@@ -283,12 +283,12 @@ for lbl in rows:
             for prod, r in p["ranks"]: f.write(f"| {ep_ref(prod)} | {r} |\n")
         if p and p["relationships"]:
             f.write("\n## Relationships\n\n")
-            for other, kind, *src in p["relationships"]: f.write(f"- {char_link(other, '')}: {cite(' '.join([kind, *src]), '../../')}\n")
+            for other, kind, *src in p["relationships"]: f.write(f"- {char_link(other, '')}: {cite(' '.join([kind, *src]), '../../', True)}\n")
         inbound = [(o, " ".join(k)) for o, q in PROFILES.items() if o != lbl for r, *k in q["relationships"] if r == lbl and not (p and any(r2 == o for r2, *_ in p["relationships"]))]
         if inbound:
             f.write("\n" if not (p and p["relationships"]) else "")
             if not (p and p["relationships"]): f.write("## Relationships\n\n")
-            for o, k in inbound: f.write(f"- {char_link(o, '')} lists this character as: {cite(k, '../../')}\n")
+            for o, k in inbound: f.write(f"- {char_link(o, '')} lists this character as: {cite(k, '../../', True)}\n")
         pt = partners(lbl)
         if pt:
             f.write("\n## Most scenes shared with\n\n| Character | Scenes |\n|---|---:|\n")
@@ -328,7 +328,7 @@ with open(NOTES / "relationships.md", "w", encoding="utf-8") as f:
             "The [Visuals](visuals.md) page shows the same data as a graph.\n\n")
     for lbl, p in PROFILES.items():
         f.write(f"### {name_of(lbl)}\n\n" if lbl not in indexed else f"### [{name_of(lbl)}](characters/{slug(lbl)}.md)\n\n")
-        for other, kind, *src in p["relationships"]: f.write(f"- {char_link(other)}: {cite(' '.join([kind, *src]), '../')}\n")
+        for other, kind, *src in p["relationships"]: f.write(f"- {char_link(other)}: {cite(' '.join([kind, *src]), '../', True)}\n")
         f.write("\n")
     f.write("\n## Most frequent scene pairings\n\nPairs of named characters who speak in the same scene most often, across the whole series.\n\n| Pair | Scenes together |\n|---|---:|\n")
     for (a, b), n in coapp.most_common(60): f.write(f"| {char_link(a)} and {char_link(b)} | {n} |\n")

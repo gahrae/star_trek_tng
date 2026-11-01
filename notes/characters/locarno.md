@@ -15,7 +15,7 @@
 
 ## Relationships
 
-- [Wesley Crusher](wesley.md) lists this character as: Nova Squadron leader <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Wesley_Crusher "Memory Alpha: Wesley Crusher: his well-spoken squadron leader Nicholas Locarno"))</span>
+- [Wesley Crusher](wesley.md) lists this character as: Nova Squadron leader <span class="src">([Memory Alpha: Nick Locarno](https://memory-alpha.fandom.com/wiki/Nick_Locarno "Memory Alpha: Nick Locarno: Locarno convinced his team members") · [Memory Alpha: Wesley Crusher](https://memory-alpha.fandom.com/wiki/Wesley_Crusher "Memory Alpha: Wesley Crusher: his well-spoken squadron leader Nicholas Locarno"))</span>
 
 ## Most scenes shared with
 

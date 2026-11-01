@@ -30,12 +30,12 @@
 
 ## Relationships
 
-- [Dr Beverly Crusher](crusher.md): mother <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Wesley_Crusher "Memory Alpha: Wesley Crusher: his mother, Doctor Beverly Crusher"))</span>
-- [The Traveler](traveller.md): guide <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Wesley_Crusher "Memory Alpha: Wesley Crusher: explore new planes of existence with The Traveler as his guide"))</span>
-- [Captain Jean-Luc Picard](picard.md): mentor <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Wesley_Crusher "Memory Alpha: Wesley Crusher: Wesley's relationship with the Enterprise's commanding officer, Jean-Luc Picard began"))</span>
-- [Salia](salia.md): early crush <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Wesley_Crusher "Memory Alpha: Wesley Crusher: she, too, was smitten with Wesley"))</span>
-- [Ensign Robin Lefler](robin.md): girlfriend <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Wesley_Crusher "Memory Alpha: Wesley Crusher: he developed an attraction to Ensign Robin Lefler"))</span>
-- [Nicholas Locarno](locarno.md): Nova Squadron leader <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Wesley_Crusher "Memory Alpha: Wesley Crusher: his well-spoken squadron leader Nicholas Locarno"))</span>
+- [Dr Beverly Crusher](crusher.md): mother <span class="src">([Memory Alpha: Beverly Crusher](https://memory-alpha.fandom.com/wiki/Beverly_Crusher "Memory Alpha: Beverly Crusher: the Crushers welcomed a son, Wesley Crusher, in 2348") · [Memory Alpha: Wesley Crusher](https://memory-alpha.fandom.com/wiki/Wesley_Crusher "Memory Alpha: Wesley Crusher: his mother, Doctor Beverly Crusher"))</span>
+- [The Traveler](traveller.md): guide <span class="src">([Memory Alpha: The Traveler](https://memory-alpha.fandom.com/wiki/The_Traveler "Memory Alpha: The Traveler: The Traveler noticed something special about the young Wesley Crusher") · [Memory Alpha: Wesley Crusher](https://memory-alpha.fandom.com/wiki/Wesley_Crusher "Memory Alpha: Wesley Crusher: explore new planes of existence with The Traveler as his guide"))</span>
+- [Captain Jean-Luc Picard](picard.md): mentor <span class="src">([Memory Alpha: Wesley Crusher](https://memory-alpha.fandom.com/wiki/Wesley_Crusher "Memory Alpha: Wesley Crusher: Wesley's relationship with the Enterprise's commanding officer, Jean-Luc Picard began"))</span>
+- [Salia](salia.md): early crush <span class="src">([Memory Alpha: Salia](https://memory-alpha.fandom.com/wiki/Salia "Memory Alpha: Salia: Salia became romantically involved with Wesley Crusher") · [Memory Alpha: Wesley Crusher](https://memory-alpha.fandom.com/wiki/Wesley_Crusher "Memory Alpha: Wesley Crusher: she, too, was smitten with Wesley"))</span>
+- [Ensign Robin Lefler](robin.md): girlfriend <span class="src">([Memory Alpha: Robin Lefler](https://memory-alpha.fandom.com/wiki/Robin_Lefler "Memory Alpha: Robin Lefler: she had a brief romance with Wesley Crusher") · [Memory Alpha: Wesley Crusher](https://memory-alpha.fandom.com/wiki/Wesley_Crusher "Memory Alpha: Wesley Crusher: he developed an attraction to Ensign Robin Lefler"))</span>
+- [Nicholas Locarno](locarno.md): Nova Squadron leader <span class="src">([Memory Alpha: Nick Locarno](https://memory-alpha.fandom.com/wiki/Nick_Locarno "Memory Alpha: Nick Locarno: Locarno convinced his team members") · [Memory Alpha: Wesley Crusher](https://memory-alpha.fandom.com/wiki/Wesley_Crusher "Memory Alpha: Wesley Crusher: his well-spoken squadron leader Nicholas Locarno"))</span>
 
 ## Most scenes shared with
 

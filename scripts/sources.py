@@ -89,9 +89,9 @@ def _url(u):
     """A URL safe inside a Markdown link: brackets and apostrophes encoded."""
     return u.replace("(", "%28").replace(")", "%29").replace("'", "%27")
 
-def ma_link(title, phrase=None):
+def ma_link(title, phrase=None, titled=False):
     tip = f"Memory Alpha: {title}" + (f": {phrase}" if phrase else "")
-    return f'[Memory Alpha](https://memory-alpha.fandom.com/wiki/{urllib.parse.quote(title.replace(" ", "_"), safe="_,.-:")} "{tip.replace(chr(34), chr(39))}")'
+    return f'[Memory Alpha{": " + title if titled else ""}](https://memory-alpha.fandom.com/wiki/{urllib.parse.quote(title.replace(" ", "_"), safe="_,.-:")} "{tip.replace(chr(34), chr(39))}")'
 
 def _token(m, italics=True):
     """Episodes and quoted phrase of one token: a marker {102|phrase} or an italic title *The Battle|phrase*."""
@@ -131,17 +131,19 @@ def links(prods, prefix, line=None):
         return f'[{CODE[p]}]({prefix}data/text/{p}.txt{f"#L{line}" if line else ""} "{tip.replace(chr(34), chr(39))}")'
     return " · ".join(one(p) for p in prods)
 
-def cite(text, prefix):
-    """text with each citation turned into a link where it stands: after an italic title, or in brackets where a marker was."""
+def cite(text, prefix, titled=False):
+    """text with each citation turned into a link where it stands: after an italic title, or in brackets where a marker was.
+    titled puts the page name in Memory Alpha links, for places (relationships) where it is not obvious which page is meant."""
     def sub(m):
-        if m.group(4): return f' <span class="src">({ma_link(m.group(4), m.group(5))})</span>'
+        if m.group(4): return f' <span class="src">({ma_link(m.group(4), m.group(5), titled)})</span>'
         found, phrase = _token(m)
         if not found: return m.group(0)
         if phrase and len(found) != 1: raise ValueError(f"a quoted line needs one episode: {m.group(0)}")
         line = locate(found[0], phrase)[1] if phrase else None
         if m.group(1): return f'*{m.group(1).partition("|")[0]}* <span class="src">{links(found, prefix, line)}</span>'
         return f' <span class="src">({links(found, prefix, line)})</span>'
-    return TOKEN.sub(sub, re.sub(r"\s+(?=\{(?:\d{3}|ma:))", "", text))
+    out = TOKEN.sub(sub, re.sub(r"\s+(?=\{(?:\d{3}|ma:))", "", text))
+    return out.replace(')</span> <span class="src">(', " · ")        # neighbouring sources share one bracket
 
 _credits = json.load(open(ROOT / "data" / "credit_links.json"))
 

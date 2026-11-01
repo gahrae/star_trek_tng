@@ -25,9 +25,9 @@
 
 ## Relationships
 
-- [Lieutenant Worf](worf.md): ally whose honour he restored <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Worf "Memory Alpha: Worf: Chancellor Gowron restored honor to the House of Mogh"))</span>
-- [Duras](duras.md): rival <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Gowron "Memory Alpha: Gowron: Gowron and Duras, son of Ja'rod, became the two leading candidates for leadership of the council"))</span>
-- [Captain Jean-Luc Picard](picard.md): Arbiter who chose him <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Gowron "Memory Alpha: Gowron: rendezvous with Captain Jean-Luc Picard"))</span>
+- [Lieutenant Worf](worf.md): ally whose honour he restored <span class="src">([Memory Alpha: Worf](https://memory-alpha.fandom.com/wiki/Worf "Memory Alpha: Worf: Chancellor Gowron restored honor to the House of Mogh"))</span>
+- [Duras](duras.md): rival <span class="src">([Memory Alpha: Duras, son of Ja'rod](https://memory-alpha.fandom.com/wiki/Duras,_son_of_Ja%27rod "Memory Alpha: Duras, son of Ja'rod: Duras came aboard Picard's ship, the USS Enterprise-D, from the IKS Vorn to compete in the Rite of Succession, as did Gowron") · [Memory Alpha: Gowron](https://memory-alpha.fandom.com/wiki/Gowron "Memory Alpha: Gowron: Gowron and Duras, son of Ja'rod, became the two leading candidates for leadership of the council"))</span>
+- [Captain Jean-Luc Picard](picard.md): Arbiter who chose him <span class="src">([Memory Alpha: Jean-Luc Picard](https://memory-alpha.fandom.com/wiki/Jean-Luc_Picard "Memory Alpha: Jean-Luc Picard: Picard was Gowron's Arbiter of Succession") · [Memory Alpha: Gowron](https://memory-alpha.fandom.com/wiki/Gowron "Memory Alpha: Gowron: rendezvous with Captain Jean-Luc Picard"))</span>
 
 ## Most scenes shared with
 

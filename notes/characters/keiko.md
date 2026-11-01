@@ -16,7 +16,7 @@
 
 ## Relationships
 
-- [Chief Miles O'Brien](o-brien.md): husband <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Keiko_O%27Brien "Memory Alpha: Keiko O'Brien: introduced to Miles O'Brien by their mutual friend"))</span>
+- [Chief Miles O'Brien](o-brien.md): husband <span class="src">([Memory Alpha: Keiko O'Brien](https://memory-alpha.fandom.com/wiki/Keiko_O%27Brien "Memory Alpha: Keiko O'Brien: introduced to Miles O'Brien by their mutual friend"))</span>
 
 ## Most scenes shared with
 

@@ -23,7 +23,7 @@
 
 ## Relationships
 
-- [Commander William T. Riker](riker.md): rival, then her captain <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Elizabeth_Shelby "Memory Alpha: Elizabeth Shelby: he appointed Shelby to be his first officer and promoted her to commander despite their differences"))</span>
+- [Commander William T. Riker](riker.md): rival, then her captain <span class="src">([Memory Alpha: William T. Riker](https://memory-alpha.fandom.com/wiki/William_T._Riker "Memory Alpha: William T. Riker: Riker felt that Shelby was trying to ingratiate herself to Captain Picard") · [Memory Alpha: Elizabeth Shelby](https://memory-alpha.fandom.com/wiki/Elizabeth_Shelby "Memory Alpha: Elizabeth Shelby: he appointed Shelby to be his first officer and promoted her to commander despite their differences"))</span>
 
 ## Most scenes shared with
 

@@ -16,8 +16,8 @@
 
 ## Relationships
 
-- [Lieutenant Natasha 'Tasha' Yar](tasha.md): mother <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Natasha_Yar "Memory Alpha: Natasha Yar: she gave birth to a daughter, Sela"))</span>
-- [Captain Jean-Luc Picard](picard.md): adversary <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Sela "Memory Alpha: Sela: Sela was foiled, however, when Captain Jean-Luc Picard led Starfleet"))</span>
+- [Lieutenant Natasha 'Tasha' Yar](tasha.md): mother <span class="src">([Memory Alpha: Natasha Yar](https://memory-alpha.fandom.com/wiki/Natasha_Yar "Memory Alpha: Natasha Yar: she gave birth to a daughter, Sela"))</span>
+- [Captain Jean-Luc Picard](picard.md): adversary <span class="src">([Memory Alpha: Sela](https://memory-alpha.fandom.com/wiki/Sela "Memory Alpha: Sela: Sela was foiled, however, when Captain Jean-Luc Picard led Starfleet"))</span>
 
 ## Most scenes shared with
 

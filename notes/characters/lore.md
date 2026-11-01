@@ -18,9 +18,9 @@
 
 ## Relationships
 
-- [Lieutenant Commander Data](data.md): brother <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Lore "Memory Alpha: Lore: constructing Lore's brother, Data"))</span>
-- [Dr Noonien Soong](soong.md): creator, whom he attacked as he lay dying <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Noonien_Soong "Memory Alpha: Noonien Soong: attacked Soong, hastening his death"))</span>
-- [Hugh](hugh.md): Borg follower who turned on him <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Lore "Memory Alpha: Lore: integrating Hugh's sense of individuality into the hive"))</span>
+- [Lieutenant Commander Data](data.md): brother <span class="src">([Memory Alpha: Data](https://memory-alpha.fandom.com/wiki/Data "Memory Alpha: Data: Discovered his first brother, Lore, on Omicron Theta") · [Memory Alpha: Lore](https://memory-alpha.fandom.com/wiki/Lore "Memory Alpha: Lore: constructing Lore's brother, Data"))</span>
+- [Dr Noonien Soong](soong.md): creator, whom he attacked as he lay dying <span class="src">([Memory Alpha: Noonien Soong](https://memory-alpha.fandom.com/wiki/Noonien_Soong "Memory Alpha: Noonien Soong: attacked Soong, hastening his death"))</span>
+- [Hugh](hugh.md): Borg follower who turned on him <span class="src">([Memory Alpha: Hugh](https://memory-alpha.fandom.com/wiki/Hugh "Memory Alpha: Hugh: Hugh disapproved of Lore's leadership") · [Memory Alpha: Lore](https://memory-alpha.fandom.com/wiki/Lore "Memory Alpha: Lore: integrating Hugh's sense of individuality into the hive"))</span>
 
 ## Most scenes shared with
 

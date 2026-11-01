@@ -14,7 +14,7 @@
 
 ## Relationships
 
-- [Lwaxana Troi](lwaxana.md) lists this character as: lover <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Lwaxana_Troi "Memory Alpha: Lwaxana Troi: Lwaxana fell in love with the Kaelon scientist Timicin"))</span>
+- [Lwaxana Troi](lwaxana.md) lists this character as: lover <span class="src">([Memory Alpha: Timicin](https://memory-alpha.fandom.com/wiki/Timicin "Memory Alpha: Timicin: Timicin became involved with Lwaxana Troi and fell in love with her") · [Memory Alpha: Lwaxana Troi](https://memory-alpha.fandom.com/wiki/Lwaxana_Troi "Memory Alpha: Lwaxana Troi: Lwaxana fell in love with the Kaelon scientist Timicin"))</span>
 
 ## Most scenes shared with
 

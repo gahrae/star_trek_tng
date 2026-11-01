@@ -16,8 +16,8 @@
 
 ## Relationships
 
-- [Captain Jean-Luc Picard](picard.md): lover <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Vash "Memory Alpha: Vash: Vash also met Captain Jean-Luc Picard"))</span>
-- [Q](q.md): companion <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Vash "Memory Alpha: Vash: Q offered Vash a chance to accompany him exploring the universe"))</span>
+- [Captain Jean-Luc Picard](picard.md): lover <span class="src">([Memory Alpha: Jean-Luc Picard](https://memory-alpha.fandom.com/wiki/Jean-Luc_Picard "Memory Alpha: Jean-Luc Picard: had a relationship with an adventurer and some-time criminal named Vash") · [Memory Alpha: Vash](https://memory-alpha.fandom.com/wiki/Vash "Memory Alpha: Vash: Vash also met Captain Jean-Luc Picard"))</span>
+- [Q](q.md): companion <span class="src">([Memory Alpha: Vash](https://memory-alpha.fandom.com/wiki/Vash "Memory Alpha: Vash: Q offered Vash a chance to accompany him exploring the universe"))</span>
 
 ## Most scenes shared with
 

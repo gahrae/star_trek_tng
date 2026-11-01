@@ -25,9 +25,9 @@
 
 ## Relationships
 
-- [Captain Jean-Luc Picard](picard.md): mentor she betrays <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Ro_Laren "Memory Alpha: Ro Laren: mentored by Captain Jean-Luc Picard"))</span>
-- [Guinan](guinan.md): confidante <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Ro_Laren "Memory Alpha: Ro Laren: she decided to get to know Ro"))</span>
-- [Lieutenant Commander Geordi La Forge](laforge.md): trapped out of phase together <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Geordi_La_Forge "Memory Alpha: Geordi La Forge: La Forge and Ro Laren disappeared during a transporter cycle"))</span>
+- [Captain Jean-Luc Picard](picard.md): mentor she betrays <span class="src">([Memory Alpha: Jean-Luc Picard](https://memory-alpha.fandom.com/wiki/Jean-Luc_Picard "Memory Alpha: Jean-Luc Picard: still harboring a deep resentment against her for her betrayal") · [Memory Alpha: Ro Laren](https://memory-alpha.fandom.com/wiki/Ro_Laren "Memory Alpha: Ro Laren: mentored by Captain Jean-Luc Picard"))</span>
+- [Guinan](guinan.md): confidante <span class="src">([Memory Alpha: Ro Laren](https://memory-alpha.fandom.com/wiki/Ro_Laren "Memory Alpha: Ro Laren: she decided to get to know Ro"))</span>
+- [Lieutenant Commander Geordi La Forge](laforge.md): trapped out of phase together <span class="src">([Memory Alpha: Geordi La Forge](https://memory-alpha.fandom.com/wiki/Geordi_La_Forge "Memory Alpha: Geordi La Forge: La Forge and Ro Laren disappeared during a transporter cycle"))</span>
 
 ## Most scenes shared with
 

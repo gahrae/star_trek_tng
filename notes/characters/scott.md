@@ -22,7 +22,7 @@
 
 ## Relationships
 
-- [Lieutenant Commander Geordi La Forge](laforge.md): fellow engineer <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Montgomery_Scott "Memory Alpha: Montgomery Scott: he requested a temporary transfer of his crew: Commander Geordi La Forge"))</span>
+- [Lieutenant Commander Geordi La Forge](laforge.md): fellow engineer <span class="src">([Memory Alpha: Geordi La Forge](https://memory-alpha.fandom.com/wiki/Geordi_La_Forge "Memory Alpha: Geordi La Forge: forged an unlikely bond with fellow Enterprise Chief Engineer Montgomery Scott") · [Memory Alpha: Montgomery Scott](https://memory-alpha.fandom.com/wiki/Montgomery_Scott "Memory Alpha: Montgomery Scott: he requested a temporary transfer of his crew: Commander Geordi La Forge"))</span>
 
 ## Most scenes shared with
 

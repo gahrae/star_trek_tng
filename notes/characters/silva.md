@@ -13,7 +13,7 @@
 
 ## Relationships
 
-- [Lieutenant Commander Geordi La Forge](laforge.md) lists this character as: mother <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Geordi_La_Forge "Memory Alpha: Geordi La Forge: to parents Captain Silva La Forge"))</span>
+- [Lieutenant Commander Geordi La Forge](laforge.md) lists this character as: mother <span class="src">([Memory Alpha: Silva La Forge](https://memory-alpha.fandom.com/wiki/Silva_La_Forge "Memory Alpha: Silva La Forge: had two children, son Geordi, and daughter Ariana") · [Memory Alpha: Geordi La Forge](https://memory-alpha.fandom.com/wiki/Geordi_La_Forge "Memory Alpha: Geordi La Forge: to parents Captain Silva La Forge"))</span>
 
 ## Most scenes shared with
 

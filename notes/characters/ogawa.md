@@ -22,7 +22,7 @@
 
 ## Relationships
 
-- [Dr Beverly Crusher](crusher.md): superior and friend <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Alyssa_Ogawa "Memory Alpha: Alyssa Ogawa: Beverly Crusher also considered Ogawa a friend"))</span>
+- [Dr Beverly Crusher](crusher.md): superior and friend <span class="src">([Memory Alpha: Beverly Crusher](https://memory-alpha.fandom.com/wiki/Beverly_Crusher "Memory Alpha: Beverly Crusher: especially close to Nurse Alyssa Ogawa") · [Memory Alpha: Alyssa Ogawa](https://memory-alpha.fandom.com/wiki/Alyssa_Ogawa "Memory Alpha: Alyssa Ogawa: Beverly Crusher also considered Ogawa a friend"))</span>
 
 ## Most scenes shared with
 

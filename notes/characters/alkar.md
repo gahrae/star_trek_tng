@@ -15,7 +15,7 @@
 
 ## Relationships
 
-- [Counselor Deanna Troi](troi.md) lists this character as: abuser who used her as an emotional receptacle <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Deanna_Troi "Memory Alpha: Deanna Troi: Alkar used Deanna as a vessel for all of his negative or distracting emotions"))</span>
+- [Counselor Deanna Troi](troi.md) lists this character as: abuser who used her as an emotional receptacle <span class="src">([Memory Alpha: Ves Alkar](https://memory-alpha.fandom.com/wiki/Ves_Alkar "Memory Alpha: Ves Alkar: he turned to Deanna Troi to serve as the") · [Memory Alpha: Deanna Troi](https://memory-alpha.fandom.com/wiki/Deanna_Troi "Memory Alpha: Deanna Troi: Alkar used Deanna as a vessel for all of his negative or distracting emotions"))</span>
 
 ## Most scenes shared with
 

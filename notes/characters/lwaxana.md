@@ -20,11 +20,11 @@
 
 ## Relationships
 
-- [Counselor Deanna Troi](troi.md): daughter <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Lwaxana_Troi "Memory Alpha: Lwaxana Troi: Deanna was Lwaxana's second daughter"))</span>
-- [Captain Jean-Luc Picard](picard.md): object of pursuit <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Jean-Luc_Picard "Memory Alpha: Jean-Luc Picard: she set her sights on several male crewmembers as potential mates, including Picard"))</span>
-- [Dr Timicin](timicin.md): lover <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Lwaxana_Troi "Memory Alpha: Lwaxana Troi: Lwaxana fell in love with the Kaelon scientist Timicin"))</span>
-- [Alexander Rozhenko](alexander.md): friend <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Lwaxana_Troi "Memory Alpha: Lwaxana Troi: Lwaxana befriended Alexander Rozhenko, Worf's son"))</span>
-- [Mr Homn](homn.md): valet <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Homn "Memory Alpha: Homn: was the valet"))</span>
+- [Counselor Deanna Troi](troi.md): daughter <span class="src">([Memory Alpha: Deanna Troi](https://memory-alpha.fandom.com/wiki/Deanna_Troi "Memory Alpha: Deanna Troi: She was born to Betazoid Ambassador Lwaxana Troi") · [Memory Alpha: Lwaxana Troi](https://memory-alpha.fandom.com/wiki/Lwaxana_Troi "Memory Alpha: Lwaxana Troi: Deanna was Lwaxana's second daughter"))</span>
+- [Captain Jean-Luc Picard](picard.md): object of pursuit <span class="src">([Memory Alpha: Jean-Luc Picard](https://memory-alpha.fandom.com/wiki/Jean-Luc_Picard "Memory Alpha: Jean-Luc Picard: she set her sights on several male crewmembers as potential mates, including Picard"))</span>
+- [Dr Timicin](timicin.md): lover <span class="src">([Memory Alpha: Timicin](https://memory-alpha.fandom.com/wiki/Timicin "Memory Alpha: Timicin: Timicin became involved with Lwaxana Troi and fell in love with her") · [Memory Alpha: Lwaxana Troi](https://memory-alpha.fandom.com/wiki/Lwaxana_Troi "Memory Alpha: Lwaxana Troi: Lwaxana fell in love with the Kaelon scientist Timicin"))</span>
+- [Alexander Rozhenko](alexander.md): friend <span class="src">([Memory Alpha: Alexander Rozhenko](https://memory-alpha.fandom.com/wiki/Alexander_Rozhenko "Memory Alpha: Alexander Rozhenko: Alexander was also friendly with Counselor Troi's mother, Lwaxana Troi") · [Memory Alpha: Lwaxana Troi](https://memory-alpha.fandom.com/wiki/Lwaxana_Troi "Memory Alpha: Lwaxana Troi: Lwaxana befriended Alexander Rozhenko, Worf's son"))</span>
+- [Mr Homn](homn.md): valet <span class="src">([Memory Alpha: Homn](https://memory-alpha.fandom.com/wiki/Homn "Memory Alpha: Homn: was the valet"))</span>
 
 ## Most scenes shared with
 

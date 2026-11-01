@@ -12,7 +12,7 @@
 
 ## Relationships
 
-- [Dr Beverly Crusher](crusher.md) lists this character as: lover <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Beverly_Crusher "Memory Alpha: Beverly Crusher: she began a relationship with Odan"))</span>
+- [Dr Beverly Crusher](crusher.md) lists this character as: lover <span class="src">([Memory Alpha: Odan](https://memory-alpha.fandom.com/wiki/Odan "Memory Alpha: Odan: Odan and Doctor Beverly Crusher had begun a relationship") · [Memory Alpha: Beverly Crusher](https://memory-alpha.fandom.com/wiki/Beverly_Crusher "Memory Alpha: Beverly Crusher: she began a relationship with Odan"))</span>
 
 ## Most scenes shared with
 

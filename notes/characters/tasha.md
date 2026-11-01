@@ -25,10 +25,10 @@
 
 ## Relationships
 
-- [Ishara Yar](ishara.md): sister <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Natasha_Yar "Memory Alpha: Natasha Yar: Her sister, Ishara, was born five years later"))</span>
-- [Commander Sela](sela.md): daughter (alternate timeline) <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Natasha_Yar "Memory Alpha: Natasha Yar: she gave birth to a daughter, Sela"))</span>
-- [Lieutenant Commander Data](data.md): intimate encounter <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Natasha_Yar "Memory Alpha: Natasha Yar: later mentioned that he and Tasha were intimate"))</span>
-- [Lieutenant Worf](worf.md): colleague who succeeded her <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Worf "Memory Alpha: Worf: Appointed acting security chief after the death of Lieutenant Natasha Yar"))</span>
+- [Ishara Yar](ishara.md): sister <span class="src">([Memory Alpha: Ishara Yar](https://memory-alpha.fandom.com/wiki/Ishara_Yar "Memory Alpha: Ishara Yar: She was the sister of Natasha Yar") · [Memory Alpha: Natasha Yar](https://memory-alpha.fandom.com/wiki/Natasha_Yar "Memory Alpha: Natasha Yar: Her sister, Ishara, was born five years later"))</span>
+- [Commander Sela](sela.md): daughter (alternate timeline) <span class="src">([Memory Alpha: Sela](https://memory-alpha.fandom.com/wiki/Sela "Memory Alpha: Sela: the product of a union between Starfleet officer Tasha Yar's counterpart from an alternate timeline and a Romulan general") · [Memory Alpha: Natasha Yar](https://memory-alpha.fandom.com/wiki/Natasha_Yar "Memory Alpha: Natasha Yar: she gave birth to a daughter, Sela"))</span>
+- [Lieutenant Commander Data](data.md): intimate encounter <span class="src">([Memory Alpha: Data](https://memory-alpha.fandom.com/wiki/Data "Memory Alpha: Data: Data had a short sexual relationship with Natasha Yar in 2364") · [Memory Alpha: Natasha Yar](https://memory-alpha.fandom.com/wiki/Natasha_Yar "Memory Alpha: Natasha Yar: later mentioned that he and Tasha were intimate"))</span>
+- [Lieutenant Worf](worf.md): colleague who succeeded her <span class="src">([Memory Alpha: Worf](https://memory-alpha.fandom.com/wiki/Worf "Memory Alpha: Worf: Appointed acting security chief after the death of Lieutenant Natasha Yar"))</span>
 
 ## Most scenes shared with
 

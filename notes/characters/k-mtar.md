@@ -15,7 +15,7 @@
 
 ## Relationships
 
-- [Alexander Rozhenko](alexander.md) lists this character as: his own future self <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Alexander_Rozhenko "Memory Alpha: Alexander Rozhenko: an adult Alexander, who had traveled back in time from forty years in the future"))</span>
+- [Alexander Rozhenko](alexander.md) lists this character as: his own future self <span class="src">([Memory Alpha: K'mtar](https://memory-alpha.fandom.com/wiki/K%27mtar "Memory Alpha: K'mtar: K'mtar was an alias briefly used by Alexander Rozhenko when he traveled back in time to 2370") · [Memory Alpha: Alexander Rozhenko](https://memory-alpha.fandom.com/wiki/Alexander_Rozhenko "Memory Alpha: Alexander Rozhenko: an adult Alexander, who had traveled back in time from forty years in the future"))</span>
 
 ## Most scenes shared with
 

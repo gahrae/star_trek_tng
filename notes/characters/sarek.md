@@ -16,9 +16,9 @@
 
 ## Relationships
 
-- [Ambassador Spock](spock.md): son <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Sarek "Memory Alpha: Sarek: father of noted Starfleet officer"))</span>
-- [Perrin](perrin.md): wife <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Sarek "Memory Alpha: Sarek: at the suggestion of his wife, Perrin"))</span>
-- [Captain Jean-Luc Picard](picard.md): mind-meld partner <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Sarek "Memory Alpha: Sarek: he mind melded with Captain Picard"))</span>
+- [Ambassador Spock](spock.md): son <span class="src">([Memory Alpha: Spock](https://memory-alpha.fandom.com/wiki/Spock "Memory Alpha: Spock: his father, Sarek, was a Vulcan scientist and diplomat") · [Memory Alpha: Sarek](https://memory-alpha.fandom.com/wiki/Sarek "Memory Alpha: Sarek: father of noted Starfleet officer"))</span>
+- [Perrin](perrin.md): wife <span class="src">([Memory Alpha: Perrin](https://memory-alpha.fandom.com/wiki/Perrin "Memory Alpha: Perrin: the last wife of Ambassador Sarek") · [Memory Alpha: Sarek](https://memory-alpha.fandom.com/wiki/Sarek "Memory Alpha: Sarek: at the suggestion of his wife, Perrin"))</span>
+- [Captain Jean-Luc Picard](picard.md): mind-meld partner <span class="src">([Memory Alpha: Sarek](https://memory-alpha.fandom.com/wiki/Sarek "Memory Alpha: Sarek: he mind melded with Captain Picard"))</span>
 
 ## Most scenes shared with
 

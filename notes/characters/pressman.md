@@ -15,7 +15,7 @@
 
 ## Relationships
 
-- [Commander William T. Riker](riker.md) lists this character as: former captain <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/William_T._Riker "Memory Alpha: William T. Riker: Erik Pressman, now an admiral, came aboard the Enterprise"))</span>
+- [Commander William T. Riker](riker.md) lists this character as: former captain <span class="src">([Memory Alpha: Erik Pressman](https://memory-alpha.fandom.com/wiki/Erik_Pressman "Memory Alpha: Erik Pressman: Pressman and a small group of officers, including a young Ensign William T") · [Memory Alpha: William T. Riker](https://memory-alpha.fandom.com/wiki/William_T._Riker "Memory Alpha: William T. Riker: Erik Pressman, now an admiral, came aboard the Enterprise"))</span>
 
 ## Most scenes shared with
 

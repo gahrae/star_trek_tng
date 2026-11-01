@@ -26,8 +26,8 @@
 
 ## Relationships
 
-- [Lieutenant Commander Data](data.md): android she dismissed at first, then respected <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Katherine_Pulaski "Memory Alpha: Katherine Pulaski: was not very kind towards Lieutenant Commander Data when she first boarded the ship"))</span>
-- [Kyle Riker](kyle-riker.md): old friend <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Katherine_Pulaski "Memory Alpha: Katherine Pulaski: There was only one survivor, Kyle Riker, and it was at this time the two met"))</span>
+- [Lieutenant Commander Data](data.md): android she dismissed at first, then respected <span class="src">([Memory Alpha: Data](https://memory-alpha.fandom.com/wiki/Data "Memory Alpha: Data: she was not very kind toward Data, because of her discomfort with technology") · [Memory Alpha: Katherine Pulaski](https://memory-alpha.fandom.com/wiki/Katherine_Pulaski "Memory Alpha: Katherine Pulaski: was not very kind towards Lieutenant Commander Data when she first boarded the ship"))</span>
+- [Kyle Riker](kyle-riker.md): old friend <span class="src">([Memory Alpha: Kyle Riker](https://memory-alpha.fandom.com/wiki/Kyle_Riker "Memory Alpha: Kyle Riker: He later became involved with Doctor Katherine Pulaski") · [Memory Alpha: Katherine Pulaski](https://memory-alpha.fandom.com/wiki/Katherine_Pulaski "Memory Alpha: Katherine Pulaski: There was only one survivor, Kyle Riker, and it was at this time the two met"))</span>
 
 ## Most scenes shared with
 

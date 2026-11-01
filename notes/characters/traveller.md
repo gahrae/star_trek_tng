@@ -12,7 +12,7 @@
 
 ## Relationships
 
-- [Wesley Crusher](wesley.md) lists this character as: guide <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Wesley_Crusher "Memory Alpha: Wesley Crusher: explore new planes of existence with The Traveler as his guide"))</span>
+- [Wesley Crusher](wesley.md) lists this character as: guide <span class="src">([Memory Alpha: The Traveler](https://memory-alpha.fandom.com/wiki/The_Traveler "Memory Alpha: The Traveler: The Traveler noticed something special about the young Wesley Crusher") · [Memory Alpha: Wesley Crusher](https://memory-alpha.fandom.com/wiki/Wesley_Crusher "Memory Alpha: Wesley Crusher: explore new planes of existence with The Traveler as his guide"))</span>
 
 ## Most scenes shared with
 

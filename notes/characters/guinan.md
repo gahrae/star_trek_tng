@@ -20,10 +20,10 @@
 
 ## Relationships
 
-- [Captain Jean-Luc Picard](picard.md): deep friendship <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Guinan "Memory Alpha: Guinan: shared a long-term relationship, which, according to her, went beyond friendship and beyond family"))</span>
-- [Q](q.md): enemy <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Guinan "Memory Alpha: Guinan: Her relationship with Q was evidently hostile"))</span>
-- [Ensign Ro Laren](ro.md): friend and confidante <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Ro_Laren "Memory Alpha: Ro Laren: Guinan persisted despite Ro's efforts to push her away"))</span>
-- [Hugh](hugh.md): Borg she was hostile to, then accepted <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Guinan "Memory Alpha: Guinan: Guinan initially questioned Picard's decision in that matter"))</span>
+- [Captain Jean-Luc Picard](picard.md): deep friendship <span class="src">([Memory Alpha: Jean-Luc Picard](https://memory-alpha.fandom.com/wiki/Jean-Luc_Picard "Memory Alpha: Jean-Luc Picard: Guinan and Picard shared a long-term relationship, which, according to her, went beyond friendship and beyond family") · [Memory Alpha: Guinan](https://memory-alpha.fandom.com/wiki/Guinan "Memory Alpha: Guinan: shared a long-term relationship, which, according to her, went beyond friendship and beyond family"))</span>
+- [Q](q.md): enemy <span class="src">([Memory Alpha: Q](https://memory-alpha.fandom.com/wiki/Q "Memory Alpha: Q: Q had some dealings with the El-Aurian Guinan") · [Memory Alpha: Guinan](https://memory-alpha.fandom.com/wiki/Guinan "Memory Alpha: Guinan: Her relationship with Q was evidently hostile"))</span>
+- [Ensign Ro Laren](ro.md): friend and confidante <span class="src">([Memory Alpha: Ro Laren](https://memory-alpha.fandom.com/wiki/Ro_Laren "Memory Alpha: Ro Laren: Guinan persisted despite Ro's efforts to push her away"))</span>
+- [Hugh](hugh.md): Borg she was hostile to, then accepted <span class="src">([Memory Alpha: Hugh](https://memory-alpha.fandom.com/wiki/Hugh "Memory Alpha: Hugh: Guinan, who originally wanted nothing to do with Hugh, taught him that resistance was not futile") · [Memory Alpha: Guinan](https://memory-alpha.fandom.com/wiki/Guinan "Memory Alpha: Guinan: Guinan initially questioned Picard's decision in that matter"))</span>
 
 ## Most scenes shared with
 

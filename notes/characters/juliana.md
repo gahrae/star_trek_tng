@@ -15,8 +15,8 @@
 
 ## Relationships
 
-- [Lieutenant Commander Data](data.md) lists this character as: 'mother' <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Data "Memory Alpha: Data: Juliana had come to view Data as her beloved son"))</span>
-- [Dr Noonien Soong](soong.md) lists this character as: former wife <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Noonien_Soong "Memory Alpha: Noonien Soong: Soong met and fell in love with Juliana O'Donnell and the pair married"))</span>
+- [Lieutenant Commander Data](data.md) lists this character as: 'mother' <span class="src">([Memory Alpha: Juliana Tainer](https://memory-alpha.fandom.com/wiki/Juliana_Tainer "Memory Alpha: Juliana Tainer: helped create the android Data") · [Memory Alpha: Data](https://memory-alpha.fandom.com/wiki/Data "Memory Alpha: Data: Juliana had come to view Data as her beloved son"))</span>
+- [Dr Noonien Soong](soong.md) lists this character as: former wife <span class="src">([Memory Alpha: Juliana Tainer](https://memory-alpha.fandom.com/wiki/Juliana_Tainer "Memory Alpha: Juliana Tainer: She met Doctor Noonien Soong on the colony, and the two fell in love") · [Memory Alpha: Noonien Soong](https://memory-alpha.fandom.com/wiki/Noonien_Soong "Memory Alpha: Noonien Soong: Soong met and fell in love with Juliana O'Donnell and the pair married"))</span>
 
 ## Most scenes shared with
 

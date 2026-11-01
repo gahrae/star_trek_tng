@@ -451,10 +451,8 @@
   "era": "lead"
  },
  "jack": {
-  "page": "Jack Crusher",
-  "source": "https://static.wikia.nocookie.net/memoryalpha/images/4/43/Jack_Crusher%2C_2396.jpg/revision/latest/scale-to-width-down/320?cb=20230311012749&path-prefix=en",
-  "file": "jack.webp",
-  "era": "lead"
+  "page": "Jack R. Crusher",
+  "era": "none"
  },
  "soong": {
   "page": "Noonien Soong",

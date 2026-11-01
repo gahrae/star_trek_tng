@@ -21,11 +21,11 @@
 
 ## Relationships
 
-- [Captain Jean-Luc Picard](picard.md): antagonist who puts him and humanity on trial <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Q "Memory Alpha: Q: Q placed Humanity on trial, with Jean-Luc Picard and his command crew as representatives"))</span>
-- [Commander William T. Riker](riker.md): human he tempted with Q powers <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Q "Memory Alpha: Q: had given Commander William T. Riker Q-like abilities"))</span>
-- [Guinan](guinan.md): old enemy <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Q "Memory Alpha: Q: Q had some dealings with the El-Aurian Guinan"))</span>
-- [Vash](vash.md): travelling companion <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Vash "Memory Alpha: Vash: Q offered Vash a chance to accompany him exploring the universe"))</span>
-- [Amanda Rogers](amanda.md): young Q he evaluated <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Q "Memory Alpha: Q: to instruct Amanda Rogers"))</span>
+- [Captain Jean-Luc Picard](picard.md): antagonist who puts him and humanity on trial <span class="src">([Memory Alpha: Jean-Luc Picard](https://memory-alpha.fandom.com/wiki/Jean-Luc_Picard "Memory Alpha: Jean-Luc Picard: Even though he was very antagonistic towards them") · [Memory Alpha: Q](https://memory-alpha.fandom.com/wiki/Q "Memory Alpha: Q: Q placed Humanity on trial, with Jean-Luc Picard and his command crew as representatives"))</span>
+- [Commander William T. Riker](riker.md): human he tempted with Q powers <span class="src">([Memory Alpha: Q](https://memory-alpha.fandom.com/wiki/Q "Memory Alpha: Q: had given Commander William T. Riker Q-like abilities"))</span>
+- [Guinan](guinan.md): old enemy <span class="src">([Memory Alpha: Guinan](https://memory-alpha.fandom.com/wiki/Guinan "Memory Alpha: Guinan: Her relationship with Q was evidently hostile") · [Memory Alpha: Q](https://memory-alpha.fandom.com/wiki/Q "Memory Alpha: Q: Q had some dealings with the El-Aurian Guinan"))</span>
+- [Vash](vash.md): travelling companion <span class="src">([Memory Alpha: Vash](https://memory-alpha.fandom.com/wiki/Vash "Memory Alpha: Vash: Q offered Vash a chance to accompany him exploring the universe"))</span>
+- [Amanda Rogers](amanda.md): young Q he evaluated <span class="src">([Memory Alpha: Q](https://memory-alpha.fandom.com/wiki/Q "Memory Alpha: Q: to instruct Amanda Rogers"))</span>
 - [Q2](q2.md): fellow Q <span class="src">([S03E13](../../data/text/161.txt#L718 "Déjà Q: Q2: Actually, I was the one who got you kicked out. You know, you're incorrigible, Q. A lost cause. I can't go"))</span>
 
 ## Most scenes shared with

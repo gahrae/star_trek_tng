@@ -17,9 +17,9 @@
 
 ## Relationships
 
-- [Lieutenant Worf](worf.md): mate <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/K%27Ehleyr "Memory Alpha: K'Ehleyr: K'Ehleyr expressed her desire to become Worf's mate"))</span>
-- [Alexander Rozhenko](alexander.md): son <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/K%27Ehleyr "Memory Alpha: K'Ehleyr: would later deliver a child that had been conceived from this relationship, Alexander"))</span>
-- [Duras](duras.md): killer <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/K%27Ehleyr "Memory Alpha: K'Ehleyr: Duras attacked K'Ehleyr in her quarters and killed her"))</span>
+- [Lieutenant Worf](worf.md): mate <span class="src">([Memory Alpha: Worf](https://memory-alpha.fandom.com/wiki/Worf "Memory Alpha: Worf: mate to K'Ehleyr") · [Memory Alpha: K'Ehleyr](https://memory-alpha.fandom.com/wiki/K%27Ehleyr "Memory Alpha: K'Ehleyr: K'Ehleyr expressed her desire to become Worf's mate"))</span>
+- [Alexander Rozhenko](alexander.md): son <span class="src">([Memory Alpha: Alexander Rozhenko](https://memory-alpha.fandom.com/wiki/Alexander_Rozhenko "Memory Alpha: Alexander Rozhenko: was the son of Starfleet then-Lieutenant Worf and Federation Ambassador K'Ehleyr") · [Memory Alpha: K'Ehleyr](https://memory-alpha.fandom.com/wiki/K%27Ehleyr "Memory Alpha: K'Ehleyr: would later deliver a child that had been conceived from this relationship, Alexander"))</span>
+- [Duras](duras.md): killer <span class="src">([Memory Alpha: K'Ehleyr](https://memory-alpha.fandom.com/wiki/K%27Ehleyr "Memory Alpha: K'Ehleyr: Duras attacked K'Ehleyr in her quarters and killed her"))</span>
 
 ## Most scenes shared with
 

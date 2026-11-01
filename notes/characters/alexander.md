@@ -18,10 +18,10 @@
 
 ## Relationships
 
-- [Lieutenant Worf](worf.md): father <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Alexander_Rozhenko "Memory Alpha: Alexander Rozhenko: resentful and bitter at being abandoned by his father"))</span>
-- [K'Ehleyr](k-ehleyr.md): mother <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Alexander_Rozhenko "Memory Alpha: Alexander Rozhenko: Alexander only knew his mother briefly"))</span>
-- [Lwaxana Troi](lwaxana.md): friend <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Alexander_Rozhenko "Memory Alpha: Alexander Rozhenko: Alexander was also friendly with Counselor Troi's mother, Lwaxana Troi"))</span>
-- [K'mtar](k-mtar.md): his own future self <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Alexander_Rozhenko "Memory Alpha: Alexander Rozhenko: an adult Alexander, who had traveled back in time from forty years in the future"))</span>
+- [Lieutenant Worf](worf.md): father <span class="src">([Memory Alpha: Worf](https://memory-alpha.fandom.com/wiki/Worf "Memory Alpha: Worf: father to Alexander Rozhenko") · [Memory Alpha: Alexander Rozhenko](https://memory-alpha.fandom.com/wiki/Alexander_Rozhenko "Memory Alpha: Alexander Rozhenko: resentful and bitter at being abandoned by his father"))</span>
+- [K'Ehleyr](k-ehleyr.md): mother <span class="src">([Memory Alpha: K'Ehleyr](https://memory-alpha.fandom.com/wiki/K%27Ehleyr "Memory Alpha: K'Ehleyr: Alexander kept a picture of his mother next to his bed aboard the Enterprise") · [Memory Alpha: Alexander Rozhenko](https://memory-alpha.fandom.com/wiki/Alexander_Rozhenko "Memory Alpha: Alexander Rozhenko: Alexander only knew his mother briefly"))</span>
+- [Lwaxana Troi](lwaxana.md): friend <span class="src">([Memory Alpha: Lwaxana Troi](https://memory-alpha.fandom.com/wiki/Lwaxana_Troi "Memory Alpha: Lwaxana Troi: Lwaxana befriended Alexander Rozhenko, Worf's son") · [Memory Alpha: Alexander Rozhenko](https://memory-alpha.fandom.com/wiki/Alexander_Rozhenko "Memory Alpha: Alexander Rozhenko: Alexander was also friendly with Counselor Troi's mother, Lwaxana Troi"))</span>
+- [K'mtar](k-mtar.md): his own future self <span class="src">([Memory Alpha: K'mtar](https://memory-alpha.fandom.com/wiki/K%27mtar "Memory Alpha: K'mtar: K'mtar was an alias briefly used by Alexander Rozhenko when he traveled back in time to 2370") · [Memory Alpha: Alexander Rozhenko](https://memory-alpha.fandom.com/wiki/Alexander_Rozhenko "Memory Alpha: Alexander Rozhenko: an adult Alexander, who had traveled back in time from forty years in the future"))</span>
 
 ## Most scenes shared with
 

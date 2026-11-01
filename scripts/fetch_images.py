@@ -26,7 +26,7 @@ PAGES = {"PICARD": "Jean-Luc Picard", "RIKER": "William T. Riker", "DATA": "Data
  "TROI": "Deanna Troi", "WESLEY": "Wesley Crusher", "TASHA": "Natasha Yar", "PULASKI": "Katherine Pulaski", "Q": "Q", "GUINAN": "Guinan", "O'BRIEN": "Miles O'Brien",
  "LWAXANA": "Lwaxana Troi", "RO": "Ro Laren", "BARCLAY": "Reginald Barclay", "ALEXANDER": "Alexander Rozhenko", "LORE": "Lore", "GOWRON": "Gowron", "K'EHLEYR": "K'Ehleyr",
  "KURN": "Kurn", "KEIKO": "Keiko O'Brien", "OGAWA": "Alyssa Ogawa", "SELA": "Sela", "TOMALAK": "Tomalak", "HUGH": "Hugh", "VASH": "Vash", "MORIARTY": "James Moriarty (hologram)",
- "LEAH": "Leah Brahms", "SOONG": "Noonien Soong", "JELLICO": "Edward Jellico", "SHELBY": "Elizabeth Shelby", "NECHAYEV": "Alynna Nechayev", "SPOCK": "Spock", "SAREK": "Sarek", "SCOTT": "Montgomery Scott", "BRACKETT": "Ruah Brackett", "TEXAS": "Texas (character)", "TIMOTHY": "Timothy (Vico)"}
+ "LEAH": "Leah Brahms", "SOONG": "Noonien Soong", "JELLICO": "Edward Jellico", "SHELBY": "Elizabeth Shelby", "NECHAYEV": "Alynna Nechayev", "SPOCK": "Spock", "SAREK": "Sarek", "SCOTT": "Montgomery Scott", "BRACKETT": "Ruah Brackett", "TEXAS": "Texas (character)", "TIMOTHY": "Timothy (Vico)", "JACK": "Jack R. Crusher"}
 STRIP = re.compile(r"^(Captain|Commander|Lieutenant Commander|Lieutenant|Counselor|Dr|Doctor|Chief|Ensign|Nurse|Admiral|Professor|Ambassador|DaiMon|Gul|Chancellor|Proconsul|Senator|Sovereign|Commander|General|Vice Admiral)\s+", re.I)
 
 chars = json.load(open(ROOT / "data" / "characters.json"))

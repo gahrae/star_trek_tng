@@ -26,8 +26,8 @@
 
 ## Relationships
 
-- [Keiko O'Brien](keiko.md): wife <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Keiko_O%27Brien "Memory Alpha: Keiko O'Brien: introduced to Miles O'Brien by their mutual friend"))</span>
-- [Captain Benjamin Maxwell](maxwell.md): former captain <span class="src">([S04E12](../../data/text/186.txt#L177 "The Wounded: PICARD: Transporter Chief O'Brien, has served with Benjamin Maxwell. I thought that he might be able to provid"))</span>
+- [Keiko O'Brien](keiko.md): wife <span class="src">([Memory Alpha: Keiko O'Brien](https://memory-alpha.fandom.com/wiki/Keiko_O%27Brien "Memory Alpha: Keiko O'Brien: introduced to Miles O'Brien by their mutual friend"))</span>
+- [Captain Benjamin Maxwell](maxwell.md): former captain <span class="src">([Memory Alpha: Benjamin Maxwell](https://memory-alpha.fandom.com/wiki/Benjamin_Maxwell "Memory Alpha: Benjamin Maxwell: Maxwell's tactical officer at the time, Miles O'Brien") · [S04E12](../../data/text/186.txt#L177 "The Wounded: PICARD: Transporter Chief O'Brien, has served with Benjamin Maxwell. I thought that he might be able to provid"))</span>
 - [Lieutenant Reginald Barclay](barclay.md): colleague he helped through transporter phobia <span class="src">([S06E02](../../data/text/228.txt#L139 "Realm of Fear: O'BRIEN: I know how you feel about this, sir."))</span>
 
 ## Most scenes shared with

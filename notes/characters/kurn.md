@@ -17,7 +17,7 @@
 
 ## Relationships
 
-- [Lieutenant Worf](worf.md): brother <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Kurn "Memory Alpha: Kurn: Worf's younger brother"))</span>
+- [Lieutenant Worf](worf.md): brother <span class="src">([Memory Alpha: Worf](https://memory-alpha.fandom.com/wiki/Worf "Memory Alpha: Worf: Worf's brother, Kurn, brought the news") · [Memory Alpha: Kurn](https://memory-alpha.fandom.com/wiki/Kurn "Memory Alpha: Kurn: Worf's younger brother"))</span>
 
 ## Most scenes shared with
 
