@@ -93,7 +93,7 @@ JS = """
 function openSection(){const t=location.hash&&document.getElementById(decodeURIComponent(location.hash.slice(1)));if(!t)return;for(let d=t.closest('details.sec');d;d=d.parentElement&&d.parentElement.closest('details.sec'))d.open=true;t.scrollIntoView();}
 addEventListener('hashchange',openSection);openSection();
 // site search over episodes and characters
-let idx=null;const box=document.getElementById('q'),out=document.getElementById('results');
+let idx=null;const box=document.getElementById("site-search"),out=document.getElementById('results');
 async function load(){if(!idx){idx=await (await fetch(ROOTP+'search.json')).json();}}
 box.addEventListener('input',async()=>{await load();const q=box.value.trim().toLowerCase();if(q.length<2){out.style.display='none';return;}
  const hits=idx.filter(r=>r.t.toLowerCase().includes(q)||r.d.toLowerCase().includes(q)).slice(0,30);
@@ -141,7 +141,7 @@ def shell(title, body, rel, depth):
     return f"""<!doctype html><html lang="en" data-theme="dark"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{html.escape(title)} - TNG notes</title><style>{CSS}</style></head><body>
 <header><a class="brand" href="{rootp}index.html">TNG notes</a><button class="menu" id="menu" type="button" aria-expanded="false" aria-controls="nav">{cur} &#9662;</button><nav id="nav">{nav}</nav>
-<div class="search"><input id="q" type="search" placeholder="Search episodes and characters" autocomplete="off"><div id="results"></div></div></header>
+<div class="search"><input id="site-search" type="search" placeholder="Search episodes and characters" autocomplete="off"><div id="results"></div></div></header>
 <aside class="rail" aria-hidden="true"><span>LCR</span><span id="rail-date"></span><span>176</span><span>NCC-1701-D</span><span></span><span>SEC</span></aside>
 <main>{body}</main><div class="tip" id="tip"></div><footer>Unofficial fan project, not affiliated with or endorsed by Paramount. Star Trek and related marks are trademarks of Paramount Skydance Corporation.<br>Transcripts from <a href="http://www.chakoteya.net/NextGen/episodes.htm">Chrissie&#39;s Transcripts Site</a> (chakoteya.net), credits from <a href="https://en.wikipedia.org/wiki/List_of_Star_Trek:_The_Next_Generation_episodes">Wikipedia</a>, cast lists, portraits and episode screenshots from <a href="https://memory-alpha.fandom.com/">Memory Alpha</a> (CC BY-NC). For personal study.<br><a class="report" href="https://github.com/gahrae/star_trek_tng/issues/new" target="_blank" rel="noopener">Report an issue</a> &middot; <a class="report feature" href="https://github.com/gahrae/star_trek_tng/issues/new" target="_blank" rel="noopener">Suggest a feature</a></footer>
 <script>const ROOTP="{rootp}";{JS}</script>{'<script src="../ego.js"></script>' if rel.startswith("characters/") else ''}</body></html>"""
