@@ -229,13 +229,13 @@ def partners(lbl, k=8):
 with open(NOTES / "episodes.md", "w", encoding="utf-8") as f:
     f.write("# Episodes\n\n176 transcript entries covering all 178 broadcast episodes (double-length episodes are one entry). "
             "Listed in broadcast order. Director and writer credits come from Wikipedia; synopses and arc tags come from the curated data files, written from each episode's transcript. "
-            "Click a title for the episode note.\n")
+            "Click a title for the episode note, or \"transcript\" below it to read the transcript, reformatted with linked speaker names. To find a line, use Search.\n")
     cur = None
     for e in eps:
         if e["season"] != cur:
-            cur = e["season"]; f.write(f"\n## Season {cur}\n\n| Code | Title | Aired | Director | Writer | Arcs | Synopsis |\n|---|---|---|---|---|---|---|\n")
+            cur = e["season"]; f.write(f"\n## Season {cur}\n\n| Code | Episode | Aired | Director | Writer | Arcs | Synopsis |\n|---|---|---|---|---|---|---|\n")
         syn, arcs, links = EPISODES[e["prod"]]
-        f.write(f"| {e['code']} | [{e['title']}](episodes/{e['prod']}.md) | {e['airdate_iso']} | {e['director']} | {e['writer']} | {', '.join(f'[{a}](arcs.md#{slug(a)})' for a in arcs)} | {syn} |\n")
+        f.write(f"| {e['code']} | [{e['title']}](episodes/{e['prod']}.md)<br><span class='tr'>[transcript](../data/text/{e['prod']}.txt)</span> | {e['airdate_iso']} | {e['director']} | {e['writer']} | {', '.join(f'[{a}](arcs.md#{slug(a)})' for a in arcs)} | {syn} |\n")
 
 for e in eps:
     prod = e["prod"]; syn, arcs, links = EPISODES[prod]

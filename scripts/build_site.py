@@ -10,7 +10,7 @@ NOTES, SITE = ROOT / "notes", ROOT / "site"
 NAV = [("README.md", "Home"), ("episodes.md", "Episodes"), ("character_index.md", "Characters"), ("arcs.md", "Arcs"),
        ("continuity.md", "Continuity"), ("relationships.md", "Relationships"),
        ("locations.md", "Locations"), ("entities.md", "Entities"), ("stats.md", "Stats"), ("actors.md", "Actors"), ("crew.md", "Crew"),
-       ("transcripts/index.md", "Transcripts"), ("search.md", "Search"), ("visuals.md", "Visuals")]
+       ("search.md", "Search"), ("visuals.md", "Visuals")]
 import sys; sys.path.insert(0, str(ROOT / "scripts"))
 import site_visuals
 from curated_characters import SPLIT
@@ -60,6 +60,7 @@ code{background:var(--panel);padding:.1rem .3rem;border-radius:4px;font-size:.9e
 figure.portrait{float:right;margin:0 0 1rem 1.5rem;max-width:220px;text-align:center;font-size:.75rem;color:var(--muted);text-transform:uppercase;letter-spacing:.05em}
 figure.portrait.still{max-width:320px}
 a.report{color:var(--muted);text-decoration:underline dotted}
+.tr{font-size:.82em}.tr a{color:var(--muted);text-decoration:underline dotted}.tr a:hover{color:var(--text)}
 .src{font-size:.8em;color:var(--muted);}.src a{color:var(--muted);text-decoration:underline dotted}.src a:hover{color:var(--text)}
 figure.portrait img{width:100%;border-radius:12px;border:3px solid var(--tan);display:block}
 /* chart panels keep the validated dark surface and palette steps */
@@ -109,8 +110,8 @@ document.addEventListener('click',e=>{if(!e.target.closest('.search'))out.style.
 def shell(title, body, rel, depth):
     rootp = "../" * depth
     nav = "".join(f'<a href="{rootp}{"index" if f == "README.md" else f[:-3]}.html"{" class=active" if f == rel else ""}>{n}</a>'
-                  for f, n in NAV if (NOTES / f).exists() or f in ("transcripts/index.md", "visuals.md", "search.md"))
-    section = {"characters/": "character_index.md", "episodes/": "episodes.md", "locations/": "locations.md", "transcripts/": "transcripts/index.md"}
+                  for f, n in NAV if (NOTES / f).exists() or f in ("visuals.md", "search.md"))
+    section = {"characters/": "character_index.md", "episodes/": "episodes.md", "locations/": "locations.md", "transcripts/": "episodes.md"}
     cur = next((n for f, n in NAV if f == rel), None) or next((n for f, n in NAV if f == section.get(rel.split("/")[0] + "/")), "Menu")   # label for the narrow-screen menu toggle
     return f"""<!doctype html><html lang="en" data-theme="dark"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{html.escape(title)} - TNG notes</title><style>{CSS}</style></head><body>
@@ -313,7 +314,7 @@ def render_transcript(e, meta, slugs, loc_pages, prev_e, next_e):
             'function apply(){tr.querySelectorAll(".line").forEach(l=>l.classList.remove("hit","cur"));hits=sel.value?[...tr.querySelectorAll(`.line[data-s="${CSS.escape(sel.value)}"]`)]:[];hits.forEach(l=>l.classList.add("hit"));i=-1;count();tr.classList.toggle("dimmed",dim.checked&&!!sel.value);sel.closest(".ttools").classList.toggle("pinned",!!sel.value);}function count(){cnt.textContent=!sel.value?"":(i<0?hits.length+" lines":(i+1)+" of "+hits.length)+(hits.length?"  (j / k to step)":"");}'
             'function go(d){if(!hits.length)return;hits[i]&&hits[i].classList.remove("cur");i=(i+d+hits.length)%hits.length;hits[i].classList.add("cur");hits[i].scrollIntoView({block:"center"});count();}'
             'sel.onchange=apply;dim.onchange=apply;document.getElementById("spk-next").onclick=()=>go(1);document.getElementById("spk-prev").onclick=()=>go(-1);addEventListener("keydown",e=>{if(!sel.value||e.ctrlKey||e.metaKey||e.altKey||/^(INPUT|SELECT|TEXTAREA)$/.test(e.target.tagName))return;if(e.key==="j"||e.key==="ArrowRight"){e.preventDefault();go(1);}else if(e.key==="k"||e.key==="ArrowLeft"){e.preventDefault();go(-1);}});})();</script>')
-    return shell(e["title"] + " transcript", body, "transcripts/index.md", 1), rec
+    return shell(e["title"] + " transcript", body, "episodes.md", 1), rec      # the Episodes tab is highlighted on a transcript
 
 def main():
     if SITE.exists(): shutil.rmtree(SITE)
@@ -341,7 +342,7 @@ def main():
     loc_pages = {L for L in loc_pages}          # slugs
     class _L(set):
         def __contains__(self, L): return slug(L) in loc_pages
-    rows = []; index = collections.defaultdict(list); STOP = set("the a an and or of to in is it that you i we he she they this for on with be are was not have as at but do if so my me your his her our its".split())
+    index = collections.defaultdict(list); STOP = set("the a an and or of to in is it that you i we he she they this for on with be are was not have as at but do if so my me your his her our its".split())
     for i, e in enumerate(eps_):
         html_, rec = render_transcript(e, meta_[e["prod"]], slugs, _L(), eps_[i - 1] if i else None, eps_[i + 1] if i + 1 < len(eps_) else None)
         (SITE / "transcripts" / f"{e['prod']}.html").write_text(html_, encoding="utf-8")
@@ -350,12 +351,8 @@ def main():
             for w in set(re.findall(r"[a-z0-9']+", text.lower())):
                 w = w.strip("'")
                 if len(w) >= 2 and w not in STOP: index[w].append(i * 4000 + ln)
-        rows.append(f'<tr><td>{meta_[e["prod"]]["code"]}</td><td><a href="../episodes/{e["prod"]}.html">{html.escape(e["title"])}</a></td>'
-                    f'<td>{meta_[e["prod"]]["airdate_iso"]}</td><td><a href="{e["prod"]}.html">read transcript</a></td></tr>')
     (SITE / "data" / "index.json").write_text(json.dumps({"prods": [e["prod"] for e in eps_], "titles": [e["title"] for e in eps_], "codes": [meta_[e["prod"]]["code"] for e in eps_], "stop": sorted(STOP), "words": index}, separators=(",", ":")), encoding="utf-8")
     (SITE / "search.html").write_text(shell("Search transcripts", SEARCH_BODY, "search.md", 0), encoding="utf-8")
-    (SITE / "transcripts" / "index.html").write_text(shell("Transcripts", "<h1>Transcripts</h1><p>All 176 transcripts, reformatted with linked speaker names. Titles open the episode note. To find a line, use <a href=\"../search.html\">Search</a>.</p>"
-        "<table><thead><tr><th>Code</th><th>Episode</th><th>Aired</th><th>Transcript</th></tr></thead><tbody>" + "".join(rows) + "</tbody></table>", "transcripts/index.md", 1), encoding="utf-8")
     # visuals
     (SITE / "visuals.html").write_text(shell("Visualisations", add_contents(site_visuals.PAGE_BODY), "visuals.md", 0), encoding="utf-8")
     # search index: episodes (title, code, synopsis) and characters (name, description)

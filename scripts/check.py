@@ -29,13 +29,13 @@ check(not leaked, f"unrendered placeholders in {[str(x) for x in leaked[:3]]}")
 broken = 0
 for p in notes.rglob("*.md"):
     for link in re.findall(r"\]\(([^)#]+\.md)(?:#[^)]*)?\)", p.read_text(encoding="utf-8")):
-        if link.split("/")[-1] in ("visuals.md", "search.md", "index.md") and "transcripts" in link or link in ("visuals.md", "search.md"): continue   # pages that exist only on the site
+        if link in ("visuals.md", "search.md"): continue   # pages that exist only on the site
         if not (p.parent / link).resolve().exists(): broken += 1
 check(broken == 0, f"{broken} broken links in notes/")
 site = ROOT / "site"
 if site.exists():
     check((site / "index.html").exists() and (site / "search.json").exists(), "site index or search index missing")
-    check(len(list((site / "transcripts").glob("*.html"))) == 177, "transcript pages missing")
+    check(len(list((site / "transcripts").glob("*.html"))) == 176, "transcript pages missing")      # one per episode
     broken = 0; n = 0
     for p in site.rglob("*.html"):
         for h in re.findall(r'href="([^"#$]+)(?:#[^"]*)?"', p.read_text(encoding="utf-8")):
