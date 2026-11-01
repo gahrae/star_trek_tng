@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Aldean leader who kidnaps the children (*When the Bough Breaks*).
+- Aldean leader who kidnaps the children (*When the Bough Breaks* <span class="src">[S01E17](../../data/text/118.txt#L277 "When The Bough Breaks: RADUE: Wesley, sometimes something happens which you just must accept. You and the other children are now memb")</span>).
 
 ## Most scenes shared with
 

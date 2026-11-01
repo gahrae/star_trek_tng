@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Astrophysicist studying a neutron star (*Evolution*).
+- Astrophysicist studying a neutron star (*Evolution* <span class="src">[S03E01](../../data/text/150.txt#L31 "Evolution: STUBBS: Over and over again, the intense gravitational pull of the little neutron star sucks up the star mater")</span>).
 
 ## Most scenes shared with
 

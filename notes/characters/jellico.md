@@ -12,7 +12,7 @@
 
 ## Key facts
 
-- Takes command of the Enterprise during the Cardassian crisis while Picard is on a covert mission; clashes with Riker (*Chain of Command*).
+- Takes command of the Enterprise during the Cardassian crisis while Picard is on a covert mission; clashes with Riker (*Chain of Command* <span class="src">[S06E10](../../data/text/236.txt "Chain of Command, part 1") · [S06E11](../../data/text/237.txt "Chain of Command, part 2")</span>).
 
 ## Rank and role timeline
 
@@ -22,7 +22,7 @@
 
 ## Relationships
 
-- [Commander William T. Riker](riker.md): first officer he clashed with
+- [Commander William T. Riker](riker.md): first officer he clashed with <span class="src">([Memory Alpha: William T. Riker](https://memory-alpha.fandom.com/wiki/William_T._Riker "Memory Alpha: William T. Riker: they both vowed not to let their opinions of one another affect their duties") · [Memory Alpha: Edward Jellico](https://memory-alpha.fandom.com/wiki/Edward_Jellico "Memory Alpha: Edward Jellico: Jellico ran into numerous confrontations with Enterprise-D's first officer"))</span>
 
 ## Most scenes shared with
 

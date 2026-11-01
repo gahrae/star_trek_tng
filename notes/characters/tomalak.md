@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | Transcript label | `TOMALAK` |
-| Episodes | 3 of 176 speaking |
+| Episodes | 3 of 176 speaking, plus 1 non-speaking |
 | Dialogue lines | 63 |
 | Played by | Andreas Katsulas |
 | Species | Romulan |
@@ -12,11 +12,11 @@
 
 ## Key facts
 
-- Recurring Romulan commander and Picard's adversary (*The Enemy*, *The Defector*, *Future Imperfect*, *All Good Things...*).
+- Recurring Romulan commander and Picard's adversary (*The Enemy* <span class="src">[S03E07](../../data/text/155.txt "The Enemy")</span>, *The Defector* <span class="src">[S03E10](../../data/text/158.txt "The Defector")</span>, *Future Imperfect* <span class="src">[S04E08](../../data/text/182.txt "Future Imperfect")</span>).
 
 ## Relationships
 
-- [Captain Jean-Luc Picard](picard.md): adversary
+- [Captain Jean-Luc Picard](picard.md): adversary <span class="src">([Memory Alpha: Tomalak](https://memory-alpha.fandom.com/wiki/Tomalak "Memory Alpha: Tomalak: Tomalak confronted Jean-Luc Picard concerning their mutual fleet movements"))</span>
 
 ## Most scenes shared with
 
@@ -38,3 +38,11 @@
 | S03E07 | [The Enemy](../episodes/155.md) | 23 |
 | S03E10 | [The Defector](../episodes/158.md) | 13 |
 | S04E08 | [Future Imperfect](../episodes/182.md) | 27 |
+
+## Non-speaking appearances
+
+Episodes where the character appears without dialogue, and how we know.
+
+| Code | Episode | Source |
+|---|---|---|
+| S07E25-E26 | [All Good Things...](../episodes/277.md) | cast list |

@@ -9,11 +9,11 @@
 
 ## Key facts
 
-- Jean-Luc's older brother, a vintner who resents his success (*Family*).
+- Jean-Luc's older brother, a vintner who resents his success (*Family* <span class="src">[S04E02](../../data/text/178.txt#L531 "Family: ROBERT: So, my brother is a human being after all. This is going to be with you a long time, Jean-Luc. A long ")</span>).
 
 ## Relationships
 
-- [Captain Jean-Luc Picard](picard.md) lists this character as: brother
+- [Captain Jean-Luc Picard](picard.md): brother <span class="src">([Memory Alpha: Robert Picard](https://memory-alpha.fandom.com/wiki/Robert_Picard "Memory Alpha: Robert Picard: the elder brother of Starfleet Captain Jean-Luc Picard") · [Memory Alpha: Jean-Luc Picard](https://memory-alpha.fandom.com/wiki/Jean-Luc_Picard "Memory Alpha: Jean-Luc Picard: his brother Robert and his nephew René"))</span>
 
 ## Most scenes shared with
 

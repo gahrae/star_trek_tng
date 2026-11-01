@@ -12,16 +12,16 @@
 
 ## Key facts
 
-- Commanding officer of the USS Enterprise-D (NCC-1701-D) for all seven seasons; human, born in La Barre, France, to a wine-making family (brother Robert, nephew René, seen in *Family*).
-- Previously commanded the USS Stargazer for over twenty years; invented the 'Picard Maneuver' at the Battle of Maxia (*The Battle*).
-- Has an artificial heart after being stabbed through the chest by a Nausicaan as a young ensign (*Samaritan Snare*, *Tapestry*).
-- Assimilated by the Borg and renamed Locutus (*The Best of Both Worlds*); the trauma recurs in *Family*, *I, Borg* and the Borg arc generally.
-- Lived an entire simulated lifetime as 'Kamin' on the dead planet Kataan (*The Inner Light*) and keeps the Ressikan flute afterwards.
-- Tortured by Gul Madred of the Cardassians (*Chain of Command*); refuses to say there are five lights.
-- Chosen as Arbiter of Succession for the Klingon High Council (*Reunion*, *Redemption*).
-- Interests: archaeology (studied under Galen, *The Chase*), Shakespeare, horse riding, Dixon Hill detective holonovels; drinks 'Tea, Earl Grey, hot'.
-- Long unspoken attachment to Beverly Crusher (*Attached*); his friend Jack Crusher died under his command on the Stargazer.
-- Q puts humanity on trial through him in the pilot and the finale (*Encounter at Farpoint*, *All Good Things...*).
+- Commanding officer of the USS Enterprise-D (NCC-1701-D) for all seven seasons; human, born in La Barre, France, to a wine-making family (brother Robert, nephew René, seen in *Family* <span class="src">[S04E02](../../data/text/178.txt "Family")</span>).
+- Previously commanded the USS Stargazer for over twenty years; invented the 'Picard Maneuver' at the Battle of Maxia (*The Battle* <span class="src">[S01E09](../../data/text/110.txt#L151 "The Battle: BOK: Why you, Picard, of course. Do you not remember the Battle of Maxia?")</span>).
+- Has an artificial heart after being stabbed through the chest by a Nausicaan as a young ensign (*Samaritan Snare* <span class="src">[S02E17](../../data/text/143.txt#L387 "Samaritan Snare: PICARD: I had this one Nausicaan down in this somewhat devious joint-lock when, unbeknownst to me, one of his ")</span>, *Tapestry* <span class="src">[S06E15](../../data/text/241.txt#L109 "Tapestry: PICARD: The pity is that I had to be impaled through the back before I learned that lesson. I started that fig")</span>).
+- Assimilated by the Borg and renamed Locutus (*The Best of Both Worlds* <span class="src">[S03E26](../../data/text/174.txt "Best Of Both Worlds, part 1") · [S04E01](../../data/text/175.txt "Best of Both Worlds, part 2")</span>); the trauma recurs in *Family* <span class="src">[S04E02](../../data/text/178.txt "Family")</span>, *I, Borg* <span class="src">[S05E23](../../data/text/223.txt "I, Borg")</span> and the Borg arc generally.
+- Lived an entire simulated lifetime as 'Kamin' on the dead planet Kataan (*The Inner Light* <span class="src">[S05E25](../../data/text/225.txt#L32 "The Inner Light: ELINE: Well. finally. How are you feeling? Kamin, can you answer me?")</span>) and keeps the Ressikan flute afterwards.
+- Tortured by Gul Madred of the Cardassians (*Chain of Command* <span class="src">[S06E10](../../data/text/236.txt "Chain of Command, part 1") · [S06E11](../../data/text/237.txt "Chain of Command, part 2")</span>); refuses to say there are five lights.
+- Chosen as Arbiter of Succession for the Klingon High Council (*Reunion* <span class="src">[S04E07](../../data/text/181.txt "Reunion")</span>, *Redemption* <span class="src">[S04E26](../../data/text/200.txt "Redemption") · [S05E01](../../data/text/201.txt "Redemption part 2")</span>).
+- Interests: archaeology (studied under Galen, *The Chase* <span class="src">[S06E20](../../data/text/246.txt#L26 "The Chase: PICARD: Professor Galen?")</span>), Shakespeare, horse riding, Dixon Hill detective holonovels; drinks 'Tea, Earl Grey, hot' <span class="src">([S02E15](../../data/text/141.txt#L464 "Pen Pals: PICARD: Tea, Earl Grey, hot."))</span>.
+- Long unspoken attachment to Beverly Crusher (*Attached* <span class="src">[S07E08](../../data/text/260.txt "Attached")</span>); his friend Jack Crusher died under his command on the Stargazer.
+- Q puts humanity on trial through him in the pilot and the finale (*Encounter at Farpoint* <span class="src">[S01E01-E02](../../data/text/101.txt#L246 "Encounter at Farpoint: PICARD: Can we assume you mean this will be a fair trial?")</span>, *All Good Things...* <span class="src">[S07E25-E26](../../data/text/277.txt#L612 "All Good Things...: PICARD: Are you putting mankind on trial again?")</span>).
 
 ## Rank and role timeline
 
@@ -31,23 +31,23 @@
 
 ## Relationships
 
-- [Commander William T. Riker](riker.md): first officer and friend
-- [Dr Beverly Crusher](crusher.md): unspoken love; widow of his friend Jack
-- [Q](q.md): antagonist and tormentor
-- [Guinan](guinan.md): old friend
-- [Wesley Crusher](wesley.md): protégé
-- [Robert Picard](robert.md): brother
-- [Vash](vash.md): lover
-- [Commander Nella Daren](nella.md): lover
-- [Lwaxana Troi](lwaxana.md) lists this character as: object of pursuit
-- [Ensign Ro Laren](ro.md) lists this character as: mentor she betrays
-- [Gowron](gowron.md) lists this character as: Arbiter who chose him
-- [Commander Sela](sela.md) lists this character as: adversary
-- [Tomalak](tomalak.md) lists this character as: adversary
-- [Professor James Moriarty](moriarty.md) lists this character as: negotiator and adversary; held the ship hostage
-- [Admiral Alynna Nechayev](nechayev.md) lists this character as: captain under her command
-- [Ambassador Spock](spock.md) lists this character as: shares a mind-meld with his father's memories
-- [Ambassador Sarek](sarek.md) lists this character as: mind-meld partner
+- [Commander William T. Riker](riker.md): first officer and friend <span class="src">([Memory Alpha: William T. Riker](https://memory-alpha.fandom.com/wiki/William_T._Riker "Memory Alpha: William T. Riker: Riker served as first officer for Captain Jean-Luc Picard for 15 years") · [Memory Alpha: Jean-Luc Picard](https://memory-alpha.fandom.com/wiki/Jean-Luc_Picard "Memory Alpha: Jean-Luc Picard: as his first officer and promoted him to commander sight unseen"))</span>
+- [Dr Beverly Crusher](crusher.md): unspoken love; widow of his friend Jack <span class="src">([Memory Alpha: Beverly Crusher](https://memory-alpha.fandom.com/wiki/Beverly_Crusher "Memory Alpha: Beverly Crusher: Picard later admitted he had fallen in love with Beverly, but did not ever express his feelings"))</span>
+- [Q](q.md): antagonist and tormentor <span class="src">([Memory Alpha: Q](https://memory-alpha.fandom.com/wiki/Q "Memory Alpha: Q: Q placed Humanity on trial, with Jean-Luc Picard and his command crew as representatives") · [Memory Alpha: Jean-Luc Picard](https://memory-alpha.fandom.com/wiki/Jean-Luc_Picard "Memory Alpha: Jean-Luc Picard: Even though he was very antagonistic towards them"))</span>
+- [Guinan](guinan.md): old friend <span class="src">([Memory Alpha: Guinan](https://memory-alpha.fandom.com/wiki/Guinan "Memory Alpha: Guinan: shared a long-term relationship, which, according to her, went beyond friendship and beyond family") · [Memory Alpha: Jean-Luc Picard](https://memory-alpha.fandom.com/wiki/Jean-Luc_Picard "Memory Alpha: Jean-Luc Picard: shared a long-term relationship, which, according to her, went beyond friendship"))</span>
+- [Wesley Crusher](wesley.md): protégé <span class="src">([Memory Alpha: Wesley Crusher](https://memory-alpha.fandom.com/wiki/Wesley_Crusher "Memory Alpha: Wesley Crusher: Wesley's relationship with the Enterprise's commanding officer, Jean-Luc Picard began"))</span>
+- [Robert Picard](robert.md): brother <span class="src">([Memory Alpha: Robert Picard](https://memory-alpha.fandom.com/wiki/Robert_Picard "Memory Alpha: Robert Picard: the elder brother of Starfleet Captain Jean-Luc Picard") · [Memory Alpha: Jean-Luc Picard](https://memory-alpha.fandom.com/wiki/Jean-Luc_Picard "Memory Alpha: Jean-Luc Picard: his brother Robert and his nephew René"))</span>
+- [Vash](vash.md): lover <span class="src">([Memory Alpha: Vash](https://memory-alpha.fandom.com/wiki/Vash "Memory Alpha: Vash: Vash also met Captain Jean-Luc Picard") · [Memory Alpha: Jean-Luc Picard](https://memory-alpha.fandom.com/wiki/Jean-Luc_Picard "Memory Alpha: Jean-Luc Picard: Picard was meeting Vash, whom he had met on Risa the year before"))</span>
+- [Commander Nella Daren](nella.md): lover <span class="src">([Memory Alpha: Jean-Luc Picard](https://memory-alpha.fandom.com/wiki/Jean-Luc_Picard "Memory Alpha: Jean-Luc Picard: Picard with Jenice Manheim and Nella Daren"))</span>
+- [Lwaxana Troi](lwaxana.md): pursuer <span class="src">([Memory Alpha: Jean-Luc Picard](https://memory-alpha.fandom.com/wiki/Jean-Luc_Picard "Memory Alpha: Jean-Luc Picard: she set her sights on several male crewmembers as potential mates, including Picard"))</span>
+- [Ensign Ro Laren](ro.md): officer he mentored, who betrays his trust <span class="src">([Memory Alpha: Jean-Luc Picard](https://memory-alpha.fandom.com/wiki/Jean-Luc_Picard "Memory Alpha: Jean-Luc Picard: still harboring a deep resentment against her for her betrayal") · [Memory Alpha: Ro Laren](https://memory-alpha.fandom.com/wiki/Ro_Laren "Memory Alpha: Ro Laren: mentored by Captain Jean-Luc Picard"))</span>
+- [Gowron](gowron.md): Klingon chancellor whose succession he arbitrates <span class="src">([Memory Alpha: Jean-Luc Picard](https://memory-alpha.fandom.com/wiki/Jean-Luc_Picard "Memory Alpha: Jean-Luc Picard: Picard was Gowron's Arbiter of Succession") · [Memory Alpha: Gowron](https://memory-alpha.fandom.com/wiki/Gowron "Memory Alpha: Gowron: rendezvous with Captain Jean-Luc Picard"))</span>
+- [Commander Sela](sela.md): adversary <span class="src">([Memory Alpha: Sela](https://memory-alpha.fandom.com/wiki/Sela "Memory Alpha: Sela: Sela was foiled, however, when Captain Jean-Luc Picard led Starfleet"))</span>
+- [Tomalak](tomalak.md): adversary <span class="src">([Memory Alpha: Tomalak](https://memory-alpha.fandom.com/wiki/Tomalak "Memory Alpha: Tomalak: Tomalak confronted Jean-Luc Picard concerning their mutual fleet movements"))</span>
+- [Professor James Moriarty](moriarty.md): adversary who held the ship hostage and negotiated with him <span class="src">([Memory Alpha: James Moriarty (hologram)](https://memory-alpha.fandom.com/wiki/James_Moriarty_%28hologram%29 "Memory Alpha: James Moriarty (hologram): He showed this same machinery to Picard"))</span>
+- [Admiral Alynna Nechayev](nechayev.md): admiral he serves under <span class="src">([Memory Alpha: Alynna Nechayev](https://memory-alpha.fandom.com/wiki/Alynna_Nechayev "Memory Alpha: Alynna Nechayev: She was Captain Jean-Luc Picard's direct superior"))</span>
+- [Ambassador Spock](spock.md): mind-meld partner, to whom he passes Sarek's memories <span class="src">([Memory Alpha: Jean-Luc Picard](https://memory-alpha.fandom.com/wiki/Jean-Luc_Picard "Memory Alpha: Jean-Luc Picard: offering Spock to mind meld with him to see how Sarek truly saw his son") · [Memory Alpha: Spock](https://memory-alpha.fandom.com/wiki/Spock "Memory Alpha: Spock: Jean-Luc Picard offered Spock the chance to meld with him"))</span>
+- [Ambassador Sarek](sarek.md): mind-meld partner <span class="src">([Memory Alpha: Sarek](https://memory-alpha.fandom.com/wiki/Sarek "Memory Alpha: Sarek: he mind melded with Captain Picard"))</span>
 
 ## Most scenes shared with
 

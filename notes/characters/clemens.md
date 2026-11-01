@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Mark Twain, who follows the crew to the 24th century (*Time's Arrow*).
+- Mark Twain, who follows the crew to the 24th century (*Time's Arrow* <span class="src">[S05E26](../../data/text/226.txt "Time's Arrow, part 1") · [S06E01](../../data/text/227.txt "Time's Arrow, part 2")</span>).
 
 ## Most scenes shared with
 

@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Admiral secretly working with the Cardassians (*Ensign Ro*).
+- Admiral secretly working with the Cardassians (*Ensign Ro* <span class="src">[S05E03](../../data/text/203.txt#L632 "Ensign Ro: PICARD: Well, I just see a different big picture, Admiral. It looks something like this. I see the Cardassian ")</span>).
 
 ## Most scenes shared with
 

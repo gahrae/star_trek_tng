@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-"""Fetch one portrait per indexed character from Memory Alpha (lead image of the character's page).
+"""Fetch one portrait per indexed character from Memory Alpha: a TNG-era file for the profiled cast, otherwise the image in the
+page's own infobox (skipped if it is from a later era).
 
 Writes data/images/<slug>.<ext> and data/images.json: slug -> {"page", "source", "file"}.
 Images are Memory Alpha's (CC BY-NC text; screenshots used there under fair use) and are for personal study only.
@@ -26,9 +27,14 @@ PAGES = {"PICARD": "Jean-Luc Picard", "RIKER": "William T. Riker", "DATA": "Data
  "TROI": "Deanna Troi", "WESLEY": "Wesley Crusher", "TASHA": "Natasha Yar", "PULASKI": "Katherine Pulaski", "Q": "Q", "GUINAN": "Guinan", "O'BRIEN": "Miles O'Brien",
  "LWAXANA": "Lwaxana Troi", "RO": "Ro Laren", "BARCLAY": "Reginald Barclay", "ALEXANDER": "Alexander Rozhenko", "LORE": "Lore", "GOWRON": "Gowron", "K'EHLEYR": "K'Ehleyr",
  "KURN": "Kurn", "KEIKO": "Keiko O'Brien", "OGAWA": "Alyssa Ogawa", "SELA": "Sela", "TOMALAK": "Tomalak", "HUGH": "Hugh", "VASH": "Vash", "MORIARTY": "James Moriarty (hologram)",
- "LEAH": "Leah Brahms", "SOONG": "Noonien Soong", "JELLICO": "Edward Jellico", "SHELBY": "Elizabeth Shelby", "NECHAYEV": "Alynna Nechayev", "SPOCK": "Spock", "SAREK": "Sarek", "SCOTT": "Montgomery Scott", "BRACKETT": "Ruah Brackett", "TEXAS": "Texas (character)", "TIMOTHY": "Timothy (Vico)"}
+ "LEAH": "Leah Brahms", "SOONG": "Noonien Soong", "JELLICO": "Edward Jellico", "SHELBY": "Elizabeth Shelby", "NECHAYEV": "Alynna Nechayev", "SPOCK": "Spock", "SAREK": "Sarek", "SCOTT": "Montgomery Scott", "BRACKETT": "Ruah Brackett", "TEXAS": "Texas (character)", "TIMOTHY": "Timothy (Vico)", "JACK": "Jack R. Crusher",
+ # corrections found by auditing the portraits: the search had picked a disambiguation page or a different person (None = no page for this character)
+ "TORAL": "Toral, son of Duras", "MADELINE": "Madeline (Dixon Hill)", "HAYES": "Hayes (Female Admiral)", "MARTIN (VIOLATIONS)": "Martin (Doctor)",
+ "IAN ANDREW TROI": "Ian Andrew Troi", "QUINT": "Ned Quint", "ERIC": None, "WILLIAMS (BRIDGE)": None, "PICARD 2": None}
 STRIP = re.compile(r"^(Captain|Commander|Lieutenant Commander|Lieutenant|Counselor|Dr|Doctor|Chief|Ensign|Nurse|Admiral|Professor|Ambassador|DaiMon|Gul|Chancellor|Proconsul|Senator|Sovereign|Commander|General|Vice Admiral)\s+", re.I)
 
+NO_PORTRAIT = {"picard-jr"}      # the page is Picard's, but the character is his younger self
+PROFILE_SLUGS = {slug(l) for l in PROFILES}
 chars = json.load(open(ROOT / "data" / "characters.json"))
 labels = [l for l in chars if l in FACTS or l in GUESTS]
 def display(l): return FACTS[l][0] if l in FACTS else GUESTS[l][0]
@@ -67,7 +73,7 @@ for l in labels:
 # pass 2: prefer a TNG-era file over the page's lead image
 want = {}
 for sl, rec in out.items():
-    if rec.get("era") == "tng" or not rec.get("page"): continue
+    if rec.get("era") == "tng" or not rec.get("page") or sl in NO_PORTRAIT: continue
     page = rec["page"]; name = re.sub(r"\s*\(.*?\)", "", page)
     f = tng_file(page, name)
     if f: want[sl] = f; print(f"{sl:18} TNG-era: {f}")
@@ -87,19 +93,41 @@ for i in range(0, len(items), 50):
         for old in IMG.glob(f"{sl}.*"): old.unlink()
         (IMG / f"{sl}{ext}").write_bytes(data)
         out[sl].update({"source": src, "file": f"{sl}{ext}", "era": "tng", "image_title": f})
-# pass 3: lead image for anyone still without a file and not marked as dropped
-need = [(sl, rec["page"]) for sl, rec in out.items() if not rec.get("file") and rec.get("era") != "none"]
-for i in range(0, len(need), 40):
-    batch = need[i:i + 40]
-    q = api(action="query", prop="pageimages", titles="|".join(t for _, t in batch), pithumbsize=320, redirects=1)
-    bytitle = {pg["title"]: pg for pg in q.get("query", {}).get("pages", {}).values()}
+# pass 3: the page's infobox portrait for anyone without a TNG-era file. (The pageimages "lead image" is chosen by a heuristic that
+# picked a corpse, group shots and a character's parents, so read the image the page itself shows in its infobox instead.)
+# The profiled cast keep a TNG-era file (their infobox shows a later era); anyone else prefers the infobox portrait.
+need = [(sl, rec["page"]) for sl, rec in out.items() if (rec.get("era") != "tng" or sl not in PROFILE_SLUGS) and rec.get("page") and sl not in NO_PORTRAIT]
+for i in range(0, len(need), 15):
+    batch = need[i:i + 15]
+    q = api(action="query", prop="revisions", rvprop="content", rvslots="main", titles="|".join(t for _, t in batch), redirects=1)
     redirects = {r["from"]: r["to"] for r in q.get("query", {}).get("redirects", [])}
+    bytitle = {pg["title"]: pg for pg in q.get("query", {}).get("pages", {}).values()}
+    wanted = {}
     for sl, t in batch:
-        pg = bytitle.get(redirects.get(t, t)); src = pg.get("thumbnail", {}).get("source") if pg else None
-        if not src: out[sl]["era"] = "none"; continue
-        if LATER.search(src) and not TNG_YEAR.search(src): out[sl]["era"] = "none"; print(f"{sl:18} lead image is from a later era; skipping"); continue
-        data, ext = download(src)
-        if data: (IMG / f"{sl}{ext}").write_bytes(data); out[sl].update({"source": src, "file": f"{sl}{ext}", "era": "lead"})
+        pg = bytitle.get(redirects.get(t, t)); rec = out[sl]
+        text = pg["revisions"][0]["slots"]["main"]["*"] if pg and "revisions" in pg else ""
+        m = re.search(r"\|\s*image\s*=\s*([^\n|]+)", re.sub(r"<!--.*?-->", "", text, flags=re.S))
+        name = re.sub(r"^(?:\[\[)?(?:File|Image):", "", m.group(1).strip(), flags=re.I).rstrip("]") if m else None     # a bare file name, without File: or [[ ]]
+        if not name or (LATER.search(name) and not TNG_YEAR.search(name)):    # no infobox portrait, or one from a later era
+            if rec.get("era") == "tng": continue          # keep the TNG-era file
+            for old in IMG.glob(f"{sl}.*"): old.unlink()
+            for k in ("file", "source", "image_title"): rec.pop(k, None)
+            rec["era"] = "none"; print(f"{sl:18} no usable infobox image ({name})"); continue
+        wanted[sl] = "File:" + name
+    if wanted:
+        q = api(action="query", prop="imageinfo", iiprop="url", iiurlwidth=320, titles="|".join(wanted.values()), redirects=1)
+        norm = {x["from"]: x["to"] for x in q.get("query", {}).get("normalized", []) + q.get("query", {}).get("redirects", [])}
+        urls = {pg["title"]: (pg.get("imageinfo") or [{}])[0].get("thumburl") for pg in q.get("query", {}).get("pages", {}).values()}
+        for sl, f in wanted.items():
+            src = urls.get(norm.get(f, f)) or urls.get(f)
+            data, ext = download(src) if src else (None, None)
+            if not data: print(f"  no image for {sl}: {f}"); continue
+            for old in IMG.glob(f"{sl}.*"): old.unlink()
+            (IMG / f"{sl}{ext}").write_bytes(data); out[sl].update({"source": src, "file": f"{sl}{ext}", "era": "infobox", "image_title": f})
+for sl in NO_PORTRAIT:
+    if sl in out:
+        for old in IMG.glob(f"{sl}.*"): old.unlink()
+        out[sl] = {"page": out[sl].get("page"), "era": "none"}
 out = {sl: rec for sl, rec in out.items() if rec.get("file") or rec.get("page")}
 (ROOT / "data" / "images.json").write_text(json.dumps(out, indent=1, ensure_ascii=False), encoding="utf-8")
 have = sum(1 for r in out.values() if r.get("file")); tng = sum(1 for r in out.values() if r.get("era") == "tng")

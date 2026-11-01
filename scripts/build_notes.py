@@ -8,7 +8,8 @@ import json, re, collections, pathlib, sys, itertools
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / "scripts"))
 from curated_episodes import EPISODES, ARCS, ARC_GROUPS, LINK_NOTES
-from curated_characters import FACTS, PROFILES, GUESTS, ENTITIES, CATCHPHRASES, SPLIT, GUEST_FACTS
+from curated_characters import FACTS, PROFILES, GUESTS, INVERSE, ENTITIES, CATCHPHRASES, SPLIT, GUEST_FACTS
+from sources import cite, airdate_links, credit_links
 
 NOTES = ROOT / "notes"
 for d in ("characters", "episodes", "locations"): (NOTES / d).mkdir(parents=True, exist_ok=True)
@@ -149,13 +150,19 @@ json.dump(presence, open(ROOT / "data" / "presence.json", "w"), indent=1)
 
 cast_path = ROOT / "data" / "cast.json"
 cast = json.load(open(cast_path)) if cast_path.exists() else {}
+def inverse_label(o, lbl):
+    """What profile o is to lbl, for a relationship written only under o (see INVERSE in curated_characters.py)."""
+    if (o, lbl) not in INVERSE: raise KeyError(f"relationship {o} -> {lbl} is written only under {o}: add INVERSE[({o!r}, {lbl!r})], what {o} is to {lbl}")
+    return INVERSE[(o, lbl)]
+
 def match_role(role, prod):
     full = role.split("(")[0].strip()
     if full in FULL_ROLES: return FULL_ROLES[full]
     toks = [t for t in (re.sub(r"[^A-Z'\-]", "", t.upper()) for t in full.replace(".", " ").split()) if t]
-    for labels in (set(lines_by_ep[prod]) | set(presence[prod]), set(PROFILES)):   # this episode's speakers, then the regular cast
-        for i, t in enumerate(toks):
-            t2 = ROLE_ALIASES.get(t, t)
+    sets = (set(lines_by_ep[prod]) | set(presence[prod]), set(PROFILES))      # this episode's speakers, then the regular cast
+    for i, t in enumerate(toks):       # each word of the role in the order it is written, so a first name beats a surname: "Wesley Crusher" is Wesley, not Beverly
+        t2 = ROLE_ALIASES.get(t, t)
+        for labels in sets:
             if t2 in labels: return t2
             if i + 1 < len(toks):
                 for joined in (t + toks[i + 1], t + " " + toks[i + 1]):
@@ -221,7 +228,7 @@ for e in eps:
         i = order[prod]; pv = eps[i - 1] if i else None; nx = eps[i + 1] if i + 1 < len(eps) else None
         f.write((f"Previous: [{pv['title']}]({pv['prod']}.md) ({pv['code']})" if pv else "First episode") + " · " + (f"Next: [{nx['title']}]({nx['prod']}.md) ({nx['code']})" if nx else "Last episode") + "\n\n")
         f.write(f"| | |\n|---|---|\n| Code | {e['code']} (episode {', '.join(map(str, e['overall']))} overall) |\n"
-                f"| Aired | {e['airdate_iso']} |\n| Stardate | {e['stardate'] or 'none given'}" + (f" (the transcript reads {e['stardate_transcript']}; Memory Alpha's value is used)" if e['stardate_transcript'] and e['stardate_transcript'] != e['stardate'] else "") + f" |\n| Director | {e['director']} |\n| Writer | {e['writer']} |\n"
+                f"| Aired | {airdate_links(prod, e['airdate_iso'])} |\n| Stardate | {e['stardate'] or 'none given'}" + (f" (the transcript reads {e['stardate_transcript']}; Memory Alpha's value is used)" if e['stardate_transcript'] and e['stardate_transcript'] != e['stardate'] else "") + f" |\n| Director | {credit_links(prod, e['director'])} |\n| Writer | {credit_links(prod, e['writer'])} |\n"
                 f"| Arcs | {', '.join(f'[{a}](../arcs.md#{slug(a)})' for a in arcs)} |\n| Transcript | `data/text/{prod}.txt` |\n\n")
         f.write(f"## Synopsis\n\n{syn}\n\n")
         if links or back:
@@ -273,21 +280,21 @@ for lbl in rows:
         if p:
             f.write(f"| Species | {p['species']} |\n| Affiliation | {p['affiliation']} |\n| Status | {p['status']} |\n")
         f.write("\n## Key facts\n\n")
-        if lbl in FACTS: f.write("".join(f"- {x}\n" for x in FACTS[lbl][1]))
-        elif lbl in GUEST_FACTS: f.write("".join(f"- {x}\n" for x in GUEST_FACTS[lbl]))
-        elif lbl in GUESTS: f.write(f"- {GUESTS[lbl][1]}\n")
+        if lbl in FACTS: f.write("".join(f"- {cite(x, '../../')}\n" for x in FACTS[lbl][1]))
+        elif lbl in GUEST_FACTS: f.write("".join(f"- {cite(x, '../../')}\n" for x in GUEST_FACTS[lbl]))
+        elif lbl in GUESTS: f.write(f"- {cite(GUESTS[lbl][1], '../../')}\n")
         else: f.write("- (not yet written)\n")
         if p and p["ranks"]:
             f.write("\n## Rank and role timeline\n\n| From | Rank / role |\n|---|---|\n")
             for prod, r in p["ranks"]: f.write(f"| {ep_ref(prod)} | {r} |\n")
         if p and p["relationships"]:
             f.write("\n## Relationships\n\n")
-            for other, kind in p["relationships"]: f.write(f"- {char_link(other, '')}: {kind}\n")
-        inbound = [(o, k) for o, q in PROFILES.items() if o != lbl for r, k in q["relationships"] if r == lbl and not (p and any(r2 == o for r2, _ in p["relationships"]))]
+            for other, kind, *src in p["relationships"]: f.write(f"- {char_link(other, '')}: {cite(' '.join([kind, *src]), '../../', True)}\n")
+        inbound = [(o, " ".join([inverse_label(o, lbl), *k[1:]])) for o, q in PROFILES.items() if o != lbl for r, *k in q["relationships"] if r == lbl and not (p and any(r2 == o for r2, *_ in p["relationships"]))]
         if inbound:
             f.write("\n" if not (p and p["relationships"]) else "")
             if not (p and p["relationships"]): f.write("## Relationships\n\n")
-            for o, k in inbound: f.write(f"- {char_link(o, '')} lists this character as: {k}\n")
+            for o, k in inbound: f.write(f"- {char_link(o, '')}: {cite(k, '../../', True)}\n")
         pt = partners(lbl)
         if pt:
             f.write("\n## Most scenes shared with\n\n| Character | Scenes |\n|---|---:|\n")
@@ -327,7 +334,7 @@ with open(NOTES / "relationships.md", "w", encoding="utf-8") as f:
             "The [Visuals](visuals.md) page shows the same data as a graph.\n\n")
     for lbl, p in PROFILES.items():
         f.write(f"### {name_of(lbl)}\n\n" if lbl not in indexed else f"### [{name_of(lbl)}](characters/{slug(lbl)}.md)\n\n")
-        for other, kind in p["relationships"]: f.write(f"- {char_link(other)}: {kind}\n")
+        for other, kind, *src in p["relationships"]: f.write(f"- {char_link(other)}: {cite(' '.join([kind, *src]), '../', True)}\n")
         f.write("\n")
     f.write("\n## Most frequent scene pairings\n\nPairs of named characters who speak in the same scene most often, across the whole series.\n\n| Pair | Scenes together |\n|---|---:|\n")
     for (a, b), n in coapp.most_common(60): f.write(f"| {char_link(a)} and {char_link(b)} | {n} |\n")
@@ -391,7 +398,7 @@ with open(NOTES / "entities.md", "w", encoding="utf-8") as f:
             f.write(f"| {n} | {sum(h.values())} | {len(h)} | " + ", ".join(f"[{by_prod[p]['title']}](episodes/{p}.md) ({k})" for p, k in top) + " |\n")
 
 with open(NOTES / "stats.md", "w", encoding="utf-8") as f:
-    f.write("# Statistics\n\n## Episodes, scenes and dialogue per season\n\n| Season | Entries | Scenes | Scenes per entry | Dialogue lines | Speaking characters |\n|---|---:|---:|---:|---:|---:|\n")
+    f.write("# Statistics\n\nEvery count on this page is computed from the transcripts by code: a dialogue line is a line that starts with a speaker label, and a scene is a bracketed location heading. The catchphrases and entities that are counted were chosen by hand, and stardates are corrected from Memory Alpha where the transcript misreads one. The transcript pages let you check any count.\n\n## Episodes, scenes and dialogue per season\n\n| Season | Entries | Scenes | Scenes per entry | Dialogue lines | Speaking characters |\n|---|---:|---:|---:|---:|---:|\n")
     for s in range(1, 8):
         se = [e for e in eps if e["season"] == s]; sc = sum(len(scenes_by_ep[e["prod"]]) for e in se)
         dl = sum(sum(lines_by_ep[e["prod"]].values()) for e in se); sp = len({l for e in se for l in lines_by_ep[e["prod"]]})
@@ -531,6 +538,7 @@ Episodes are identified on the pages by their code (S03E15, broadcast order) and
 - Cast lists come from Memory Alpha (CC BY-NC) and are matched to transcript labels by name, which fails for some credits.
 - Speaker labels follow the transcriber's spelling. A few aliases are merged (Geordi, Beverly, Alyssa, and Data's personas in *Masks*).
 - Synopses, arc tags, continuity links, key facts, profiles, relationships and guest descriptions were written with Claude, an AI assistant. Each episode's synopsis and arc tags were written from its full transcript. Key facts, profiles, relationships and guest descriptions were written from general knowledge of the show and then checked against Memory Alpha and the transcripts. Each continuity link was checked against both episodes' transcripts. Portraits are picked by an automated search, so a few may be wrong. Check anything you rely on.
+- Source links: each claim in a character fact, guest description or relationship is followed by a link to what it rests on: the episode transcript (a small code such as S04E02, sometimes to the exact line) or, for things no episode shows, a Memory Alpha page. The build checks that the cited episode or page contains the names and phrases in the claim.
 
 ## Rebuilding
 

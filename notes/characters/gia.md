@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Barkonian girl who cares for the amnesiac Data (*Thine Own Self*).
+- Barkonian girl who cares for the amnesiac Data (*Thine Own Self* <span class="src">[S07E16](../../data/text/268.txt "Thine Own Self")</span>).
 
 ## Most scenes shared with
 

@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Scientist whose death Riker is accused of (*A Matter of Perspective*).
+- Scientist whose death Riker is accused of (*A Matter of Perspective* <span class="src">[S03E14](../../data/text/162.txt "A Matter Of Perspective")</span>).
 
 ## Most scenes shared with
 

@@ -12,13 +12,13 @@
 
 ## Key facts
 
-- Spock's father; suffers from Bendii Syndrome, which leaks his emotions; mind-melds with Picard to complete his final negotiation (*Sarek*, *Unification*).
+- Spock's father; suffers from Bendii Syndrome, which leaks his emotions; mind-melds with Picard to complete his final negotiation (*Sarek* <span class="src">[S03E23](../../data/text/171.txt#L424 "Sarek: PICARD: He knows. And more than that. On this mission he has been consciously holding Sarek's mind together as")</span>, *Unification* <span class="src">[S05E07](../../data/text/208.txt "Unification, part 1") · [S05E08](../../data/text/207.txt "Unification, part 2")</span>).
 
 ## Relationships
 
-- [Ambassador Spock](spock.md): son
-- [Perrin](perrin.md): wife
-- [Captain Jean-Luc Picard](picard.md): mind-meld partner
+- [Ambassador Spock](spock.md): son <span class="src">([Memory Alpha: Spock](https://memory-alpha.fandom.com/wiki/Spock "Memory Alpha: Spock: his father, Sarek, was a Vulcan scientist and diplomat") · [Memory Alpha: Sarek](https://memory-alpha.fandom.com/wiki/Sarek "Memory Alpha: Sarek: father of noted Starfleet officer"))</span>
+- [Perrin](perrin.md): wife <span class="src">([Memory Alpha: Perrin](https://memory-alpha.fandom.com/wiki/Perrin "Memory Alpha: Perrin: the last wife of Ambassador Sarek") · [Memory Alpha: Sarek](https://memory-alpha.fandom.com/wiki/Sarek "Memory Alpha: Sarek: at the suggestion of his wife, Perrin"))</span>
+- [Captain Jean-Luc Picard](picard.md): mind-meld partner <span class="src">([Memory Alpha: Sarek](https://memory-alpha.fandom.com/wiki/Sarek "Memory Alpha: Sarek: he mind melded with Captain Picard"))</span>
 
 ## Most scenes shared with
 

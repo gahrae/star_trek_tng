@@ -8,9 +8,9 @@
 
 ## Key facts
 
-- Arrives in a time pod claiming to be a historian from the 26th century observing a famous mission.
-- Actually a failed inventor from 22nd-century New Jersey who stole the pod and plans to 'invent' the devices he pockets from the crew.
-- Data catches him in the act; the pod vanishes, stranding him in the 24th century, and he is taken to the brig and dropped at Starbase 214 (*A Matter of Time*).
+- Arrives in a time pod claiming to be a historian from the 26th century observing a famous mission. <span class="src">([S05E09](../../data/text/209.txt "A Matter Of Time"))</span>
+- Actually a failed inventor from 22nd-century New Jersey who stole the pod and plans to 'invent' the devices he pockets from the crew. <span class="src">([S05E09](../../data/text/209.txt "A Matter Of Time"))</span>
+- Data catches him in the act; the pod vanishes, stranding him in the 24th century, and he is taken to the brig and dropped at Starbase 214 (*A Matter of Time* <span class="src">[S05E09](../../data/text/209.txt#L759 "A Matter Of Time: RIKER: Take him to a detention cell, Mister Worf, and notify Starfleet that we'll be dropping him off at Starb")</span>).
 
 ## Most scenes shared with
 

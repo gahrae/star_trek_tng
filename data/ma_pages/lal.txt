@@ -1,0 +1,120 @@
+Lal
+Lal was a Soong-type android constructed by Data in 2366 on the USS Enterprise-D. She exceeded Data's capabilities in several ways, notably by being able to complete more than sixty trillion calculations per second, using verbal contractions, and feeling emotions such as fear and love.
+
+
+== History ==
+
+
+=== Conception and creation ===
+Technology in the 2360s prohibited the successful creation of a stable positronic brain, with Data being the one exception. (TNG: "The Measure Of A Man") When he learned of a newly-developed submicron matrix transfer technology at a cybernetics conference he had attended in 2366, he decided to proceed with the creation of one like himself. Using his own positronic brain as a template, Data programmed the brain of the android that was ultimately known as "Lal". His initial tests proved successful, so he returned from the conference with the new brain.
+Lal's creation allowed Data to accomplish two things – to re-create the work of his "father", Noonien Soong, and to experience the act of procreation, having a family, and leaving behind a legacy should he perish. Data chose the name for his offspring from a Hindi word meaning "beloved".
+Data's eventual hope was that someday his daughter would enter Starfleet Academy and serve in Starfleet, as he had. He wished to give back to the organization that had given him so many opportunities. Regardless, he felt that ultimately, it was his role to parent her, not Starfleet's. To this end, he consulted all the available literature on parenting aboard the Enterprise-D.
+Originally genderless and possessing a very basic humanoid appearance, Lal was allowed to choose a gender and a personal appearance. Deanna Troi reminded Lal that Lal's choice would affect how people interacted with the android. Lal originally wished to share gender and features with Troi, but Data discouraged the move, saying it would be confusing. 
+After narrowing the choices from several thousand composites Data had programmed to four finalists – an Andorian female, a Human male and female, and a Klingon male – Lal chose the Human female form. Additionally, she was given a skin pigmentation and eye type consistent with Human females, as opposed to Data's less Human features.
+
+
+=== Becoming Human ===
+
+Data wished for Lal to learn about "being Human", and per Wesley Crusher's suggestion, enrolled her in the ship's school. Unfortunately, she was not able to socially interact with the older children, who were closer to her level of intelligence, and the younger children were afraid of her. When discussing her interactions with the children, Lal believed she had unintentionally made jokes, saying they had laughed at her remarks. Data explained that they were laughing at her, not with her, mainly because she was different from them.
+Data then sought parental advice from Beverly Crusher, explaining he did not know how to help Lal with her realization that she was different from other people. Crusher suggested that he share his own experiences to encourage her, something he had not done, believing that it would only discourage her instead.
+Data then decided that allowing Lal to work in Ten Forward would give her more valuable insight into Human social interaction. She was mentored by Guinan, who tried to answer all of her questions, but left matters of sex for Data to answer. While working in the bar – as she was conveniently programmed with a listing of 1,412 known beverages – Lal began to improve on her father's original specifications, becoming able to use verbal contractions and even, eventually, to feel emotions. Her knowledge of proper behavior and timing was still lacking, however; after observing a couple's romantic interactions, she hauled an unsuspecting William T. Riker up off the ground and kissed him, despite the two having only just met each other.
+
+
+=== A proposed separation ===
+When Starfleet Research learned of Lal's existence, Vice Admiral Haftel, a cyberneticist himself, attempted to separate Lal from Data in order to study her closely. Aghast at the idea of her working in Ten Forward, he believed the Daystrom Institute annex on Galor IV would be a better environment for her. Lal was then interviewed by Haftel, and agreed that his facilities would be beneficial to learn, but only after having completed her learning aboard the Enterprise with her father. At one point the admiral stated how much respect he had for Data, but Lal pointed out that he in fact was not speaking with respect.
+The situation caused Lal distress, and while speaking with Deanna Troi, she began to feel fear over her impending separation from her father. Her programming perceived a malfunction, causing her to return to the Enterprise lab, as she had been programmed to do in the event of a problem.
+
+
+=== Death ===
+
+Upon running diagnostics, Data identified the problem as a symptom of a cascade failure in her neural net. With the assistance of Admiral Haftel, he attempted to repair the damage. However, despite their best efforts, the effect was irreparable, and Lal's neural net failed.
+Haftel described the experience to a waiting La Forge, Troi, and Wesley Crusher: "There was nothing anyone could have done. We'd repolarize one pathway and another would collapse. And then another. His hands were moving faster than I could see, trying to stay ahead of each breakdown. He refused to give up. He was remarkable. It just wasn't meant to be."
+As Lal was dying, she expressed her love for her father and thanked him for creating her, before summing up her brief life in a few short words. She succumbed to complete neural system failure at 1300 hours, after which Data deactivated her.
+
+
+=== Legacy ===
+
+As a final act following her death, Data transferred Lal's memories and experiences into his own brain, ensuring a part of her would live on. (TNG: "The Offspring")
+By 2368, Starfleet had come to recognize that Lal was Data's offspring, and this was reflected in the crew manifest database file for Data. (TNG: "The Offspring"; TNG-R: "Conundrum")
+Interestingly, the symptoms of Lal's shutdown achieved something Data had been trying to achieve for many years: basic Human emotions. It took five more years before Data achieved the same results in himself, and this only after implanting a new chip created by his "father". Though also suffering a neural net failure as a result, Data recovered and was able to function normally afterwards, even able to toggle the ability to feel emotion on and off at will. (TNG: "Brothers"; Star Trek Generations; Star Trek: First Contact)
+Understandably, Lal remained in Data's thoughts for many years after. During his experimentation with painting, Data painted a portrait of Lal, which he later showed to Juliana Tainer – essentially, Lal's "grandmother" – when she visited the USS Enterprise-D in 2370. Despite her unfortunate death, he still wished to procreate again some time in the future. (TNG: "Inheritance") He also painted Daughter, one of a pair of oil paintings and gifted both to Captain Picard in 2369. (PIC: "Remembrance")
+
+A photograph of Lal in her incomplete form appeared on Beckett Mariner's conspiracy board in 2380. (LD: "Cupid's Errant Arrow")
+While musing in 2399 on the creation of Dahj Asha through fractal neuronic cloning from one of Data's positronic neurons, Jean-Luc Picard remarked that Data had "always wanted a daughter", a possible reference to Lal. (PIC: "Remembrance")
+
+Altan Inigo Soong began working on an android that combined Lore, B4, the remaining remnants of Data, as well as Lal. Soong died in 2401 before he could complete his work, but the android was taken by Starfleet to the Daystrom Station where it was set up as a security system for the facility. (PIC: "The Bounty") After Data gained full control over the android, he stated that he was now not only Data, but Lore, B-4 and Lal as well. (PIC: "Surrender")
+
+
+== Potential appearances ==
+
+
+== Memorable quotes ==
+
+"How do you do, Lal?"
+"I am functioning within normal parameters."
+
+- Deanna Troi and Lal, in their first meeting
+
+"Why would they wish to be unkind?"
+"Because you are different. Differences sometimes scare people. I have learned that some of them use humor to hide their fear."
+"I do not want to be different."
+
+- Lal and Data, on why the school children were laughing at her
+
+"I watch them and I can do the things they do but I will never feel the emotions. I'll never know love."
+"It is a limitation we must learn to accept, Lal."
+
+- Lal and Data, discussing love
+
+"Troi. Admiral. Admiral. An admiral from Starfleet has come to take me away, Troi. I am scared."
+
+- Lal, experiencing her first emotion
+
+"In all these discussions, no one has ever mentioned her wishes. She's a free, sentient being. What are your wishes, Lal?"
+"I wish to remain here, Captain Picard."
+
+- Jean-Luc Picard and Lal
+
+"I feel"
+"What do you feel, Lal?"
+"I love you, Father."
+"I wish I could feel it with you."
+"I will feel it for both of us. Thank you for my life. Flirting. Laughter. Painting. Family. Female. Human."
+
+- Lal and  Data, during her final moments
+
+
+== Appendices ==
+
+
+=== Appearances ===
+TNG:
+"The Offspring"
+"Inheritance" (painting)
+LD: "Cupid's Errant Arrow" (photograph)
+
+
+=== Background information ===
+
+Lal was played by Leonard Crofoot in the incomplete form and Hallie Todd in her feminine form. Kristina Kochoff played the holographic Andorian representation of Lal. 
+The name "Lal" is Hindi for "beloved". (Star Trek Encyclopedia, 3rd ed., p. 258)
+The Next Generation writing staff considered bringing Lal back in an unproduced fifth season episode, wherein Lore would return, steal Lal's remains and try to revive her with Dr. Soong's emotion chip, but it was rejected for unknown reasons. [2]
+Leonard Crofoot was personally requested by Jonathan Frakes to play the role of Lal's unfinished form, which was created by Makup Designer Michael Westmore. In a 2015 interview with StarTrek.com, Crofoot recalled, "Michael Westmore did a plaster cast of my entire body, done in sections. The body of the costume consisted only of latex buns and an angular bra that was glued on, plus metallic contact lenses. The rest was naked me sprayed with metallic gold paint. Then Michael did his wonderfully creative sculpturing of the face in latex. I was very honored to read that Michael Westmore considered it one of his best efforts." Crofoot compared Lal to that of a child. "Lal was a fantastic part because I got to play an entity that wasn't fully formed." he said. "I was the child of Data, so I needed to be a bit like him in my movement and yet also a child that is a separate being with its own life. And I had to do this mostly without dialogue. The story is profoundly tragic; the loss of a child is the worst loss. I have received wonderful mail from Next Generation enthusiasts and it tells me that the story is universal. I'm proud to be a part of it all." [3] [4]
+Crofoot once spent a full fourteen hours inside the Lal prototype suit without eating or drinking in order to avoid having to use the bathroom while wearing his costume. (Makeup Man: From Rocky to Star Trek; [5])
+
+Michael Westmore considers Lal to be his, "all-time favorite of every show. I thought it was wonderful." [6]
+The script for "The Offspring" describes Lal's initial appearance as, "an android, but it has no face, metallic eyes, and no hair. It is a primitive mannequin. When it speaks, its voice is computer-like, neither male nor female. […] The android shows nothing. It stands ramrod straight and perfectly still, and it displays no curiosity about the Human which is inspecting it." It goes on to describe Lal's Human reveal as, "…she's the Human female, dressed in a flattering outfit […] She moves cautiously around the room… examining…as she looks at things for the first time… […] A short attention span… she is already moving onto something else… she runs her fingers across it…" Of her malfunction, the script says, "Starting on Lal's face who has regressed dramatically… she is more like the first mannequin we saw… slow, measured movements, loss of comprehension… […] Data looks at Lal with an impassive face… and yet we must sense the extraordinary weight of his failure on his shoulders… she looks as beautiful as ever, standing here before him. And yet she barely can move or talk. There is very little left of her." [7]
+In his review of "The Offspring", Star Trek author Keith R.A. DeCandido enjoyed Todd's performance as Lal, writing, "…the episode is made by Hallie Todd, who is simply fantastic as Lal. She modulates impressively from awkward to capable. Given less than 40 minutes to show Lal’s evolution and emotional collapse, she accomplishes it magnificently, being utterly convincing at every stage from the difficult beginning to the accomplished middle to the tragic end." [8]
+
+
+=== Apocrypha ===
+
+Prior to Star Trek: Picard taking a new direction for canon, several novels from Pocket Books explored a different path for Data and Lal. In the Slings and Arrows eBook The Insolence of Office, set in 2373, Data installs his emotion chip and begins to mourn Lal's death, an experience which causes him some distress. In Avatar, Book One, Data recalls Lal and the events of "The Offspring" during a flashback experience caused by his exposure to the Bajoran Orb of Memory, in 2376.
+The Cold Equations novel The Persistence of Memory reveals that, in 2384, Lal's remains are kept at the Daystrom Institute, along with those of Soong's three original prototypes, B-4, and Lore. She is briefly stolen by the Breen, but is recovered thanks to the crew of the USS Enterprise-E and Doctor Soong, who is still alive after transferring his mind into an android body. Soong is able to restore Data who then resolves to find the mysterious immortal known as Flint after hearing reports that Flint was responsible for reactivating Juliana Tainer after her positronic net shut down. Data succeeds in his mission in the follow-up novel The Body Electric when he is able to restore Lal's consciousness.
+The Star Trek: Myriad Universes - Shattered Light short story "The Embrace of Cold Architects" is set in an alternate reality, wherein Data's creation of Lal in 2366 is delayed by several months due to the postponement of a cybernetics conference on Galtinor Prime. In this timeline, Jean-Luc Picard is able to focus on Lal's then-current presence on the Enterprise while held captive by the Borg, thus allowing their destruction (and Picard's death) at the hands of William Riker, who subsequently becomes captain of the Enterprise. Lal later survives her near-fatal cascade failure with the assistance of Doctor Noonien Soong and is taken by Admiral Anthony Haftel to the Daystrom Institute Annex on Galor IV. There, she becomes the template for the mass-production of androids intended to battle the Borg.
+Lal also appears in the mobile multiplayer strategy role-playing game Star Trek Timelines, in which she is a "4-star" character with skills in diplomacy and engineering. She has the highest engineering rating of any of the 4-star characters in the game.
+Lal also has a card in the Q Continuum set of the Star Trek Customizable Card Game.
+
+
+=== External links ===
+Lal at Memory Beta, the wiki for licensed Star Trek works

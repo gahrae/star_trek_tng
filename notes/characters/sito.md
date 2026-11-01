@@ -9,9 +9,9 @@
 
 ## Key facts
 
-- Bajoran cadet in Nova Squadron, allowed to stay after the cover-up.
-- Later posted to the Enterprise, where Picard first tests her with harsh words and then trusts her with a covert mission.
-- Poses as a prisoner to return a Cardassian defector and is reported killed; Picard announces her loss to the crew (*Lower Decks*).
+- Bajoran cadet in Nova Squadron, allowed to stay after the cover-up. <span class="src">([S05E19](../../data/text/219.txt "The First Duty"))</span>
+- Later posted to the Enterprise, where Picard first tests her with harsh words and then trusts her with a covert mission. <span class="src">([S07E15](../../data/text/267.txt "Lower Decks"))</span>
+- Poses as a prisoner to return a Cardassian defector and is reported killed; Picard announces her loss to the crew (*Lower Decks* <span class="src">[S07E15](../../data/text/267.txt#L729 "Lower Decks: PICARD: To all Starfleet personnel, this is the Captain. It is my sad duty to inform you that a member of the ")</span>).
 
 ## Most scenes shared with
 

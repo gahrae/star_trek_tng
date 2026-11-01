@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Captain of the Pagh (*A Matter of Honor*).
+- Captain of the Pagh (*A Matter of Honor* <span class="src">[S02E08](../../data/text/134.txt#L159 "A Matter of Honour: KARGAN: This is Captain Kargan of the Klingon vessel, the Pagh. Beam your First Officer on board immediately.")</span>).
 
 ## Most scenes shared with
 

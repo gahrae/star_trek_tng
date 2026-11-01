@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Boy whose prank leaves his brother Willie badly injured on the Enterprise (*Brothers*).
+- Boy whose prank leaves his brother Willie badly injured on the Enterprise (*Brothers* <span class="src">[S04E03](../../data/text/177.txt#L13 "Brothers: JAKE: We were at the arcade, sir. I brought this balloon with me, filled with red pillion dye. You see, Willie")</span>).
 
 ## Most scenes shared with
 

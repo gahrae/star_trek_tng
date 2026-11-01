@@ -9,13 +9,13 @@
 
 ## Key facts
 
-- Gifted Starfleet intern raised by human foster parents in Kansas.
-- Her birth parents were Q who chose to live as humans and were executed by the Continuum; Q arrives to judge whether she is a threat.
-- Tries to refuse her powers, then uses them to save the ship and chooses the Continuum (*True Q*).
+- Gifted Starfleet intern raised by human foster parents in Kansas. <span class="src">([S06E06](../../data/text/232.txt "True Q"))</span>
+- Her birth parents were Q who chose to live as humans and were executed by the Continuum; Q arrives to judge whether she is a threat. <span class="src">([S06E06](../../data/text/232.txt#L578 "True Q: PICARD: Were Amanda's parents executed by the Q Continuum?"))</span>
+- Tries to refuse her powers, then uses them to save the ship and chooses the Continuum (*True Q* <span class="src">[S06E06](../../data/text/232.txt#L199 "True Q: Q: And leave her here? Of course not. She'll come back to the Continuum, where she belongs.")</span>).
 
 ## Relationships
 
-- [Q](q.md) lists this character as: young Q he evaluated
+- [Q](q.md): Q who came to evaluate her <span class="src">([Memory Alpha: Q](https://memory-alpha.fandom.com/wiki/Q "Memory Alpha: Q: to instruct Amanda Rogers"))</span>
 
 ## Most scenes shared with
 

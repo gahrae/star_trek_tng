@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Gambler recreated by aliens from a novel, at the Hotel Royale (*The Royale*).
+- Gambler recreated by aliens from a novel, at the Hotel Royale (*The Royale* <span class="src">[S02E12](../../data/text/138.txt#L420 "The Royale: RIKER: We've found something else. A novel by Todd Matthews, entitled Hotel Royale, which is the name of this ")</span>).
 
 ## Most scenes shared with
 

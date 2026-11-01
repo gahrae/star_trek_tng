@@ -12,21 +12,21 @@
 
 ## Key facts
 
-- Omnipotent, mischievous member of the Q Continuum; puts humanity on trial in the pilot and keeps the trial open through the finale.
-- Flings the Enterprise into Borg space, giving the Federation its first contact with the Borg (*Q Who*).
-- Stripped of his powers and made human as punishment (*Deja Q*).
-- Tempts Riker with Q powers (*Hide and Q*), sets a Robin Hood scenario with Vash (*Qpid*), evaluates the young Q Amanda Rogers (*True Q*).
-- Shows Picard the consequences of his youthful choices (*Tapestry*); helps him solve the anti-time anomaly (*All Good Things...*).
-- Feuds with Guinan, with whom he had earlier dealings that left strong mutual antipathy (*Q Who*).
+- Omnipotent, mischievous member of the Q Continuum; puts humanity on trial in the pilot <span class="src">([S01E01-E02](../../data/text/101.txt#L246 "Encounter at Farpoint: PICARD: Can we assume you mean this will be a fair trial?"))</span> and keeps the trial open through the finale <span class="src">([S07E25-E26](../../data/text/277.txt#L612 "All Good Things...: PICARD: Are you putting mankind on trial again?"))</span>.
+- Flings the Enterprise into Borg space, giving the Federation its first contact with the Borg (*Q Who* <span class="src">[S02E16](../../data/text/142.txt#L466 "Q Who?: Q: The Borg is the ultimate user. They're unlike any threat your Federation has ever faced. They're not intere")</span>).
+- Stripped of his powers and made human as punishment (*Deja Q* <span class="src">[S03E13](../../data/text/161.txt#L101 "Déjà Q: TROI: They made you human as part of your punishment?")</span>).
+- Tempts Riker with Q powers (*Hide and Q* <span class="src">[S01E10](../../data/text/111.txt#L450 "Hide & Q: RIKER: All right, he stays. Because I've been given unusual powers, I am not suddenly a monster. Except for th")</span>), sets a Robin Hood scenario with Vash (*Qpid* <span class="src">[S04E20](../../data/text/194.txt#L491 "Qpid: VASH: You do? But how? You're Robin Hood!")</span>), evaluates the young Q Amanda Rogers (*True Q* <span class="src">[S06E06](../../data/text/232.txt "True Q")</span>).
+- Shows Picard the consequences of his youthful choices (*Tapestry* <span class="src">[S06E15](../../data/text/241.txt#L172 "Tapestry: Q: That's right. It's two days before your unfortunate encounter with a Nausicaan sword. You have that long to")</span>); helps him solve the anti-time anomaly (*All Good Things...* <span class="src">[S07E25-E26](../../data/text/277.txt#L971 "All Good Things...: PICARD: I believe that if you modify the deflectors to send out an inverse tachyon pulse, then you'll find tha")</span>).
+- Feuds with Guinan, with whom he had earlier dealings that left strong mutual antipathy (*Q Who* <span class="src">[S02E16](../../data/text/142.txt#L183 "Q Who?: GUINAN: We have had some dealings.")</span>).
 
 ## Relationships
 
-- [Captain Jean-Luc Picard](picard.md): favourite plaything
-- [Commander William T. Riker](riker.md): human he tempted with Q powers
-- [Guinan](guinan.md): old enemy
-- [Vash](vash.md): travelling companion
-- [Amanda Rogers](amanda.md): young Q he evaluated
-- [Q2](q2.md): fellow Q
+- [Captain Jean-Luc Picard](picard.md): antagonist who puts him and humanity on trial <span class="src">([Memory Alpha: Jean-Luc Picard](https://memory-alpha.fandom.com/wiki/Jean-Luc_Picard "Memory Alpha: Jean-Luc Picard: Even though he was very antagonistic towards them") · [Memory Alpha: Q](https://memory-alpha.fandom.com/wiki/Q "Memory Alpha: Q: Q placed Humanity on trial, with Jean-Luc Picard and his command crew as representatives"))</span>
+- [Commander William T. Riker](riker.md): human he tempted with Q powers <span class="src">([Memory Alpha: Q](https://memory-alpha.fandom.com/wiki/Q "Memory Alpha: Q: had given Commander William T. Riker Q-like abilities"))</span>
+- [Guinan](guinan.md): old enemy <span class="src">([Memory Alpha: Guinan](https://memory-alpha.fandom.com/wiki/Guinan "Memory Alpha: Guinan: Her relationship with Q was evidently hostile") · [Memory Alpha: Q](https://memory-alpha.fandom.com/wiki/Q "Memory Alpha: Q: Q had some dealings with the El-Aurian Guinan"))</span>
+- [Vash](vash.md): travelling companion <span class="src">([Memory Alpha: Vash](https://memory-alpha.fandom.com/wiki/Vash "Memory Alpha: Vash: Q offered Vash a chance to accompany him exploring the universe"))</span>
+- [Amanda Rogers](amanda.md): young Q he evaluated <span class="src">([Memory Alpha: Q](https://memory-alpha.fandom.com/wiki/Q "Memory Alpha: Q: to instruct Amanda Rogers"))</span>
+- [Q2](q2.md): fellow Q <span class="src">([S03E13](../../data/text/161.txt#L718 "Déjà Q: Q2: Actually, I was the one who got you kicked out. You know, you're incorrigible, Q. A lost cause. I can't go"))</span>
 
 ## Most scenes shared with
 

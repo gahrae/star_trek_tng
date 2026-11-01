@@ -9,11 +9,11 @@
 
 ## Key facts
 
-- Sarek's human wife (*Sarek*, *Unification*).
+- Sarek's human wife (*Sarek* <span class="src">[S03E23](../../data/text/171.txt "Sarek")</span>, *Unification* <span class="src">[S05E07](../../data/text/208.txt "Unification, part 1") · [S05E08](../../data/text/207.txt "Unification, part 2")</span>).
 
 ## Relationships
 
-- [Ambassador Sarek](sarek.md) lists this character as: wife
+- [Ambassador Sarek](sarek.md): husband <span class="src">([Memory Alpha: Perrin](https://memory-alpha.fandom.com/wiki/Perrin "Memory Alpha: Perrin: the last wife of Ambassador Sarek") · [Memory Alpha: Sarek](https://memory-alpha.fandom.com/wiki/Sarek "Memory Alpha: Sarek: at the suggestion of his wife, Perrin"))</span>
 
 ## Most scenes shared with
 

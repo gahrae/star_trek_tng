@@ -46,7 +46,7 @@ pip install -r requirements.txt
 python3 -m http.server -d site 8000   # then open http://localhost:8000
 ```
 
-The individual steps are `scripts/fetch_transcripts.py`, `fetch_metadata.py`, `fetch_cast.py`, `fetch_images.py`, `build_notes.py`, `build_site.py` and `check.py`. `data/provenance.json` records when and from where each data set was fetched.
+The individual steps are `scripts/fetch_transcripts.py`, `fetch_metadata.py`, `fetch_cast.py`, `fetch_images.py`, `build_notes.py`, `build_site.py` and `check.py`. `fetch_credit_links.py` finds the Wikipedia and Memory Alpha pages behind each airdate, director and writer. `fetch_ma_pages.py` stores the Memory Alpha character pages that facts cite. `data/provenance.json` records when and from where each data set was fetched.
 
 The site uses only relative links, so it works from any folder or sub-path. The workflow in `.github/workflows/pages.yml` rebuilds and deploys it to GitHub Pages on every push to `main`.
 
@@ -56,15 +56,16 @@ The site uses only relative links, so it works from any folder or sub-path. The 
 
 **Taken from other sources:**
 - Transcripts come from [Chrissie's Transcripts Site](http://www.chakoteya.net/NextGen/episodes.htm) (chakoteya.net), downloaded for personal study.
-- Episode numbering, airdates, directors and writers come from Wikipedia.
-- Cast lists, portraits and episode screenshots come from [Memory Alpha](https://memory-alpha.fandom.com/) (CC BY-NC). Cast credits are matched to speakers by name. About half don't match, mostly because they are extras with generic roles ("operations ensign") who often don't speak, and a transcript can't say which of several such actors delivered a line. Portraits are picked by an automated search, so a few may show the wrong person. Episode screenshots are the lead image of each episode's Memory Alpha page, checked by eye.
+- Episode numbering, airdates, directors and writers come from Wikipedia's episode list and are cross-checked against each Memory Alpha episode page. The episode pages link the airdate, director and writer to the exact Wikipedia and Memory Alpha pages. Wikipedia's list was a week or two off for nine episodes (*The Hunted*, *The High Ground* and *New Ground* to *Ethics*), where Memory Alpha and the transcript site agree, so those use their date. For two (*A Fistful of Datas*, *The Quality of Life*) Memory Alpha is two days earlier than Wikipedia and the transcript site, so Wikipedia's date is kept.
+- Cast lists, portraits and episode screenshots come from [Memory Alpha](https://memory-alpha.fandom.com/) (CC BY-NC). Cast credits are matched to speakers by name. About half don't match, mostly because they are extras with generic roles ("operations ensign") who often don't speak, and a transcript can't say which of several such actors delivered a line. The page for each character was found by search and then audited: each page was read against the character's description, and the portrait is the picture in that page's infobox (or, for the profiled cast, a TNG-era file, since their infoboxes show later years). 15 characters have no portrait because they have no page of their own, or only a later-era or unusable image. Episode screenshots are the lead image of each episode's Memory Alpha page, checked by eye.
 
 **Where AI was used:** the project was built with Claude, an AI assistant, working from my direction and review.
 - **Code:** the scripts, the site and the build were written with Claude's help.
 - **From the transcripts:** each episode's synopsis and arc tags were written by reading the full transcript.
 - **Written from general knowledge, then checked:** character key facts, profiles, relationships and guest descriptions were checked against Memory Alpha and the episode transcripts, and corrected where they didn't match.
 - **Continuity links:** each link between episodes was checked against both transcripts, and links with no explicit connection in the text were removed.
-- **Not checked:** the choice of which entities and catchphrases to count. Portraits are picked by an automated search, so a few may be wrong. Check anything you rely on.
+- **Source links:** character facts and guest descriptions that name an episode link to the transcript it rests on. The link is a small episode code such as S04E02 placed right after the claim it supports, so a fact with several claims has several links. Some go to the exact line in the transcript, which is highlighted when you arrive. `./build.sh` checks that the cited episodes exist, that a character's facts only cite episodes the character is in, that the names and quoted phrases in the clause before each link appear in that episode, and that a relationship's source names both people. Every character fact, description and relationship has at least one source. Series-wide facts that no single episode shows, such as "chief engineer from season 2", cite the Memory Alpha page instead (shown as a "Memory Alpha" link). The build checks that the phrase is on that page. A few clauses that neither a transcript nor Memory Alpha shows, such as Worf being "the first Klingon officer in Starfleet", have no link.
+- **Not checked:** the choice of which entities and catchphrases to count. The audit of character pages and portraits was done by comparing each page's opening text with our description and by eye, so a lookalike page can still slip through. Check anything you rely on.
 
 Appearance counts are based on dialogue. Speaker labels follow the transcriber's spelling, with a few aliases merged.
 

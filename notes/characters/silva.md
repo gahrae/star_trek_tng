@@ -9,11 +9,11 @@
 
 ## Key facts
 
-- Geordi's mother, lost with the USS Hera (*Interface*).
+- Geordi's mother, lost with the USS Hera (*Interface* <span class="src">[S07E03](../../data/text/255.txt#L262 "Interface: DR LA FORGE: Starfleet is considering the Hera lost. The search isn't much more than a formality at this point")</span>).
 
 ## Relationships
 
-- [Lieutenant Commander Geordi La Forge](laforge.md) lists this character as: mother
+- [Lieutenant Commander Geordi La Forge](laforge.md): son <span class="src">([Memory Alpha: Silva La Forge](https://memory-alpha.fandom.com/wiki/Silva_La_Forge "Memory Alpha: Silva La Forge: had two children, son Geordi, and daughter Ariana") · [Memory Alpha: Geordi La Forge](https://memory-alpha.fandom.com/wiki/Geordi_La_Forge "Memory Alpha: Geordi La Forge: to parents Captain Silva La Forge"))</span>
 
 ## Most scenes shared with
 

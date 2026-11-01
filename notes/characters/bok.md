@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Ferengi who blames Picard for his son's death at Maxia (*The Battle*, *Bloodlines*).
+- Ferengi who blames Picard for his son's death at Maxia (*The Battle* <span class="src">[S01E09](../../data/text/110.txt#L151 "The Battle: BOK: Why you, Picard, of course. Do you not remember the Battle of Maxia?")</span>, *Bloodlines* <span class="src">[S07E22](../../data/text/274.txt#L21 "Bloodlines: BOK: I trust you remember me, Picard, because I haven't forgotten you or how you murdered my son. For fifteen ")</span>).
 
 ## Most scenes shared with
 

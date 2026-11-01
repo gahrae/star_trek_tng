@@ -11,7 +11,7 @@ Every named speaking character in two or more episodes, plus notable single-epis
 | [Lieutenant Commander Geordi La Forge](characters/laforge.md) | 169 | 1 | 4582 | LeVar Burton | Human | Starfleet | Active at series end | Encounter at Farpoint | All Good Things... |
 | [Counselor Deanna Troi](characters/troi.md) | 163 | 4 | 3215 | Marina Sirtis | Half Betazoid, half Human | Starfleet | Active at series end | Encounter at Farpoint | All Good Things... |
 | [Dr Beverly Crusher](characters/crusher.md) | 152 | 2 | 3245 | Gates McFadden | Human | Starfleet | Active at series end | Encounter at Farpoint | All Good Things... |
-| [Wesley Crusher](characters/wesley.md) | 68 |  | 1398 | Wil Wheaton | Human | Starfleet, then none | Left with the Traveler | Encounter at Farpoint | Journey's End |
+| [Wesley Crusher](characters/wesley.md) | 68 | 1 | 1398 | Wil Wheaton | Human | Starfleet, then none | Left with the Traveler | Encounter at Farpoint | Journey's End |
 | [Chief Miles O'Brien](characters/o-brien.md) | 51 | 1 | 526 | Colm Meaney | Human | Starfleet | Transferred to Deep Space 9 | Encounter at Farpoint | All Good Things... |
 | [Guinan](characters/guinan.md) | 29 |  | 487 | Whoopi Goldberg | El-Aurian | Civilian, Ten Forward host | Active at series end | The Child | Suspicions |
 | [Lieutenant Natasha 'Tasha' Yar](characters/tasha.md) | 25 | 4 | 527 | Denise Crosby | Human | Starfleet | Killed by Armus (S1); alternate self lost in the past | Encounter at Farpoint | All Good Things... |
@@ -33,7 +33,7 @@ Every named speaking character in two or more episodes, plus notable single-epis
 | [Ambassador Sarek](characters/sarek.md) | 3 |  | 77 | Mark Lenard | Vulcan | Federation ambassador | Dies of Bendii Syndrome | Sarek | Unification, part 2 |
 | [Dr Noonien Soong](characters/soong.md) | 3 |  | 71 | Brent Spiner | Human | Independent cyberneticist | Died after Lore attacked him | Brothers | Inheritance |
 | [Admiral Gregory Quinn](characters/quinn.md) | 3 |  | 64 | Ward Costello |  |  |  | Coming of Age | Shades Of Gray |
-| [Tomalak](characters/tomalak.md) | 3 |  | 63 | Andreas Katsulas | Romulan | Romulan military | Active | The Enemy | Future Imperfect |
+| [Tomalak](characters/tomalak.md) | 3 | 1 | 63 | Andreas Katsulas | Romulan | Romulan military | Active | The Enemy | Future Imperfect |
 | [Dexter Remmick](characters/remmick.md) | 3 |  | 58 | Robert Schenkkan |  |  |  | Coming of Age | Shades Of Gray |
 | [The Traveler](characters/traveller.md) | 3 |  | 57 |  |  |  |  | Where No One Has Gone Before | Journey's End |
 | [B'Etor](characters/b-etor.md) | 3 |  | 37 | Gwynyth Walsh |  |  |  | Redemption | Firstborn |

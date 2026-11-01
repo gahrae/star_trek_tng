@@ -8,11 +8,11 @@
 
 ## Key facts
 
-- Being from Tau Alpha C who can move through space and time by thought; sees Wesley's potential and finally takes him as a student (*Where No One Has Gone Before*, *Remember Me*, *Journey's End*).
+- Being from Tau Alpha C who can move through space and time by thought; sees Wesley's potential and finally takes him as a student (*Where No One Has Gone Before* <span class="src">[S01E06](../../data/text/106.txt "Where No One Has Gone Before")</span>, *Remember Me* <span class="src">[S04E05](../../data/text/179.txt "Remember Me")</span>, *Journey's End* <span class="src">[S07E20](../../data/text/272.txt "Journey's End")</span>).
 
 ## Relationships
 
-- [Wesley Crusher](wesley.md) lists this character as: guide
+- [Wesley Crusher](wesley.md): young man he guides <span class="src">([Memory Alpha: The Traveler](https://memory-alpha.fandom.com/wiki/The_Traveler "Memory Alpha: The Traveler: The Traveler noticed something special about the young Wesley Crusher") · [Memory Alpha: Wesley Crusher](https://memory-alpha.fandom.com/wiki/Wesley_Crusher "Memory Alpha: Wesley Crusher: explore new planes of existence with The Traveler as his guide"))</span>
 
 ## Most scenes shared with
 

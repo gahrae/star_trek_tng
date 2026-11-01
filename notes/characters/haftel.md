@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Admiral who tries to take Lal from Data (*The Offspring*).
+- Admiral who tries to take Lal from Data (*The Offspring* <span class="src">[S03E16](../../data/text/164.txt "The Offspring")</span>).
 
 ## Most scenes shared with
 

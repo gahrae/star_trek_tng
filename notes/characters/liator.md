@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Edo spokesman (*Justice*).
+- Edo spokesman (*Justice* <span class="src">[S01E08](../../data/text/109.txt "Justice")</span>).
 
 ## Most scenes shared with
 

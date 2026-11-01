@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Child on the ship (*Masks*, *Firstborn*).
+- Child on the ship (*Masks* <span class="src">[S07E17](../../data/text/269.txt "Masks")</span>, *Firstborn* <span class="src">[S07E21](../../data/text/273.txt "Firstborn")</span>).
 
 ## Most scenes shared with
 

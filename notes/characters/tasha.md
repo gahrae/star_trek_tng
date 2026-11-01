@@ -12,10 +12,10 @@
 
 ## Key facts
 
-- Security chief in season 1; raised on the failed colony Turkana IV, escaping its gangs at fifteen.
-- Killed by the entity Armus on Vagra II (*Skin of Evil*); leaves a holographic farewell for the crew.
-- An alternate-timeline Tasha goes back in time aboard the Enterprise-C (*Yesterday's Enterprise*); her half-Romulan daughter Sela appears in *Redemption II* and *Unification II*.
-- Younger sister Ishara Yar comes aboard and betrays the crew (*Legacy*).
+- Security chief in season 1; raised on the failed colony Turkana IV <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Natasha_Yar "Memory Alpha: Natasha Yar: failed Federation colony world of Turkana IV"))</span>, escaping its gangs at fifteen <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Natasha_Yar "Memory Alpha: Natasha Yar: by the age of fifteen"))</span>.
+- Killed by the entity Armus on Vagra II (*Skin of Evil* <span class="src">[S01E23](../../data/text/122.txt#L257 "Skin Of Evil: ARMUS: Do you want to know why I killed her?")</span>); leaves a holographic farewell for the crew.
+- An alternate-timeline Tasha goes back in time aboard the Enterprise-C (*Yesterday's Enterprise* <span class="src">[S03E15](../../data/text/163.txt#L71 "Yesterday's Enterprise: TASHA: NCC one seven oh one C. USS Enterprise.")</span>); her half-Romulan daughter Sela appears in *Redemption II* <span class="src">[S05E01](../../data/text/201.txt#L400 "Redemption part 2: SELA: One night, when I was four years old, she came to me. She bundled me up and she told me to stay quiet as")</span>.
+- Younger sister Ishara Yar comes aboard and betrays the crew (*Legacy* <span class="src">[S04E06](../../data/text/180.txt#L201 "Legacy: ISHARA: Tasha was my sister.")</span>).
 
 ## Rank and role timeline
 
@@ -25,10 +25,10 @@
 
 ## Relationships
 
-- [Ishara Yar](ishara.md): sister
-- [Commander Sela](sela.md): daughter (alternate timeline)
-- [Lieutenant Commander Data](data.md): intimate encounter
-- [Lieutenant Worf](worf.md): colleague who succeeded her
+- [Ishara Yar](ishara.md): sister <span class="src">([Memory Alpha: Ishara Yar](https://memory-alpha.fandom.com/wiki/Ishara_Yar "Memory Alpha: Ishara Yar: She was the sister of Natasha Yar") · [Memory Alpha: Natasha Yar](https://memory-alpha.fandom.com/wiki/Natasha_Yar "Memory Alpha: Natasha Yar: Her sister, Ishara, was born five years later"))</span>
+- [Commander Sela](sela.md): daughter (alternate timeline) <span class="src">([Memory Alpha: Sela](https://memory-alpha.fandom.com/wiki/Sela "Memory Alpha: Sela: the product of a union between Starfleet officer Tasha Yar's counterpart from an alternate timeline and a Romulan general") · [Memory Alpha: Natasha Yar](https://memory-alpha.fandom.com/wiki/Natasha_Yar "Memory Alpha: Natasha Yar: she gave birth to a daughter, Sela"))</span>
+- [Lieutenant Commander Data](data.md): intimate encounter <span class="src">([Memory Alpha: Data](https://memory-alpha.fandom.com/wiki/Data "Memory Alpha: Data: Data had a short sexual relationship with Natasha Yar in 2364") · [Memory Alpha: Natasha Yar](https://memory-alpha.fandom.com/wiki/Natasha_Yar "Memory Alpha: Natasha Yar: later mentioned that he and Tasha were intimate"))</span>
+- [Lieutenant Worf](worf.md): colleague who succeeded her <span class="src">([Memory Alpha: Worf](https://memory-alpha.fandom.com/wiki/Worf "Memory Alpha: Worf: Appointed acting security chief after the death of Lieutenant Natasha Yar"))</span>
 
 ## Most scenes shared with
 

@@ -9,11 +9,11 @@
 
 ## Key facts
 
-- Engineer and Wesley's girlfriend, known for her personal rules, 'Robin's Laws' (*The Game*).
+- Engineer and Wesley's girlfriend, known for her personal rules, 'Robin's Laws' (*The Game* <span class="src">[S05E06](../../data/text/206.txt#L321 "The Game: ROBIN: They're my personal laws. Every time I learn something essential, I make up a law about it so I never f")</span>).
 
 ## Relationships
 
-- [Wesley Crusher](wesley.md) lists this character as: girlfriend
+- [Wesley Crusher](wesley.md): boyfriend <span class="src">([Memory Alpha: Robin Lefler](https://memory-alpha.fandom.com/wiki/Robin_Lefler "Memory Alpha: Robin Lefler: she had a brief romance with Wesley Crusher") · [Memory Alpha: Wesley Crusher](https://memory-alpha.fandom.com/wiki/Wesley_Crusher "Memory Alpha: Wesley Crusher: he developed an attraction to Ensign Robin Lefler"))</span>
 
 ## Most scenes shared with
 

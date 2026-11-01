@@ -12,11 +12,11 @@
 
 ## Key facts
 
-- Botanist; marries Miles O'Brien (*Data's Day*); gives birth to Molly during *Disaster*; de-aged in *Rascals*.
+- Botanist; marries Miles O'Brien (*Data's Day* <span class="src">[S04E11](../../data/text/185.txt#L662 "Data's Day: PICARD: Since the days of the first wooden sailing ships, all captains have enjoyed the happy privilege of joi")</span>); gives birth during *Disaster* <span class="src">[S05E05](../../data/text/205.txt "Disaster")</span> to a daughter named Molly in *The Game* <span class="src">[S05E06](../../data/text/206.txt#L128 "The Game: WESLEY: Congratulations on little Molly.")</span>; de-aged in *Rascals* <span class="src">[S06E07](../../data/text/233.txt "Rascals")</span>.
 
 ## Relationships
 
-- [Chief Miles O'Brien](o-brien.md): husband
+- [Chief Miles O'Brien](o-brien.md): husband <span class="src">([Memory Alpha: Keiko O'Brien](https://memory-alpha.fandom.com/wiki/Keiko_O%27Brien "Memory Alpha: Keiko O'Brien: introduced to Miles O'Brien by their mutual friend"))</span>
 
 ## Most scenes shared with
 

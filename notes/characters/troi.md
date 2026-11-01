@@ -12,14 +12,14 @@
 
 ## Key facts
 
-- Ship's counselor; half-Betazoid, half-human, empathic (senses emotions, full telepathy only with other Betazoids).
-- Daughter of Lwaxana Troi and the late Starfleet officer Ian Andrew Troi; a sister Kestra died in childhood (*Dark Page*).
-- Imzadi of Will Riker; later involved with Worf in season 7.
-- Temporarily loses her empathic sense (*The Loss*).
-- Passes the bridge officer's test and is promoted to full commander (*Thine Own Self*).
-- Surgically altered to impersonate a Romulan Tal Shiar officer (*Face of the Enemy*).
-- Victim of telepathic assault by Jev (*Violations*) and used as an emotional 'receptacle' by Ambassador Alkar (*Man of the People*).
-- Famously fond of chocolate; her mother's visits bring recurring comedy (*Haven*, *Manhunt*, *Menage a Troi*).
+- Ship's counselor <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Deanna_Troi "Memory Alpha: Deanna Troi: assigned as ship's counselor aboard the USS Enterprise-D"))</span>; half-Betazoid, half-human, empathic (senses emotions, full telepathy only with other Betazoids) <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Deanna_Troi "Memory Alpha: Deanna Troi: could usually only read the thoughts of other Betazoids"))</span>.
+- Daughter of Lwaxana Troi and the late Starfleet officer Ian Andrew Troi; a sister Kestra died in childhood (*Dark Page* <span class="src">[S07E07](../../data/text/259.txt#L500 "Dark Page: LWAXANA: No, Kestra, stay here with us.")</span>).
+- Imzadi of Will Riker <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Deanna_Troi "Memory Alpha: Deanna Troi: occasionally referring to him as imzadi"))</span>; later involved with Worf in season 7 <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Deanna_Troi "Memory Alpha: Deanna Troi: enjoyed a romantic relationship through 2370"))</span>.
+- Temporarily loses her empathic sense (*The Loss* <span class="src">[S04E10](../../data/text/184.txt#L260 "The Loss: TROI: I've temporarily lost my empathic sense. It's kind of like having one hand tied behind your back.")</span>). <span class="src">([S04E10](../../data/text/184.txt#L260 "The Loss: TROI: I've temporarily lost my empathic sense. It's kind of like having one hand tied behind your back."))</span>
+- Passes the bridge officer's test and is promoted to full commander (*Thine Own Self* <span class="src">[S07E16](../../data/text/268.txt#L125 "Thine Own Self: TROI: Actually I wanted to ask your opinion about something. I've been thinking about taking the Bridge Office")</span>).
+- Surgically altered to impersonate a Romulan Tal Shiar officer (*Face of the Enemy* <span class="src">[S06E14](../../data/text/240.txt#L48 "Face of the Enemy: N'VEK: You are a Starfleet officer disguised as a Romulan. Unless you trust me and do exactly as I have said, ")</span>).
+- Victim of telepathic assault by Jev (*Violations* <span class="src">[S05E12](../../data/text/212.txt "Violations")</span>) and used as an emotional 'receptacle' by Ambassador Alkar (*Man of the People* <span class="src">[S06E03](../../data/text/229.txt#L491 "Man of the People: ALKAR: She's an empath. I was reasonably certain I could establish a link with her. Frankly, I was amazed when")</span>).
+- Famously fond of chocolate; her mother's visits bring recurring comedy (*Haven* <span class="src">[S01E11](../../data/text/105.txt "Haven")</span>, *Manhunt* <span class="src">[S02E19](../../data/text/145.txt "Manhunt")</span>, *Menage a Troi* <span class="src">[S03E24](../../data/text/172.txt "Ménage à Troi")</span>).
 
 ## Rank and role timeline
 
@@ -30,13 +30,13 @@
 
 ## Relationships
 
-- [Commander William T. Riker](riker.md): Imzadi
-- [Lwaxana Troi](lwaxana.md): mother
-- [Lieutenant Worf](worf.md): romance in season 7
-- [Devinoni Ral](ral.md): lover briefly
-- [Ambassador Ves Alkar](alkar.md): abuser who used her as an emotional receptacle
-- [Jev](jev.md): assailant, by telepathic memory invasion
-- [Lieutenant Reginald Barclay](barclay.md) lists this character as: counselor and holodeck fantasy
+- [Commander William T. Riker](riker.md): Imzadi <span class="src">([Memory Alpha: William T. Riker](https://memory-alpha.fandom.com/wiki/William_T._Riker "Memory Alpha: William T. Riker: begins a serious romantic relationship") · [Memory Alpha: Deanna Troi](https://memory-alpha.fandom.com/wiki/Deanna_Troi "Memory Alpha: Deanna Troi: Deanna had an extremely close relationship with Will Riker"))</span>
+- [Lwaxana Troi](lwaxana.md): mother <span class="src">([Memory Alpha: Lwaxana Troi](https://memory-alpha.fandom.com/wiki/Lwaxana_Troi "Memory Alpha: Lwaxana Troi: the mother of Deanna Troi") · [Memory Alpha: Deanna Troi](https://memory-alpha.fandom.com/wiki/Deanna_Troi "Memory Alpha: Deanna Troi: She was born to Betazoid Ambassador Lwaxana Troi"))</span>
+- [Lieutenant Worf](worf.md): romance in season 7 <span class="src">([Memory Alpha: Worf](https://memory-alpha.fandom.com/wiki/Worf "Memory Alpha: Worf: then begins a romance with the counselor") · [Memory Alpha: Deanna Troi](https://memory-alpha.fandom.com/wiki/Deanna_Troi "Memory Alpha: Deanna Troi: the two enjoyed a romantic relationship through 2370"))</span>
+- [Devinoni Ral](ral.md): lover briefly <span class="src">([Memory Alpha: Devinoni Ral](https://memory-alpha.fandom.com/wiki/Devinoni_Ral "Memory Alpha: Devinoni Ral: Ral became involved with Deanna Troi") · [Memory Alpha: Deanna Troi](https://memory-alpha.fandom.com/wiki/Deanna_Troi "Memory Alpha: Deanna Troi: Troi fell for a delegate, Devinoni Ral"))</span>
+- [Ambassador Ves Alkar](alkar.md): abuser who used her as an emotional receptacle <span class="src">([Memory Alpha: Ves Alkar](https://memory-alpha.fandom.com/wiki/Ves_Alkar "Memory Alpha: Ves Alkar: he turned to Deanna Troi to serve as the") · [Memory Alpha: Deanna Troi](https://memory-alpha.fandom.com/wiki/Deanna_Troi "Memory Alpha: Deanna Troi: Alkar used Deanna as a vessel for all of his negative or distracting emotions"))</span>
+- [Jev](jev.md): assailant, by telepathic memory invasion <span class="src">([Memory Alpha: Jev](https://memory-alpha.fandom.com/wiki/Jev "Memory Alpha: Jev: Jev altered Troi's memory") · [Memory Alpha: Deanna Troi](https://memory-alpha.fandom.com/wiki/Deanna_Troi "Memory Alpha: Deanna Troi: Jev, a Ullian with the ability to probe and manipulate people's memories"))</span>
+- [Lieutenant Reginald Barclay](barclay.md): patient who fantasises about her in holodeck programs <span class="src">([Memory Alpha: Deanna Troi](https://memory-alpha.fandom.com/wiki/Deanna_Troi "Memory Alpha: Deanna Troi: Troi became the object of affection for a new crewmember named Reginald Barclay") · [Memory Alpha: Reginald Barclay](https://memory-alpha.fandom.com/wiki/Reginald_Barclay "Memory Alpha: Reginald Barclay: enlisted the aid of Counselor Deanna Troi"))</span>
 
 ## Most scenes shared with
 

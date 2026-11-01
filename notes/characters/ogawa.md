@@ -12,7 +12,7 @@
 
 ## Key facts
 
-- Recurring sickbay nurse under Dr Crusher; engaged and then pregnant by Lieutenant Andrew Powell (*Lower Decks*, *Genesis*).
+- Recurring sickbay nurse under Dr Crusher; engaged and then pregnant by Lieutenant Andrew Powell (*Lower Decks* <span class="src">[S07E15](../../data/text/267.txt "Lower Decks")</span>, *Genesis* <span class="src">[S07E19](../../data/text/271.txt#L68 "Genesis: CRUSHER: Oh, Alyssa, that's wonderful! How did Andrew take the news?")</span>).
 
 ## Rank and role timeline
 
@@ -22,7 +22,7 @@
 
 ## Relationships
 
-- [Dr Beverly Crusher](crusher.md): superior
+- [Dr Beverly Crusher](crusher.md): superior and friend <span class="src">([Memory Alpha: Beverly Crusher](https://memory-alpha.fandom.com/wiki/Beverly_Crusher "Memory Alpha: Beverly Crusher: especially close to Nurse Alyssa Ogawa") · [Memory Alpha: Alyssa Ogawa](https://memory-alpha.fandom.com/wiki/Alyssa_Ogawa "Memory Alpha: Alyssa Ogawa: Beverly Crusher also considered Ogawa a friend"))</span>
 
 ## Most scenes shared with
 

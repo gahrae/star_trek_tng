@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Town magistrate on Barkon IV and father of Gia (*Thine Own Self*).
+- Town magistrate on Barkon IV and father of Gia (*Thine Own Self* <span class="src">[S07E16](../../data/text/268.txt "Thine Own Self")</span>).
 
 ## Most scenes shared with
 

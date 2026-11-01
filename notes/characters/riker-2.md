@@ -8,13 +8,13 @@
 
 ## Key facts
 
-- A duplicate created when a transporter beam reflected off Nervala IV's distortion field eight years earlier.
-- Survived alone on the planet, still in love with Troi and bitter about the career he lost.
-- Takes the name Thomas and a posting on the USS Gandhi (*Second Chances*).
+- A duplicate created when a transporter beam reflected off Nervala IV's distortion field eight years earlier. <span class="src">([S06E24](../../data/text/250.txt "Second Chances"))</span>
+- Survived alone on the planet, still in love with Troi and bitter about the career he lost. <span class="src">([S06E24](../../data/text/250.txt "Second Chances"))</span>
+- Takes the name Thomas and a posting on the USS Gandhi (*Second Chances* <span class="src">[S06E24](../../data/text/250.txt#L486 "Second Chances: RIKER 2: Captain Picard made has some inquiries. He managed to get me a posting on the Gandhi. And considering")</span>).
 
 ## Relationships
 
-- [Commander William T. Riker](riker.md) lists this character as: transporter duplicate Thomas
+- [Commander William T. Riker](riker.md): original, whose duplicate he is <span class="src">([Memory Alpha: Thomas Riker](https://memory-alpha.fandom.com/wiki/Thomas_Riker "Memory Alpha: Thomas Riker: a transporter accident in 2361 that created two William Thomas Rikers") · [Memory Alpha: William T. Riker](https://memory-alpha.fandom.com/wiki/William_T._Riker "Memory Alpha: William T. Riker: a transporter accident on Nervala IV creates a duplicate of Riker, later known as Thomas Riker"))</span>
 
 ## Most scenes shared with
 

@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Colonist who befriends Data on Tau Cygna V (*The Ensigns of Command*).
+- Colonist who befriends Data on Tau Cygna V (*The Ensigns of Command* <span class="src">[S03E02](../../data/text/149.txt "The Ensigns of Command")</span>).
 
 ## Most scenes shared with
 

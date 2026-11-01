@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Human boy raised by Talarians (*Suddenly Human*).
+- Human boy raised by Talarians (*Suddenly Human* <span class="src">[S04E04](../../data/text/176.txt "Suddenly Human")</span>).
 
 ## Most scenes shared with
 

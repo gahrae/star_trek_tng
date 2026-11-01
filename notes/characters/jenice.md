@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Picard's lost love from Paris (*We'll Always Have Paris*).
+- Picard's lost love from Paris (*We'll Always Have Paris* <span class="src">[S01E24](../../data/text/124.txt "We'll Always Have Paris")</span>).
 
 ## Most scenes shared with
 

@@ -9,11 +9,11 @@
 
 ## Key facts
 
-- Shapeshifting future ruler of Daled IV, who falls for Wesley (*The Dauphin*).
+- Shapeshifting future ruler of Daled IV, who falls for Wesley (*The Dauphin* <span class="src">[S02E10](../../data/text/136.txt "The Dauphin")</span>).
 
 ## Relationships
 
-- [Wesley Crusher](wesley.md) lists this character as: early crush
+- [Wesley Crusher](wesley.md): young admirer <span class="src">([Memory Alpha: Salia](https://memory-alpha.fandom.com/wiki/Salia "Memory Alpha: Salia: Salia became romantically involved with Wesley Crusher") · [Memory Alpha: Wesley Crusher](https://memory-alpha.fandom.com/wiki/Wesley_Crusher "Memory Alpha: Wesley Crusher: she, too, was smitten with Wesley"))</span>
 
 ## Most scenes shared with
 

@@ -9,11 +9,11 @@
 
 ## Key facts
 
-- Beverly's late husband, seen in a recorded message to Wesley (*Family*), in Beverly's memories (*Violations*) and as a vision to Wesley (*Journey's End*).
+- Beverly's late husband, seen in a recorded message to Wesley (*Family* <span class="src">[S04E02](../../data/text/178.txt#L205 "Family: CRUSHER: Jack recorded a holographic message to Wesley just after he was born. It was a gift for when he grew ")</span>), in Beverly's memories (*Violations* <span class="src">[S05E12](../../data/text/212.txt "Violations")</span>) and as a vision to Wesley (*Journey's End* <span class="src">[S07E20](../../data/text/272.txt "Journey's End")</span>).
 
 ## Relationships
 
-- [Dr Beverly Crusher](crusher.md) lists this character as: late husband
+- [Dr Beverly Crusher](crusher.md): widow <span class="src">([Memory Alpha: Jack R. Crusher](https://memory-alpha.fandom.com/wiki/Jack_R._Crusher "Memory Alpha: Jack R. Crusher: He was husband to Beverly Crusher and father to Wesley Crusher") · [Memory Alpha: Beverly Crusher](https://memory-alpha.fandom.com/wiki/Beverly_Crusher "Memory Alpha: Beverly Crusher: whom she named Jack after her deceased husband"))</span>
 
 ## Most scenes shared with
 

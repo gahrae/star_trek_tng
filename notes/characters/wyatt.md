@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Troi's arranged fiancé who leaves with the Tarellians (*Haven*).
+- Troi's arranged fiancé who leaves with the Tarellians (*Haven* <span class="src">[S01E11](../../data/text/105.txt "Haven")</span>).
 
 ## Most scenes shared with
 

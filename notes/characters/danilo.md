@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Leader of the Bringloidi colonists (*Up the Long Ladder*).
+- Leader of the Bringloidi colonists (*Up the Long Ladder* <span class="src">[S02E18](../../data/text/144.txt "Up The Long Ladder")</span>).
 
 ## Most scenes shared with
 

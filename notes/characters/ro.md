@@ -12,9 +12,9 @@
 
 ## Key facts
 
-- Bajoran officer with a court-martial record from the Garon II incident; brought aboard by Admiral Kennelly (*Ensign Ro*).
-- Trapped out of phase with Geordi after a transporter accident (*The Next Phase*); de-aged to a child (*Rascals*).
-- After advanced tactical training, defects to the Maquis, betraying Picard's trust (*Preemptive Strike*).
+- Bajoran officer with a court-martial record from the Garon II incident; brought aboard by Admiral Kennelly (*Ensign Ro* <span class="src">[S05E03](../../data/text/203.txt#L466 "Ensign Ro: RO: Admiral Kennelly came to me in prison and told me he'd arrange to get me out if I'd go on a mission.")</span>). <span class="src">([S05E03](../../data/text/203.txt#L162 "Ensign Ro: PICARD: I'm fully aware of your Starfleet record, your problems on other ships, and the incident on Garon Two "))</span>
+- Trapped out of phase with Geordi after a transporter accident (*The Next Phase* <span class="src">[S05E24](../../data/text/224.txt#L252 "The Next Phase: RO: According to Doctor Crusher, we died in a transporter malfunction at fourteen thirty hours. Geordi, I saw ")</span>); de-aged to a child (*Rascals* <span class="src">[S06E07](../../data/text/233.txt "Rascals")</span>).
+- After advanced tactical training, defects to the Maquis, betraying Picard's trust (*Preemptive Strike* <span class="src">[S07E24](../../data/text/276.txt "Preemptive Strike")</span>).
 
 ## Rank and role timeline
 
@@ -25,9 +25,9 @@
 
 ## Relationships
 
-- [Captain Jean-Luc Picard](picard.md): mentor she betrays
-- [Guinan](guinan.md): confidante
-- [Lieutenant Commander Geordi La Forge](laforge.md): trapped out of phase together
+- [Captain Jean-Luc Picard](picard.md): mentor she betrays <span class="src">([Memory Alpha: Jean-Luc Picard](https://memory-alpha.fandom.com/wiki/Jean-Luc_Picard "Memory Alpha: Jean-Luc Picard: still harboring a deep resentment against her for her betrayal") · [Memory Alpha: Ro Laren](https://memory-alpha.fandom.com/wiki/Ro_Laren "Memory Alpha: Ro Laren: mentored by Captain Jean-Luc Picard"))</span>
+- [Guinan](guinan.md): confidante <span class="src">([Memory Alpha: Ro Laren](https://memory-alpha.fandom.com/wiki/Ro_Laren "Memory Alpha: Ro Laren: she decided to get to know Ro"))</span>
+- [Lieutenant Commander Geordi La Forge](laforge.md): trapped out of phase together <span class="src">([Memory Alpha: Geordi La Forge](https://memory-alpha.fandom.com/wiki/Geordi_La_Forge "Memory Alpha: Geordi La Forge: La Forge and Ro Laren disappeared during a transporter cycle"))</span>
 
 ## Most scenes shared with
 

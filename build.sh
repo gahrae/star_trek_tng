@@ -10,6 +10,8 @@ if [[ "${1:-}" == "--fetch" ]]; then
   python3 -I scripts/fetch_cast.py
   python3 -I scripts/fetch_images.py
   python3 -I scripts/fetch_episode_images.py
+  python3 -I scripts/fetch_ma_pages.py
+  python3 -I scripts/fetch_credit_links.py
 fi
 rm -f notes/characters/*.md notes/episodes/*.md notes/locations/*.md
 python3 -I scripts/build_notes.py

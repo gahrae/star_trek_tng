@@ -47,6 +47,78 @@ if site.exists():
     used = set()
     for p in (site / "episodes").glob("*.html"): used |= set(re.findall(r'href="\.\./arcs\.html#([^"]+)"', p.read_text(encoding="utf-8")))
     check(used <= ids, f"arc anchors missing on arcs.html: {sorted(used - ids)[:5]}")
+# source links: every cited episode exists, explicit markers are backed by the transcript they point to,
+# and a character's facts only cite episodes that character is in
+sys.path.insert(0, str(ROOT / "scripts"))
+import sources, curated_characters as cc
+appear = json.load(open(ROOT / "data" / "appearances.json")); presence = json.load(open(ROOT / "data" / "presence.json"))
+_text = {}
+def transcript(prod):
+    if prod not in _text: _text[prod] = (ROOT / "data" / "text" / f"{prod}.txt").read_text(encoding="utf-8").lower()
+    return _text[prod]
+RANKS = {"captain", "commander", "lieutenant", "counselor", "doctor", "chief", "ensign", "admiral", "lord", "the", "ambassador", "nurse", "professor", "chancellor", "senator", "general", "vice", "gul", "daimon", "proconsul", "lady", "sir", "madame", "mister", "miss"}
+claims = ([(k, n, x) for k, (n, fs) in cc.FACTS.items() for x in fs] + [(k, cc.GUESTS[k][0], x) for k, fs in cc.GUEST_FACTS.items() for x in fs if k in cc.GUESTS]
+          + [(k, n, d) for k, (n, d) in cc.GUESTS.items()])
+unknown, unbacked, absent = [], [], []
+def present(label, words, p):
+    return label in appear and p in appear[label] or label in presence.get(p, {}) or any(re.search(rf"(?<![a-z]){re.escape(w)}(?![a-z])", transcript(p)) for w in words)
+for label, name, text in claims:
+    try: groups = sources.cited_groups(text)
+    except ValueError as ex: unknown.append(str(ex)); continue
+    kws = sources.keywords(text)
+    for p in sources.cited_prods(text, italics=False):
+        if kws and not any(k.lower() in transcript(p) for k in kws): unbacked.append(f"{label} cites {sources.CODE[p]} but it has none of {kws[:3]}")
+    words = [w.lower() for w in re.findall(r"[A-Za-z']{3,}", name) if w.lower() not in RANKS]
+    for g in groups:      # a title naming two parts only needs the character in one of them
+        if not any(present(label, words, p) for p in g): absent.append(f"{label} cites {', '.join(sources.CODE[p] + ' ' + sources.TITLE[p] for p in g)}, where the name never appears")
+drift = [p for p in sources.CODE if (ROOT / "site" / "transcripts" / f"{p}.html").exists()
+         and len(re.findall(r'id="l\d+"', (ROOT / "site" / "transcripts" / f"{p}.html").read_text(encoding="utf-8"))) != len(sources.dialogue(p))]
+def spell(t): return " ".join(re.sub(r"[^a-z0-9]+", " ", t.lower().replace("traveler", "traveller")).split())
+def strong(clause):     # names and quoted phrases: the words a transcript has to contain for the clause to be true
+    plain = re.sub(r"\*[^*]+\*", "", clause)
+    return re.findall(r"(?<![A-Za-z])'([^']{4,}?)'(?![A-Za-z])", plain) + re.findall(r"(?<!^)(?<![.;:] )\b([A-Z][a-z]{3,})\b", plain)
+clause_bad = []
+for label, name, text in claims:       # each link is tested against the clause it follows, not the whole fact
+    for m in sources.TOKEN.finditer(text):
+        found, _ = sources._token(m)
+        before = text[:m.start()]; kws = strong(sources.TOKEN.sub("", before[max(before.rfind(";"), before.rfind(". "), 0):]))
+        if found and kws and not any(any(spell(k) in spell(transcript(p)) for k in kws) for p in found):
+            clause_bad.append(f"{label}: {', '.join(sources.CODE[p] for p in found)} does not contain any of {kws[:3]}")
+        if m.group(4) and kws and not any(spell(k) in spell(sources.ma_page(m.group(4))) for k in kws):
+            clause_bad.append(f"{label}: Memory Alpha page {m.group(4)} does not contain any of {kws[:3]}")
+check(not clause_bad, f"{len(clause_bad)} links where the clause before them is not in the episode: {clause_bad[:4]}")
+def name_words(label):
+    n = cc.FACTS[label][0] if label in cc.FACTS else cc.GUESTS[label][0] if label in cc.GUESTS else label.title()
+    return [w.lower() for w in re.findall(r"[A-Za-z']+", re.sub(r"\s*\(.*?\)", "", n)) if w.lower() not in RANKS and (len(w) >= 3 or n == w)]
+rel_bad = []
+for a, prof in cc.PROFILES.items():     # every relationship has a source that names both people
+    for other, kind, *src in prof["relationships"]:
+        if not src: rel_bad.append(f"{a} -> {other} has no source"); continue
+        try: sources.cited_groups(src[0])
+        except ValueError as ex: rel_bad.append(f"{a} -> {other}: {ex}"); continue
+        toks = [m for m in sources.TOKEN.finditer(src[0]) if m.group(2) or m.group(4)]
+        if not toks: rel_bad.append(f"{a} -> {other}: the source is not an episode or Memory Alpha marker"); continue
+        for m in toks:
+            if m.group(4):
+                page = " " + spell(sources.ma_page(m.group(4))) + " "      # whole words, so O'Brien is "o brien", not "o"
+                if not all(any(f" {spell(w)} " in page for w in name_words(x) if spell(w)) for x in (a, other)): rel_bad.append(f"{a} -> {other}: Memory Alpha page {m.group(4)} does not name both")
+            else:
+                for p in m.group(2).split(","):
+                    if not all(present(x, name_words(x), p) for x in (a, other)): rel_bad.append(f"{a} -> {other}: {sources.CODE[p]} does not have both characters")
+credits = json.load(open(ROOT / "data" / "credit_links.json")); meta_ = json.load(open(ROOT / "data" / "metadata.json"))
+SOURCES_DISAGREE = {"234", "235"}      # Memory Alpha is two days earlier than Wikipedia and the transcript site
+credit_bad = [f"{p} has no episode page to link" for p, v in credits.items() if not v["memory_alpha"]["episode"] or not v["wikipedia"]["list"]]
+credit_bad += [f"{p} {sources.TITLE[p]}: airdate {meta_[p]['airdate_iso']}, Memory Alpha {v['memory_alpha']['airdate']}" for p, v in credits.items()
+               if v["memory_alpha"]["airdate"] != meta_[p]["airdate_iso"] and p not in SOURCES_DISAGREE]
+check(not credit_bad, f"{len(credit_bad)} episodes whose airdate or credit links are not backed by Memory Alpha: {credit_bad[:3]}")
+_pairs = {(a, o) for a, pr in cc.PROFILES.items() for o, *_ in pr["relationships"]}
+inverse_bad = [k for k in cc.INVERSE if k not in _pairs]       # a reverse label for a relationship that no longer exists
+check(not inverse_bad, f"reverse relationship labels with no relationship: {inverse_bad[:4]}")
+check(not rel_bad, f"{len(rel_bad)} relationships without a good source: {rel_bad[:4]}")
+check(not drift, f"line links would point at the wrong line in {drift[:5]}: sources.dialogue() no longer matches the transcript pages")
+check(not unknown, f"unknown episodes cited: {unknown[:3]}")
+check(not unbacked, f"explicit source markers the transcript does not back: {unbacked[:3]}")
+check(not absent, f"{len(absent)} cited episodes where the character does not appear: {absent[:5]}")
 if fails:
     print("CHECKS FAILED:\n  " + "\n  ".join(fails)); sys.exit(1)
 print("all checks passed")

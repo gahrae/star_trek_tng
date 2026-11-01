@@ -9,13 +9,13 @@
 
 ## Key facts
 
-- Lumerian ambassador famed for calm mediation, achieved by dumping his negative emotions into a 'receptacle' through a ritual bond.
-- His 'mother' was the previous receptacle; he bonds Troi, who ages rapidly and turns aggressive.
-- Dies when Crusher fakes Troi's death to break the bond and the backlog of emotion hits him (*Man of the People*).
+- Lumerian ambassador famed for calm mediation, achieved by dumping his negative emotions into a 'receptacle' through a ritual bond. <span class="src">([S06E03](../../data/text/229.txt "Man of the People"))</span>
+- His 'mother' was the previous receptacle; he bonds Troi, who ages rapidly and turns aggressive. <span class="src">([S06E03](../../data/text/229.txt "Man of the People"))</span>
+- Dies when Crusher fakes Troi's death to break the bond and the backlog of emotion hits him (*Man of the People* <span class="src">[S06E03](../../data/text/229.txt "Man of the People")</span>).
 
 ## Relationships
 
-- [Counselor Deanna Troi](troi.md) lists this character as: abuser who used her as an emotional receptacle
+- [Counselor Deanna Troi](troi.md): victim he used as an emotional receptacle <span class="src">([Memory Alpha: Ves Alkar](https://memory-alpha.fandom.com/wiki/Ves_Alkar "Memory Alpha: Ves Alkar: he turned to Deanna Troi to serve as the") · [Memory Alpha: Deanna Troi](https://memory-alpha.fandom.com/wiki/Deanna_Troi "Memory Alpha: Deanna Troi: Alkar used Deanna as a vessel for all of his negative or distracting emotions"))</span>
 
 ## Most scenes shared with
 

@@ -8,7 +8,7 @@
 
 ## Key facts
 
-- Picard's younger self in Q's intervention (*Tapestry*) and in *Rascals*.
+- Picard's younger self in Q's intervention (*Tapestry* <span class="src">[S06E15](../../data/text/241.txt "Tapestry")</span>) and in *Rascals* <span class="src">[S06E07](../../data/text/233.txt "Rascals")</span>.
 
 ## Most scenes shared with
 

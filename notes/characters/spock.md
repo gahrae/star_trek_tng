@@ -12,12 +12,12 @@
 
 ## Key facts
 
-- Vulcan ambassador who goes to Romulus to pursue reunification; Picard carries his father Sarek's last feelings to him (*Unification*).
+- Vulcan ambassador who goes to Romulus to pursue reunification; Picard carries his father Sarek's last feelings to him (*Unification* <span class="src">[S05E07](../../data/text/208.txt "Unification, part 1") · [S05E08](../../data/text/207.txt "Unification, part 2")</span>).
 
 ## Relationships
 
-- [Ambassador Sarek](sarek.md): father
-- [Captain Jean-Luc Picard](picard.md): shares a mind-meld with his father's memories
+- [Ambassador Sarek](sarek.md): father <span class="src">([Memory Alpha: Sarek](https://memory-alpha.fandom.com/wiki/Sarek "Memory Alpha: Sarek: father of noted Starfleet officer") · [Memory Alpha: Spock](https://memory-alpha.fandom.com/wiki/Spock "Memory Alpha: Spock: his father, Sarek, was a Vulcan scientist and diplomat"))</span>
+- [Captain Jean-Luc Picard](picard.md): shares a mind-meld with his father's memories <span class="src">([Memory Alpha: Jean-Luc Picard](https://memory-alpha.fandom.com/wiki/Jean-Luc_Picard "Memory Alpha: Jean-Luc Picard: offering Spock to mind meld with him to see how Sarek truly saw his son") · [Memory Alpha: Spock](https://memory-alpha.fandom.com/wiki/Spock "Memory Alpha: Spock: Jean-Luc Picard offered Spock the chance to meld with him"))</span>
 
 ## Most scenes shared with
 

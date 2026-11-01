@@ -9,11 +9,11 @@
 
 ## Key facts
 
-- Ullian telepath who assaults crew members through memory (*Violations*).
+- Ullian telepath who assaults crew members through memory (*Violations* <span class="src">[S05E12](../../data/text/212.txt "Violations")</span>).
 
 ## Relationships
 
-- [Counselor Deanna Troi](troi.md) lists this character as: assailant, by telepathic memory invasion
+- [Counselor Deanna Troi](troi.md): victim of his telepathic memory invasion <span class="src">([Memory Alpha: Jev](https://memory-alpha.fandom.com/wiki/Jev "Memory Alpha: Jev: Jev altered Troi's memory") · [Memory Alpha: Deanna Troi](https://memory-alpha.fandom.com/wiki/Deanna_Troi "Memory Alpha: Deanna Troi: Jev, a Ullian with the ability to probe and manipulate people's memories"))</span>
 
 ## Most scenes shared with
 

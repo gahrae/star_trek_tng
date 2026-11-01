@@ -12,7 +12,7 @@
 
 ## Key facts
 
-- Ambitious Borg tactical specialist who becomes Riker's first officer during the Borg invasion (*The Best of Both Worlds*).
+- Ambitious Borg tactical specialist who becomes Riker's first officer during the Borg invasion (*The Best of Both Worlds* <span class="src">[S03E26](../../data/text/174.txt "Best Of Both Worlds, part 1") · [S04E01](../../data/text/175.txt "Best of Both Worlds, part 2")</span>).
 
 ## Rank and role timeline
 
@@ -23,7 +23,7 @@
 
 ## Relationships
 
-- [Commander William T. Riker](riker.md): rival, then her captain
+- [Commander William T. Riker](riker.md): rival, then her captain <span class="src">([Memory Alpha: William T. Riker](https://memory-alpha.fandom.com/wiki/William_T._Riker "Memory Alpha: William T. Riker: Riker felt that Shelby was trying to ingratiate herself to Captain Picard") · [Memory Alpha: Elizabeth Shelby](https://memory-alpha.fandom.com/wiki/Elizabeth_Shelby "Memory Alpha: Elizabeth Shelby: he appointed Shelby to be his first officer and promoted her to commander despite their differences"))</span>
 
 ## Most scenes shared with
 

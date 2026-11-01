@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Recurring flight controller in seasons 4 and 6.
+- Recurring flight controller in seasons 4 and 6 <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Sariel_Rager "Memory Alpha: Sariel Rager: helmsman"))</span>.
 
 ## Most scenes shared with
 

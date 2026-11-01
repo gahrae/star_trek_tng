@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Caretaker of Beverly Crusher's grandmother's house on Caldos who believes the Howard family is cursed by the candle and the ghost, and is killed sabotaging the weather control (*Sub Rosa*).
+- Caretaker of Beverly Crusher's grandmother's house on Caldos who believes the Howard family is cursed by the candle and the ghost, and is killed sabotaging the weather control (*Sub Rosa* <span class="src">[S07E14](../../data/text/266.txt "Sub Rosa")</span>).
 
 ## Most scenes shared with
 

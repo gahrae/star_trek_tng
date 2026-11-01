@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Amnesiac alien healer undergoing a transformation into an energy being (*Transfigurations*).
+- Amnesiac alien healer undergoing a transformation into an energy being (*Transfigurations* <span class="src">[S03E25](../../data/text/173.txt "Transfigurations")</span>).
 
 ## Most scenes shared with
 

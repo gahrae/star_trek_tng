@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Satarran agent inserted into the crew's false memories as first officer (*Conundrum*).
+- Satarran agent inserted into the crew's false memories as first officer (*Conundrum* <span class="src">[S05E14](../../data/text/214.txt "Conundrum")</span>).
 
 ## Most scenes shared with
 

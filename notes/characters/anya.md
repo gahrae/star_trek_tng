@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Salia's shapeshifting guardian (*The Dauphin*).
+- Salia's shapeshifting guardian (*The Dauphin* <span class="src">[S02E10](../../data/text/136.txt "The Dauphin")</span>).
 
 ## Most scenes shared with
 

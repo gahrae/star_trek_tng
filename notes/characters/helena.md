@@ -9,11 +9,11 @@
 
 ## Key facts
 
-- Worf's adoptive human mother (*Family*, *New Ground*).
+- Worf's adoptive human mother (*Family* <span class="src">[S04E02](../../data/text/178.txt#L69 "Family: WORF: My mother is never on time. It is so human of her.")</span>, *New Ground* <span class="src">[S05E10](../../data/text/210.txt "New Ground")</span>).
 
 ## Relationships
 
-- [Lieutenant Worf](worf.md) lists this character as: adoptive mother
+- [Lieutenant Worf](worf.md): adoptive son <span class="src">([Memory Alpha: Helena Rozhenko](https://memory-alpha.fandom.com/wiki/Helena_Rozhenko "Memory Alpha: Helena Rozhenko: Helena and Sergey together fostered the child") · [Memory Alpha: Worf](https://memory-alpha.fandom.com/wiki/Worf "Memory Alpha: Worf: He and his wife, Helena, raised the Klingon child alongside their own son, Nikolai"))</span>
 
 ## Most scenes shared with
 

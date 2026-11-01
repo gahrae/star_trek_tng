@@ -12,12 +12,12 @@
 
 ## Key facts
 
-- Romulan officer, daughter of the alternate-timeline Tasha Yar and a Romulan general; backs the Duras family in the civil war (*Redemption*) and the Vulcan invasion plot (*Unification*).
+- Romulan officer, daughter of the alternate-timeline Tasha Yar and a Romulan general; backs the Duras family in the civil war (*Redemption* <span class="src">[S04E26](../../data/text/200.txt "Redemption") · [S05E01](../../data/text/201.txt "Redemption part 2")</span>) and the Vulcan invasion plot (*Unification* <span class="src">[S05E07](../../data/text/208.txt "Unification, part 1") · [S05E08](../../data/text/207.txt "Unification, part 2")</span>).
 
 ## Relationships
 
-- [Lieutenant Natasha 'Tasha' Yar](tasha.md): mother
-- [Captain Jean-Luc Picard](picard.md): adversary
+- [Lieutenant Natasha 'Tasha' Yar](tasha.md): mother <span class="src">([Memory Alpha: Natasha Yar](https://memory-alpha.fandom.com/wiki/Natasha_Yar "Memory Alpha: Natasha Yar: she gave birth to a daughter, Sela"))</span>
+- [Captain Jean-Luc Picard](picard.md): adversary <span class="src">([Memory Alpha: Sela](https://memory-alpha.fandom.com/wiki/Sela "Memory Alpha: Sela: Sela was foiled, however, when Captain Jean-Luc Picard led Starfleet"))</span>
 
 ## Most scenes shared with
 

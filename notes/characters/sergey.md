@@ -9,11 +9,11 @@
 
 ## Key facts
 
-- Worf's adoptive human father, a retired Starfleet chief petty officer (*Family*).
+- Worf's adoptive human father, a retired Starfleet chief petty officer (*Family* <span class="src">[S04E02](../../data/text/178.txt#L91 "Family: SERGEY: Always good to meet another Chief Petty Officer. Sergey Rozhenko, formerly of the USS Intrepid.")</span>). <span class="src">([S04E02](../../data/text/178.txt#L91 "Family: SERGEY: Always good to meet another Chief Petty Officer. Sergey Rozhenko, formerly of the USS Intrepid."))</span>
 
 ## Relationships
 
-- [Lieutenant Worf](worf.md) lists this character as: adoptive father
+- [Lieutenant Worf](worf.md): adoptive son <span class="src">([Memory Alpha: Sergey Rozhenko](https://memory-alpha.fandom.com/wiki/Sergey_Rozhenko "Memory Alpha: Sergey Rozhenko: the Rozhenko family was residing on the farming colony of Gault where Worf and Nikolai grew up") · [Memory Alpha: Worf](https://memory-alpha.fandom.com/wiki/Worf "Memory Alpha: Worf: Sergey Rozhenko, found Worf buried in the rubble"))</span>
 
 ## Most scenes shared with
 

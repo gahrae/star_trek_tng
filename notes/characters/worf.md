@@ -12,15 +12,15 @@
 
 ## Key facts
 
-- Klingon, son of Mogh; orphaned at the Khitomer massacre and raised by human parents Sergey and Helena Rozhenko; first Klingon officer in Starfleet.
-- Chief of security and tactical officer from season 2 after Tasha Yar's death.
-- Accepts discommendation (loss of honour) to protect the Empire when Duras' family frames Mogh for Khitomer (*Sins of the Father*).
-- Younger brother Kurn, raised by Lorgh (*Sins of the Father*, *Redemption*).
-- Fathered Alexander with K'Ehleyr, a half-human Federation emissary; after Duras murders her, Worf kills Duras (*The Emissary*, *Reunion*).
-- Honour restored by Gowron during the Klingon civil war (*Redemption*).
-- Paralysed when his spine is crushed and considers ritual suicide; saved by experimental surgery (*Ethics*).
-- Adoptive human brother Nikolai (*Homeward*); shifts through parallel quantum realities (*Parallels*).
-- Romance with Deanna Troi in season 7 (*Parallels*, *Eye of the Beholder*); prefers prune juice, 'a warrior's drink'.
+- Klingon, son of Mogh <span class="src">([S03E17](../../data/text/165.txt#L243 "Sins Of The Father: WORF: I am Worf, son of Mogh. I have come to challenge the lies that have been spoken of my father."))</span>; orphaned at the Khitomer massacre and raised by human parents Sergey and Helena Rozhenko <span class="src">([S04E02](../../data/text/178.txt#L91 "Family: SERGEY: Always good to meet another Chief Petty Officer. Sergey Rozhenko, formerly of the USS Intrepid."))</span>; first Klingon officer in Starfleet.
+- Chief of security and tactical officer from season 2 after Tasha Yar's death <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Worf "Memory Alpha: Worf: Appointed acting security chief after the death of Lieutenant Natasha Yar"))</span>.
+- Accepts discommendation (loss of honour) to protect the Empire when Duras' family frames Mogh for Khitomer (*Sins of the Father* <span class="src">[S03E17](../../data/text/165.txt#L267 "Sins Of The Father: DURAS: For many turns, the truth about Khitomer has lain dormant. Unknown. Now the truth has been revealed. Th")</span>).
+- Younger brother Kurn, raised by Lorgh (*Sins of the Father* <span class="src">[S03E17](../../data/text/165.txt#L184 "Sins Of The Father: KURN: They assumed that I was killed with the family at Khitomer. Lorgh had no sons. He took me into his famil")</span>, *Redemption* <span class="src">[S04E26](../../data/text/200.txt "Redemption") · [S05E01](../../data/text/201.txt "Redemption part 2")</span>).
+- Fathered Alexander with K'Ehleyr, a half-human Federation emissary; after Duras murders her, Worf kills Duras (*The Emissary* <span class="src">[S02E20](../../data/text/146.txt "The Emissary")</span>, *Reunion* <span class="src">[S04E07](../../data/text/181.txt "Reunion")</span>).
+- Honour restored by Gowron during the Klingon civil war (*Redemption* <span class="src">[S04E26](../../data/text/200.txt "Redemption") · [S05E01](../../data/text/201.txt "Redemption part 2")</span>).
+- Paralysed when his spine is crushed and considers ritual suicide; saved by experimental surgery (*Ethics* <span class="src">[S05E16](../../data/text/216.txt "Ethics")</span>).
+- Adoptive human brother Nikolai (*Homeward* <span class="src">[S07E13](../../data/text/265.txt#L73 "Homeward: NIKOLAI: Yes. Oh, Worf. This is my brother, Worf. He's come to help us.")</span>); shifts through parallel quantum realities (*Parallels* <span class="src">[S07E11](../../data/text/263.txt "Parallels")</span>).
+- Romance with Deanna Troi in season 7 (*Parallels* <span class="src">[S07E11](../../data/text/263.txt "Parallels")</span>, *Eye of the Beholder* <span class="src">[S07E18](../../data/text/270.txt "Eye of the Beholder")</span>); prefers prune juice, 'a warrior's drink'.
 
 ## Rank and role timeline
 
@@ -32,16 +32,16 @@
 
 ## Relationships
 
-- [Alexander Rozhenko](alexander.md): son
-- [K'Ehleyr](k-ehleyr.md): mate, mother of Alexander
-- [Kurn](kurn.md): brother
-- [Helena Rozhenko](helena.md): adoptive mother
-- [Sergey Rozhenko](sergey.md): adoptive father
-- [Nikolai Rozhenko](nikolai.md): adoptive brother
-- [Counselor Deanna Troi](troi.md): romance in season 7
-- [Gowron](gowron.md): political ally
-- [Duras](duras.md): enemy, killed by Worf
-- [Lieutenant Natasha 'Tasha' Yar](tasha.md) lists this character as: colleague who succeeded her
+- [Alexander Rozhenko](alexander.md): son <span class="src">([Memory Alpha: Alexander Rozhenko](https://memory-alpha.fandom.com/wiki/Alexander_Rozhenko "Memory Alpha: Alexander Rozhenko: was the son of Starfleet then-Lieutenant Worf") · [Memory Alpha: Worf](https://memory-alpha.fandom.com/wiki/Worf "Memory Alpha: Worf: father to Alexander Rozhenko"))</span>
+- [K'Ehleyr](k-ehleyr.md): mate, mother of Alexander <span class="src">([Memory Alpha: K'Ehleyr](https://memory-alpha.fandom.com/wiki/K%27Ehleyr "Memory Alpha: K'Ehleyr: K'Ehleyr would later deliver a child that had been conceived from this relationship, Alexander") · [Memory Alpha: Worf](https://memory-alpha.fandom.com/wiki/Worf "Memory Alpha: Worf: mate to K'Ehleyr"))</span>
+- [Kurn](kurn.md): brother <span class="src">([Memory Alpha: Kurn](https://memory-alpha.fandom.com/wiki/Kurn "Memory Alpha: Kurn: Worf's younger brother") · [Memory Alpha: Worf](https://memory-alpha.fandom.com/wiki/Worf "Memory Alpha: Worf: Worf's brother, Kurn, brought the news"))</span>
+- [Helena Rozhenko](helena.md): adoptive mother <span class="src">([Memory Alpha: Helena Rozhenko](https://memory-alpha.fandom.com/wiki/Helena_Rozhenko "Memory Alpha: Helena Rozhenko: Helena and Sergey together fostered the child") · [Memory Alpha: Worf](https://memory-alpha.fandom.com/wiki/Worf "Memory Alpha: Worf: He and his wife, Helena, raised the Klingon child alongside their own son, Nikolai"))</span>
+- [Sergey Rozhenko](sergey.md): adoptive father <span class="src">([Memory Alpha: Sergey Rozhenko](https://memory-alpha.fandom.com/wiki/Sergey_Rozhenko "Memory Alpha: Sergey Rozhenko: the Rozhenko family was residing on the farming colony of Gault where Worf and Nikolai grew up") · [Memory Alpha: Worf](https://memory-alpha.fandom.com/wiki/Worf "Memory Alpha: Worf: Sergey Rozhenko, found Worf buried in the rubble"))</span>
+- [Nikolai Rozhenko](nikolai.md): adoptive brother <span class="src">([Memory Alpha: Nikolai Rozhenko](https://memory-alpha.fandom.com/wiki/Nikolai_Rozhenko "Memory Alpha: Nikolai Rozhenko: he became the foster brother of a Klingon child named Worf") · [Memory Alpha: Worf](https://memory-alpha.fandom.com/wiki/Worf "Memory Alpha: Worf: Worf had a contentious relationship with his elder foster-brother, Nikolai"))</span>
+- [Counselor Deanna Troi](troi.md): romance in season 7 <span class="src">([Memory Alpha: Deanna Troi](https://memory-alpha.fandom.com/wiki/Deanna_Troi "Memory Alpha: Deanna Troi: the two enjoyed a romantic relationship through 2370") · [Memory Alpha: Worf](https://memory-alpha.fandom.com/wiki/Worf "Memory Alpha: Worf: begins a romance with the counselor"))</span>
+- [Gowron](gowron.md): political ally <span class="src">([Memory Alpha: Gowron](https://memory-alpha.fandom.com/wiki/Gowron "Memory Alpha: Gowron: Gowron's election as chancellor was complete") · [Memory Alpha: Worf](https://memory-alpha.fandom.com/wiki/Worf "Memory Alpha: Worf: Chancellor Gowron restored honor to the House of Mogh"))</span>
+- [Duras](duras.md): enemy, killed by Worf <span class="src">([Memory Alpha: Duras, son of Ja'rod](https://memory-alpha.fandom.com/wiki/Duras,_son_of_Ja%27rod "Memory Alpha: Duras, son of Ja'rod: was quickly killed, impaled on Worf's bat'leth") · [Memory Alpha: Worf](https://memory-alpha.fandom.com/wiki/Worf "Memory Alpha: Worf: he killed Duras in an honor duel"))</span>
+- [Lieutenant Natasha 'Tasha' Yar](tasha.md): predecessor as security chief <span class="src">([Memory Alpha: Worf](https://memory-alpha.fandom.com/wiki/Worf "Memory Alpha: Worf: Appointed acting security chief after the death of Lieutenant Natasha Yar"))</span>
 
 ## Most scenes shared with
 

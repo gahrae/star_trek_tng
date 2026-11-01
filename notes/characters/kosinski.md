@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Arrogant propulsion specialist whose 'theories' were the Traveler's work (*Where No One Has Gone Before*).
+- Arrogant propulsion specialist whose 'theories' were the Traveler's work (*Where No One Has Gone Before* <span class="src">[S01E06](../../data/text/106.txt "Where No One Has Gone Before")</span>).
 
 ## Most scenes shared with
 

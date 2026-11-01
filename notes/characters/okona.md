@@ -9,9 +9,9 @@
 
 ## Key facts
 
-- Captain of the small freighter Erstwhile, a charming rogue wanted by two neighbouring worlds.
-- Accused of theft by one and of seducing a daughter by the other; the truth is that he is a go-between for two young lovers.
-- His visit prompts Data to study humour with a holodeck comic and Guinan (*The Outrageous Okona*).
+- Captain of the small freighter Erstwhile, a charming rogue wanted by two neighbouring worlds. <span class="src">([S02E04](../../data/text/130.txt "The Outrageous Okona"))</span>
+- Accused of theft by one and of seducing a daughter by the other; the truth is that he is a go-between for two young lovers. <span class="src">([S02E04](../../data/text/130.txt "The Outrageous Okona"))</span>
+- His visit prompts Data to study humour with a holodeck comic and Guinan (*The Outrageous Okona* <span class="src">[S02E04](../../data/text/130.txt#L176 "The Outrageous Okona: GUINAN: Data, do you even know what a joke is?")</span>).
 
 ## Most scenes shared with
 

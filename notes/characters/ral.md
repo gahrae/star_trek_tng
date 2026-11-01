@@ -9,13 +9,13 @@
 
 ## Key facts
 
-- Part-Betazoid negotiator for the Chrysalians, secretly using his empathic sense to manipulate rivals.
-- Seduces Troi and tries to win the Barzan wormhole rights through staged theatrics with the Ferengi.
-- Troi exposes his methods in front of the delegates; the wormhole proves worthless anyway (*The Price*).
+- Part-Betazoid negotiator for the Chrysalians, secretly using his empathic sense to manipulate rivals. <span class="src">([S03E08](../../data/text/156.txt#L634 "The Price: TROI: I agree, entirely. Mister Ral asked me not to tell anyone he has empathic powers which he uses to manipu"))</span>
+- Seduces Troi and tries to win the Barzan wormhole rights through staged theatrics with the Ferengi. <span class="src">([S03E08](../../data/text/156.txt "The Price"))</span>
+- Troi exposes his methods in front of the delegates; the wormhole proves worthless anyway (*The Price* <span class="src">[S03E08](../../data/text/156.txt "The Price")</span>).
 
 ## Relationships
 
-- [Counselor Deanna Troi](troi.md) lists this character as: lover briefly
+- [Counselor Deanna Troi](troi.md): lover briefly <span class="src">([Memory Alpha: Devinoni Ral](https://memory-alpha.fandom.com/wiki/Devinoni_Ral "Memory Alpha: Devinoni Ral: Ral became involved with Deanna Troi") · [Memory Alpha: Deanna Troi](https://memory-alpha.fandom.com/wiki/Deanna_Troi "Memory Alpha: Deanna Troi: Troi fell for a delegate, Devinoni Ral"))</span>
 
 ## Most scenes shared with
 

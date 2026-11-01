@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- Teacher at the Enterprise school who reports Alexander's behaviour to Worf (*New Ground*).
+- Teacher at the Enterprise school who reports Alexander's behaviour to Worf (*New Ground* <span class="src">[S05E10](../../data/text/210.txt#L165 "New Ground: TROI: Worf. I was just talking with Mrs. Kyle the primary school teacher. She told me you enrolled Alexander i")</span>).
 
 ## Most scenes shared with
 

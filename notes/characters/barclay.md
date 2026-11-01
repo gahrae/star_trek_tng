@@ -12,10 +12,10 @@
 
 ## Key facts
 
-- Shy engineer who hides in holodeck fantasies of the crew (*Hollow Pursuits*).
-- Given super-intelligence by a Cytherian probe (*The Nth Degree*).
-- Severe transporter phobia (*Realm of Fear*); a dormant gene in him triggers the de-evolution outbreak (*Genesis*).
-- Accidentally releases Moriarty from the computer, then helps Picard and Data trick him into a simulation and stores his program in a module (*Ship in a Bottle*).
+- Shy engineer who hides in holodeck fantasies of the crew (*Hollow Pursuits* <span class="src">[S03E21](../../data/text/169.txt#L429 "Hollow Pursuits: RIKER: This is a violation of protocol. Crewmembers should not be simulated in the holodeck.")</span>).
+- Given super-intelligence by a Cytherian probe (*The Nth Degree* <span class="src">[S04E19](../../data/text/193.txt#L659 "The Nth Degree: BARCLAY: The Cytherians have reintegrated me, sir.")</span>).
+- Severe transporter phobia (*Realm of Fear* <span class="src">[S06E02](../../data/text/228.txt "Realm of Fear")</span>); a dormant gene in him triggers the de-evolution outbreak (*Genesis* <span class="src">[S07E19](../../data/text/271.txt "Genesis")</span>).
+- Accidentally releases Moriarty from the computer, then helps Picard and Data trick him into a simulation and stores his program in a module (*Ship in a Bottle* <span class="src">[S06E12](../../data/text/238.txt "Ship in a Bottle")</span>).
 
 ## Rank and role timeline
 
@@ -25,9 +25,9 @@
 
 ## Relationships
 
-- [Lieutenant Commander Geordi La Forge](laforge.md): supervisor and mentor
-- [Counselor Deanna Troi](troi.md): counselor and holodeck fantasy
-- [Chief Miles O'Brien](o-brien.md) lists this character as: colleague he helped through transporter phobia
+- [Lieutenant Commander Geordi La Forge](laforge.md): supervisor and mentor <span class="src">([Memory Alpha: Geordi La Forge](https://memory-alpha.fandom.com/wiki/Geordi_La_Forge "Memory Alpha: Geordi La Forge: Geordi became friends with the extremely shy and nervous genius Reginald Barclay") · [Memory Alpha: Reginald Barclay](https://memory-alpha.fandom.com/wiki/Reginald_Barclay "Memory Alpha: Reginald Barclay: Geordi La Forge's encouragement"))</span>
+- [Counselor Deanna Troi](troi.md): counselor and holodeck fantasy <span class="src">([Memory Alpha: Deanna Troi](https://memory-alpha.fandom.com/wiki/Deanna_Troi "Memory Alpha: Deanna Troi: Troi became the object of affection for a new crewmember named Reginald Barclay") · [Memory Alpha: Reginald Barclay](https://memory-alpha.fandom.com/wiki/Reginald_Barclay "Memory Alpha: Reginald Barclay: enlisted the aid of Counselor Deanna Troi"))</span>
+- [Chief Miles O'Brien](o-brien.md): colleague who helped him through his transporter phobia <span class="src">([S06E02](../../data/text/228.txt#L139 "Realm of Fear: O'BRIEN: I know how you feel about this, sir."))</span>
 
 ## Most scenes shared with
 

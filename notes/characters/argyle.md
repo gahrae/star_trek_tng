@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- One of the season 1 chief engineers (*Where No One Has Gone Before*, *Datalore*).
+- One of the season 1 chief engineers (*Where No One Has Gone Before* <span class="src">[S01E06](../../data/text/106.txt "Where No One Has Gone Before")</span>, *Datalore* <span class="src">[S01E13](../../data/text/114.txt "Datalore")</span>).
 
 ## Most scenes shared with
 

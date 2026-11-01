@@ -9,13 +9,13 @@
 
 ## Key facts
 
-- Android built by Data using a new submicron matrix transfer; chooses to be a human female.
-- Attends school, works in Ten Forward, and begins to feel emotions, starting with fear.
-- Admiral Haftel's attempt to take her triggers a cascade failure; Data keeps her memories (*The Offspring*).
+- Android built by Data using a new submicron matrix transfer; chooses to be a human female. <span class="src">([S03E16](../../data/text/164.txt#L49 "The Offspring: DATA: True, but here was a new submicron matrix transfer technology introduced at the conference which I disco"))</span>
+- Attends school, works in Ten Forward, and begins to feel emotions, starting with fear. <span class="src">([S03E16](../../data/text/164.txt "The Offspring"))</span>
+- Admiral Haftel's attempt to take her triggers a cascade failure; Data keeps her memories (*The Offspring* <span class="src">[S03E16](../../data/text/164.txt#L616 "The Offspring: DATA: I thank you for your sympathy, but she is here. Her presence so enriched my life that I could not allow ")</span>).
 
 ## Relationships
 
-- [Lieutenant Commander Data](data.md) lists this character as: daughter
+- [Lieutenant Commander Data](data.md): father <span class="src">([Memory Alpha: Lal](https://memory-alpha.fandom.com/wiki/Lal "Memory Alpha: Lal: Data's eventual hope was that someday his daughter would enter Starfleet Academy") · [Memory Alpha: Data](https://memory-alpha.fandom.com/wiki/Data "Memory Alpha: Data: Data designed and built his daughter, whom Data named Lal"))</span>
 
 ## Most scenes shared with
 

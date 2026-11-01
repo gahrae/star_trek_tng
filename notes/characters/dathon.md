@@ -8,9 +8,9 @@
 
 ## Key facts
 
-- Captain of the Tamarian ship whose language consists of allusions to their myths.
-- Strands himself and Picard on El-Adrel IV to face a beast together, as in 'Darmok and Jalad at Tanagra'.
-- Dies of his wounds, but Picard learns enough to stop a battle between the ships (*Darmok*).
+- Captain of the Tamarian ship whose language consists of allusions to their myths. <span class="src">([S05E02](../../data/text/202.txt "Darmok"))</span>
+- Strands himself and Picard on El-Adrel IV to face a beast together, as in 'Darmok and Jalad at Tanagra'. <span class="src">([S05E02](../../data/text/202.txt "Darmok"))</span>
+- Dies of his wounds, but Picard learns enough to stop a battle between the ships (*Darmok* <span class="src">[S05E02](../../data/text/202.txt "Darmok")</span>).
 
 ## Most scenes shared with
 

@@ -9,7 +9,7 @@
 
 ## Key facts
 
-- The Douwd who wiped out the Husnock (*The Survivors*).
+- The Douwd who wiped out the Husnock (*The Survivors* <span class="src">[S03E03](../../data/text/151.txt#L638 "The Survivors: KEVIN: Belonging to the Husnock, a species of hideous intelligence who knew only aggression and destruction. I")</span>).
 
 ## Most scenes shared with
 

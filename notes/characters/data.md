@@ -12,16 +12,16 @@
 
 ## Key facts
 
-- Android created by Dr Noonien Soong on the Omicron Theta colony; second officer and operations officer; aspires to be more human.
-- Has a 'brother', Lore, an earlier and emotionally unstable prototype (*Datalore*, *Brothers*, *Descent*).
-- Declared a sentient being with rights, not Starfleet property, in a hearing brought by Commander Maddox (*The Measure of a Man*).
-- Built a daughter, Lal, who died of cascade failure (*The Offspring*).
-- Meets his creator Soong, who built him an emotion chip; Lore steals it (*Brothers*) and Data recovers it in *Descent*.
-- Discovers his 'mother' Juliana Tainer is herself an android (*Inheritance*).
-- Owns the cat Spot; paints, plays violin, writes poetry ('Ode to Spot'), performs Sherlock Holmes on the holodeck with Geordi.
-- Cannot use contractions (a plot point in *Datalore* and *Future Imperfect*); develops a dream program (*Birthright*, *Phantasms*).
-- Commands the USS Sutherland in the blockade of the Klingon civil war (*Redemption II*); takes on multiple personas in *Masks*.
-- Brief intimate encounter with Tasha Yar under the polywater intoxication (*The Naked Now*).
+- Android created by Dr Noonien Soong on the Omicron Theta colony; second officer and operations officer; aspires to be more human. <span class="src">([S01E13](../../data/text/114.txt "Datalore"))</span>
+- Has a 'brother', Lore, an earlier and emotionally unstable prototype (*Datalore* <span class="src">[S01E13](../../data/text/114.txt#L328 "Datalore: LORE: Until they petitioned Soong to make a more comfortable, less perfect android. In other words, you, broth")</span>, *Brothers* <span class="src">[S04E03](../../data/text/177.txt#L460 "Brothers: DATA: I implore you, do not reactivate him.")</span>, *Descent* <span class="src">[S06E26](../../data/text/252.txt "Descent, part 1") · [S07E01](../../data/text/253.txt "Descent, part 2")</span>).
+- Declared a sentient being with rights, not Starfleet property, in a hearing brought by Commander Maddox (*The Measure of a Man* <span class="src">[S02E09](../../data/text/135.txt#L597 "The Measure of a Man: PHILLIPA: It sits there looking at me, and I don't know what it is. This case has dealt with metaphysics, with")</span>).
+- Built a daughter, Lal, who died of cascade failure (*The Offspring* <span class="src">[S03E16](../../data/text/164.txt#L587 "The Offspring: DATA: It appears to be a symptom of cascade failure. It would require initialisation the base matrix without w")</span>).
+- Meets his creator Soong, who built him an emotion chip; Lore steals it (*Brothers* <span class="src">[S04E03](../../data/text/177.txt "Brothers")</span>) and Data recovers it in *Descent* <span class="src">[S06E26](../../data/text/252.txt "Descent, part 1") · [S07E01](../../data/text/253.txt "Descent, part 2")</span>.
+- Discovers his 'mother' Juliana Tainer is herself an android (*Inheritance* <span class="src">[S07E10](../../data/text/262.txt "Inheritance")</span>).
+- Owns the cat Spot <span class="src">([S04E25](../../data/text/199.txt#L687 "In Theory: DATA: Hello, Spot."))</span>; paints, plays violin <span class="src">([S02E03](../../data/text/129.txt#L69 "Elementary, Dear Data: DATA: Primarily as Doctor Watson, you will keep a written record of everything I say and do. For later publica"))</span>, writes poetry ('Ode to Spot') <span class="src">([S06E05](../../data/text/231.txt#L49 "Schisms: DATA: Throughout the ages, from Keats to Jorkemo, poets have composed odes to individuals who have had a profo"))</span>, performs Sherlock Holmes on the holodeck with Geordi <span class="src">([S02E03](../../data/text/129.txt#L50 "Elementary, Dear Data: DATA: Computer, select at random a mystery by Sir Arthur Conan Doyle, where I will play Sherlock Holmes and Li"))</span>.
+- Cannot use contractions (a plot point in *Datalore* <span class="src">[S01E13](../../data/text/114.txt#L328 "Datalore: LORE: Until they petitioned Soong to make a more comfortable, less perfect android. In other words, you, broth")</span> and *Future Imperfect* <span class="src">[S04E08](../../data/text/182.txt "Future Imperfect")</span>); develops a dream program (*Birthright* <span class="src">[S06E16](../../data/text/242.txt "Birthright, part 1") · [S06E17](../../data/text/243.txt "Birthright, part 2")</span>, *Phantasms* <span class="src">[S07E06](../../data/text/258.txt#L46 "Phantasms: DATA: I have had one hundred eleven dreams since I first discovered this programme nine months ago. In all of ")</span>).
+- Commands the USS Sutherland in the blockade of the Klingon civil war (*Redemption II* <span class="src">[S05E01](../../data/text/201.txt "Redemption part 2")</span>); takes on multiple personas in *Masks* <span class="src">[S07E17](../../data/text/269.txt "Masks")</span>.
+- Brief intimate encounter with Tasha Yar under the polywater intoxication (*The Naked Now* <span class="src">[S01E03](../../data/text/103.txt "The Naked Now")</span>).
 
 ## Rank and role timeline
 
@@ -31,15 +31,15 @@
 
 ## Relationships
 
-- [Lieutenant Commander Geordi La Forge](laforge.md): best friend
-- [Lore](lore.md): brother
-- [Dr Noonien Soong](soong.md): creator and 'father'
-- [Juliana Tainer](juliana.md): 'mother'
-- [Lal](lal.md): daughter
-- [Lieutenant Natasha 'Tasha' Yar](tasha.md): intimate encounter, kept her holo-image
-- [Ensign Jenna D'Sora](jenna.md): girlfriend briefly
-- [Dr Katherine Pulaski](pulaski.md) lists this character as: android she dismissed at first, then respected
-- [Professor James Moriarty](moriarty.md) lists this character as: adversary
+- [Lieutenant Commander Geordi La Forge](laforge.md): best friend <span class="src">([Memory Alpha: Geordi La Forge](https://memory-alpha.fandom.com/wiki/Geordi_La_Forge "Memory Alpha: Geordi La Forge: helped his best friend Data") · [Memory Alpha: Data](https://memory-alpha.fandom.com/wiki/Data "Memory Alpha: Data: Data's closest friend during his time aboard the Enterprise was Geordi La Forge"))</span>
+- [Lore](lore.md): brother <span class="src">([Memory Alpha: Lore](https://memory-alpha.fandom.com/wiki/Lore "Memory Alpha: Lore: Soong set about constructing Lore's brother, Data") · [Memory Alpha: Data](https://memory-alpha.fandom.com/wiki/Data "Memory Alpha: Data: Discovered his first brother, Lore, on Omicron Theta"))</span>
+- [Dr Noonien Soong](soong.md): creator and 'father' <span class="src">([Memory Alpha: Noonien Soong](https://memory-alpha.fandom.com/wiki/Noonien_Soong "Memory Alpha: Noonien Soong: create a perfect emotion chip for his son Data") · [Memory Alpha: Lore](https://memory-alpha.fandom.com/wiki/Lore "Memory Alpha: Lore: Soong set about constructing Lore's brother, Data"))</span>
+- [Juliana Tainer](juliana.md): 'mother' <span class="src">([Memory Alpha: Juliana Tainer](https://memory-alpha.fandom.com/wiki/Juliana_Tainer "Memory Alpha: Juliana Tainer: helped create the android Data") · [Memory Alpha: Data](https://memory-alpha.fandom.com/wiki/Data "Memory Alpha: Data: Juliana had come to view Data as her beloved son"))</span>
+- [Lal](lal.md): daughter <span class="src">([Memory Alpha: Lal](https://memory-alpha.fandom.com/wiki/Lal "Memory Alpha: Lal: Data's eventual hope was that someday his daughter would enter Starfleet Academy") · [Memory Alpha: Data](https://memory-alpha.fandom.com/wiki/Data "Memory Alpha: Data: Data designed and built his daughter, whom Data named Lal"))</span>
+- [Lieutenant Natasha 'Tasha' Yar](tasha.md): intimate encounter, kept her holo-image <span class="src">([Memory Alpha: Natasha Yar](https://memory-alpha.fandom.com/wiki/Natasha_Yar "Memory Alpha: Natasha Yar: later mentioned that he and Tasha were intimate"))</span>
+- [Ensign Jenna D'Sora](jenna.md): girlfriend briefly <span class="src">([Memory Alpha: Jenna D'Sora](https://memory-alpha.fandom.com/wiki/Jenna_D%27Sora "Memory Alpha: Jenna D'Sora: found herself falling in love with Lieutenant Commander Data") · [Memory Alpha: Data](https://memory-alpha.fandom.com/wiki/Data "Memory Alpha: Data: He maintained a relationship with Jenna D'Sora, but it did not last long"))</span>
+- [Dr Katherine Pulaski](pulaski.md): doctor who dismissed him as a machine at first, then respected him <span class="src">([Memory Alpha: Data](https://memory-alpha.fandom.com/wiki/Data "Memory Alpha: Data: she was not very kind toward Data, because of her discomfort with technology") · [Memory Alpha: Katherine Pulaski](https://memory-alpha.fandom.com/wiki/Katherine_Pulaski "Memory Alpha: Katherine Pulaski: was not very kind towards Lieutenant Commander Data when she first boarded the ship"))</span>
+- [Professor James Moriarty](moriarty.md): adversary <span class="src">([Memory Alpha: James Moriarty (hologram)](https://memory-alpha.fandom.com/wiki/James_Moriarty_%28hologram%29 "Memory Alpha: James Moriarty (hologram): an adversary capable of outwitting Data"))</span>
 
 ## Most scenes shared with
 

@@ -12,7 +12,7 @@
 
 ## Key facts
 
-- Original-series chief engineer recovered from a transporter pattern buffer after 75 years (*Relics*).
+- Original-series chief engineer recovered from a transporter pattern buffer after 75 years (*Relics* <span class="src">[S06E04](../../data/text/230.txt#L76 "Relics: RIKER: Could someone survive inside a transporter buffer for seventy five years?")</span>). <span class="src">([S06E04](../../data/text/230.txt#L76 "Relics: RIKER: Could someone survive inside a transporter buffer for seventy five years?"))</span>
 
 ## Rank and role timeline
 
@@ -22,7 +22,7 @@
 
 ## Relationships
 
-- [Lieutenant Commander Geordi La Forge](laforge.md): fellow engineer
+- [Lieutenant Commander Geordi La Forge](laforge.md): fellow engineer <span class="src">([Memory Alpha: Geordi La Forge](https://memory-alpha.fandom.com/wiki/Geordi_La_Forge "Memory Alpha: Geordi La Forge: forged an unlikely bond with fellow Enterprise Chief Engineer Montgomery Scott") · [Memory Alpha: Montgomery Scott](https://memory-alpha.fandom.com/wiki/Montgomery_Scott "Memory Alpha: Montgomery Scott: he requested a temporary transfer of his crew: Commander Geordi La Forge"))</span>
 
 ## Most scenes shared with
 

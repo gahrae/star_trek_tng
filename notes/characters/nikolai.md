@@ -9,13 +9,13 @@
 
 ## Key facts
 
-- Worf's human foster brother, a cultural observer on Boraal II who broke the Prime Directive to live among the villagers.
-- Smuggles a village onto the holodeck when the planet's atmosphere dies and guides them to a new world.
-- Stays with them, expecting a child with a Boraalan woman (*Homeward*).
+- Worf's human foster brother, a cultural observer on Boraal II who broke the Prime Directive to live among the villagers. <span class="src">([S07E13](../../data/text/265.txt "Homeward"))</span>
+- Smuggles a village onto the holodeck when the planet's atmosphere dies and guides them to a new world. <span class="src">([S07E13](../../data/text/265.txt "Homeward"))</span>
+- Stays with them, expecting a child with a Boraalan woman (*Homeward* <span class="src">[S07E13](../../data/text/265.txt "Homeward")</span>).
 
 ## Relationships
 
-- [Lieutenant Worf](worf.md) lists this character as: adoptive brother
+- [Lieutenant Worf](worf.md): adoptive brother <span class="src">([Memory Alpha: Nikolai Rozhenko](https://memory-alpha.fandom.com/wiki/Nikolai_Rozhenko "Memory Alpha: Nikolai Rozhenko: he became the foster brother of a Klingon child named Worf") · [Memory Alpha: Worf](https://memory-alpha.fandom.com/wiki/Worf "Memory Alpha: Worf: Worf had a contentious relationship with his elder foster-brother, Nikolai"))</span>
 
 ## Most scenes shared with
 

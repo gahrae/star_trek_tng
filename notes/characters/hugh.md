@@ -12,13 +12,13 @@
 
 ## Key facts
 
-- Borg drone rescued and taught individuality by Geordi and the crew (*I, Borg*); later leads Borg freed from Lore's control (*Descent*).
+- Borg drone rescued and taught individuality by Geordi and the crew (*I, Borg* <span class="src">[S05E23](../../data/text/223.txt#L415 "I, Borg: LAFORGE: All right, think of it this way. Every time you talk about yourself, you use the word we. We want thi")</span>); later leads Borg freed from Lore's control (*Descent* <span class="src">[S06E26](../../data/text/252.txt "Descent, part 1") · [S07E01](../../data/text/253.txt "Descent, part 2")</span>).
 
 ## Relationships
 
-- [Lieutenant Commander Geordi La Forge](laforge.md): friend
-- [Lore](lore.md): former master
-- [Guinan](guinan.md) lists this character as: Borg she was hostile to, then accepted
+- [Lieutenant Commander Geordi La Forge](laforge.md): friend <span class="src">([Memory Alpha: Geordi La Forge](https://memory-alpha.fandom.com/wiki/Geordi_La_Forge "Memory Alpha: Geordi La Forge: those he felt towards his friend Geordi"))</span>
+- [Lore](lore.md): former master <span class="src">([Memory Alpha: Hugh](https://memory-alpha.fandom.com/wiki/Hugh "Memory Alpha: Hugh: Lore took advantage of the confused drones and assumed leadership of the group"))</span>
+- [Guinan](guinan.md): was hostile to him at first, then accepted him <span class="src">([Memory Alpha: Hugh](https://memory-alpha.fandom.com/wiki/Hugh "Memory Alpha: Hugh: Guinan, who originally wanted nothing to do with Hugh, taught him that resistance was not futile") · [Memory Alpha: Guinan](https://memory-alpha.fandom.com/wiki/Guinan "Memory Alpha: Guinan: Guinan initially questioned Picard's decision in that matter"))</span>
 
 ## Most scenes shared with
 

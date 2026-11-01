@@ -9,13 +9,13 @@
 
 ## Key facts
 
-- Arrives claiming to be gin'tak, a trusted adviser to the House of Mogh sent by Kurn, saying the Duras sisters were behind the attack on Worf's family.
-- Actually Alexander himself, forty years older, come back to make the boy a warrior and prevent Worf's future death.
-- Worf refuses to change his son, and K'mtar leaves (*Firstborn*).
+- Arrives claiming to be gin'tak, a trusted adviser to the House of Mogh sent by Kurn, saying the Duras sisters were behind the attack on Worf's family. <span class="src">([S07E21](../../data/text/273.txt#L169 "Firstborn: WORF: He is gin'tak to the house of Mogh."))</span>
+- Actually Alexander himself, forty years older, come back to make the boy a warrior and prevent Worf's future death. <span class="src">([S07E21](../../data/text/273.txt#L570 "Firstborn: K'MTAR: I am your son Alexander. I have come to this time from forty years in the future."))</span>
+- Worf refuses to change his son, and K'mtar leaves (*Firstborn* <span class="src">[S07E21](../../data/text/273.txt "Firstborn")</span>).
 
 ## Relationships
 
-- [Alexander Rozhenko](alexander.md) lists this character as: his own future self
+- [Alexander Rozhenko](alexander.md): his younger self <span class="src">([Memory Alpha: K'mtar](https://memory-alpha.fandom.com/wiki/K%27mtar "Memory Alpha: K'mtar: K'mtar was an alias briefly used by Alexander Rozhenko when he traveled back in time to 2370") · [Memory Alpha: Alexander Rozhenko](https://memory-alpha.fandom.com/wiki/Alexander_Rozhenko "Memory Alpha: Alexander Rozhenko: an adult Alexander, who had traveled back in time from forty years in the future"))</span>
 
 ## Most scenes shared with
 

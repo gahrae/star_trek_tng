@@ -12,15 +12,15 @@
 
 ## Key facts
 
-- Data's earlier prototype, built with emotions, which made him unstable; betrayed the Omicron Theta colonists to the Crystalline Entity (*Datalore*).
-- Murders Dr Soong and steals Data's emotion chip (*Brothers*).
-- Leads a faction of rogue Borg and uses the chip to control Data (*Descent*); finally deactivated by Data.
+- Data's earlier prototype, built with emotions, which made him unstable; betrayed the Omicron Theta colonists to the Crystalline Entity (*Datalore* <span class="src">[S01E13](../../data/text/114.txt#L400 "Datalore: LORE: And let us toast also the great Crystal Entity with whom I learned to communicate. Before Doctor Soong d")</span>).
+- Murders Dr Soong and steals Data's emotion chip (*Brothers* <span class="src">[S04E03](../../data/text/177.txt "Brothers")</span>).
+- Leads a faction of rogue Borg and uses the chip to control Data (*Descent* <span class="src">[S06E26](../../data/text/252.txt "Descent, part 1") · [S07E01](../../data/text/253.txt "Descent, part 2")</span>); finally deactivated by Data.
 
 ## Relationships
 
-- [Lieutenant Commander Data](data.md): brother
-- [Dr Noonien Soong](soong.md): creator, whom he killed
-- [Hugh](hugh.md): Borg follower who turned on him
+- [Lieutenant Commander Data](data.md): brother <span class="src">([Memory Alpha: Data](https://memory-alpha.fandom.com/wiki/Data "Memory Alpha: Data: Discovered his first brother, Lore, on Omicron Theta") · [Memory Alpha: Lore](https://memory-alpha.fandom.com/wiki/Lore "Memory Alpha: Lore: constructing Lore's brother, Data"))</span>
+- [Dr Noonien Soong](soong.md): creator, whom he attacked as he lay dying <span class="src">([Memory Alpha: Noonien Soong](https://memory-alpha.fandom.com/wiki/Noonien_Soong "Memory Alpha: Noonien Soong: attacked Soong, hastening his death"))</span>
+- [Hugh](hugh.md): Borg follower who turned on him <span class="src">([Memory Alpha: Hugh](https://memory-alpha.fandom.com/wiki/Hugh "Memory Alpha: Hugh: Hugh disapproved of Lore's leadership") · [Memory Alpha: Lore](https://memory-alpha.fandom.com/wiki/Lore "Memory Alpha: Lore: integrating Hugh's sense of individuality into the hive"))</span>
 
 ## Most scenes shared with
 

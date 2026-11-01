@@ -12,16 +12,16 @@
 
 ## Key facts
 
-- Chief medical officer in seasons 1 and 3-7; absent in season 2 while heading Starfleet Medical (replaced by Dr Pulaski).
-- Widow of Jack Crusher, who died under Picard's command on the Stargazer; mother of Wesley.
-- Runs the ship's theatre company and is a former award-winning dancer, embarrassed by the nickname 'the Dancing Doctor' (*Data's Day*).
-- Trapped in a collapsing warp bubble of her own making (*Remember Me*).
-- Falls for the Trill ambassador Odan, who moves from host to host (*The Host*).
-- Clashes with Dr Toby Russell over experimental treatment of Worf (*Ethics*).
-- Investigates a Ferengi scientist's death and performs an autopsy against orders (*Suspicions*).
-- Visits her grandmother's home on Caldos and is seduced by an anaphasic entity (*Sub Rosa*).
-- Takes command of the Enterprise while the senior staff are away searching for Data on the renegade Borg planet (*Descent*).
-- Telepathically linked to Picard, confirming their mutual feelings (*Attached*).
+- Chief medical officer in seasons 1 and 3-7; absent in season 2 while heading Starfleet Medical (replaced by Dr Pulaski) <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Beverly_Crusher "Memory Alpha: Beverly Crusher: She was replaced by Dr. Katherine Pulaski"))</span>.
+- Widow of Jack Crusher <span class="src">([S01E25](../../data/text/125.txt#L192 "Conspiracy: PICARD: Friends, close friends, are few and far between. Two of the oldest and closest are Jack Crusher, may h"))</span>, who died under Picard's command on the Stargazer; mother of Wesley.
+- Runs the ship's theatre company and is a former award-winning dancer, embarrassed by the nickname 'the Dancing Doctor' (*Data's Day* <span class="src">[S04E11](../../data/text/185.txt#L176 "Data's Day: CRUSHER: It's just that, that was a long time ago, and I don't want to be known as the dancing doctor. Again.")</span>).
+- Trapped in a collapsing warp bubble of her own making (*Remember Me* <span class="src">[S04E05](../../data/text/179.txt "Remember Me")</span>).
+- Falls for the Trill ambassador Odan, who moves from host to host (*The Host* <span class="src">[S04E23](../../data/text/197.txt#L270 "The Host: ODAN: This body is just a host. I am that parasite. That is what must survive. It has always been this way. Th")</span>).
+- Clashes with Dr Toby Russell over experimental treatment of Worf (*Ethics* <span class="src">[S05E16](../../data/text/216.txt#L132 "Ethics: RUSSELL: The early results have been very encouraging. Beverly, the genetronic replicator can create a complet")</span>).
+- Investigates a Ferengi scientist's death and performs an autopsy against orders (*Suspicions* <span class="src">[S06E22](../../data/text/248.txt#L347 "Suspicions: PICARD: Beverly. I'm afraid there will be no autopsy. The family has already been contacted. They insist that ")</span>).
+- Visits her grandmother's home on Caldos and is seduced by an anaphasic entity (*Sub Rosa* <span class="src">[S07E14](../../data/text/266.txt "Sub Rosa")</span>).
+- Takes command of the Enterprise while the senior staff are away searching for Data on the renegade Borg planet (*Descent* <span class="src">[S06E26](../../data/text/252.txt "Descent, part 1") · [S07E01](../../data/text/253.txt "Descent, part 2")</span>).
+- Telepathically linked to Picard, confirming their mutual feelings (*Attached* <span class="src">[S07E08](../../data/text/260.txt#L503 "Attached: PICARD: I felt guilty before he died> Having feelings like that for my best friend's wife. And then later, aft")</span>).
 
 ## Rank and role timeline
 
@@ -33,12 +33,12 @@
 
 ## Relationships
 
-- [Wesley Crusher](wesley.md): son
-- [Jack Crusher](jack.md): late husband
-- [Captain Jean-Luc Picard](picard.md): close friend, mutual attraction
-- [Ambassador Odan](odan.md): lover
-- [Nurse Alyssa Ogawa](ogawa.md): nurse and colleague
-- [Ronin](ronin.md): entity that seduced her
+- [Wesley Crusher](wesley.md): son <span class="src">([Memory Alpha: Wesley Crusher](https://memory-alpha.fandom.com/wiki/Wesley_Crusher "Memory Alpha: Wesley Crusher: his mother, Doctor Beverly Crusher") · [Memory Alpha: Beverly Crusher](https://memory-alpha.fandom.com/wiki/Beverly_Crusher "Memory Alpha: Beverly Crusher: the Crushers welcomed a son, Wesley Crusher, in 2348"))</span>
+- [Jack Crusher](jack.md): late husband <span class="src">([Memory Alpha: Jack R. Crusher](https://memory-alpha.fandom.com/wiki/Jack_R._Crusher "Memory Alpha: Jack R. Crusher: He was husband to Beverly Crusher and father to Wesley Crusher") · [Memory Alpha: Beverly Crusher](https://memory-alpha.fandom.com/wiki/Beverly_Crusher "Memory Alpha: Beverly Crusher: whom she named Jack after her deceased husband"))</span>
+- [Captain Jean-Luc Picard](picard.md): close friend, mutual attraction <span class="src">([Memory Alpha: Jean-Luc Picard](https://memory-alpha.fandom.com/wiki/Jean-Luc_Picard "Memory Alpha: Jean-Luc Picard: Beverly Crusher and Picard maintained a close friendship while serving on the Enterprise-D") · [Memory Alpha: Beverly Crusher](https://memory-alpha.fandom.com/wiki/Beverly_Crusher "Memory Alpha: Beverly Crusher: Beverly and Jean-Luc maintained a close friendship while serving on the Enterprise-D"))</span>
+- [Ambassador Odan](odan.md): lover <span class="src">([Memory Alpha: Odan](https://memory-alpha.fandom.com/wiki/Odan "Memory Alpha: Odan: Odan and Doctor Beverly Crusher had begun a relationship") · [Memory Alpha: Beverly Crusher](https://memory-alpha.fandom.com/wiki/Beverly_Crusher "Memory Alpha: Beverly Crusher: she began a relationship with Odan"))</span>
+- [Nurse Alyssa Ogawa](ogawa.md): nurse and colleague <span class="src">([Memory Alpha: Alyssa Ogawa](https://memory-alpha.fandom.com/wiki/Alyssa_Ogawa "Memory Alpha: Alyssa Ogawa: Beverly Crusher also considered Ogawa a friend") · [Memory Alpha: Beverly Crusher](https://memory-alpha.fandom.com/wiki/Beverly_Crusher "Memory Alpha: Beverly Crusher: especially close to Nurse Alyssa Ogawa"))</span>
+- [Ronin](ronin.md): entity that seduced her <span class="src">([Memory Alpha: Ronin](https://memory-alpha.fandom.com/wiki/Ronin "Memory Alpha: Ronin: Ronin moved on to her granddaughter, Beverly Crusher") · [Memory Alpha: Beverly Crusher](https://memory-alpha.fandom.com/wiki/Beverly_Crusher "Memory Alpha: Beverly Crusher: due to the influence of Ronin"))</span>
 
 ## Most scenes shared with
 

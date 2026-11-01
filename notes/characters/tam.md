@@ -8,9 +8,9 @@
 
 ## Key facts
 
-- Betazoid born with his telepathy fully active, unable to shut out other minds, with a troubled Starfleet record.
-- Sent to contact Tin Man, a living ship named Gomtuu that has lost its crew, before the Romulans claim it.
-- Chooses to stay inside Gomtuu, each ending the other's loneliness (*Tin Man*).
+- Betazoid born with his telepathy fully active, unable to shut out other minds, with a troubled Starfleet record. <span class="src">([S03E20](../../data/text/168.txt "Tin Man"))</span>
+- Sent to contact Tin Man, a living ship named Gomtuu that has lost its crew, before the Romulans claim it. <span class="src">([S03E20](../../data/text/168.txt "Tin Man"))</span>
+- Chooses to stay inside Gomtuu, each ending the other's loneliness (*Tin Man* <span class="src">[S03E20](../../data/text/168.txt "Tin Man")</span>).
 
 ## Most scenes shared with
 

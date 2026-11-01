@@ -12,14 +12,14 @@
 
 ## Key facts
 
-- Born blind; sees through a VISOR that feeds data to his brain (*Encounter at Farpoint* onward; the VISOR is exploited by Romulans in *The Mind's Eye*).
-- Season 1 helmsman (flight controller); chief engineer from season 2.
-- Closest friend to Data; Sherlock Holmes holodeck partner (*Elementary, Dear Data*, *Ship in a Bottle*).
-- Mother, Captain Silva La Forge, is lost with the USS Hera (*Interface*); father is an exozoologist.
-- Created a holodeck version of engine designer Dr Leah Brahms (*Booby Trap*) and later met the real one (*Galaxy's Child*).
-- Brainwashed by the Romulans into attempting an assassination (*The Mind's Eye*).
-- Trapped out of phase with Ro Laren (*The Next Phase*); mentors Reginald Barclay (*Hollow Pursuits*).
-- Stranded with a Romulan on Galorndon Core and forced to cooperate (*The Enemy*).
+- Born blind; sees through a VISOR that feeds data to his brain (*Encounter at Farpoint* <span class="src">[S01E01-E02](../../data/text/101.txt "Encounter at Farpoint")</span> onward; the VISOR is exploited by Romulans in *The Mind's Eye* <span class="src">[S04E24](../../data/text/198.txt#L677 "The Mind's Eye: DATA: No, sir, you did not. I do not believe the Commander is acting of his own accord. He has been receiving ")</span>).
+- Season 1 helmsman (flight controller) <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Geordi_La_Forge "Memory Alpha: Geordi La Forge: helmsman of the USS Enterprise-D, during 2364"))</span>; chief engineer from season 2 <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Geordi_La_Forge "Memory Alpha: Geordi La Forge: rising to become the chief engineer of the Enterprise-D"))</span>.
+- Closest friend to Data; Sherlock Holmes holodeck partner (*Elementary, Dear Data* <span class="src">[S02E03](../../data/text/129.txt#L50 "Elementary, Dear Data: DATA: Computer, select at random a mystery by Sir Arthur Conan Doyle, where I will play Sherlock Holmes and Li")</span>, *Ship in a Bottle* <span class="src">[S06E12](../../data/text/238.txt#L54 "Ship in a Bottle: DATA: Sherlock Holmes programme three A has demonstrated some very curious anomalies.")</span>).
+- Mother, Captain Silva La Forge, is lost with the USS Hera (*Interface* <span class="src">[S07E03](../../data/text/255.txt#L262 "Interface: DR LA FORGE: Starfleet is considering the Hera lost. The search isn't much more than a formality at this point")</span>); father is an exozoologist.
+- Created a holodeck version of engine designer Dr Leah Brahms (*Booby Trap* <span class="src">[S03E06](../../data/text/154.txt#L555 "Booby Trap: LAFORGE: Captain. Captain, this is a holographic simulation of one of the propulsion experts who designed the ")</span>) and later met the real one (*Galaxy's Child* <span class="src">[S04E16](../../data/text/190.txt "Galaxy's Child")</span>).
+- Brainwashed by the Romulans into attempting an assassination (*The Mind's Eye* <span class="src">[S04E24](../../data/text/198.txt#L677 "The Mind's Eye: DATA: No, sir, you did not. I do not believe the Commander is acting of his own accord. He has been receiving ")</span>).
+- Trapped out of phase with Ro Laren (*The Next Phase* <span class="src">[S05E24](../../data/text/224.txt "The Next Phase")</span>); mentors Reginald Barclay (*Hollow Pursuits* <span class="src">[S03E21](../../data/text/169.txt "Hollow Pursuits")</span>).
+- Stranded with a Romulan on Galorndon Core and forced to cooperate (*The Enemy* <span class="src">[S03E07](../../data/text/155.txt#L172 "The Enemy: PICARD: Are there any other Romulans we should be looking to recover from Galorndon Core?")</span>).
 
 ## Rank and role timeline
 
@@ -31,13 +31,13 @@
 
 ## Relationships
 
-- [Lieutenant Commander Data](data.md): best friend
-- [Dr Leah Brahms](leah.md): infatuation, then friendship
-- [Lieutenant Reginald Barclay](barclay.md): protégé
-- [Hugh](hugh.md): Borg he befriended
-- [Ensign Ro Laren](ro.md): trapped out of phase together
-- [Captain Silva La Forge](silva.md): mother
-- [Captain Montgomery Scott](scott.md) lists this character as: fellow engineer
+- [Lieutenant Commander Data](data.md): best friend <span class="src">([Memory Alpha: Data](https://memory-alpha.fandom.com/wiki/Data "Memory Alpha: Data: Data's closest friend during his time aboard the Enterprise was Geordi La Forge") · [Memory Alpha: Geordi La Forge](https://memory-alpha.fandom.com/wiki/Geordi_La_Forge "Memory Alpha: Geordi La Forge: helped his best friend Data"))</span>
+- [Dr Leah Brahms](leah.md): infatuation, then friendship <span class="src">([Memory Alpha: Leah Brahms](https://memory-alpha.fandom.com/wiki/Leah_Brahms "Memory Alpha: Leah Brahms: he admits his love for Brahms, but assures her that he expects nothing in return"))</span>
+- [Lieutenant Reginald Barclay](barclay.md): protégé <span class="src">([Memory Alpha: Reginald Barclay](https://memory-alpha.fandom.com/wiki/Reginald_Barclay "Memory Alpha: Reginald Barclay: Geordi La Forge's encouragement") · [Memory Alpha: Geordi La Forge](https://memory-alpha.fandom.com/wiki/Geordi_La_Forge "Memory Alpha: Geordi La Forge: Geordi became friends with the extremely shy and nervous genius Reginald Barclay"))</span>
+- [Hugh](hugh.md): Borg he befriended <span class="src">([Memory Alpha: Hugh](https://memory-alpha.fandom.com/wiki/Hugh "Memory Alpha: Hugh: La Forge gave Hugh his name") · [Memory Alpha: Geordi La Forge](https://memory-alpha.fandom.com/wiki/Geordi_La_Forge "Memory Alpha: Geordi La Forge: those he felt towards his friend Geordi"))</span>
+- [Ensign Ro Laren](ro.md): trapped out of phase together <span class="src">([Memory Alpha: Geordi La Forge](https://memory-alpha.fandom.com/wiki/Geordi_La_Forge "Memory Alpha: Geordi La Forge: La Forge and Ro Laren disappeared during a transporter cycle"))</span>
+- [Captain Silva La Forge](silva.md): mother <span class="src">([Memory Alpha: Silva La Forge](https://memory-alpha.fandom.com/wiki/Silva_La_Forge "Memory Alpha: Silva La Forge: had two children, son Geordi, and daughter Ariana") · [Memory Alpha: Geordi La Forge](https://memory-alpha.fandom.com/wiki/Geordi_La_Forge "Memory Alpha: Geordi La Forge: to parents Captain Silva La Forge"))</span>
+- [Captain Montgomery Scott](scott.md): fellow engineer <span class="src">([Memory Alpha: Geordi La Forge](https://memory-alpha.fandom.com/wiki/Geordi_La_Forge "Memory Alpha: Geordi La Forge: forged an unlikely bond with fellow Enterprise Chief Engineer Montgomery Scott") · [Memory Alpha: Montgomery Scott](https://memory-alpha.fandom.com/wiki/Montgomery_Scott "Memory Alpha: Montgomery Scott: he requested a temporary transfer of his crew: Commander Geordi La Forge"))</span>
 
 ## Most scenes shared with
 

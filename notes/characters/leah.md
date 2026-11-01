@@ -12,11 +12,11 @@
 
 ## Key facts
 
-- Designer of the Enterprise's warp engines; Geordi builds a holodeck version of her and is embarrassed when the real, married Brahms visits (*Booby Trap*, *Galaxy's Child*).
+- Designer of the Enterprise's warp engines; Geordi builds a holodeck version of her and is embarrassed when the real, married Brahms visits (*Booby Trap* <span class="src">[S03E06](../../data/text/154.txt#L254 "Booby Trap: LAFORGE: Computer, who is this L. Brahms?")</span>, *Galaxy's Child* <span class="src">[S04E16](../../data/text/190.txt#L36 "Galaxy's Child: LAFORGE: You remember about a year ago when we were caught in that booby trap the Menthars set? Okay. While we")</span>).
 
 ## Relationships
 
-- [Lieutenant Commander Geordi La Forge](laforge.md): admirer, who built a holodeck version of her
+- [Lieutenant Commander Geordi La Forge](laforge.md): admirer, who built a holodeck version of her <span class="src">([Memory Alpha: Geordi La Forge](https://memory-alpha.fandom.com/wiki/Geordi_La_Forge "Memory Alpha: Geordi La Forge: Geordi became strongly attracted to Brahms") · [Memory Alpha: Leah Brahms](https://memory-alpha.fandom.com/wiki/Leah_Brahms "Memory Alpha: Leah Brahms: he admits his love for Brahms"))</span>
 
 ## Most scenes shared with
 

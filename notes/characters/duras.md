@@ -9,15 +9,15 @@
 
 ## Key facts
 
-- Klingon councillor from a powerful house; his father Ja'rod betrayed Khitomer to the Romulans.
-- Has Worf's father blamed instead, and K'Ehleyr murdered when she uncovers the truth.
-- Challenged and killed by Worf under the right of vengeance (*Sins of the Father*, *Reunion*).
+- Klingon councillor from a powerful house; his father Ja'rod betrayed Khitomer to the Romulans <span class="src">([S03E17](../../data/text/165.txt#L204 "Sins Of The Father: WORF: I do not know, Captain. I will hear the evidence when I arrive. The charge has been made by Duras, the s"))</span>.
+- Has Worf's father blamed instead <span class="src">([S03E17](../../data/text/165.txt#L433 "Sins Of The Father: DURAS: Another witness has testified that Mogh often spoke of his admiration for the Romulans. Their culture. "))</span>, and K'Ehleyr murdered when she uncovers the truth <span class="src">([S04E07](../../data/text/181.txt "Reunion"))</span>.
+- Challenged and killed by Worf under the right of vengeance (*Sins of the Father* <span class="src">[S03E17](../../data/text/165.txt "Sins Of The Father")</span>, *Reunion* <span class="src">[S04E07](../../data/text/181.txt "Reunion")</span>).
 
 ## Relationships
 
-- [Lieutenant Worf](worf.md) lists this character as: enemy, killed by Worf
-- [Gowron](gowron.md) lists this character as: rival
-- [K'Ehleyr](k-ehleyr.md) lists this character as: killer
+- [Lieutenant Worf](worf.md): enemy who killed him <span class="src">([Memory Alpha: Duras, son of Ja'rod](https://memory-alpha.fandom.com/wiki/Duras,_son_of_Ja%27rod "Memory Alpha: Duras, son of Ja'rod: was quickly killed, impaled on Worf's bat'leth") · [Memory Alpha: Worf](https://memory-alpha.fandom.com/wiki/Worf "Memory Alpha: Worf: he killed Duras in an honor duel"))</span>
+- [Gowron](gowron.md): rival <span class="src">([Memory Alpha: Duras, son of Ja'rod](https://memory-alpha.fandom.com/wiki/Duras,_son_of_Ja%27rod "Memory Alpha: Duras, son of Ja'rod: Duras came aboard Picard's ship, the USS Enterprise-D, from the IKS Vorn to compete in the Rite of Succession, as did Gowron") · [Memory Alpha: Gowron](https://memory-alpha.fandom.com/wiki/Gowron "Memory Alpha: Gowron: Gowron and Duras, son of Ja'rod, became the two leading candidates for leadership of the council"))</span>
+- [K'Ehleyr](k-ehleyr.md): victim, murdered when she uncovered the truth <span class="src">([Memory Alpha: K'Ehleyr](https://memory-alpha.fandom.com/wiki/K%27Ehleyr "Memory Alpha: K'Ehleyr: Duras attacked K'Ehleyr in her quarters and killed her"))</span>
 
 ## Most scenes shared with
 

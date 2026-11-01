@@ -9,14 +9,14 @@
 
 ## Key facts
 
-- Noonien Soong's former wife, who raised Data on Omicron Theta and left Soong afterwards.
-- Revealed to be an android Soong built after the real Juliana was injured, so faithful she does not know.
-- Data decides she should go on believing she is human (*Inheritance*).
+- Noonien Soong's former wife, who raised Data on Omicron Theta and left Soong afterwards. <span class="src">([S07E10](../../data/text/262.txt "Inheritance"))</span>
+- Revealed to be an android Soong built after the real Juliana was injured, so faithful she does not know. <span class="src">([S07E10](../../data/text/262.txt#L517 "Inheritance: SOONG: She was injured when the Crystalline Entity attacked. We made it as far as Terlina Three but, she slipp"))</span>
+- Data decides she should go on believing she is human (*Inheritance* <span class="src">[S07E10](../../data/text/262.txt "Inheritance")</span>).
 
 ## Relationships
 
-- [Lieutenant Commander Data](data.md) lists this character as: 'mother'
-- [Dr Noonien Soong](soong.md) lists this character as: former wife
+- [Lieutenant Commander Data](data.md): 'son' <span class="src">([Memory Alpha: Juliana Tainer](https://memory-alpha.fandom.com/wiki/Juliana_Tainer "Memory Alpha: Juliana Tainer: helped create the android Data") · [Memory Alpha: Data](https://memory-alpha.fandom.com/wiki/Data "Memory Alpha: Data: Juliana had come to view Data as her beloved son"))</span>
+- [Dr Noonien Soong](soong.md): former husband <span class="src">([Memory Alpha: Juliana Tainer](https://memory-alpha.fandom.com/wiki/Juliana_Tainer "Memory Alpha: Juliana Tainer: She met Doctor Noonien Soong on the colony, and the two fell in love") · [Memory Alpha: Noonien Soong](https://memory-alpha.fandom.com/wiki/Noonien_Soong "Memory Alpha: Noonien Soong: Soong met and fell in love with Juliana O'Donnell and the pair married"))</span>
 
 ## Most scenes shared with
 

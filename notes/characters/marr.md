@@ -9,9 +9,9 @@
 
 ## Key facts
 
-- Xenologist who has studied the Crystalline Entity since it killed the Omicron Theta colonists, including her son Renny.
-- Data carries her son's journals in his memory, which she finds both comforting and unbearable.
-- Destroys the Entity with a resonating graviton beam against Picard's orders, ending her career (*Silicon Avatar*).
+- Xenologist who has studied the Crystalline Entity since it killed the Omicron Theta colonists, including her son Renny. <span class="src">([S05E04](../../data/text/204.txt#L206 "Silicon Avatar: MARR: I am aware of his origins. I'm very much aware that his brother, Lore, worked with the Crystalline Entit"))</span>
+- Data carries her son's journals in his memory, which she finds both comforting and unbearable. <span class="src">([S05E04](../../data/text/204.txt "Silicon Avatar"))</span>
+- Destroys the Entity with a resonating graviton beam against Picard's orders, ending her career (*Silicon Avatar* <span class="src">[S05E04](../../data/text/204.txt "Silicon Avatar")</span>).
 
 ## Most scenes shared with
 

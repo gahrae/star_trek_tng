@@ -12,18 +12,18 @@
 
 ## Key facts
 
-- El-Aurian bartender who runs Ten Forward from season 2; centuries old; a 'listener'.
-- Her people were scattered by the Borg; she alone senses the wrongness of the altered timeline (*Yesterday's Enterprise*).
-- Met Picard in 1893 San Francisco (*Time's Arrow*); of their friendship she later says 'beyond friendship, beyond family' (*The Best of Both Worlds, Part II*).
-- Mutual hostility with Q (*Q Who*, *Deja Q*).
-- Urges Picard to talk to Hugh face to face and see him as an individual (*I, Borg*); turned into a child in *Rascals*.
+- El-Aurian bartender who runs Ten Forward from season 2 <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Guinan "Memory Alpha: Guinan: enigmatic bartender who ran Ten Forward"))</span>; centuries old <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Guinan "Memory Alpha: Guinan: born sometime prior to the 19th century"))</span>; a 'listener' <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Guinan "Memory Alpha: Guinan: race of listeners"))</span>.
+- Her people were scattered by the Borg; she alone senses the wrongness of the altered timeline (*Yesterday's Enterprise* <span class="src">[S03E15](../../data/text/163.txt "Yesterday's Enterprise")</span>).
+- Met Picard in 1893 San Francisco (*Time's Arrow* <span class="src">[S05E26](../../data/text/226.txt "Time's Arrow, part 1") · [S06E01](../../data/text/227.txt "Time's Arrow, part 2")</span>); of their friendship she later says 'beyond friendship, beyond family' (*The Best of Both Worlds, Part II* <span class="src">[S04E01](../../data/text/175.txt#L221 "Best of Both Worlds, part 2: GUINAN: Well, then let me just our relationship is beyond friendship, beyond family. And I will let him go. An")</span>).
+- Mutual hostility with Q (*Q Who* <span class="src">[S02E16](../../data/text/142.txt "Q Who?")</span>, *Deja Q* <span class="src">[S03E13](../../data/text/161.txt "Déjà Q")</span>).
+- Urges Picard to talk to Hugh face to face and see him as an individual (*I, Borg* <span class="src">[S05E23](../../data/text/223.txt "I, Borg")</span>); turned into a child in *Rascals* <span class="src">[S06E07](../../data/text/233.txt "Rascals")</span>.
 
 ## Relationships
 
-- [Captain Jean-Luc Picard](picard.md): deep friendship
-- [Q](q.md): enemy
-- [Ensign Ro Laren](ro.md): friend and confidante
-- [Hugh](hugh.md): Borg she was hostile to, then accepted
+- [Captain Jean-Luc Picard](picard.md): deep friendship <span class="src">([Memory Alpha: Jean-Luc Picard](https://memory-alpha.fandom.com/wiki/Jean-Luc_Picard "Memory Alpha: Jean-Luc Picard: Guinan and Picard shared a long-term relationship, which, according to her, went beyond friendship and beyond family") · [Memory Alpha: Guinan](https://memory-alpha.fandom.com/wiki/Guinan "Memory Alpha: Guinan: shared a long-term relationship, which, according to her, went beyond friendship and beyond family"))</span>
+- [Q](q.md): enemy <span class="src">([Memory Alpha: Q](https://memory-alpha.fandom.com/wiki/Q "Memory Alpha: Q: Q had some dealings with the El-Aurian Guinan") · [Memory Alpha: Guinan](https://memory-alpha.fandom.com/wiki/Guinan "Memory Alpha: Guinan: Her relationship with Q was evidently hostile"))</span>
+- [Ensign Ro Laren](ro.md): friend and confidante <span class="src">([Memory Alpha: Ro Laren](https://memory-alpha.fandom.com/wiki/Ro_Laren "Memory Alpha: Ro Laren: Guinan persisted despite Ro's efforts to push her away"))</span>
+- [Hugh](hugh.md): Borg she was hostile to, then accepted <span class="src">([Memory Alpha: Hugh](https://memory-alpha.fandom.com/wiki/Hugh "Memory Alpha: Hugh: Guinan, who originally wanted nothing to do with Hugh, taught him that resistance was not futile") · [Memory Alpha: Guinan](https://memory-alpha.fandom.com/wiki/Guinan "Memory Alpha: Guinan: Guinan initially questioned Picard's decision in that matter"))</span>
 
 ## Most scenes shared with
 

@@ -12,12 +12,12 @@
 
 ## Key facts
 
-- Roguish archaeologist and treasure hunter who romances Picard on Risa (*Captain's Holiday*) and leaves with Q (*Qpid*).
+- Roguish archaeologist and treasure hunter who romances Picard on Risa (*Captain's Holiday* <span class="src">[S03E19](../../data/text/167.txt "Captain's Holiday")</span>) and leaves with Q (*Qpid* <span class="src">[S04E20](../../data/text/194.txt "Qpid")</span>).
 
 ## Relationships
 
-- [Captain Jean-Luc Picard](picard.md): lover
-- [Q](q.md): companion
+- [Captain Jean-Luc Picard](picard.md): lover <span class="src">([Memory Alpha: Jean-Luc Picard](https://memory-alpha.fandom.com/wiki/Jean-Luc_Picard "Memory Alpha: Jean-Luc Picard: had a relationship with an adventurer and some-time criminal named Vash") · [Memory Alpha: Vash](https://memory-alpha.fandom.com/wiki/Vash "Memory Alpha: Vash: Vash also met Captain Jean-Luc Picard"))</span>
+- [Q](q.md): companion <span class="src">([Memory Alpha: Vash](https://memory-alpha.fandom.com/wiki/Vash "Memory Alpha: Vash: Q offered Vash a chance to accompany him exploring the universe"))</span>
 
 ## Most scenes shared with
 

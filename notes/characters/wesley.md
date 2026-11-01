@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | Transcript label | `WESLEY` |
-| Episodes | 68 of 176 speaking |
+| Episodes | 68 of 176 speaking, plus 1 non-speaking |
 | Dialogue lines | 1398 |
 | Played by | Wil Wheaton |
 | Species | Human |
@@ -12,12 +12,12 @@
 
 ## Key facts
 
-- Beverly's teenage son; made acting ensign by Picard (*Where No One Has Gone Before*) and a full ensign in *Menage a Troi*.
-- The Traveler tells Picard that Wesley is a genius with the intricacies of time, energy and propulsion (*Where No One Has Gone Before*).
-- Leaves for Starfleet Academy in season 4 (*Final Mission*).
-- As a cadet, is part of the Nova Squadron cover-up after a fatal accident (*The First Duty*).
-- Resigns from Starfleet and departs with the Traveler (*Journey's End*).
-- Often saves the ship with engineering insight; accidentally releases nanites that evolve (*Evolution*).
+- Beverly's teenage son; made acting ensign by Picard (*Where No One Has Gone Before* <span class="src">[S01E06](../../data/text/106.txt#L651 "Where No One Has Gone Before: PICARD: Well, then, I'll have to make him an acting ensign. Captain's")</span>) and a full ensign in *Menage a Troi* <span class="src">[S03E24](../../data/text/172.txt#L661 "Ménage à Troi: PICARD: The Academy must make you wait, that's true. But, when I review your service to this ship, your crewma")</span>.
+- The Traveler tells Picard that Wesley is a genius with the intricacies of time, energy and propulsion (*Where No One Has Gone Before* <span class="src">[S01E06](../../data/text/106.txt "Where No One Has Gone Before")</span>).
+- Leaves for Starfleet Academy in season 4 (*Final Mission* <span class="src">[S04E09](../../data/text/183.txt "Final Mission")</span>).
+- As a cadet, is part of the Nova Squadron cover-up after a fatal accident (*The First Duty* <span class="src">[S05E19](../../data/text/219.txt "The First Duty")</span>).
+- Resigns from Starfleet and departs with the Traveler (*Journey's End* <span class="src">[S07E20](../../data/text/272.txt "Journey's End")</span>).
+- Often saves the ship with engineering insight; accidentally releases nanites that evolve (*Evolution* <span class="src">[S03E01](../../data/text/150.txt "Evolution")</span>).
 
 ## Rank and role timeline
 
@@ -30,12 +30,12 @@
 
 ## Relationships
 
-- [Dr Beverly Crusher](crusher.md): mother
-- [The Traveler](traveller.md): guide
-- [Captain Jean-Luc Picard](picard.md): mentor
-- [Salia](salia.md): early crush
-- [Ensign Robin Lefler](robin.md): girlfriend
-- [Nicholas Locarno](locarno.md): Nova Squadron leader
+- [Dr Beverly Crusher](crusher.md): mother <span class="src">([Memory Alpha: Beverly Crusher](https://memory-alpha.fandom.com/wiki/Beverly_Crusher "Memory Alpha: Beverly Crusher: the Crushers welcomed a son, Wesley Crusher, in 2348") · [Memory Alpha: Wesley Crusher](https://memory-alpha.fandom.com/wiki/Wesley_Crusher "Memory Alpha: Wesley Crusher: his mother, Doctor Beverly Crusher"))</span>
+- [The Traveler](traveller.md): guide <span class="src">([Memory Alpha: The Traveler](https://memory-alpha.fandom.com/wiki/The_Traveler "Memory Alpha: The Traveler: The Traveler noticed something special about the young Wesley Crusher") · [Memory Alpha: Wesley Crusher](https://memory-alpha.fandom.com/wiki/Wesley_Crusher "Memory Alpha: Wesley Crusher: explore new planes of existence with The Traveler as his guide"))</span>
+- [Captain Jean-Luc Picard](picard.md): mentor <span class="src">([Memory Alpha: Wesley Crusher](https://memory-alpha.fandom.com/wiki/Wesley_Crusher "Memory Alpha: Wesley Crusher: Wesley's relationship with the Enterprise's commanding officer, Jean-Luc Picard began"))</span>
+- [Salia](salia.md): early crush <span class="src">([Memory Alpha: Salia](https://memory-alpha.fandom.com/wiki/Salia "Memory Alpha: Salia: Salia became romantically involved with Wesley Crusher") · [Memory Alpha: Wesley Crusher](https://memory-alpha.fandom.com/wiki/Wesley_Crusher "Memory Alpha: Wesley Crusher: she, too, was smitten with Wesley"))</span>
+- [Ensign Robin Lefler](robin.md): girlfriend <span class="src">([Memory Alpha: Robin Lefler](https://memory-alpha.fandom.com/wiki/Robin_Lefler "Memory Alpha: Robin Lefler: she had a brief romance with Wesley Crusher") · [Memory Alpha: Wesley Crusher](https://memory-alpha.fandom.com/wiki/Wesley_Crusher "Memory Alpha: Wesley Crusher: he developed an attraction to Ensign Robin Lefler"))</span>
+- [Nicholas Locarno](locarno.md): Nova Squadron leader <span class="src">([Memory Alpha: Nick Locarno](https://memory-alpha.fandom.com/wiki/Nick_Locarno "Memory Alpha: Nick Locarno: Locarno convinced his team members") · [Memory Alpha: Wesley Crusher](https://memory-alpha.fandom.com/wiki/Wesley_Crusher "Memory Alpha: Wesley Crusher: his well-spoken squadron leader Nicholas Locarno"))</span>
 
 ## Most scenes shared with
 
@@ -128,6 +128,14 @@
 | S05E19 | [The First Duty](../episodes/219.md) | 56 |
 | S07E11 | [Parallels](../episodes/263.md) | 15 |
 | S07E20 | [Journey's End](../episodes/272.md) | 70 |
+
+## Non-speaking appearances
+
+Episodes where the character appears without dialogue, and how we know.
+
+| Code | Episode | Source |
+|---|---|---|
+| S01E05 | [The Last Outpost](../episodes/107.md) | cast list |
 
 ## Heaviest episodes
 

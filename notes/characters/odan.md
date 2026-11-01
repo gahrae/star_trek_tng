@@ -8,11 +8,11 @@
 
 ## Key facts
 
-- Trill symbiont whom Crusher loves (*The Host*).
+- Trill symbiont whom Crusher loves (*The Host* <span class="src">[S04E23](../../data/text/197.txt#L280 "The Host: CRUSHER: Odan's host body died of the injuries just over an hour ago. But the symbiont being, Odan, is still a")</span>).
 
 ## Relationships
 
-- [Dr Beverly Crusher](crusher.md) lists this character as: lover
+- [Dr Beverly Crusher](crusher.md): lover <span class="src">([Memory Alpha: Odan](https://memory-alpha.fandom.com/wiki/Odan "Memory Alpha: Odan: Odan and Doctor Beverly Crusher had begun a relationship") · [Memory Alpha: Beverly Crusher](https://memory-alpha.fandom.com/wiki/Beverly_Crusher "Memory Alpha: Beverly Crusher: she began a relationship with Odan"))</span>
 
 ## Most scenes shared with
 

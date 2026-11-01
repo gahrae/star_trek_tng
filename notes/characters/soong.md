@@ -12,13 +12,13 @@
 
 ## Key facts
 
-- Reclusive cyberneticist who built Lore and Data; summons Data to give him an emotion chip and dies after Lore attacks him (*Brothers*).
+- Reclusive cyberneticist who built Lore and Data; summons Data to give him an emotion chip and dies after Lore attacks him (*Brothers* <span class="src">[S04E03](../../data/text/177.txt "Brothers")</span>).
 
 ## Relationships
 
-- [Lieutenant Commander Data](data.md): creation
-- [Lore](lore.md): creation
-- [Juliana Tainer](juliana.md): former wife
+- [Lieutenant Commander Data](data.md): creation <span class="src">([Memory Alpha: Noonien Soong](https://memory-alpha.fandom.com/wiki/Noonien_Soong "Memory Alpha: Noonien Soong: Soong was the designer of at least six Soong-type androids: Data, Lore"))</span>
+- [Lore](lore.md): creation <span class="src">([Memory Alpha: Lore](https://memory-alpha.fandom.com/wiki/Lore "Memory Alpha: Lore: constructed by Doctor Noonien Soong"))</span>
+- [Juliana Tainer](juliana.md): former wife <span class="src">([Memory Alpha: Juliana Tainer](https://memory-alpha.fandom.com/wiki/Juliana_Tainer "Memory Alpha: Juliana Tainer: She met Doctor Noonien Soong on the colony, and the two fell in love") · [Memory Alpha: Noonien Soong](https://memory-alpha.fandom.com/wiki/Noonien_Soong "Memory Alpha: Noonien Soong: Soong met and fell in love with Juliana O'Donnell and the pair married"))</span>
 
 ## Most scenes shared with
 

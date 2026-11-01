@@ -12,10 +12,10 @@
 
 ## Key facts
 
-- Transporter chief; first appears as an unnamed conn officer in the pilot.
-- Marries botanist Keiko Ishikawa (*Data's Day*); daughter Molly is born during *Disaster*.
-- Veteran of the Cardassian border wars, served on the USS Rutledge under Captain Maxwell; haunted by Setlik III (*The Wounded*).
-- Transfers to Deep Space Nine after the series ends (season 7).
+- Transporter chief; first appears as an unnamed conn officer in the pilot. <span class="src">([S01E01-E02](../../data/text/101.txt "Encounter at Farpoint"))</span>
+- Marries botanist Keiko Ishikawa (*Data's Day* <span class="src">[S04E11](../../data/text/185.txt#L662 "Data's Day: PICARD: Since the days of the first wooden sailing ships, all captains have enjoyed the happy privilege of joi")</span>); daughter is born during *Disaster* <span class="src">[S05E05](../../data/text/205.txt "Disaster")</span> and is named Molly in *The Game* <span class="src">[S05E06](../../data/text/206.txt#L128 "The Game: WESLEY: Congratulations on little Molly.")</span>.
+- Veteran of the Cardassian border wars, served on the USS Rutledge under Captain Maxwell; haunted by Setlik III (*The Wounded* <span class="src">[S04E12](../../data/text/186.txt#L181 "The Wounded: O'BRIEN: More like sabotage, sir. It was on Setlik Three. A squad of Cardassian militia made a sneak raid on a")</span>). <span class="src">([S04E12](../../data/text/186.txt#L177 "The Wounded: PICARD: Transporter Chief O'Brien, has served with Benjamin Maxwell. I thought that he might be able to provid"))</span>
+- Transfers to Deep Space Nine in 2369 as chief of operations <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/Miles_O%27Brien "Memory Alpha: Miles O'Brien: transferring to Deep Space 9 with a promotion"))</span>.
 
 ## Rank and role timeline
 
@@ -26,9 +26,9 @@
 
 ## Relationships
 
-- [Keiko O'Brien](keiko.md): wife
-- [Captain Benjamin Maxwell](maxwell.md): former captain
-- [Lieutenant Reginald Barclay](barclay.md): colleague he helped through transporter phobia
+- [Keiko O'Brien](keiko.md): wife <span class="src">([Memory Alpha: Keiko O'Brien](https://memory-alpha.fandom.com/wiki/Keiko_O%27Brien "Memory Alpha: Keiko O'Brien: introduced to Miles O'Brien by their mutual friend"))</span>
+- [Captain Benjamin Maxwell](maxwell.md): former captain <span class="src">([Memory Alpha: Benjamin Maxwell](https://memory-alpha.fandom.com/wiki/Benjamin_Maxwell "Memory Alpha: Benjamin Maxwell: Maxwell's tactical officer at the time, Miles O'Brien") · [S04E12](../../data/text/186.txt#L177 "The Wounded: PICARD: Transporter Chief O'Brien, has served with Benjamin Maxwell. I thought that he might be able to provid"))</span>
+- [Lieutenant Reginald Barclay](barclay.md): colleague he helped through transporter phobia <span class="src">([S06E02](../../data/text/228.txt#L139 "Realm of Fear: O'BRIEN: I know how you feel about this, sir."))</span>
 
 ## Most scenes shared with
 

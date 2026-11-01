@@ -9,13 +9,13 @@
 
 ## Key facts
 
-- Captain of the USS Phoenix and O'Brien's former commander on the Rutledge, whose family died at Setlik III.
-- Destroys Cardassian ships he believes are rearming for war, in defiance of the treaty.
-- O'Brien talks him into surrendering; Picard tells the Cardassian Macet that Maxwell was right (*The Wounded*).
+- Captain of the USS Phoenix and O'Brien's former commander on the Rutledge, whose family died at Setlik III. <span class="src">([S04E12](../../data/text/186.txt "The Wounded"))</span>
+- Destroys Cardassian ships he believes are rearming for war, in defiance of the treaty. <span class="src">([S04E12](../../data/text/186.txt "The Wounded"))</span>
+- O'Brien talks him into surrendering; Picard tells the Cardassian Macet that Maxwell was right (*The Wounded* <span class="src">[S04E12](../../data/text/186.txt#L638 "The Wounded: PICARD: One more thing, Macet. Maxwell was right. Those ships were not carrying scientific equipment, were the")</span>).
 
 ## Relationships
 
-- [Chief Miles O'Brien](o-brien.md) lists this character as: former captain
+- [Chief Miles O'Brien](o-brien.md): former tactical officer <span class="src">([Memory Alpha: Benjamin Maxwell](https://memory-alpha.fandom.com/wiki/Benjamin_Maxwell "Memory Alpha: Benjamin Maxwell: Maxwell's tactical officer at the time, Miles O'Brien") · [S04E12](../../data/text/186.txt#L177 "The Wounded: PICARD: Transporter Chief O'Brien, has served with Benjamin Maxwell. I thought that he might be able to provid"))</span>
 
 ## Most scenes shared with
 

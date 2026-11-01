@@ -8,7 +8,7 @@
 
 ## Key facts
 
-- Picard's time-displaced double (*We'll Always Have Paris*) and the alien replica (*Allegiance*).
+- Picard's time-displaced double (*We'll Always Have Paris* <span class="src">[S01E24](../../data/text/124.txt "We'll Always Have Paris")</span>) and the alien replica (*Allegiance* <span class="src">[S03E18](../../data/text/166.txt "Allegiance")</span>).
 
 ## Most scenes shared with
 

@@ -12,15 +12,15 @@
 
 ## Key facts
 
-- First officer ('Number One') for the whole run; from Valdez, Alaska; estranged from his father Kyle Riker until *The Icarus Factor*.
-- Repeatedly declines his own command (Drake, Aries, Melbourne) to stay on the Enterprise; briefly made captain during the Borg crisis (*The Best of Both Worlds*).
-- Imzadi (soulmate) of Deanna Troi; their past relationship on Betazed is referenced throughout and rekindled in later seasons.
-- A transporter accident on Nervala IV created a duplicate, Thomas Riker (*Second Chances*).
-- Served as first officer on the Klingon ship Pagh in an officer exchange (*A Matter of Honor*).
-- Temporarily hosted the Trill symbiont Odan (*The Host*).
-- Served on the USS Pegasus under Captain Pressman and helped cover up an illegal Federation cloaking device (*The Pegasus*).
-- Plays jazz trombone, hosts the senior staff poker game, and grows the beard from season 2 onward.
-- Offered the powers of the Q (*Hide and Q*); trapped in an asylum reality (*Frame of Mind*); led the 'Future Imperfect' false timeline.
+- First officer ('Number One') for the whole run; from Valdez, Alaska; estranged from his father Kyle Riker until *The Icarus Factor* <span class="src">[S02E14](../../data/text/140.txt#L378 "The Icarus Factor: PULASKI: I would have, in a cold minute. Twelve years ago, Kyle Riker was a civilian strategist advising Starf")</span>.
+- Repeatedly declines his own command (Drake, Aries, Melbourne) to stay on the Enterprise; briefly made captain during the Borg crisis (*The Best of Both Worlds* <span class="src">[S03E26](../../data/text/174.txt "Best Of Both Worlds, part 1") · [S04E01](../../data/text/175.txt "Best of Both Worlds, part 2")</span>).
+- Imzadi (soulmate) of Deanna Troi <span class="src">([S05E12](../../data/text/212.txt#L165 "Violations: TROI: Imzadi, we can't. Not when we're serving on the same ship."))</span>; their past relationship on Betazed is referenced throughout and rekindled in later seasons.
+- A transporter accident on Nervala IV created a duplicate, Thomas Riker (*Second Chances* <span class="src">[S06E24](../../data/text/250.txt#L187 "Second Chances: RIKER 2: I know that too. 'For exceptional valour during the evacuation of the research station on Nervala Fou")</span>).
+- Served as first officer on the Klingon ship Pagh in an officer exchange (*A Matter of Honor* <span class="src">[S02E08](../../data/text/134.txt#L222 "A Matter of Honour: KARGAN: You are Commander William Riker, First Officer of the Klingon cruiser, the Pagh. Or do you intend to d")</span>).
+- Temporarily hosted the Trill symbiont Odan (*The Host* <span class="src">[S04E23](../../data/text/197.txt#L270 "The Host: ODAN: This body is just a host. I am that parasite. That is what must survive. It has always been this way. Th")</span>). <span class="src">([S04E23](../../data/text/197.txt#L270 "The Host: ODAN: This body is just a host. I am that parasite. That is what must survive. It has always been this way. Th"))</span>
+- Served on the USS Pegasus under Captain Pressman and helped cover up an illegal Federation cloaking device (*The Pegasus* <span class="src">[S07E12](../../data/text/264.txt#L379 "The Pegasus: PICARD: Yes, there is. (reading) Judge Advocate General's Report. Stardate 36764. Subject, inquiry into mutiny")</span>).
+- Plays jazz trombone <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/William_T._Riker "Memory Alpha: William T. Riker: his favorite musical instrument was the trombone"))</span>, hosts the senior staff poker game <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/William_T._Riker "Memory Alpha: William T. Riker: Riker first began playing poker"))</span>, and grows the beard from season 2 onward <span class="src">([Memory Alpha](https://memory-alpha.fandom.com/wiki/William_T._Riker "Memory Alpha: William T. Riker: permanently grown out his beard"))</span>.
+- Offered the powers of the Q (*Hide and Q* <span class="src">[S01E10](../../data/text/111.txt "Hide & Q")</span>); trapped in an asylum reality (*Frame of Mind* <span class="src">[S06E21](../../data/text/247.txt "Frame of Mind")</span>); led the 'Future Imperfect' false timeline.
 
 ## Rank and role timeline
 
@@ -32,14 +32,14 @@
 
 ## Relationships
 
-- [Counselor Deanna Troi](troi.md): Imzadi, former and future partner
-- [Captain Jean-Luc Picard](picard.md): captain and mentor
-- [Kyle Riker](kyle-riker.md): father
-- [Thomas Riker](riker-2.md): transporter duplicate Thomas
-- [Lieutenant Commander Elizabeth Shelby](shelby.md): rival then first officer
-- [Admiral Erik Pressman](pressman.md): former captain
-- [Q](q.md) lists this character as: human he tempted with Q powers
-- [Captain Edward Jellico](jellico.md) lists this character as: first officer he clashed with
+- [Counselor Deanna Troi](troi.md): Imzadi, former and future partner <span class="src">([Memory Alpha: Deanna Troi](https://memory-alpha.fandom.com/wiki/Deanna_Troi "Memory Alpha: Deanna Troi: occasionally referring to him as imzadi"))</span>
+- [Captain Jean-Luc Picard](picard.md): captain and mentor <span class="src">([Memory Alpha: Jean-Luc Picard](https://memory-alpha.fandom.com/wiki/Jean-Luc_Picard "Memory Alpha: Jean-Luc Picard: as his first officer and promoted him to commander sight unseen") · [Memory Alpha: William T. Riker](https://memory-alpha.fandom.com/wiki/William_T._Riker "Memory Alpha: William T. Riker: Riker served as first officer for Captain Jean-Luc Picard for 15 years"))</span>
+- [Kyle Riker](kyle-riker.md): father <span class="src">([Memory Alpha: Kyle Riker](https://memory-alpha.fandom.com/wiki/Kyle_Riker "Memory Alpha: Kyle Riker: Kyle Riker's only child") · [Memory Alpha: William T. Riker](https://memory-alpha.fandom.com/wiki/William_T._Riker "Memory Alpha: William T. Riker: born on August 19th, 2335 to Kyle and Betty Riker in Alaska"))</span>
+- [Thomas Riker](riker-2.md): transporter duplicate Thomas <span class="src">([Memory Alpha: Thomas Riker](https://memory-alpha.fandom.com/wiki/Thomas_Riker "Memory Alpha: Thomas Riker: a transporter accident in 2361 that created two William Thomas Rikers") · [Memory Alpha: William T. Riker](https://memory-alpha.fandom.com/wiki/William_T._Riker "Memory Alpha: William T. Riker: a transporter accident on Nervala IV creates a duplicate of Riker, later known as Thomas Riker"))</span>
+- [Lieutenant Commander Elizabeth Shelby](shelby.md): rival then first officer <span class="src">([Memory Alpha: Elizabeth Shelby](https://memory-alpha.fandom.com/wiki/Elizabeth_Shelby "Memory Alpha: Elizabeth Shelby: he appointed Shelby to be his first officer and promoted her to commander despite their differences"))</span>
+- [Admiral Erik Pressman](pressman.md): former captain <span class="src">([Memory Alpha: Erik Pressman](https://memory-alpha.fandom.com/wiki/Erik_Pressman "Memory Alpha: Erik Pressman: Pressman and a small group of officers, including a young Ensign William T") · [Memory Alpha: William T. Riker](https://memory-alpha.fandom.com/wiki/William_T._Riker "Memory Alpha: William T. Riker: Erik Pressman, now an admiral, came aboard the Enterprise"))</span>
+- [Q](q.md): Q who tempted him with Q powers <span class="src">([Memory Alpha: Q](https://memory-alpha.fandom.com/wiki/Q "Memory Alpha: Q: had given Commander William T. Riker Q-like abilities"))</span>
+- [Captain Edward Jellico](jellico.md): captain he clashed with <span class="src">([Memory Alpha: William T. Riker](https://memory-alpha.fandom.com/wiki/William_T._Riker "Memory Alpha: William T. Riker: they both vowed not to let their opinions of one another affect their duties") · [Memory Alpha: Edward Jellico](https://memory-alpha.fandom.com/wiki/Edward_Jellico "Memory Alpha: Edward Jellico: Jellico ran into numerous confrontations with Enterprise-D's first officer"))</span>
 
 ## Most scenes shared with
 
