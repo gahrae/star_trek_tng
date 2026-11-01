@@ -16,5 +16,4 @@ if [[ "${1:-}" == "--fetch" ]]; then
 fi
 rm -f notes/characters/*.md notes/episodes/*.md notes/locations/*.md
 python3 -I scripts/build_notes.py
-python3 scripts/build_site.py
-python3 -I scripts/check.py
+python3 scripts/ci_check.py      # build_site.py and check.py, with only what the deploy workflow installs (markdown)
