@@ -70,6 +70,8 @@ figure.portrait img{width:100%;border-radius:12px;border:3px solid var(--tan);di
 input[type=range]{accent-color:var(--peach)}select{background:var(--panel);color:var(--text);border:2px solid var(--tan);border-radius:1rem;padding:.2rem .5rem}
 .tip{position:fixed;pointer-events:none;background:var(--panel);color:var(--text);border:2px solid var(--tan);border-radius:8px;padding:.35rem .55rem;font-size:.85rem;max-width:22rem;z-index:9;display:none;box-shadow:0 2px 8px rgba(0,0,0,.5)}
 details.toc{background:var(--panel);border-left:.55rem solid var(--lilac);border-radius:.6rem;padding:.4rem .9rem;margin:1rem 0}details.toc summary{cursor:pointer;font-weight:700;padding:.2rem 0;text-transform:uppercase;letter-spacing:.08em;font-size:.8rem;color:var(--lilac)}
+details.sec{margin-top:2rem}details.sec>summary{cursor:pointer;list-style:none;display:flex;align-items:baseline;gap:.5rem}details.sec>summary::-webkit-details-marker{display:none}
+details.sec>summary::before{content:"\\25BE";color:var(--tan);font-size:1.1rem;flex:none}details.sec:not([open])>summary::before{content:"\\25B8"}details.sec>summary h2{margin:0;flex:1}
 details.toc ul{columns:2;margin:.4rem 0;padding-left:1.2rem}details.toc li{break-inside:avoid;padding:.1rem 0}
 details.nested>ul{columns:4;list-style:none;padding-left:0}details.nested li.grp>a{font-weight:700;color:var(--tan);text-transform:uppercase;font-size:.8rem;letter-spacing:.06em}details.nested li.grp ul{columns:1;margin:.2rem 0 .6rem;padding-left:1rem}
 @media (max-width:900px){details.nested>ul{columns:2}}@media (max-width:700px){details.toc ul{columns:1}}
@@ -78,6 +80,9 @@ header .menu{display:none}
 @media (max-width:700px){header{padding:.5rem .8rem}header::before{display:none}header .brand{font-size:.95rem;margin-right:.3rem}header .menu{display:inline-block;background:var(--peach);color:#0b0b0f;border:0;border-radius:1rem;padding:.3rem .7rem;font:inherit;font-size:.8rem;font-weight:700;text-transform:uppercase;letter-spacing:.06em;cursor:pointer;white-space:nowrap}header .search{flex:1;min-width:7rem;margin-left:.4rem}header input{width:100%;max-width:none}#results{width:90vw}header nav{display:none;position:absolute;left:0;right:0;top:100%;background:var(--bg);padding:.6rem .8rem .8rem;border-bottom:3px solid var(--tan);box-shadow:0 8px 16px rgba(0,0,0,.5)}header.open nav{display:flex}}
 """
 JS = """
+// a link to a folded section (the contents box, or a copied URL) opens it first
+function openSection(){const t=location.hash&&document.getElementById(decodeURIComponent(location.hash.slice(1)));if(!t)return;for(let d=t.closest('details.sec');d;d=d.parentElement&&d.parentElement.closest('details.sec'))d.open=true;t.scrollIntoView();}
+addEventListener('hashchange',openSection);openSection();
 // site search over episodes and characters
 let idx=null;const box=document.getElementById('q'),out=document.getElementById('results');
 async function load(){if(!idx){idx=await (await fetch(ROOTP+'search.json')).json();}}
@@ -98,7 +103,7 @@ document.addEventListener('click',e=>{if(!e.target.closest('.search'))out.style.
  const f=document.createElement('input');f.className='filter';f.placeholder=tables.length>1?'Filter all tables...':'Filter rows...';
  const toc=document.querySelector('main details.toc');const anchor=tables.length>1?toc||document.querySelector('main h1').nextElementSibling||tables[0]:tables[0];anchor.parentNode.insertBefore(f,tables.length>1?anchor.nextSibling:anchor);
  f.addEventListener('input',()=>{const q=f.value.toLowerCase();tables.forEach(t=>{let shown=0;[...t.tBodies[0].rows].forEach(r=>{const on=r.textContent.toLowerCase().includes(q);r.style.display=on?'':'none';if(on)shown++;});
-  const h=t.previousElementSibling;if(h&&/^H[2-4]$/.test(h.tagName))h.style.display=shown?'':'none';t.style.display=shown?'':'none';});});})();
+  const h=t.previousElementSibling;if(h&&(/^H[2-4]$/.test(h.tagName)||h.tagName==='SUMMARY'))h.style.display=shown?'':'none';t.style.display=shown?'':'none';});});})();
 """
 
 def shell(title, body, rel, depth):
@@ -150,6 +155,16 @@ def add_contents(body, nest=False, minimum=2):
     m = re.search(r"</h1>(?:\s*<p>.*?</p>)?", body, re.S)       # after the title and its first paragraph
     return body[:m.end()] + toc + body[m.end():] if m else toc + body
 
+def collapsible(body):
+    """Wrap each h2 section (the heading and what follows it, to the next h2) in a <details> that starts open, so a reader can fold it."""
+    parts = re.split(r"(?=<h2\b)", body)
+    if len(parts) < 2: return body
+    out = parts[0]
+    for p in parts[1:]:
+        m = re.match(r"(<h2\b[^>]*>.*?</h2>)(.*)", p, re.S)
+        out += f'<details class="sec" open><summary>{m.group(1)}</summary>{m.group(2)}</details>'
+    return out
+
 def render(md_path):
     rel = md_path.relative_to(NOTES); depth = len(rel.parts) - 1
     text = md_path.read_text(encoding="utf-8")
@@ -165,7 +180,7 @@ def render(md_path):
     title = re.search(r"^# (.+)$", text, re.M); title = html.unescape(title.group(1)) if title else rel.stem
     if rel.parent.name == "characters": body = character_extras(body, rel.stem)
     if rel.parent.name == "episodes": body = episode_still(body, rel.stem, title)
-    return shell(title, body, str(rel), depth)
+    return shell(title, collapsible(body), str(rel), depth)
 
 EP_IMAGES = json.load(open(ROOT / "data" / "episode_images.json")) if (ROOT / "data" / "episode_images.json").exists() else {}
 def episode_still(body, prod, title):
