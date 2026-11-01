@@ -5,7 +5,7 @@
 | Transcript label | `NECHAYEV` |
 | Episodes | 3 of 176 speaking, plus 1 non-speaking |
 | Dialogue lines | 22 |
-| Played by | Natalia Nogulich |
+| Played by | Natalija Nogulich |
 | Species | Human |
 | Affiliation | Starfleet |
 | Status | Active |

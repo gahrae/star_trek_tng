@@ -3,8 +3,9 @@
 | | |
 |---|---|
 | Transcript label | `HOMN` |
-| Episodes | 1 of 176 speaking |
+| Episodes | 1 of 176 speaking, plus 4 non-speaking |
 | Dialogue lines | 1 |
+| Played by | Carel Struycken |
 
 ## Key facts
 
@@ -27,3 +28,14 @@
 | Code | Episode | Lines |
 |---|---|---:|
 | S01E11 | [Haven](../episodes/105.md) | 1 |
+
+## Non-speaking appearances
+
+Episodes where the character appears without dialogue, and how we know.
+
+| Code | Episode | Source |
+|---|---|---|
+| S02E19 | [Manhunt](../episodes/145.md) | cast list |
+| S03E24 | [Ménage à Troi](../episodes/172.md) | cast list |
+| S04E22 | [Half a Life](../episodes/196.md) | cast list |
+| S05E20 | [Cost of Living](../episodes/220.md) | cast list |

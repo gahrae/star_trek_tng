@@ -44,6 +44,7 @@ print(f"{len(pages)} episode pages mapped; missing: {missing}")
 
 # 2. episode pages -> cast lists
 SECTION = re.compile(r"(star|co-star|cast|appearance)", re.I)
+SENTENCE = re.compile(r"\b(was|were|makes|marks|appears?|appeared|filmed|later|cast|because|played|returns?)\b")
 SKIP = re.compile(r"(stand-in|stunt|photo double|podcast|cast and characters)", re.I)
 cast = {}
 for i, prod in enumerate(sorted(eps), 1):
@@ -60,7 +61,12 @@ for i, prod in enumerate(sorted(eps), 1):
             own = " ".join(t if isinstance(t, str) else t.get_text(" ", strip=True) for t in li.children if getattr(t, "name", None) != "ul")
             text = re.sub(r"\s+", " ", re.sub(r"\s*\[.*?\]", "", own)).strip()     # the item's own text, not nested lists
             m = re.match(r"(.+?)\s+as\s+(.+)", text)
-            if m: entries.append({"actor": m.group(1).strip(), "role": m.group(2).strip(), "credit": heading})
+            if m and (len(m.group(1).split()) > 5 or SENTENCE.search(m.group(1))): continue     # a trivia bullet under a "Cast" heading ("Suzie Plakson was cast as ..."), not a credit
+            if m:
+                actor = m.group(1).strip()
+                link = li.find("a")      # the first link is the performer's page; a red link ("new") means Memory Alpha has no page for them
+                page = link["title"] if link and link.get("title") and "new" not in (link.get("class") or []) and re.sub(r"\s+", " ", link.get_text(" ", strip=True)).lower() == actor.lower() else None
+                entries.append({"actor": actor, "role": m.group(2).strip(), "credit": heading, "actor_page": page})
     cast[prod] = entries
     print(f"[{i:3}/{len(eps)}] {prod} {pages[prod]}: {len(entries)} credits")
 (ROOT / "data" / "cast.json").write_text(json.dumps(cast, indent=1, ensure_ascii=False), encoding="utf-8")

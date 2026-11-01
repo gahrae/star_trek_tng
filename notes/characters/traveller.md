@@ -5,6 +5,7 @@
 | Transcript label | `TRAVELLER` |
 | Episodes | 3 of 176 speaking |
 | Dialogue lines | 57 |
+| Played by | Eric Menyuk |
 
 ## Key facts
 

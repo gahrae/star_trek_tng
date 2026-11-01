@@ -5,7 +5,7 @@
 | Transcript label | `MCKNIGHT` |
 | Episodes | 3 of 176 speaking |
 | Dialogue lines | 19 |
-| Played by | Pamela Winslow |
+| Played by | Pamela Winslow, Linda Robertson |
 
 ## Key facts
 

@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | Transcript label | `Q` |
-| Episodes | 8 of 176 speaking, plus 1 non-speaking |
+| Episodes | 8 of 176 speaking |
 | Dialogue lines | 555 |
 | Played by | John de Lancie |
 | Species | Q |
@@ -59,14 +59,6 @@
 | S06E06 | [True Q](../episodes/232.md) | 83 |
 | S06E15 | [Tapestry](../episodes/241.md) | 61 |
 | S07E25-E26 | [All Good Things...](../episodes/277.md) | 45 |
-
-## Non-speaking appearances
-
-Episodes where the character appears without dialogue, and how we know.
-
-| Code | Episode | Source |
-|---|---|---|
-| S01E26 | [The Neutral Zone](../episodes/126.md) | cast list |
 
 ## Heaviest episodes
 

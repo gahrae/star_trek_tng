@@ -71,7 +71,11 @@ def present_in(text, lbl):
 # Cast credits name characters differently from the transcript labels.
 ROLE_ALIASES = {"YAR": "TASHA", "NATASHA": "TASHA", "GEORDI": "LAFORGE", "BEVERLY": "CRUSHER", "DEANNA": "TROI", "JEAN-LUC": "PICARD",
                 "MILES": "O'BRIEN", "ALYSSA": "OGAWA", "LAREN": "RO", "REGINALD": "BARCLAY", "KATHERINE": "PULASKI", "NOONIEN": "SOONG"}
-FULL_ROLES = {"Thomas Riker": "RIKER 2", "Computer Voice": "COMPUTER", "Enterprise Computer": "COMPUTER"}
+FULL_ROLES = {"Thomas Riker": "RIKER 2", "Computer Voice": "COMPUTER", "Enterprise Computer": "COMPUTER",
+              # characters who share a surname with a main character, which a surname match would give to the wrong person
+              "Gates": "GATES", "Homn": "HOMN", "Mr. Homn": "HOMN", "McKnight": "MCKNIGHT", "Allenby": "ALLENBY", "The Traveler": "TRAVELLER", "Third of Five/Hugh": "HUGH",
+              "Ian Troi": "IAN (THE CHILD)", "Ian Andrew Troi": "IAN ANDREW TROI", "Molly O'Brien": "MOLLY", "Jack R. Crusher": "JACK"}
+RANKISH = set("CAPTAIN CAPT CMDR COMMANDER LT LIEUTENANT LTCMDR CDR DR DOCTOR ENSIGN ADMIRAL VICE REAR MR MRS MS MISS PROFESSOR PROF GENERAL GEN SERGEANT SGT CREWMAN CREWWOMAN CADET CHIEF YOUNG OLD LITTLE SENIOR JUNIOR AMBASSADOR GOVERNOR SENATOR CHANCELLOR GUL DAIMON PROCONSUL NURSE SUBCOMMANDER COUNSELOR COUNSELLOR THE SOVEREIGN MAJOR COLONEL".split())
 
 def canon(label, prod=None):
     if label.startswith("DATA-"): return "DATA"
@@ -163,18 +167,32 @@ def match_role(role, prod):
     for i, t in enumerate(toks):       # each word of the role in the order it is written, so a first name beats a surname: "Wesley Crusher" is Wesley, not Beverly
         t2 = ROLE_ALIASES.get(t, t)
         for labels in sets:
-            if t2 in labels: return t2
-            if i + 1 < len(toks):
-                for joined in (t + toks[i + 1], t + " " + toks[i + 1]):
-                    if joined in labels: return joined
+            for cand in [t2] + ([t + toks[i + 1], t + " " + toks[i + 1]] if i + 1 < len(toks) else []):
+                if cand not in labels: continue
+                if cand in PROFILES and i > 0:      # a main character is matched on a later word only if the words before it are ranks, initials or part of their own name
+                    words = set(re.findall(r"[A-Z'\-]+", name_of(cand).upper()))      # so "Min Riker" and "L.Q. Clemonds" are not Will Riker and Q
+                    if len(cand) == 1 or not all(p in RANKISH or len(p) == 1 or ROLE_ALIASES.get(p, p) == cand or p in words for p in toks[:i]): continue
+                return cand
     return None
+# Memory Alpha can credit two different performers under one printed name ("Anthony" in seasons 4 and 5, "Watts" the adult and the child),
+# so an actor is the page the cast list links, not the printed name. Where a name has more than one page, the page title tells them apart.
+_pages = collections.defaultdict(set)
+for _entries in cast.values():
+    for _c in _entries:
+        if _c.get("actor_page"): _pages[_c["actor"]].add(_c["actor_page"])
+def person(c):
+    """(display name, Memory Alpha page or None) of the performer a credit names."""
+    pages = _pages[c["actor"]]
+    page = c.get("actor_page") or (next(iter(pages)) if len(pages) == 1 else None)      # a credit with no link still belongs to a name's only page
+    return (page if len(pages) > 1 and page else c["actor"]), page
 actors_of = collections.defaultdict(collections.Counter)       # label -> actor -> episodes
 actor_roles = collections.defaultdict(lambda: {"roles": collections.defaultdict(set), "episodes": set(), "credited": collections.defaultdict(set), "as": {}})
 for prod, entries in cast.items():
     for c in entries:
         c["label"] = match_role(c["role"], prod)
-        if c["label"]: actors_of[c["label"]][c["actor"]] += 1
-        key = c["label"] or c["role"]; ar = actor_roles[c["actor"]]
+        who, page = person(c)
+        if c["label"]: actors_of[c["label"]][who] += 1
+        key = c["label"] or c["role"]; ar = actor_roles[who]; ar["page"] = page
         ar["roles"][key].add(prod); ar["episodes"].add(prod); ar["as"][key] = c["role"]
         if "ncredited" not in c["credit"]: ar["credited"][key].add(prod)
 NOT_PRESENT = re.compile(r"credit only|stock footage|archive footage|deleted scene|picture|photograph", re.I)
@@ -435,7 +453,7 @@ with open(NOTES / "stats.md", "w", encoding="utf-8") as f:
 if cast:
     with open(NOTES / "actors.md", "w", encoding="utf-8") as f:
         f.write("# Actors\n\nFrom Memory Alpha cast lists (credited and uncredited). Actors with two or more roles, or five or more episodes. "
-                "Roles are linked where they were matched to a transcript label. Each actor links to their own Memory Alpha page, and each role in a single episode to that episode's cast list there. A name of one word is a fragment of a credit, not a full name, and has no link.\n\n| Actor | Episodes | Roles |\n|---|---:|---|\n")
+                "Roles are linked where they were matched to a transcript label. Each actor links to their own Memory Alpha page, and each role in a single episode to that episode's cast list there. Where Memory Alpha has two performers with the same printed name, they are listed separately under the title of their page.\n\n| Actor | Episodes | Roles |\n|---|---:|---|\n")
         rows_a = [(a, v) for a, v in actor_roles.items() if (len(v["roles"]) >= 2 or len(v["episodes"]) >= 5) and not a.lower().startswith("unknown")]
         for a, v in sorted(rows_a, key=lambda x: (-len(x[1]["episodes"]), x[0])):
             roles = sorted(v["roles"].items(), key=lambda r: -len(r[1]))[:8]
@@ -449,7 +467,7 @@ if cast:
                 if not v["credited"].get(r): tags.append("uncredited")
                 return f"{name} ({', '.join(tags)})"
             txt = "; ".join(role_txt(r, ps) for r, ps in roles)
-            f.write(f"| {actor_links(a)} | {len(v['episodes'])} | {txt} |\n")
+            f.write(f"| {actor_links(a, v['page'])} | {len(v['episodes'])} | {txt} |\n")
 
 # ---------------------------------------------------------------- notes: crew (directors and writers)
 def split_names(txt):

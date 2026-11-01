@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | Transcript label | `ALLENBY` |
-| Episodes | 2 of 176 speaking |
+| Episodes | 2 of 176 speaking, plus 1 non-speaking |
 | Dialogue lines | 22 |
 | Played by | Mary Kohnert |
 
@@ -30,3 +30,11 @@
 |---|---|---:|
 | S04E09 | [Final Mission](../episodes/183.md) | 4 |
 | S04E10 | [The Loss](../episodes/184.md) | 18 |
+
+## Non-speaking appearances
+
+Episodes where the character appears without dialogue, and how we know.
+
+| Code | Episode | Source |
+|---|---|---|
+| S06E22 | [Suspicions](../episodes/248.md) | cast list |
