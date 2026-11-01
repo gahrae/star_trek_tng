@@ -273,9 +273,16 @@ for e in eps:
             f.write("\n## Cast\n\nFrom Memory Alpha. Linked where the credit could be matched to a transcript label.\n")
             for heading in dict.fromkeys(c["credit"] for c in cast[prod]):
                 f.write(f"\n**{heading}**\n\n")
-                for c in (x for x in cast[prod] if x["credit"] == heading):
+                group = [x for x in cast[prod] if x["credit"] == heading]
+                per_role = collections.Counter(x["role"] for x in group)
+                done = set()
+                for c in group:
                     link = f" ({char_link(c['label'], '../characters/')})" if c["label"] in indexed else ""
-                    f.write(f"- {c['actor']} as {c['role']}{link}\n")
+                    if per_role[c["role"]] >= 3:          # one line for three or more performers in the same role ("Aspen, Bacall, ... as Data's cat")
+                        if c["role"] in done: continue
+                        done.add(c["role"])
+                        f.write(f"- {', '.join(x['actor'] for x in group if x['role'] == c['role'])} as {c['role']} ({per_role[c['role']]} performers){link}\n")
+                    else: f.write(f"- {c['actor']} as {c['role']}{link}\n")
 
 # ---------------------------------------------------------------- notes: characters
 rows = sorted(indexed, key=lambda l: (-len(chars[l]["episodes"]), -chars[l]["lines"], name_of(l)))
